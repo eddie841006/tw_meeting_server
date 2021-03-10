@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="zh-tw">
+
+<head>
+
+  <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+      <title>語音辨識</title>
+      <link rel="icon" href="static\img\logo.png" type="image/x-icon">
+      <link rel="shortcut icon" href="static\img\logo.png" type="image/x-icon">
+      <link rel="stylesheet" type="text/css" href="static\css\bootstrap.min.css">  
+      <link rel="stylesheet" type="text/css" href="static\css\bootstrap-toggle.min.css">
+      <link rel="stylesheet" type="text/css" href="static\css\index.css">
+      <script src="static\js\popper.js"></script> 
+      <script src="static\js\jquery-3.4.1.min.js"></script>
+      <script src="static\js\bootstrap.min.js"></script>
+      <script src="static\js\bootstrap-toggle.min.js"></script>
+      <script src="static\js\subtitles_with_ASR_speaker.js"></script>
+      <script src="static\js\index.js"></script>
+</head>
+
+<body>
+  <div class="header_item">
+     <div id="topic_img"><img id="ncsist_img" src="static\img\logo.png"/></div>
+     <div id="topic">NCSIST AI&nbsp;</div>
+     <div id="sub_topic">Media  Player</div>
+  </div>
+  <div class="grid-container">
+   <div class="item1">
+      <div class="item1_video">
+           <video id="_video" src="" controls="controls" src="" style="width:inherit;height:550px;padding:0px 0px 0px 12px "></video>
+      </div>      
+   </div>
+   <div class="item2">
+       <div class="container-fluid">
+           <div class="row row_ai">
+                <div class="col-1">
+                    <input class="word_check" type="checkbox" checked data-toggle="toggle">
+                </div>
+                <div class="col-2">NCSIST AI</div>
+                <div class="col-9 word_style">
+                    <div id="ncsist">語者身分：語音逐字稿</div>
+                </div>
+           </div>
+           <div class="row row_google">
+                <div class="col-1">
+                    <input class="word_check" type="checkbox" checked data-toggle="toggle">
+                </div>
+                <div class="col-2">Google</div>
+                <div class="col-9 word_style">
+                    <div id="google">語者身分：語音逐字稿</div>
+                </div>
+           </div>
+           <div class="row row_ans">
+                <div class="col-1">
+                    <input class="word_check" type="checkbox" checked data-toggle="toggle">
+                </div>
+                <div class="col-2">Answer</div>
+                <div class="col-9 word_style">
+                    <div id="answer">語者身分：語音逐字稿</div>
+                </div>
+           </div>
+       </div>
+   </div>
+   <div class="item3">
+       <div class="accuracy">
+           語音辨識：
+           <br>
+           語者辨識：
+       </div>
+       <div class="video_list">
+           <div style="font-weight:bolder;text-align:left;padding-left:10px;color:rgb(191,144,0)">播放清單</div>
+           <div class="video_list_inner">
+            <table style="width: 100%;">
+                  <tbody>
+                    <tr>
+                        <td><img src="static\img\video.png" style="width:inherit" /></td>
+                        <td style="width:40%">立院質詢<br>2:18</td>     
+		    </tr>
+                  </tbody>
+            </table>
+           </div>
+       </div>       
+   </div>
+  </div>
+
+
+</body>
+
+</html>
