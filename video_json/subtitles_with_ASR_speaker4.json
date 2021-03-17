@@ -1,13 +1,13 @@
 [	
 	{
-		"ASR_wer": 95,
-		"speaker_wer": 75
+		"ASR_wer": 80,
+		"speaker_wer": 90
 	},
         {
                 "start_time": 7.68,
                 "end_time": 8.96,
-                "MASR_results": null,
-                "google_asr_results": null,
+                "MASR_results": "肯定退不",
+                "google_asr_results": "肯定退不",
                 "labels": null,
                 "speaker": null,
                 "asr_wer": null,
@@ -17,7 +17,7 @@
                 "start_time": 9.216,
                 "end_time": 10.496,
                 "MASR_results": null,
-                "google_asr_results": null,
+                "google_asr_results": "肯定退不",
                 "labels": null,
                 "speaker": null,
                 "asr_wer": null,
@@ -26,8 +26,8 @@
         {
                 "start_time": 16.128,
                 "end_time": 16.64,
-                "MASR_results": null,
-                "google_asr_results": null,
+                "MASR_results": "肯定退不",
+                "google_asr_results": "肯定退不",
                 "labels": null,
                 "speaker": null,
                 "asr_wer": null,
