@@ -7,7 +7,6 @@ Created on Wed Mar  4 09:41:57 2020
 """
 import os
 import numpy as np
-import time
 from flask import Flask, request, jsonify, render_template
 import json
 import glob
@@ -29,7 +28,6 @@ app.config['debug'] = True
 
 
 @app.route("/")
-#@cross_origin()
 def index():
     """html server
 
@@ -39,13 +37,12 @@ def index():
     return render_template(web_index_path)
 
 @app.route('/video_json', methods=['GET', 'POST'])
-#@cross_origin()
 def video_json():
     post_data = request.json
     try:
         name = post_data['video_name']
-        if name in vedio_info.keys():
-            return jsonify(vedio_info[name])
+        if name in json_info.keys():
+            return jsonify(json_info[name])
     
         else:
             return {"error", name + "don't have subline"}
@@ -64,39 +61,57 @@ def read_json_to_dict(path):
     """ 
     json_paths = os.listdir(path)
 
-    vedio_info = {}
+    json_info = {}
     for json_path in json_paths:
-
         with open(path+json_path, "r") as f:
             data = json.load(f)
         
-        vedio_info[json_path[:-5]] = data
+        json_info[json_path[:-5]] = data
     
-    return vedio_info
+    return json_info
 
+def read_video_info(path, name=None):
+    video_list = glob.glob(path)
+    video_list.sort()
+
+    if not name:
+        name = {}
+        for i, v in enumerate(video_list):
+            v_name = v.split("/")[-1]
+            name[v_name] = "立院影片測試" + str(i+1)
     
-    
+    video_info = []
+    for v in video_list:
+        video_time = librosa.get_duration(filename=v)
+        m, s = divmod(video_time, 60)
+        v_name = v.split("/")[-1]
+        vn = {
+            "video_name": v_name,
+            "video_time": str(int(m)) + ":" + str(int(s)),
+            "name": name[v_name]
+        }
+
+        video_info.append(vn)
+
+    return video_info
+
 @app.route('/video_list', methods=['GET', 'POST'])
 def video_list():
-    video_list = glob.glob(video_path)
-    video_name = []
-    for i, v in enumerate(video_list):
-        len_video = librosa.get_duration(filename=v)
-        m, s = divmod(len_video, 60)
-        vn = {"video_name": v.split("/")[-1],
-              "video_time": str(int(m)) + ":" + str(int(s)),
-              "name": "立院影片"+str(i)}
-        video_name.append(vn)
     
-    return jsonify(video_name)
+    print(video_info)
+
+    return jsonify(video_info)
 
 
 
 if __name__ == "__main__":
     web_index_path = "index.html"
-    path = "video_json/"
+    json_path = "video_json/"
     video_path = "./static/video/*.mp4"
-    vedio_info = read_json_to_dict(path)
+    with open("video_info.json", "r") as f:
+        name = json.load(f)
+    json_info = read_json_to_dict(json_path)
+    video_info = read_video_info(video_path, name)
     app.run('172.16.120.124', '1111', threaded = False)
     # app.run('127.0.0.1', '1111', threaded = False)
     
