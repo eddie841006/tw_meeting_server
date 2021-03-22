@@ -9,7 +9,9 @@ $(document).ready(function(){
         $("#google").text("語者身分：語音逐字稿");
         $("#answer").text("語者身分：語音逐字稿");
         Get_Subtitle($(this).find("td")[1].id);
+        $("#_video")[0].src="";        
         $("#_video")[0].src="static\\video\\"+$(this).find("td")[1].id+".mp4";        
+        $("#_video")[0].load();        
         var v = document.getElementsByTagName("video")[0];
         v.addEventListener("playing", function() 
         { 
@@ -83,9 +85,9 @@ $(document).ready(function(){
             }
             else{
                 if(currentTime >= val.start_time && currentTime <= val.end_time && val.MASR_results != "null"){
-                    $("#ncsist").text(val.speaker+"："+val.MASR_results);
-                    $("#google").text(val.speaker+"："+val.google_asr_results);
-                    $("#answer").text(val.speaker+"："+val.labels);
+                    $("#ncsist").text(val.MASR_results);
+                    $("#google").text(val.google_asr_results);
+                    $("#answer").text(val.labels);
                 }
             }
         });                  
