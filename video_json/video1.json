@@ -1,0 +1,2116 @@
+[
+        {
+                "speech_accuracy": 20,
+                "speaker_accuracy": 73
+        },
+        {
+                "start_time": 0.581801,
+                "end_time": 2.123063,
+                "MASR_results": "林昶佐:欸主席剛才決定",
+                "google_asr_results": "豬血湯加酒店",
+                "labels": "林昶佐:欸主席我們請局長",
+                "asr_recognition_time": 0.5380759239196777,
+                "google_recognition_time": 0.6806893348693848,
+                "speaker_recognition_time": 0.08750081062316895
+        },
+        {
+                "start_time": 2.439481,
+                "end_time": 3.301976,
+                "MASR_results": "廖婉汝:委員長請",
+                "google_asr_results": "綠鋼琴",
+                "labels": "廖婉汝:陳局長請",
+                "asr_recognition_time": 0.35136961936950684,
+                "google_recognition_time": 0.3455080986022949,
+                "speaker_recognition_time": 0.03583574295043945
+        },
+        {
+                "start_time": 12.544,
+                "end_time": 14.672613,
+                "MASR_results": "林昶佐:呃委員保在欸六天八再",
+                "google_asr_results": "桃園爆炸",
+                "labels": "陳明通,林昶佐:欸委員早安委員好欸局長早安",
+                "asr_recognition_time": 0.5941352844238281,
+                "google_recognition_time": 0.8438880443572998,
+                "speaker_recognition_time": 0.11093330383300781
+        },
+        {
+                "start_time": 14.759373000000002,
+                "end_time": 16.581329,
+                "MASR_results": "林昶佐:檢呃買爆炸啦齁",
+                "google_asr_results": "tabata",
+                "labels": "林昶佐:今天欸也不早啦齁",
+                "asr_recognition_time": 0.30759596824645996,
+                "google_recognition_time": 1.8085415363311768,
+                "speaker_recognition_time": 0.07584333419799805
+        },
+        {
+                "start_time": 16.821194000000002,
+                "end_time": 22.725964,
+                "MASR_results": "林昶佐:只呃這麼共起來調到超過五節的微軟那我宮格中塊不婚齁啊動物保紅外帶美都會",
+                "google_asr_results": "李敖多少錢",
+                "labels": "林昶佐:是啊現在講起來剛才差不多每一個委員都有講到中國的部分齁啊中國的部分我等一下晚點",
+                "asr_recognition_time": 2.2125532627105713,
+                "google_recognition_time": 3.588167905807495,
+                "speaker_recognition_time": 0.21851086616516113
+        },
+        {
+                "start_time": 22.784,
+                "end_time": 26.175942000000003,
+                "MASR_results": "林昶佐:剛才一大力都來透論及了齁包括這個情敵就整了保溫",
+                "google_asr_results": "阿倫",
+                "labels": "林昶佐:跟你跟你再來討論一下齁包括這個認知作戰的部分",
+                "asr_recognition_time": 1.2616524696350098,
+                "google_recognition_time": 0.8781826496124268,
+                "speaker_recognition_time": 0.1486985683441162
+        },
+        {
+                "start_time": 26.30353,
+                "end_time": 30.171997,
+                "MASR_results": "林昶佐:但是這感謝外詢問我機關剛案是關啊或鄧齁包括",
+                "google_asr_results": "擔心",
+                "labels": "林昶佐:但是一開始我想因為這幾天的一些發展齁包括",
+                "asr_recognition_time": 1.2208468914031982,
+                "google_recognition_time": 0.6470561027526855,
+                "speaker_recognition_time": 0.16225528717041016
+        },
+        {
+                "start_time": 30.319999,
+                "end_time": 35.216477000000005,
+                "MASR_results": "林昶佐:這個立刻他點工未回低來點定所以風險蓋力來偷輪力夠為來即啦齁",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這個美國跟中國的會議啦等等所以說先跟你來討論美國的事情啦齁",
+                "asr_recognition_time": 1.4371488094329834,
+                "google_recognition_time": 2.507692337036133,
+                "speaker_recognition_time": 0.19034695625305176
+        },
+        {
+                "start_time": 35.584,
+                "end_time": 38.567283,
+                "MASR_results": "林昶佐:呃因為立刻對這個經費都在有",
+                "google_asr_results": "godjj",
+                "labels": "林昶佐:啊因為美國對這個整體國際的局勢",
+                "asr_recognition_time": 0.8458244800567627,
+                "google_recognition_time": 1.6817879676818848,
+                "speaker_recognition_time": 0.1012873649597168
+        },
+        {
+                "start_time": 38.656,
+                "end_time": 40.363721000000005,
+                "MASR_results": "林昶佐:這個就誰欸這個正有",
+                "google_asr_results": "解酒",
+                "labels": "林昶佐:這個局勢的這個戰略",
+                "asr_recognition_time": 0.35611391067504883,
+                "google_recognition_time": 0.42279601097106934,
+                "speaker_recognition_time": 0.06300640106201172
+        },
+        {
+                "start_time": 40.448,
+                "end_time": 41.60898,
+                "MASR_results": "林昶佐:一點五這個",
+                "google_asr_results": "一第五屆",
+                "labels": "林昶佐:一直有這個",
+                "asr_recognition_time": 0.21909546852111816,
+                "google_recognition_time": 0.6142926216125488,
+                "speaker_recognition_time": 0.05258059501647949
+        },
+        {
+                "start_time": 41.644704,
+                "end_time": 43.3799,
+                "MASR_results": "林昶佐:公視尤其首次",
+                "google_asr_results": "公視鴨血手勢",
+                "labels": "林昶佐:攻勢還是守勢",
+                "asr_recognition_time": 0.2666585445404053,
+                "google_recognition_time": 0.6584947109222412,
+                "speaker_recognition_time": 0.08728766441345215
+        },
+        {
+                "start_time": 43.430935,
+                "end_time": 45.426411,
+                "MASR_results": "林昶佐:間冷就國板塊的租丁嘛齁",
+                "google_asr_results": "建黨中國趕快你租店嗎",
+                "labels": "林昶佐:這兩種不一樣的主張嘛齁",
+                "asr_recognition_time": 0.4298129081726074,
+                "google_recognition_time": 1.3569481372833252,
+                "speaker_recognition_time": 0.07250690460205078
+        },
+        {
+                "start_time": 45.568,
+                "end_time": 49.437776,
+                "MASR_results": "林昶佐:啊川普東南打的攻擊回攻以及的公式主義上面的這個就",
+                "google_asr_results": "川普都沒打工行為主義上面的結果就",
+                "labels": "林昶佐:啊川普當然大家都認為說他是一個攻勢主義上面的這個很",
+                "asr_recognition_time": 1.3333406448364258,
+                "google_recognition_time": 2.1340551376342773,
+                "speaker_recognition_time": 0.1495654582977295
+        },
+        {
+                "start_time": 49.488811,
+                "end_time": 51.606771,
+                "MASR_results": "林昶佐:就曾志偉啦齁這個是一些政要",
+                "google_asr_results": "講錯了",
+                "labels": "林昶佐:很清楚的啦齁這就是他的戰略",
+                "asr_recognition_time": 0.6873447895050049,
+                "google_recognition_time": 0.9784688949584961,
+                "speaker_recognition_time": 0.08542037010192871
+        },
+        {
+                "start_time": 51.805808,
+                "end_time": 52.887754,
+                "MASR_results": "林昶佐:那另外就紅冰",
+                "google_asr_results": "打電話給鴻彬",
+                "labels": "林昶佐:啊另外一方面",
+                "asr_recognition_time": 0.39262866973876953,
+                "google_recognition_time": 0.5888924598693848,
+                "speaker_recognition_time": 0.04923057556152344
+        },
+        {
+                "start_time": 52.992,
+                "end_time": 55.133302,
+                "MASR_results": "林昶佐:我逃到攻擊的首飾一對",
+                "google_asr_results": "我找到工具的手是一對",
+                "labels": "林昶佐:我剛剛說這個守勢他對",
+                "asr_recognition_time": 0.4125392436981201,
+                "google_recognition_time": 0.5892014503479004,
+                "speaker_recognition_time": 0.09092569351196289
+        },
+        {
+                "start_time": 55.19454399999999,
+                "end_time": 57.924926,
+                "MASR_results": "林昶佐:優滴滴借來印臺的庫號阿臺的哭",
+                "google_asr_results": "ubidecarenone",
+                "labels": "林昶佐:尤其在這個印太地區齁亞太地區",
+                "asr_recognition_time": 0.5827147960662842,
+                "google_recognition_time": 0.43056249618530273,
+                "speaker_recognition_time": 0.11973094940185547
+        },
+        {
+                "start_time": 58.49652,
+                "end_time": 62.507885,
+                "MASR_results": "林昶佐:你不能還夠啦都勇當拿啦阿嘛丁任加來北哭",
+                "google_asr_results": "你不能夠永康",
+                "labels": "林昶佐:日本啦韓國啦中中東啦南亞啦等等這些地區",
+                "asr_recognition_time": 1.1350247859954834,
+                "google_recognition_time": 1.3735566139221191,
+                "speaker_recognition_time": 0.16390442848205566
+        },
+        {
+                "start_time": 62.620162,
+                "end_time": 69.68343,
+                "MASR_results": "林昶佐:齁應該欸戰略剋制這些應該型化啦齁阿因戰略剋制東西我覺得不敢換的官兵那我其中關一不是供齁",
+                "google_asr_results": "我應該愛戰略克制自己的心",
+                "labels": "林昶佐:齁應該要戰略克制這是他們的想法啦齁啊他們戰略克制當然有的有很多不同的原因啊有一種原因是說齁",
+                "asr_recognition_time": 2.9280922412872314,
+                "google_recognition_time": 2.6213185787200928,
+                "speaker_recognition_time": 0.25139546394348145
+        },
+        {
+                "start_time": 69.841639,
+                "end_time": 71.530904,
+                "MASR_results": "林昶佐:優滴滴印臺的國家",
+                "google_asr_results": "5G的應台給顧家",
+                "labels": "林昶佐:尤其在印太地區這裡",
+                "asr_recognition_time": 0.5000975131988525,
+                "google_recognition_time": 1.3654494285583496,
+                "speaker_recognition_time": 0.09365391731262207
+        },
+        {
+                "start_time": 71.607457,
+                "end_time": 73.046649,
+                "MASR_results": "林昶佐:那戰略剋制看到",
+                "google_asr_results": "戰列克制開刀",
+                "labels": "林昶佐:如果戰略克制比較可以",
+                "asr_recognition_time": 0.45216798782348633,
+                "google_recognition_time": 0.590083122253418,
+                "speaker_recognition_time": 0.05951380729675293
+        },
+        {
+                "start_time": 73.118098,
+                "end_time": 73.924454,
+                "MASR_results": "林昶佐:要開工",
+                "google_asr_results": "廖該宮",
+                "labels": "林昶佐:瞭解說",
+                "asr_recognition_time": 0.16330528259277344,
+                "google_recognition_time": 0.43192577362060547,
+                "speaker_recognition_time": 0.037406206130981445
+        },
+        {
+                "start_time": 74.011213,
+                "end_time": 76.971254,
+                "MASR_results": "林昶佐:接著給我工快兩個告都我一業這上面先無遺",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這個中國的能力到他會做什麼行為",
+                "asr_recognition_time": 0.9862236976623535,
+                "google_recognition_time": 1.8184592723846436,
+                "speaker_recognition_time": 0.1355283260345459
+        },
+        {
+                "start_time": 77.042703,
+                "end_time": 78.43086,
+                "MASR_results": "林昶佐:啊對你稿的理念",
+                "google_asr_results": "Lamigo旅遊",
+                "labels": "林昶佐:啊對美國的利益",
+                "asr_recognition_time": 0.440030574798584,
+                "google_recognition_time": 1.124342679977417,
+                "speaker_recognition_time": 0.05207228660583496
+        },
+        {
+                "start_time": 78.502309,
+                "end_time": 80.128,
+                "MASR_results": "林昶佐:欸三型這麼快的應用",
+                "google_asr_results": "北三峽跨年",
+                "labels": "林昶佐:會產生什麼樣的影響",
+                "asr_recognition_time": 0.36026906967163086,
+                "google_recognition_time": 1.433638095855713,
+                "speaker_recognition_time": 0.08515286445617676
+        },
+        {
+                "start_time": 80.293644,
+                "end_time": 81.970828,
+                "MASR_results": "林昶佐:所以公教的專家跟齁密購",
+                "google_asr_results": "在公家機構",
+                "labels": "林昶佐:所以說才會知道說齁美國",
+                "asr_recognition_time": 0.57259202003479,
+                "google_recognition_time": 1.3167836666107178,
+                "speaker_recognition_time": 0.0783841609954834
+        },
+        {
+                "start_time": 82.100289,
+                "end_time": 85.07564,
+                "MASR_results": "林昶佐:底大估業收窄院長愛國旗優誰",
+                "google_asr_results": "d.va瘦仔燕",
+                "labels": "林昶佐:在哪幾個地方應該要保持友善",
+                "asr_recognition_time": 0.7755153179168701,
+                "google_recognition_time": 0.9527015686035156,
+                "speaker_recognition_time": 0.13341856002807617
+        },
+        {
+                "start_time": 85.187917,
+                "end_time": 86.312412,
+                "MASR_results": "林昶佐:呃所以說",
+                "google_asr_results": "椎弓",
+                "labels": "林昶佐:啊所以說",
+                "asr_recognition_time": 0.3497300148010254,
+                "google_recognition_time": 0.49784183502197266,
+                "speaker_recognition_time": 0.04195904731750488
+        },
+        {
+                "start_time": 86.42296800000001,
+                "end_time": 89.408526,
+                "MASR_results": "林昶佐:那這中型話就是對臺完理有關雄心",
+                "google_asr_results": "LebronShop",
+                "labels": "林昶佐:那這種想法其實對台灣利益我相信",
+                "asr_recognition_time": 0.8797571659088135,
+                "google_recognition_time": 0.7592477798461914,
+                "speaker_recognition_time": 0.13089203834533691
+        },
+        {
+                "start_time": 89.6,
+                "end_time": 92.312428,
+                "MASR_results": "林昶佐:撥平來跟我們都類型維工對臺灣看不後啦齁",
+                "google_asr_results": "撥給老公",
+                "labels": "林昶佐:普遍來說都會認為說對台灣比較不好啦齁",
+                "asr_recognition_time": 0.7566022872924805,
+                "google_recognition_time": 2.369028091430664,
+                "speaker_recognition_time": 0.11438560485839844
+        },
+        {
+                "start_time": 92.394084,
+                "end_time": 93.307614,
+                "MASR_results": "林昶佐:你在第一席",
+                "google_asr_results": "可以再訂一起",
+                "labels": "林昶佐:因為這等於是",
+                "asr_recognition_time": 0.4109344482421875,
+                "google_recognition_time": 0.7050039768218994,
+                "speaker_recognition_time": 0.03949260711669922
+        },
+        {
+                "start_time": 93.49134,
+                "end_time": 94.896792,
+                "MASR_results": "林昶佐:多等不要先跨啦",
+                "google_asr_results": "等一下啦",
+                "labels": "林昶佐:就在那些先看啦",
+                "asr_recognition_time": 0.42493653297424316,
+                "google_recognition_time": 0.6082940101623535,
+                "speaker_recognition_time": 0.05529332160949707
+        },
+        {
+                "start_time": 94.935636,
+                "end_time": 100.332638,
+                "MASR_results": "林昶佐:被跨家跨被啊拉出去的藝術嘛然後本跨來一個會選打擊對臺灣很多就不利啊齁",
+                "google_asr_results": "跨出了一束馬上會就不理我",
+                "labels": "林昶佐:邊看再看要怎麼處理的意思嘛啊邊看若已經發生事情對台灣就不很不利啊嘛齁",
+                "asr_recognition_time": 1.7413756847381592,
+                "google_recognition_time": 2.0269973278045654,
+                "speaker_recognition_time": 0.21649837493896484
+        },
+        {
+                "start_time": 100.559712,
+                "end_time": 101.12,
+                "MASR_results": "林昶佐:所以說",
+                "google_asr_results": "椎弓",
+                "labels": "林昶佐:所以說",
+                "asr_recognition_time": 0.3184819221496582,
+                "google_recognition_time": 0.3627145290374756,
+                "speaker_recognition_time": 0.0295565128326416
+        },
+        {
+                "start_time": 101.299722,
+                "end_time": 102.769536,
+                "MASR_results": "林昶佐:不關恭喜這個東西",
+                "google_asr_results": "不關恭喜進來",
+                "labels": "林昶佐:不管說是這個強勢",
+                "asr_recognition_time": 0.48020482063293457,
+                "google_recognition_time": 0.5910999774932861,
+                "speaker_recognition_time": 0.06546425819396973
+        },
+        {
+                "start_time": 102.846088,
+                "end_time": 105.760197,
+                "MASR_results": "林昶佐:這個強勢齁欸公視還是守勢",
+                "google_asr_results": "強勢攻勢還是手勢",
+                "labels": "林昶佐:這個強勢齁欸攻勢還是守勢",
+                "asr_recognition_time": 0.5265014171600342,
+                "google_recognition_time": 0.6170647144317627,
+                "speaker_recognition_time": 0.12621140480041504
+        },
+        {
+                "start_time": 105.918406,
+                "end_time": 110.261499,
+                "MASR_results": "林昶佐:稍微策略習者逼口為拜登政府一個公過接來不看轉正六",
+                "google_asr_results": "稍微準備拜登政府一個公播機轉",
+                "labels": "林昶佐:三月初的時候美國拜登政府已經公布這個國家安全戰略",
+                "asr_recognition_time": 1.3833250999450684,
+                "google_recognition_time": 1.386810064315796,
+                "speaker_recognition_time": 0.17312026023864746
+        },
+        {
+                "start_time": 110.297224,
+                "end_time": 112.01711,
+                "MASR_results": "林昶佐:蔣先蔣天既然",
+                "google_asr_results": "講清講機",
+                "labels": "林昶佐:暫清暫行指南",
+                "asr_recognition_time": 0.2686953544616699,
+                "google_recognition_time": 0.40200066566467285,
+                "speaker_recognition_time": 0.09234738349914551
+        },
+        {
+                "start_time": 112.466219,
+                "end_time": 113.349128,
+                "MASR_results": "林昶佐:呃來對",
+                "google_asr_results": "來電",
+                "labels": "林昶佐:啊裡面",
+                "asr_recognition_time": 0.30885982513427734,
+                "google_recognition_time": 0.325178861618042,
+                "speaker_recognition_time": 0.044915199279785156
+        },
+        {
+                "start_time": 113.408,
+                "end_time": 118.452645,
+                "MASR_results": "林昶佐:東能其刷了來過一塊與國家安全這個報口來調拿下啦齁但是他們搞定",
+                "google_asr_results": "東元洗刷了來國家安全週報告下來",
+                "labels": "林昶佐:當然是接下來還要看他國家安全戰略報告裡面怎麼寫啦齁但是請問局長",
+                "asr_recognition_time": 1.5048494338989258,
+                "google_recognition_time": 2.8453845977783203,
+                "speaker_recognition_time": 0.16062498092651367
+        },
+        {
+                "start_time": 118.508784,
+                "end_time": 121.07075,
+                "MASR_results": "林昶佐:你景為金嘛基累紅總跨起來",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:你認為現在這個方向看起來",
+                "asr_recognition_time": 0.5029971599578857,
+                "google_recognition_time": 0.5605063438415527,
+                "speaker_recognition_time": 0.12634825706481934
+        },
+        {
+                "start_time": 121.239166,
+                "end_time": 121.856,
+                "MASR_results": "林昶佐:拜登",
+                "google_asr_results": "拜登",
+                "labels": "林昶佐:拜登",
+                "asr_recognition_time": 0.24631047248840332,
+                "google_recognition_time": 0.2907710075378418,
+                "speaker_recognition_time": 0.0358121395111084
+        },
+        {
+                "start_time": 122.112,
+                "end_time": 122.953948,
+                "MASR_results": "林昶佐:一個來",
+                "google_asr_results": "19s",
+                "labels": "林昶佐:他走的是",
+                "asr_recognition_time": 0.30884361267089844,
+                "google_recognition_time": 0.31374049186706543,
+                "speaker_recognition_time": 0.03799319267272949
+        },
+        {
+                "start_time": 123.10195,
+                "end_time": 125.179082,
+                "MASR_results": "林昶佐:他挖手勢要其公司",
+                "google_asr_results": "開完手術要去公司",
+                "labels": "林昶佐:比較靠守勢還是攻勢",
+                "asr_recognition_time": 0.3470594882965088,
+                "google_recognition_time": 0.7203903198242188,
+                "speaker_recognition_time": 0.07761311531066895
+        },
+        {
+                "start_time": 125.696,
+                "end_time": 126.470272,
+                "MASR_results": "陳柏惟:或請",
+                "google_asr_results": "或許",
+                "labels": "陳明通:我想",
+                "asr_recognition_time": 0.2820875644683838,
+                "google_recognition_time": 0.3072521686553955,
+                "speaker_recognition_time": 0.03327155113220215
+        },
+        {
+                "start_time": 127.744,
+                "end_time": 128.914857,
+                "MASR_results": "陳柏惟:外呃",
+                "google_asr_results": "wire",
+                "labels": "陳明通:我的呃",
+                "asr_recognition_time": 0.29872560501098633,
+                "google_recognition_time": 0.4367823600769043,
+                "speaker_recognition_time": 0.07812237739562988
+        },
+        {
+                "start_time": 129.14451499999998,
+                "end_time": 131.104266,
+                "MASR_results": "陳柏惟:剛百萬點低啦齁",
+                "google_asr_results": "剛打開領的啦",
+                "labels": "陳明通:感覺我的認知啦齁",
+                "asr_recognition_time": 0.4919452667236328,
+                "google_recognition_time": 1.0762629508972168,
+                "speaker_recognition_time": 0.09772729873657227
+        },
+        {
+                "start_time": 132.073934,
+                "end_time": 132.977257,
+                "MASR_results": "林昶佐:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:呃",
+                "asr_recognition_time": 0.22909808158874512,
+                "google_recognition_time": 0.22977995872497559,
+                "speaker_recognition_time": 0.06912422180175781
+        },
+        {
+                "start_time": 133.10484499999998,
+                "end_time": 134.901283,
+                "MASR_results": "陳柏惟:因為中共底這個",
+                "google_asr_results": "立冬過幾間",
+                "labels": "陳明通:因為中國在這個",
+                "asr_recognition_time": 0.301102876663208,
+                "google_recognition_time": 0.9705483913421631,
+                "speaker_recognition_time": 0.09518957138061523
+        },
+        {
+                "start_time": 135.68,
+                "end_time": 137.141727,
+                "MASR_results": "陳柏惟:這一者都才不發",
+                "google_asr_results": "睡覺比賽",
+                "labels": "陳明通:做一個獨裁的國家",
+                "asr_recognition_time": 0.4793844223022461,
+                "google_recognition_time": 0.8432223796844482,
+                "speaker_recognition_time": 0.05517888069152832
+        },
+        {
+                "start_time": 137.172348,
+                "end_time": 139.423,
+                "MASR_results": "陳柏惟:直接在擴一個啊可以齁",
+                "google_asr_results": "kriega廣告",
+                "labels": "陳明通:在一個區域的崛起齁",
+                "asr_recognition_time": 0.6410834789276123,
+                "google_recognition_time": 0.8830928802490234,
+                "speaker_recognition_time": 0.09715700149536133
+        },
+        {
+                "start_time": 140.132388,
+                "end_time": 143.531331,
+                "MASR_results": "陳柏惟:以及第一包發來西增一點已經低調",
+                "google_asr_results": "pc01西屯一點的酒",
+                "labels": "陳明通:其實從歐巴馬的時候已經有認知到",
+                "asr_recognition_time": 0.6843209266662598,
+                "google_recognition_time": 1.5879089832305908,
+                "speaker_recognition_time": 0.11001205444335938
+        },
+        {
+                "start_time": 143.669126,
+                "end_time": 144.55713799999998,
+                "MASR_results": "陳柏惟:但是一",
+                "google_asr_results": "石西",
+                "labels": "陳明通:但是他",
+                "asr_recognition_time": 0.31346559524536133,
+                "google_recognition_time": 0.5571177005767822,
+                "speaker_recognition_time": 0.04002189636230469
+        },
+        {
+                "start_time": 145.077697,
+                "end_time": 147.297727,
+                "MASR_results": "陳柏惟:您認購後面這個我高",
+                "google_asr_results": "林園這個火烤",
+                "labels": "陳明通:能力各方面做的不夠",
+                "asr_recognition_time": 0.38266611099243164,
+                "google_recognition_time": 1.6201696395874023,
+                "speaker_recognition_time": 0.07856345176696777
+        },
+        {
+                "start_time": 148.277603,
+                "end_time": 149.624931,
+                "MASR_results": "陳柏惟:呃當他創",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:啊DonaldTrump",
+                "asr_recognition_time": 0.2084674835205078,
+                "google_recognition_time": 0.6587047576904297,
+                "speaker_recognition_time": 0.06116485595703125
+        },
+        {
+                "start_time": 149.941349,
+                "end_time": 153.84554,
+                "MASR_results": "陳柏惟:進入齁因五他輕湊點滴呃",
+                "google_asr_results": "見父母會情色領地",
+                "labels": "陳明通:政府齁他有比較清楚認知啊",
+                "asr_recognition_time": 0.8006575107574463,
+                "google_recognition_time": 1.0207393169403076,
+                "speaker_recognition_time": 0.16183757781982422
+        },
+        {
+                "start_time": 154.28444299999998,
+                "end_time": 156.96379,
+                "MASR_results": "林昶佐:代表經濟跟過這補醫所以",
+                "google_asr_results": "老金借電鍋",
+                "labels": "陳明通:干擾很多中國的作為所以",
+                "asr_recognition_time": 0.492725133895874,
+                "google_recognition_time": 0.8697664737701416,
+                "speaker_recognition_time": 0.11475443840026855
+        },
+        {
+                "start_time": 157.851802,
+                "end_time": 161.235434,
+                "MASR_results": "陳柏惟:再高啊經這個那個徐",
+                "google_asr_results": "解老爸今天那個",
+                "labels": "陳明通:這個",
+                "asr_recognition_time": 0.6802864074707031,
+                "google_recognition_time": 0.8132603168487549,
+                "speaker_recognition_time": 0.11954617500305176
+        },
+        {
+                "start_time": 161.398747,
+                "end_time": 162.90938799999998,
+                "MASR_results": "陳柏惟:那這麼委的跨",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:我們現在來看",
+                "asr_recognition_time": 0.43556857109069824,
+                "google_recognition_time": 0.3774220943450928,
+                "speaker_recognition_time": 0.06312060356140137
+        },
+        {
+                "start_time": 163.445257,
+                "end_time": 166.193504,
+                "MASR_results": "陳柏惟:拜登建戶你收走收為",
+                "google_asr_results": "監護與搜索收尾",
+                "labels": "陳明通:拜登政府他所作所為",
+                "asr_recognition_time": 0.619368314743042,
+                "google_recognition_time": 0.698596715927124,
+                "speaker_recognition_time": 0.09314799308776855
+        },
+        {
+                "start_time": 166.43591899999998,
+                "end_time": 167.548485,
+                "MASR_results": "陳柏惟:一些中這一些",
+                "google_asr_results": "PC",
+                "labels": "陳明通:其實很多",
+                "asr_recognition_time": 0.4308762550354004,
+                "google_recognition_time": 0.8056483268737793,
+                "speaker_recognition_time": 0.04549098014831543
+        },
+        {
+                "start_time": 167.655659,
+                "end_time": 168.763123,
+                "MASR_results": "陳柏惟:那我們請退銷",
+                "google_asr_results": "龍井電繡",
+                "labels": "陳明通:都是繼續",
+                "asr_recognition_time": 0.4057435989379883,
+                "google_recognition_time": 0.4073326587677002,
+                "speaker_recognition_time": 0.040219783782958984
+        },
+        {
+                "start_time": 169.171404,
+                "end_time": 170.42686899999998,
+                "MASR_results": "陳柏惟:呃這個",
+                "google_asr_results": "把這個",
+                "labels": "陳明通:呃這個",
+                "asr_recognition_time": 0.32863283157348633,
+                "google_recognition_time": 0.4081289768218994,
+                "speaker_recognition_time": 0.054601192474365234
+        },
+        {
+                "start_time": 170.682045,
+                "end_time": 174.554979,
+                "MASR_results": "陳柏惟:剛剛創政府以耶呃時刻高一頁認為",
+                "google_asr_results": "達創政府預約",
+                "labels": "陳明通:DonaldTrump政府他的呃思考跟他的作為",
+                "asr_recognition_time": 0.9608931541442871,
+                "google_recognition_time": 1.1852917671203613,
+                "speaker_recognition_time": 0.13891291618347168
+        },
+        {
+                "start_time": 174.729135,
+                "end_time": 175.305832,
+                "MASR_results": "陳柏惟:但是",
+                "google_asr_results": "黛西",
+                "labels": "陳明通:但是",
+                "asr_recognition_time": 0.13013172149658203,
+                "google_recognition_time": 0.3899672031402588,
+                "speaker_recognition_time": 0.026337146759033203
+        },
+        {
+                "start_time": 175.372178,
+                "end_time": 177.382964,
+                "MASR_results": "陳柏惟:英文要跑有其我趕快",
+                "google_asr_results": "幹",
+                "labels": "陳明通:他們倆個Approach有不一樣",
+                "asr_recognition_time": 0.5559749603271484,
+                "google_recognition_time": 0.6670658588409424,
+                "speaker_recognition_time": 0.09001493453979492
+        },
+        {
+                "start_time": 177.505448,
+                "end_time": 178.12807800000002,
+                "MASR_results": "陳柏惟:齁別",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:齁第一",
+                "asr_recognition_time": 0.2726314067840576,
+                "google_recognition_time": 0.2333226203918457,
+                "speaker_recognition_time": 0.03374004364013672
+        },
+        {
+                "start_time": 178.944,
+                "end_time": 181.583159,
+                "MASR_results": "陳柏惟:包括撞進入齁尤其這個",
+                "google_asr_results": "鄭建富",
+                "labels": "陳明通:DonaldTrump政府齁尤其這個",
+                "asr_recognition_time": 0.6423778533935547,
+                "google_recognition_time": 1.3521277904510498,
+                "speaker_recognition_time": 0.10919642448425293
+        },
+        {
+                "start_time": 181.76,
+                "end_time": 183.252009,
+                "MASR_results": "陳柏惟:川普這個港看",
+                "google_asr_results": "川普這個狼看",
+                "labels": "陳明通:川普這個人比較",
+                "asr_recognition_time": 0.25954723358154297,
+                "google_recognition_time": 0.572439432144165,
+                "speaker_recognition_time": 0.05423903465270996
+        },
+        {
+                "start_time": 183.808,
+                "end_time": 185.446522,
+                "MASR_results": "林昶佐:啊那他可能變高低啦",
+                "google_asr_results": "大同電鍋",
+                "labels": "陳明通:怎樣比較找人單挑啦",
+                "asr_recognition_time": 0.35651350021362305,
+                "google_recognition_time": 0.39877915382385254,
+                "speaker_recognition_time": 0.05938720703125
+        },
+        {
+                "start_time": 185.905839,
+                "end_time": 187.579792,
+                "MASR_results": "陳柏惟:齁那我顯然變高低啦",
+                "google_asr_results": "超強電鍋",
+                "labels": "陳明通:齁都會找人單挑啦",
+                "asr_recognition_time": 0.353130578994751,
+                "google_recognition_time": 1.2737457752227783,
+                "speaker_recognition_time": 0.06545114517211914
+        },
+        {
+                "start_time": 188.488218,
+                "end_time": 193.854004,
+                "MASR_results": "陳柏惟:但是拜登接來進入喔一起開團隊打情假啦齁一直打成長",
+                "google_asr_results": "山西拜登記得近乎我一起打群架",
+                "labels": "陳明通:但是Biden這個政府齁他是比較團隊打群架啦齁他是打群架",
+                "asr_recognition_time": 1.283858060836792,
+                "google_recognition_time": 1.5154786109924316,
+                "speaker_recognition_time": 0.198136568069458
+        },
+        {
+                "start_time": 194.387885,
+                "end_time": 195.801559,
+                "MASR_results": "陳柏惟:呃但是因為被",
+                "google_asr_results": "八大行業",
+                "labels": "陳明通:啊但是他的目的",
+                "asr_recognition_time": 0.42104530334472656,
+                "google_recognition_time": 0.7000770568847656,
+                "speaker_recognition_time": 0.06305265426635742
+        },
+        {
+                "start_time": 196.204737,
+                "end_time": 197.506134,
+                "MASR_results": "陳柏惟:就請在都是",
+                "google_asr_results": "就請這個系",
+                "labels": "陳明通:很清楚的就是",
+                "asr_recognition_time": 0.3937661647796631,
+                "google_recognition_time": 0.5005354881286621,
+                "speaker_recognition_time": 0.07548213005065918
+        },
+        {
+                "start_time": 198.241041,
+                "end_time": 201.349083,
+                "MASR_results": "陳柏惟:那標這個進度如來襲入調查",
+                "google_asr_results": "進入路來襲",
+                "labels": "陳明通:北京這個政府越來是越獨裁",
+                "asr_recognition_time": 0.7539548873901367,
+                "google_recognition_time": 0.7349021434783936,
+                "speaker_recognition_time": 0.13556861877441406
+        },
+        {
+                "start_time": 201.691019,
+                "end_time": 204.431608,
+                "MASR_results": "陳柏惟:你可以已經滿很高估低所以在",
+                "google_asr_results": "睡著",
+                "labels": "陳明通:尤其以現代的科技所以在",
+                "asr_recognition_time": 0.7506203651428223,
+                "google_recognition_time": 2.557504415512085,
+                "speaker_recognition_time": 0.09093499183654785
+        },
+        {
+                "start_time": 204.941959,
+                "end_time": 208.866565,
+                "MASR_results": "陳柏惟:齁這個不在小微公益習第七託啊收離他的理性",
+                "google_asr_results": "8歲小孩騎車",
+                "labels": "陳明通:在國際社會說他是DigitalRegion",
+                "asr_recognition_time": 0.919832706451416,
+                "google_recognition_time": 2.75858736038208,
+                "speaker_recognition_time": 0.1589946746826172
+        },
+        {
+                "start_time": 208.978842,
+                "end_time": 209.530022,
+                "MASR_results": "陳柏惟:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐,陳明通:對齁",
+                "asr_recognition_time": 0.2729153633117676,
+                "google_recognition_time": 0.2147681713104248,
+                "speaker_recognition_time": 0.035045623779296875
+        },
+        {
+                "start_time": 209.795405,
+                "end_time": 210.969214,
+                "MASR_results": "陳柏惟:我聽過",
+                "google_asr_results": "土丁桂",
+                "labels": "陳明通:有經過",
+                "asr_recognition_time": 0.3548448085784912,
+                "google_recognition_time": 0.43839550018310547,
+                "speaker_recognition_time": 0.051169395446777344
+        },
+        {
+                "start_time": 211.260114,
+                "end_time": 216.537152,
+                "MASR_results": "陳柏惟:這個扣他不會扣低祝福跟欸部東發完出來也直接打才夠高",
+                "google_asr_results": "這個骷顱頭的中大版出來",
+                "labels": "陳明通:這個科學有那個科技做分家來武裝打扮出來的一個獨裁國家",
+                "asr_recognition_time": 1.587907075881958,
+                "google_recognition_time": 1.3065900802612305,
+                "speaker_recognition_time": 0.19987988471984863
+        },
+        {
+                "start_time": 216.623911,
+                "end_time": 220.242932,
+                "MASR_results": "陳柏惟:是我對於當明珠對你還是軍端不一樣",
+                "google_asr_results": "後壁林之鼎牙醫",
+                "labels": "林昶佐,陳明通:是喔對我們民主佔名是很大的威脅",
+                "asr_recognition_time": 0.9287869930267334,
+                "google_recognition_time": 2.764338970184326,
+                "speaker_recognition_time": 0.15456032752990723
+        },
+        {
+                "start_time": 220.563827,
+                "end_time": 221.222181,
+                "MASR_results": "陳柏惟:啊所以",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:啊所以",
+                "asr_recognition_time": 0.27416372299194336,
+                "google_recognition_time": 0.22759151458740234,
+                "speaker_recognition_time": 0.0334935188293457
+        },
+        {
+                "start_time": 221.65598,
+                "end_time": 222.105089,
+                "MASR_results": "陳柏惟:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:啊",
+                "asr_recognition_time": 0.21399831771850586,
+                "google_recognition_time": 0.19073152542114258,
+                "speaker_recognition_time": 0.030258655548095703
+        },
+        {
+                "start_time": 222.242884,
+                "end_time": 230.912,
+                "MASR_results": "林昶佐:我可是那種共同所以我們覺得過分工類疫我們立構都善工齁教畫不會點喜榮我們接來用誰那是有這個修",
+                "google_asr_results": "打電話給",
+                "labels": "陳明通,林昶佐:大家都有覺悟到所以有這個看所以說這個意思就是說美國就算說齁現在不一定是用這個攻勢還是攻勢還是用這個守",
+                "asr_recognition_time": 3.499051094055176,
+                "google_recognition_time": 0.6794724464416504,
+                "speaker_recognition_time": 0.30468153953552246
+        },
+        {
+                "start_time": 231.026038,
+                "end_time": 237.788199,
+                "MASR_results": "林昶佐:修誰那十兩人那該後啦本席會看到但是一定要因為當中一方你勞了來在公補為豬",
+                "google_asr_results": "juice",
+                "labels": "陳明通,林昶佐:守勢的這個那是別人的解讀啦但是我覺得但是他現在因為DonaldTrump留下來這些公佈的資",
+                "asr_recognition_time": 2.3846354484558105,
+                "google_recognition_time": 2.9637978076934814,
+                "speaker_recognition_time": 0.25034427642822266
+        },
+        {
+                "start_time": 237.824,
+                "end_time": 241.069761,
+                "MASR_results": "林昶佐:資料齁然後一馬多克林公頃貴提供",
+                "google_asr_results": "足療後",
+                "labels": "林昶佐,陳明通:資料齁對啊齁他也不可能像跟過去說",
+                "asr_recognition_time": 0.6611599922180176,
+                "google_recognition_time": 0.6708710193634033,
+                "speaker_recognition_time": 0.15198826789855957
+        },
+        {
+                "start_time": 241.192246,
+                "end_time": 247.168465,
+                "MASR_results": "林昶佐:這兩個塊都公聽有薪水也是兩所以一個跨越不管有關係收入或者不用停",
+                "google_asr_results": "不管的關係",
+                "labels": "林昶佐,陳明通:這個有辦法用這個守勢的方式這你可以看他的不管不管是或是Blinken",
+                "asr_recognition_time": 1.9988267421722412,
+                "google_recognition_time": 2.4037792682647705,
+                "speaker_recognition_time": 0.1892845630645752
+        },
+        {
+                "start_time": 247.367502,
+                "end_time": 249.000628,
+                "MASR_results": "陳柏惟:他所以這個呢公文",
+                "google_asr_results": "智利最大的恭維",
+                "labels": "陳明通:他這他最近的講話",
+                "asr_recognition_time": 0.495697021484375,
+                "google_recognition_time": 0.7903602123260498,
+                "speaker_recognition_time": 0.05982851982116699
+        },
+        {
+                "start_time": 249.199665,
+                "end_time": 251.51666200000005,
+                "MASR_results": "林昶佐:馬來西龍打正你也打就打就好了",
+                "google_asr_results": "瑪西達",
+                "labels": "陳明通,林昶佐:也是都打很硬打很是打很嚴的",
+                "asr_recognition_time": 0.7614226341247559,
+                "google_recognition_time": 1.1558761596679688,
+                "speaker_recognition_time": 0.08098602294921875
+        },
+        {
+                "start_time": 251.904,
+                "end_time": 258.370686,
+                "MASR_results": "林昶佐:其實本席這麼跟美國操作工具的公家齁的習記得夠肝轉正掉講天基然來對",
+                "google_asr_results": "雞蛋細菌",
+                "labels": "林昶佐:是但是現在當然我剛才說這個文件齁就是這個國家安全戰略暫行指南裡面",
+                "asr_recognition_time": 1.8433644771575928,
+                "google_recognition_time": 3.799407720565796,
+                "speaker_recognition_time": 0.2376868724822998
+        },
+        {
+                "start_time": 258.431928,
+                "end_time": 263.229235,
+                "MASR_results": "林昶佐:齁那一旦跨點就是包括九定購了齁就是一路凍掉為就給保婚",
+                "google_asr_results": "好難",
+                "labels": "林昶佐:齁我們能看到就是包括局長講得齁其實他都強調的很多的部分",
+                "asr_recognition_time": 1.5415997505187988,
+                "google_recognition_time": 1.3385016918182373,
+                "speaker_recognition_time": 0.1847987174987793
+        },
+        {
+                "start_time": 263.591585,
+                "end_time": 268.424616,
+                "MASR_results": "林昶佐:覺得一東人喜打群架來概良嘛齁團隊齁啊這個領袖及跟捏",
+                "google_asr_results": "東萊西打群架團隊",
+                "labels": "林昶佐:一個當然是打群架的概念啦齁團隊齁啊跟盟友之間的",
+                "asr_recognition_time": 1.5063467025756836,
+                "google_recognition_time": 1.991229772567749,
+                "speaker_recognition_time": 0.185760498046875
+        },
+        {
+                "start_time": 268.475651,
+                "end_time": 269.812773,
+                "MASR_results": "林昶佐:好重來歡在",
+                "google_asr_results": "來歡這",
+                "labels": "林昶佐:合作來反制",
+                "asr_recognition_time": 0.22471833229064941,
+                "google_recognition_time": 0.4881784915924072,
+                "speaker_recognition_time": 0.05214333534240723
+        },
+        {
+                "start_time": 269.874015,
+                "end_time": 270.813062,
+                "MASR_results": "林昶佐:跟擴微不一樣",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:中國的威脅",
+                "asr_recognition_time": 0.38445067405700684,
+                "google_recognition_time": 0.4533956050872803,
+                "speaker_recognition_time": 0.03300952911376953
+        },
+        {
+                "start_time": 270.85389,
+                "end_time": 273.19130099999995,
+                "MASR_results": "林昶佐:你啊但是要且但塊有工並購",
+                "google_asr_results": "發展協會",
+                "labels": "陳明通,林昶佐:嗯啊但是還是可以看到說中國",
+                "asr_recognition_time": 0.7071304321289062,
+                "google_recognition_time": 1.4912774562835693,
+                "speaker_recognition_time": 0.09443545341491699
+        },
+        {
+                "start_time": 273.227026,
+                "end_time": 273.640411,
+                "MASR_results": "林昶佐:謝謝",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:是",
+                "asr_recognition_time": 0.26244091987609863,
+                "google_recognition_time": 0.2240455150604248,
+                "speaker_recognition_time": 0.04180192947387695
+        },
+        {
+                "start_time": 273.69655,
+                "end_time": 277.371082,
+                "MASR_results": "林昶佐:敵不一家來被這個凱蒂雄這些過高啦齁所以跟",
+                "google_asr_results": "你們家來進雄",
+                "labels": "林昶佐:在文件裡面這個提起最多的國家啦齁所以說",
+                "asr_recognition_time": 1.12516450881958,
+                "google_recognition_time": 2.071335792541504,
+                "speaker_recognition_time": 0.15028047561645508
+        },
+        {
+                "start_time": 277.43742799999995,
+                "end_time": 279.070554,
+                "MASR_results": "林昶佐:兩個一波動起來類型啦都是",
+                "google_asr_results": "打給一般",
+                "labels": "林昶佐:大家一般都是這樣想啦都是",
+                "asr_recognition_time": 0.5986814498901367,
+                "google_recognition_time": 0.6753013134002686,
+                "speaker_recognition_time": 0.06061387062072754
+        },
+        {
+                "start_time": 279.177728,
+                "end_time": 281.622313,
+                "MASR_results": "林昶佐:一塊點跨點我覺得不再給誰",
+                "google_asr_results": "1塊",
+                "labels": "林昶佐:他看到看到的這個國際的局勢",
+                "asr_recognition_time": 0.6942603588104248,
+                "google_recognition_time": 0.6405560970306396,
+                "speaker_recognition_time": 0.08113265037536621
+        },
+        {
+                "start_time": 281.811143,
+                "end_time": 283.245231,
+                "MASR_results": "林昶佐:第一次他剛剛創新",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:其實跟DonaldTrump是",
+                "asr_recognition_time": 0.47966933250427246,
+                "google_recognition_time": 0.5354123115539551,
+                "speaker_recognition_time": 0.07943916320800781
+        },
+        {
+                "start_time": 283.286059,
+                "end_time": 283.67902999999995,
+                "MASR_results": "林昶佐:他",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:比較",
+                "asr_recognition_time": 0.23383116722106934,
+                "google_recognition_time": 0.20668816566467285,
+                "speaker_recognition_time": 0.02118992805480957
+        },
+        {
+                "start_time": 283.730065,
+                "end_time": 286.363481,
+                "MASR_results": "林昶佐:他掛他當中錯來不是跟用動物寫的機的不一樣",
+                "google_asr_results": "大樂透",
+                "labels": "林昶佐:比較靠DonaldTrump就是說中國一個一個威脅",
+                "asr_recognition_time": 0.9979150295257568,
+                "google_recognition_time": 0.7310504913330078,
+                "speaker_recognition_time": 0.12045598030090332
+        },
+        {
+                "start_time": 286.485965,
+                "end_time": 288.307921,
+                "MASR_results": "林昶佐:一起都不要要歡迎沒有趕快",
+                "google_asr_results": "寄給宮廟的歡迎",
+                "labels": "林昶佐:只是說要怎樣反應不一樣",
+                "asr_recognition_time": 0.45069122314453125,
+                "google_recognition_time": 1.3934998512268066,
+                "speaker_recognition_time": 0.062093257904052734
+        },
+        {
+                "start_time": 288.46613,
+                "end_time": 294.2525,
+                "MASR_results": "林昶佐:但是我看不到剛剛你說了來齁就是因為那這麼快超過打個東西還那一基低風險啦齁",
+                "google_asr_results": "淡水",
+                "labels": "林昶佐:但是我覺得說這樣接下來齁其實因為我們現在看差不多大家都是這樣在在分析啦齁",
+                "asr_recognition_time": 2.1978578567504883,
+                "google_recognition_time": 1.6358709335327148,
+                "speaker_recognition_time": 0.2084972858428955
+        },
+        {
+                "start_time": 294.399,
+                "end_time": 294.911,
+                "MASR_results": "林昶佐:但是",
+                "google_asr_results": "山西",
+                "labels": "林昶佐:但是",
+                "asr_recognition_time": 0.24399709701538086,
+                "google_recognition_time": 0.28237438201904297,
+                "speaker_recognition_time": 0.024667978286743164
+        },
+        {
+                "start_time": 295.284429,
+                "end_time": 297.310526,
+                "MASR_results": "林昶佐:呃罵我及你國人也公開",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:呃也是有一一些人說啊",
+                "asr_recognition_time": 0.58193039894104,
+                "google_recognition_time": 0.39375805854797363,
+                "speaker_recognition_time": 0.07223892211914062
+        },
+        {
+                "start_time": 297.366665,
+                "end_time": 302.903981,
+                "MASR_results": "林昶佐:那投都還包括嘛微軟共的業績幾塊寶紅也大概兩國會好重啦包括七後變簽啦",
+                "google_asr_results": "南投抓寶",
+                "labels": "林昶佐:我們剛才包括也有委員講到他的一一些部份會跟中國來合作包括氣候變遷啦",
+                "asr_recognition_time": 2.001960039138794,
+                "google_recognition_time": 5.031070947647095,
+                "speaker_recognition_time": 0.20465397834777832
+        },
+        {
+                "start_time": 302.924395,
+                "end_time": 304.047169,
+                "MASR_results": "林昶佐:在莫不願意等",
+                "google_asr_results": "什麼鬼",
+                "labels": "林昶佐:這個某幾個議題",
+                "asr_recognition_time": 0.2458796501159668,
+                "google_recognition_time": 0.8417606353759766,
+                "speaker_recognition_time": 0.04748225212097168
+        },
+        {
+                "start_time": 304.127,
+                "end_time": 306.410098,
+                "MASR_results": "林昶佐:所以公關係齁我要加接的公安掉",
+                "google_asr_results": "社工專協",
+                "labels": "林昶佐:所以說我想齁我要請這個國安局",
+                "asr_recognition_time": 0.735802173614502,
+                "google_recognition_time": 1.3232898712158203,
+                "speaker_recognition_time": 0.09148526191711426
+        },
+        {
+                "start_time": 306.60913500000004,
+                "end_time": 310.625604,
+                "MASR_results": "林昶佐:欸愛國際的足療啦齁因為當然東北到一點跨家的模擬退",
+                "google_asr_results": "無聊英文",
+                "labels": "林昶佐:欸要補一個資料啦齁因為我們當然可以一直看到這些媒體",
+                "asr_recognition_time": 1.097848653793335,
+                "google_recognition_time": 2.058950662612915,
+                "speaker_recognition_time": 0.15621209144592285
+        },
+        {
+                "start_time": 310.697053,
+                "end_time": 314.340964,
+                "MASR_results": "林昶佐:齁還這麼花更夠最雄圍再再夠鬥啊來替",
+                "google_asr_results": "媽媽回家",
+                "labels": "林昶佐:齁啊現在發展國際上的這個這個報導啊來去",
+                "asr_recognition_time": 0.7783627510070801,
+                "google_recognition_time": 1.1626811027526855,
+                "speaker_recognition_time": 0.1344618797302246
+        },
+        {
+                "start_time": 314.448138,
+                "end_time": 316.448717,
+                "MASR_results": "林昶佐:原因啦齁萊豬這風險",
+                "google_asr_results": "先吃啦後來滾",
+                "labels": "林昶佐:研議啦齁來去分析",
+                "asr_recognition_time": 0.3740963935852051,
+                "google_recognition_time": 1.0321555137634277,
+                "speaker_recognition_time": 0.09886646270751953
+        },
+        {
+                "start_time": 316.515063,
+                "end_time": 316.95396600000004,
+                "MASR_results": "林昶佐:但是",
+                "google_asr_results": "擔心",
+                "labels": "林昶佐:但是",
+                "asr_recognition_time": 0.11966657638549805,
+                "google_recognition_time": 0.2742486000061035,
+                "speaker_recognition_time": 0.046314239501953125
+        },
+        {
+                "start_time": 317.010104,
+                "end_time": 320.102836,
+                "MASR_results": "林昶佐:少了來外雄心也有孤也是幹掉包括你馬公",
+                "google_asr_results": "算了啦",
+                "labels": "林昶佐:接下來我相信會有幾個時間點包括你如果說",
+                "asr_recognition_time": 0.9666459560394287,
+                "google_recognition_time": 3.4314866065979004,
+                "speaker_recognition_time": 0.13813233375549316
+        },
+        {
+                "start_time": 320.21001,
+                "end_time": 322.481075,
+                "MASR_results": "林昶佐:接來替呃我的欸本片的問德",
+                "google_asr_results": "IKEA",
+                "labels": "林昶佐:這個氣候的變遷的問題",
+                "asr_recognition_time": 0.6743402481079102,
+                "google_recognition_time": 0.5002708435058594,
+                "speaker_recognition_time": 0.08793950080871582
+        },
+        {
+                "start_time": 322.559,
+                "end_time": 324.27241000000004,
+                "MASR_results": "林昶佐:我固業多啊都誰回滴",
+                "google_asr_results": "我皈依",
+                "labels": "林昶佐:有幾個大的國際會議",
+                "asr_recognition_time": 0.3562908172607422,
+                "google_recognition_time": 1.6302449703216553,
+                "speaker_recognition_time": 0.059961557388305664
+        },
+        {
+                "start_time": 324.435722,
+                "end_time": 329.98835,
+                "MASR_results": "林昶佐:記得毀一竟檢標啊動構高賓構即剛講到公維耶這個其他跟底為節的保婚嘛",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這個會議進行之後中國跟美國之間是怎麼樣講話的這就是我們研究的一個部分嘛",
+                "asr_recognition_time": 1.6838405132293701,
+                "google_recognition_time": 0.6001348495483398,
+                "speaker_recognition_time": 0.20661282539367676
+        },
+        {
+                "start_time": 330.085317,
+                "end_time": 336.107467,
+                "MASR_results": "林昶佐:所以國防外主要不然點齁不波及的主流啊齁我我不要高度我們物管會不會解入館東湖啦齁",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:所以說我我需要國安局齁再補一個資料啊給外交國防委員會每一個委員都有啦齁",
+                "asr_recognition_time": 2.440054178237915,
+                "google_recognition_time": 4.460440635681152,
+                "speaker_recognition_time": 0.22446537017822266
+        },
+        {
+                "start_time": 336.127881,
+                "end_time": 337.015894,
+                "MASR_results": "林昶佐:呃感謝剛",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通,林昶佐:好就是說",
+                "asr_recognition_time": 0.18399477005004883,
+                "google_recognition_time": 0.35889339447021484,
+                "speaker_recognition_time": 0.0607302188873291
+        },
+        {
+                "start_time": 337.077136,
+                "end_time": 338.924609,
+                "MASR_results": "林昶佐:裡來記救就近兩年",
+                "google_asr_results": "利來記就基金呢",
+                "labels": "林昶佐:未來至少這這兩年",
+                "asr_recognition_time": 0.33444643020629883,
+                "google_recognition_time": 0.5819187164306641,
+                "speaker_recognition_time": 0.09401130676269531
+        },
+        {
+                "start_time": 338.985851,
+                "end_time": 340.991,
+                "MASR_results": "林昶佐:我大家估也懂搖了西甘調",
+                "google_asr_results": "吳大哥也乾掉",
+                "labels": "林昶佐:有哪幾個重要的時間點",
+                "asr_recognition_time": 0.43468785285949707,
+                "google_recognition_time": 0.9173159599304199,
+                "speaker_recognition_time": 0.09914159774780273
+        },
+        {
+                "start_time": 341.328366,
+                "end_time": 345.814358,
+                "MASR_results": "林昶佐:啊記過元息跟要買的請旅購就嗎打他你陪我公軍團",
+                "google_asr_results": "Lamigo",
+                "labels": "林昶佐:啊這幾個時間點裡面是美國現在打比較嚴的譬如說人權",
+                "asr_recognition_time": 1.3190526962280273,
+                "google_recognition_time": 4.3840272426605225,
+                "speaker_recognition_time": 0.1787254810333252
+        },
+        {
+                "start_time": 345.936842,
+                "end_time": 346.559472,
+                "MASR_results": "林昶佐:總共",
+                "google_asr_results": "熊大",
+                "labels": "林昶佐:香港",
+                "asr_recognition_time": 0.13208293914794922,
+                "google_recognition_time": 0.2959170341491699,
+                "speaker_recognition_time": 0.03486061096191406
+        },
+        {
+                "start_time": 346.623,
+                "end_time": 347.544451,
+                "MASR_results": "林昶佐:結過月你的",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這幾個議題",
+                "asr_recognition_time": 0.35980963706970215,
+                "google_recognition_time": 0.2805008888244629,
+                "speaker_recognition_time": 0.07155394554138184
+        },
+        {
+                "start_time": 347.60569300000003,
+                "end_time": 349.407234,
+                "MASR_results": "林昶佐:這個月底的美國還要歡迎",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這幾個議題美國怎麼反應",
+                "asr_recognition_time": 0.5888981819152832,
+                "google_recognition_time": 0.5949227809906006,
+                "speaker_recognition_time": 0.07300567626953125
+        },
+        {
+                "start_time": 349.695,
+                "end_time": 351.392503,
+                "MASR_results": "林昶佐:啊另外直接把關係",
+                "google_asr_results": "另外",
+                "labels": "林昶佐:啊另外一個部分是",
+                "asr_recognition_time": 0.49571919441223145,
+                "google_recognition_time": 1.3923985958099365,
+                "speaker_recognition_time": 0.06782388687133789
+        },
+        {
+                "start_time": 351.438435,
+                "end_time": 353.296115,
+                "MASR_results": "林昶佐:你一個公欸大概給我好作為",
+                "google_asr_results": "viagogo",
+                "labels": "林昶佐:美國說可以跟中國合作的",
+                "asr_recognition_time": 0.6333296298980713,
+                "google_recognition_time": 1.4006197452545166,
+                "speaker_recognition_time": 0.08806800842285156
+        },
+        {
+                "start_time": 353.587015,
+                "end_time": 355.949944,
+                "MASR_results": "林昶佐:啊記過也還也當好週迴家的已得",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:啊這幾個可以合作的這些議題",
+                "asr_recognition_time": 0.5515916347503662,
+                "google_recognition_time": 0.7377760410308838,
+                "speaker_recognition_time": 0.09486508369445801
+        },
+        {
+                "start_time": 356.072429,
+                "end_time": 357.674933,
+                "MASR_results": "林昶佐:我太大過也喜感調",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:有這哪幾個時間點",
+                "asr_recognition_time": 0.5480179786682129,
+                "google_recognition_time": 0.8992078304290771,
+                "speaker_recognition_time": 0.06254959106445312
+        },
+        {
+                "start_time": 357.756589,
+                "end_time": 358.103629,
+                "MASR_results": "陳柏惟:來",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:我們",
+                "asr_recognition_time": 0.2323594093322754,
+                "google_recognition_time": 0.2078108787536621,
+                "speaker_recognition_time": 0.029035091400146484
+        },
+        {
+                "start_time": 358.154664,
+                "end_time": 360.037862,
+                "MASR_results": "林昶佐:底一的息跟調給當然人來口",
+                "google_asr_results": "一夜乾",
+                "labels": "林昶佐:在那個時間點可以怎樣來看",
+                "asr_recognition_time": 0.66255784034729,
+                "google_recognition_time": 0.793525218963623,
+                "speaker_recognition_time": 0.09130740165710449
+        },
+        {
+                "start_time": 360.15524300000004,
+                "end_time": 364.401369,
+                "MASR_results": "林昶佐:解了就連錯了幾個尖官啊你打個多道喜得當然來跨空當過能給",
+                "google_asr_results": "姐就講錯了解的情況",
+                "labels": "林昶佐:一個很清楚的清單這樣大家到時候就可以來看到我們國安局",
+                "asr_recognition_time": 1.2457644939422607,
+                "google_recognition_time": 0.8952779769897461,
+                "speaker_recognition_time": 0.16862821578979492
+        },
+        {
+                "start_time": 364.472819,
+                "end_time": 365.544557,
+                "MASR_results": "林昶佐:而且怕端齁",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:的這個判斷齁",
+                "asr_recognition_time": 0.36339831352233887,
+                "google_recognition_time": 0.3448145389556885,
+                "speaker_recognition_time": 0.03922009468078613
+        },
+        {
+                "start_time": 365.600696,
+                "end_time": 367.024578,
+                "MASR_results": "林昶佐:啊交接誰感掉來口",
+                "google_asr_results": "叫解釋",
+                "labels": "林昶佐:啊照這個時間點來看",
+                "asr_recognition_time": 0.5266602039337158,
+                "google_recognition_time": 0.674727201461792,
+                "speaker_recognition_time": 0.06171727180480957
+        },
+        {
+                "start_time": 367.060302,
+                "end_time": 369.647786,
+                "MASR_results": "林昶佐:要不好當然金法才不懂心東西或一定立化纖維啦",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:啊不然我們現在差不多都是都是在看已經在發生的啦",
+                "asr_recognition_time": 0.987767219543457,
+                "google_recognition_time": 0.6157419681549072,
+                "speaker_recognition_time": 0.09200906753540039
+        },
+        {
+                "start_time": 369.77027,
+                "end_time": 370.7858700000001,
+                "MASR_results": "林昶佐:啊保密化的以來",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:啊沒有去看未來",
+                "asr_recognition_time": 0.2661263942718506,
+                "google_recognition_time": 0.35103583335876465,
+                "speaker_recognition_time": 0.0426030158996582
+        },
+        {
+                "start_time": 370.877733,
+                "end_time": 376.481396,
+                "MASR_results": "林昶佐:這過去多解這些文家齁我還要不雄性公然感底下的往他物防回檔案也當然低脫論啦齁",
+                "google_asr_results": "這宮裡的姐姐",
+                "labels": "林昶佐:所以說你保證的這個文件給我我相信說我們自己在這個外交委員會大家可以來去討論啦齁",
+                "asr_recognition_time": 2.246164321899414,
+                "google_recognition_time": 1.3818886280059814,
+                "speaker_recognition_time": 0.1743485927581787
+        },
+        {
+                "start_time": 376.670226,
+                "end_time": 376.971333,
+                "MASR_results": "陳柏惟:是",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:好",
+                "asr_recognition_time": 0.2311992645263672,
+                "google_recognition_time": 0.17992138862609863,
+                "speaker_recognition_time": 0.01764202117919922
+        },
+        {
+                "start_time": 377.43065,
+                "end_time": 379.91096,
+                "MASR_results": "林昶佐:雙樓來飛機的起跳高低攻擊弟收整了",
+                "google_asr_results": "刷了LINEpay結果系統",
+                "labels": "林昶佐:接下來第二個就是剛才在說認知作戰的",
+                "asr_recognition_time": 0.8627548217773438,
+                "google_recognition_time": 1.4934871196746826,
+                "speaker_recognition_time": 0.13025283813476562
+        },
+        {
+                "start_time": 379.977305,
+                "end_time": 385.703452,
+                "MASR_results": "林昶佐:那一點五貴於無管中共表啦齁本席跟接來包括武人公這個我們特地工",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:啊已經有幾個委員都講到啊啦齁就是說這個包括有人說這個有媒體在講",
+                "asr_recognition_time": 1.9445018768310547,
+                "google_recognition_time": 7.620398759841919,
+                "speaker_recognition_time": 0.21568942070007324
+        },
+        {
+                "start_time": 385.866765,
+                "end_time": 391.679,
+                "MASR_results": "林昶佐:欸關防有去更貼這個就莫過業黨啦微完啦這個保定啦定調",
+                "google_asr_results": "百冠舊什麼",
+                "labels": "林昶佐:欸國安局有在監聽這個就某幾個的人啦委員啦啊這個部長啦等等",
+                "asr_recognition_time": 1.3939135074615479,
+                "google_recognition_time": 1.4355757236480713,
+                "speaker_recognition_time": 0.21196889877319336
+        },
+        {
+                "start_time": 391.897612,
+                "end_time": 395.849245,
+                "MASR_results": "林昶佐:啊我買快的國防部等一席幹擾因患不公這些緊地就整",
+                "google_asr_results": "媽媽快點乾",
+                "labels": "林昶佐:啊我也有看到國安局第一時間就已經反駁說這是認知作戰",
+                "asr_recognition_time": 1.274052619934082,
+                "google_recognition_time": 1.4436750411987305,
+                "speaker_recognition_time": 0.16495990753173828
+        },
+        {
+                "start_time": 396.298355,
+                "end_time": 399.181842,
+                "MASR_results": "林昶佐:緊滴收審調都要點誤為勞供的因為我覺得",
+                "google_asr_results": "減低收減少多少點惡意玩老公",
+                "labels": "林昶佐:認知作戰剛才定宇委員也有講到他有一個",
+                "asr_recognition_time": 1.0021796226501465,
+                "google_recognition_time": 1.3510544300079346,
+                "speaker_recognition_time": 0.11196303367614746
+        },
+        {
+                "start_time": 399.268602,
+                "end_time": 400.712898,
+                "MASR_results": "林昶佐:墊不覺在臉書",
+                "google_asr_results": "丟書",
+                "labels": "林昶佐:程有一個程序",
+                "asr_recognition_time": 0.28164219856262207,
+                "google_recognition_time": 0.38191676139831543,
+                "speaker_recognition_time": 0.07695698738098145
+        },
+        {
+                "start_time": 400.937452,
+                "end_time": 403.422866,
+                "MASR_results": "林昶佐:這篇書的情包括是像先動耶",
+                "google_asr_results": "最近出的席包括向行動",
+                "labels": "林昶佐:這個程序就是包括說是誰先講的",
+                "asr_recognition_time": 0.5026438236236572,
+                "google_recognition_time": 0.5458338260650635,
+                "speaker_recognition_time": 0.12078452110290527
+        },
+        {
+                "start_time": 403.530039,
+                "end_time": 405.219304,
+                "MASR_results": "林昶佐:向西宅的一條兩架",
+                "google_asr_results": "象棋載得下",
+                "labels": "林昶佐:誰是在地協力者",
+                "asr_recognition_time": 0.32903075218200684,
+                "google_recognition_time": 0.47670626640319824,
+                "speaker_recognition_time": 0.07014322280883789
+        },
+        {
+                "start_time": 405.30096,
+                "end_time": 406.271,
+                "MASR_results": "林昶佐:點點所以說",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:等等所以說",
+                "asr_recognition_time": 0.21473455429077148,
+                "google_recognition_time": 0.2909092903137207,
+                "speaker_recognition_time": 0.039888858795166016
+        },
+        {
+                "start_time": 406.581943,
+                "end_time": 408.133412,
+                "MASR_results": "林昶佐:是不是也讓人家表定",
+                "google_asr_results": "欣佳酒店",
+                "labels": "林昶佐:是不是可以先請局長",
+                "asr_recognition_time": 0.5120606422424316,
+                "google_recognition_time": 0.5784637928009033,
+                "speaker_recognition_time": 0.08740806579589844
+        },
+        {
+                "start_time": 408.235483,
+                "end_time": 409.766538,
+                "MASR_results": "林昶佐:厲對峙的購案",
+                "google_asr_results": "比對機構",
+                "labels": "林昶佐:你對這個個案",
+                "asr_recognition_time": 0.2635498046875,
+                "google_recognition_time": 1.1573917865753174,
+                "speaker_recognition_time": 0.06789350509643555
+        },
+        {
+                "start_time": 410.01661,
+                "end_time": 411.476217,
+                "MASR_results": "林昶佐:厲快儀式及低調整",
+                "google_asr_results": "Minecraft",
+                "labels": "林昶佐:你看他是認知作戰",
+                "asr_recognition_time": 0.4819331169128418,
+                "google_recognition_time": 1.029127836227417,
+                "speaker_recognition_time": 0.09827327728271484
+        },
+        {
+                "start_time": 411.608908,
+                "end_time": 417.217674,
+                "MASR_results": "林昶佐:但是一定就是一點五櫃體一一流然不多啦齁包括跟我們一天哪裡有先夠啦齁",
+                "google_asr_results": "洗衣機7.5包括",
+                "labels": "林昶佐:但是已經其實已經有過去有一直有人報導啦齁包括中國的媒體也在也先講了齁",
+                "asr_recognition_time": 1.8026025295257568,
+                "google_recognition_time": 1.7699131965637207,
+                "speaker_recognition_time": 0.20912504196166992
+        },
+        {
+                "start_time": 417.375883,
+                "end_time": 417.95258,
+                "MASR_results": "林昶佐:旅館",
+                "google_asr_results": "旅館",
+                "labels": "林昶佐:你看",
+                "asr_recognition_time": 0.26966428756713867,
+                "google_recognition_time": 0.3898284435272217,
+                "speaker_recognition_time": 0.025970935821533203
+        },
+        {
+                "start_time": 418.029133,
+                "end_time": 419.549981,
+                "MASR_results": "林昶佐:差不東西啊另外一級的規定",
+                "google_asr_results": "差不多",
+                "labels": "林昶佐:差不多是怎樣的一個過程",
+                "asr_recognition_time": 0.5965995788574219,
+                "google_recognition_time": 0.29943323135375977,
+                "speaker_recognition_time": 0.06664013862609863
+        },
+        {
+                "start_time": 420.785033,
+                "end_time": 421.7802190000001,
+                "MASR_results": "陳柏惟:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:呃",
+                "asr_recognition_time": 0.23446440696716309,
+                "google_recognition_time": 0.23456692695617676,
+                "speaker_recognition_time": 0.04035210609436035
+        },
+        {
+                "start_time": 422.143,
+                "end_time": 428.55769,
+                "MASR_results": "陳柏惟:一隻能一些出來一九年那看你人齁所以本席應該在從其實是鼓勵都在恐多好嘛",
+                "google_asr_results": "mechanic",
+                "labels": "陳明通,林昶佐:他一個他是一個他是一個啦齁是但是他上次在弄的時去年就在用沒效嘛",
+                "asr_recognition_time": 1.9323573112487793,
+                "google_recognition_time": 1.1937508583068848,
+                "speaker_recognition_time": 0.22821450233459473
+        },
+        {
+                "start_time": 428.669968,
+                "end_time": 429.001696,
+                "MASR_results": "林昶佐:嘿",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:嘿",
+                "asr_recognition_time": 0.25277042388916016,
+                "google_recognition_time": 0.19710063934326172,
+                "speaker_recognition_time": 0.023287057876586914
+        },
+        {
+                "start_time": 429.19563,
+                "end_time": 430.512337,
+                "MASR_results": "陳柏惟:啊所以這個",
+                "google_asr_results": "svg",
+                "labels": "陳明通:啊所以這次",
+                "asr_recognition_time": 0.3912222385406494,
+                "google_recognition_time": 0.4999237060546875,
+                "speaker_recognition_time": 0.08150362968444824
+        },
+        {
+                "start_time": 430.665443,
+                "end_time": 431.992358,
+                "MASR_results": "陳柏惟:你快點到九英",
+                "google_asr_results": "愛跨年",
+                "labels": "陳明通:他看到我就任",
+                "asr_recognition_time": 0.252230167388916,
+                "google_recognition_time": 0.43079495429992676,
+                "speaker_recognition_time": 0.06153392791748047
+        },
+        {
+                "start_time": 432.24243,
+                "end_time": 433.63569,
+                "MASR_results": "林昶佐:我只剛剛預算不及待",
+                "google_asr_results": "Camry",
+                "labels": "陳明通,林昶佐:我是感覺他再搞一次",
+                "asr_recognition_time": 0.5229403972625732,
+                "google_recognition_time": 0.8410561084747314,
+                "speaker_recognition_time": 0.07736706733703613
+        },
+        {
+                "start_time": 434.304251,
+                "end_time": 435.457646,
+                "MASR_results": "林昶佐:呃那幾蓋了",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:欸搞一次",
+                "asr_recognition_time": 0.3681471347808838,
+                "google_recognition_time": 0.43578028678894043,
+                "speaker_recognition_time": 0.06371045112609863
+        },
+        {
+                "start_time": 435.711,
+                "end_time": 437.248981,
+                "MASR_results": "林昶佐:將對他來啦所以",
+                "google_asr_results": "講對話來啦",
+                "labels": "陳明通,林昶佐:針對我來的啦是",
+                "asr_recognition_time": 0.4570498466491699,
+                "google_recognition_time": 0.756256103515625,
+                "speaker_recognition_time": 0.08302569389343262
+        },
+        {
+                "start_time": 437.636848,
+                "end_time": 440.050812,
+                "MASR_results": "林昶佐:所以說我有定齁我要被敲立一勞力",
+                "google_asr_results": "追風9的好",
+                "labels": "林昶佐:所以說部長齁我要請你以後你",
+                "asr_recognition_time": 0.7770624160766602,
+                "google_recognition_time": 0.738682746887207,
+                "speaker_recognition_time": 0.1134796142578125
+        },
+        {
+                "start_time": 440.081433,
+                "end_time": 445.052259,
+                "MASR_results": "林昶佐:毒瘤齁快點在對訊息尤其公影地做緊地都整的細分",
+                "google_asr_results": "無聊齁",
+                "labels": "林昶佐:除了齁看到這些假的訊息還是說他們在做認知作戰的時候",
+                "asr_recognition_time": 1.440009355545044,
+                "google_recognition_time": 1.9618890285491943,
+                "speaker_recognition_time": 0.1604599952697754
+        },
+        {
+                "start_time": 445.144123,
+                "end_time": 446.792559,
+                "MASR_results": "林昶佐:獨家攻擊地做整預啊",
+                "google_asr_results": "無聊風景的桌整理",
+                "labels": "林昶佐:除了說認知作戰以外",
+                "asr_recognition_time": 0.35413146018981934,
+                "google_recognition_time": 0.8393847942352295,
+                "speaker_recognition_time": 0.06583595275878906
+        },
+        {
+                "start_time": 446.853801,
+                "end_time": 448.925829,
+                "MASR_results": "林昶佐:印改的快攻破延液漏間",
+                "google_asr_results": "靜坐音樂",
+                "labels": "林昶佐:應該就要公布他的那個路徑",
+                "asr_recognition_time": 0.5899803638458252,
+                "google_recognition_time": 1.0498900413513184,
+                "speaker_recognition_time": 0.08625960350036621
+        },
+        {
+                "start_time": 449.023,
+                "end_time": 451.217309,
+                "MASR_results": "林昶佐:小說空溝通這種就董啊因為",
+                "google_asr_results": "角落公仔9種",
+                "labels": "林昶佐:為什麼我說我說這個很很重要因為",
+                "asr_recognition_time": 0.4933507442474365,
+                "google_recognition_time": 1.06748366355896,
+                "speaker_recognition_time": 0.07499480247497559
+        },
+        {
+                "start_time": 451.431656,
+                "end_time": 451.967526,
+                "MASR_results": "林昶佐:在",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:這會",
+                "asr_recognition_time": 0.2462475299835205,
+                "google_recognition_time": 0.20914149284362793,
+                "speaker_recognition_time": 0.02582836151123047
+        },
+        {
+                "start_time": 452.023664,
+                "end_time": 455.764543,
+                "MASR_results": "林昶佐:欸但大單收回公民齁然僅民節的跨短的低錯",
+                "google_asr_results": "台東大南收尾公里",
+                "labels": "林昶佐:可以教我們所有的公民齁我們人民一個判斷的基礎",
+                "asr_recognition_time": 1.1512384414672852,
+                "google_recognition_time": 2.123840093612671,
+                "speaker_recognition_time": 0.1505129337310791
+        },
+        {
+                "start_time": 455.815578,
+                "end_time": 459.64832,
+                "MASR_results": "林昶佐:譬如公一起以調購買到幾年收載也是微博行錯人",
+                "google_asr_results": "微博星座",
+                "labels": "林昶佐:譬如說他是在中國的哪一個地方是微博先出現",
+                "asr_recognition_time": 0.9516983032226562,
+                "google_recognition_time": 0.7675783634185791,
+                "speaker_recognition_time": 0.15787792205810547
+        },
+        {
+                "start_time": 459.740183,
+                "end_time": 462.337874,
+                "MASR_results": "林昶佐:那以及訂購但解的內容網站形出很",
+                "google_asr_results": "內容網站星座",
+                "labels": "林昶佐:還是在中國哪一個內容網站先出現",
+                "asr_recognition_time": 0.8023440837860107,
+                "google_recognition_time": 0.4834146499633789,
+                "speaker_recognition_time": 0.08481836318969727
+        },
+        {
+                "start_time": 462.409323,
+                "end_time": 463.297335,
+                "MASR_results": "林昶佐:哇都來",
+                "google_asr_results": "耍賴",
+                "labels": "林昶佐:接下來",
+                "asr_recognition_time": 0.1573643684387207,
+                "google_recognition_time": 0.6398735046386719,
+                "speaker_recognition_time": 0.06412792205810547
+        },
+        {
+                "start_time": 463.445337,
+                "end_time": 466.956557,
+                "MASR_results": "林昶佐:齁因為經馬蘭臺灣人你這個案子對海發生你嘛對啊",
+                "google_asr_results": "英文",
+                "labels": "林昶佐,陳明通:齁因為現在我們台灣他其實這次他是從海外先進來的對啊",
+                "asr_recognition_time": 1.259324550628662,
+                "google_recognition_time": 0.41937875747680664,
+                "speaker_recognition_time": 0.15225458145141602
+        },
+        {
+                "start_time": 467.012696,
+                "end_time": 470.054392,
+                "MASR_results": "林昶佐:那大概晚五級年兵幹的裝機就愛無還機",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:我們台灣有一個民間的組織叫IORG",
+                "asr_recognition_time": 0.7392902374267578,
+                "google_recognition_time": 1.7146687507629395,
+                "speaker_recognition_time": 0.13437724113464355
+        },
+        {
+                "start_time": 470.16667,
+                "end_time": 472.063,
+                "MASR_results": "林昶佐:齁已經馬東西做集中更嚴",
+                "google_asr_results": "已經把東西送給你",
+                "labels": "林昶佐:齁他們現在都在做這種研究",
+                "asr_recognition_time": 0.6579287052154541,
+                "google_recognition_time": 1.09633207321167,
+                "speaker_recognition_time": 0.07711052894592285
+        },
+        {
+                "start_time": 472.453046,
+                "end_time": 474.213759,
+                "MASR_results": "林昶佐:你弄起先快一句嗎",
+                "google_asr_results": "不用情況",
+                "labels": "林昶佐:他都是先看他現在",
+                "asr_recognition_time": 0.5013782978057861,
+                "google_recognition_time": 0.963587760925293,
+                "speaker_recognition_time": 0.09206008911132812
+        },
+        {
+                "start_time": 474.259691,
+                "end_time": 478.250642,
+                "MASR_results": "林昶佐:包括這個關塞低點會打擊包括估業進的英年錦弟都整",
+                "google_asr_results": "要關機待機",
+                "labels": "林昶佐:包括這個關西機場的事情包括幾個這個他們的認知作戰",
+                "asr_recognition_time": 1.0540001392364502,
+                "google_recognition_time": 2.8616883754730225,
+                "speaker_recognition_time": 0.13463830947875977
+        },
+        {
+                "start_time": 478.311884,
+                "end_time": 480.271635,
+                "MASR_results": "林昶佐:欸欸當書你都已經",
+                "google_asr_results": "SK點數",
+                "labels": "林昶佐:的的程序他都已經",
+                "asr_recognition_time": 0.5473895072937012,
+                "google_recognition_time": 1.3256964683532715,
+                "speaker_recognition_time": 0.07955718040466309
+        },
+        {
+                "start_time": 480.40943,
+                "end_time": 481.067784,
+                "MASR_results": "林昶佐:空抱啊",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:公布了",
+                "asr_recognition_time": 0.3027806282043457,
+                "google_recognition_time": 0.24900341033935547,
+                "speaker_recognition_time": 0.03561878204345703
+        },
+        {
+                "start_time": 481.144336,
+                "end_time": 483.165329,
+                "MASR_results": "林昶佐:因其名單之後就幹你去表彰",
+                "google_asr_results": "冰淇冰甘州街",
+                "labels": "林昶佐:他們是民間組織自己去調查",
+                "asr_recognition_time": 0.6419837474822998,
+                "google_recognition_time": 0.7439455986022949,
+                "speaker_recognition_time": 0.07024216651916504
+        },
+        {
+                "start_time": 483.2776070000001,
+                "end_time": 485.472119,
+                "MASR_results": "林昶佐:啊所以跟於公佈估也多的提供喔",
+                "google_asr_results": "最後一工作公園",
+                "labels": "林昶佐:啊所以說他公布幾個大的就是說齁",
+                "asr_recognition_time": 0.7233567237854004,
+                "google_recognition_time": 1.1313269138336182,
+                "speaker_recognition_time": 0.10866904258728027
+        },
+        {
+                "start_time": 485.579293,
+                "end_time": 486.411167,
+                "MASR_results": "林昶佐:大概東西",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:每次都是",
+                "asr_recognition_time": 0.3317298889160156,
+                "google_recognition_time": 0.2532665729522705,
+                "speaker_recognition_time": 0.036235809326171875
+        },
+        {
+                "start_time": 486.472409,
+                "end_time": 487.457388,
+                "MASR_results": "林昶佐:那我也",
+                "google_asr_results": "肉桂",
+                "labels": "林昶佐:某幾個",
+                "asr_recognition_time": 0.31769418716430664,
+                "google_recognition_time": 0.5770201683044434,
+                "speaker_recognition_time": 0.07148122787475586
+        },
+        {
+                "start_time": 487.533941,
+                "end_time": 493.035533,
+                "MASR_results": "林昶佐:喔比不要謀得是動工飛機來綁章要不得去動工為內容農場有沒有的軍購跟不一切",
+                "google_asr_results": "內容農場",
+                "labels": "林昶佐:齁要不然就是中國的這個網站要不然就是中國的內容農場要不是就是中國的媒體",
+                "asr_recognition_time": 1.8096203804016113,
+                "google_recognition_time": 0.5924110412597656,
+                "speaker_recognition_time": 0.20800542831420898
+        },
+        {
+                "start_time": 493.081464,
+                "end_time": 494.699279,
+                "MASR_results": "林昶佐:雙都來的我待完某一退",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:接下來就換台灣的媒體",
+                "asr_recognition_time": 0.5479691028594971,
+                "google_recognition_time": 0.34758615493774414,
+                "speaker_recognition_time": 0.06445980072021484
+        },
+        {
+                "start_time": 494.760522,
+                "end_time": 496.327301,
+                "MASR_results": "林昶佐:齁待會呢幾克兩頁",
+                "google_asr_results": "Taiwan",
+                "labels": "林昶佐:齁台灣的一些網友",
+                "asr_recognition_time": 0.4880802631378174,
+                "google_recognition_time": 0.5018210411071777,
+                "speaker_recognition_time": 0.06966686248779297
+        },
+        {
+                "start_time": 496.41406100000006,
+                "end_time": 497.041794,
+                "MASR_results": "林昶佐:啊打可",
+                "google_asr_results": "打給",
+                "labels": "林昶佐:啊大家",
+                "asr_recognition_time": 0.30032873153686523,
+                "google_recognition_time": 0.24967169761657715,
+                "speaker_recognition_time": 0.026552915573120117
+        },
+        {
+                "start_time": 497.194899,
+                "end_time": 500.027352,
+                "MASR_results": "林昶佐:對體資料啊代完了目一塊頭來盟該完了瓜完",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:跟上去以後啊台灣的媒體就來問台灣的官員",
+                "asr_recognition_time": 1.004422664642334,
+                "google_recognition_time": 0.8290998935699463,
+                "speaker_recognition_time": 0.11030912399291992
+        },
+        {
+                "start_time": 500.223,
+                "end_time": 506.179551,
+                "MASR_results": "林昶佐:另一條齁我們一級的構案我想部長公齁東南那無回習生起他避離的族行北當公佈",
+                "google_asr_results": "vr",
+                "labels": "林昶佐:你以後齁每一個個案我是希望說齁當然我們有的時候是比較秘密的資訊不能公布的",
+                "asr_recognition_time": 1.8969347476959229,
+                "google_recognition_time": 2.6686744689941406,
+                "speaker_recognition_time": 0.19986820220947266
+        },
+        {
+                "start_time": 506.274057,
+                "end_time": 512.071654,
+                "MASR_results": "林昶佐:但是來輕輕去就那您剛懂會當表著給但是外什麼性公然九十不一名剛跟他定的咋樣嘛齁",
+                "google_asr_results": "三星還清楚",
+                "labels": "林昶佐:但是如果像這種我們民間就可以調查到但是我相信國安局是比民間還要快就知道嘛齁",
+                "asr_recognition_time": 2.015883207321167,
+                "google_recognition_time": 1.0391061305999756,
+                "speaker_recognition_time": 0.19715309143066406
+        },
+        {
+                "start_time": 512.255,
+                "end_time": 518.5939490000001,
+                "MASR_results": "林昶佐:這就公開也逐條力先公保大概對臺灣都啊另外一啦計要快表席未多為團回來",
+                "google_asr_results": "公開組例行工作",
+                "labels": "林昶佐:這種公開的資料你先公布大家就會知道說啊這樣我以後只要看到是從哪裡傳過來的",
+                "asr_recognition_time": 2.181320905685425,
+                "google_recognition_time": 1.874413013458252,
+                "speaker_recognition_time": 0.22243738174438477
+        },
+        {
+                "start_time": 518.726641,
+                "end_time": 521.0589480000001,
+                "MASR_results": "林昶佐:這些應該的問題大概都開也展覽",
+                "google_asr_results": "大哥豆",
+                "labels": "林昶佐:這個應該就有問題大家就比較會知道",
+                "asr_recognition_time": 0.737799882888794,
+                "google_recognition_time": 0.6156024932861328,
+                "speaker_recognition_time": 0.10937356948852539
+        },
+        {
+                "start_time": 521.1201900000001,
+                "end_time": 523.2636679999999,
+                "MASR_results": "林昶佐:所以工作也把我們差立跟警解都是",
+                "google_asr_results": "空間分析",
+                "labels": "林昶佐:所以說這個部分請你研究一下就是",
+                "asr_recognition_time": 0.7493572235107422,
+                "google_recognition_time": 1.3651161193847656,
+                "speaker_recognition_time": 0.09612917900085449
+        },
+        {
+                "start_time": 523.309599,
+                "end_time": 525.5194230000001,
+                "MASR_results": "林昶佐:有一喔賣收入為東西比例",
+                "google_asr_results": "youaremysouland",
+                "labels": "陳明通,林昶佐:好以後不要所有的都是秘密",
+                "asr_recognition_time": 0.6403141021728516,
+                "google_recognition_time": 1.1485130786895752,
+                "speaker_recognition_time": 0.11168599128723145
+        },
+        {
+                "start_time": 525.621493,
+                "end_time": 529.617547,
+                "MASR_results": "林昶佐:那一旦公安公務工這些型型低就整的基準備一些",
+                "google_asr_results": "南工安工作空間",
+                "labels": "林昶佐:我們可以說我們公布說這是認知作戰的時候連他的",
+                "asr_recognition_time": 1.2175695896148682,
+                "google_recognition_time": 1.806959867477417,
+                "speaker_recognition_time": 0.14682841300964355
+        },
+        {
+                "start_time": 529.714514,
+                "end_time": 530.367764,
+                "MASR_results": "林昶佐:惠田",
+                "google_asr_results": "桂田",
+                "labels": "林昶佐:過程",
+                "asr_recognition_time": 0.1558837890625,
+                "google_recognition_time": 0.3083345890045166,
+                "speaker_recognition_time": 0.03427553176879883
+        },
+        {
+                "start_time": 530.431,
+                "end_time": 533.787121,
+                "MASR_results": "林昶佐:是多維型花遞眼這個花統計的就整都維修話題",
+                "google_asr_results": "啟動WeChat",
+                "labels": "林昶佐:是哪裡先發起的這個發動這個作戰哪裡先發起",
+                "asr_recognition_time": 1.1063716411590576,
+                "google_recognition_time": 2.3185951709747314,
+                "speaker_recognition_time": 0.14426970481872559
+        },
+        {
+                "start_time": 534.083125,
+                "end_time": 538.048559,
+                "MASR_results": "林昶佐:啊當然摸估欸網站而且都會齁去英勇",
+                "google_asr_results": "台灣Mobile應用",
+                "labels": "林昶佐:啊台灣某幾個網站還是哪裡齁去引用",
+                "asr_recognition_time": 0.7721681594848633,
+                "google_recognition_time": 1.2515239715576172,
+                "speaker_recognition_time": 0.12864160537719727
+        },
+        {
+                "start_time": 538.111,
+                "end_time": 539.696995,
+                "MASR_results": "林昶佐:但是用我們調來臺進",
+                "google_asr_results": "無法辨識",
+                "labels": "林昶佐:但是用不對給他提醒",
+                "asr_recognition_time": 0.34895801544189453,
+                "google_recognition_time": 0.5737030506134033,
+                "speaker_recognition_time": 0.05491447448730469
+        },
+        {
+                "start_time": 540.049137,
+                "end_time": 543.876776,
+                "MASR_results": "林昶佐:因型明十條剛好不要五十一年也把他們摘啦但是機就把公",
+                "google_asr_results": "銀行小港",
+                "labels": "林昶佐:他們是不是故意後面有什麼利益沒我們不知道啦但是至少跟他講",
+                "asr_recognition_time": 1.3443350791931152,
+                "google_recognition_time": 0.6325118541717529,
+                "speaker_recognition_time": 0.14998769760131836
+        },
+        {
+                "start_time": 543.9380179999999,
+                "end_time": 546.642882,
+                "MASR_results": "林昶佐:這一齁大一席為都圍招來大概籠長一樣",
+                "google_asr_results": "最後的超爛",
+                "labels": "林昶佐:這個齁大他是從哪裡抄來的大家都知道",
+                "asr_recognition_time": 0.6882386207580566,
+                "google_recognition_time": 1.2216601371765137,
+                "speaker_recognition_time": 0.11392474174499512
+        },
+        {
+                "start_time": 546.877644,
+                "end_time": 547.839,
+                "MASR_results": "林昶佐:產業良好",
+                "google_asr_results": "怎樣",
+                "labels": "林昶佐:知道以後",
+                "asr_recognition_time": 0.18773555755615234,
+                "google_recognition_time": 0.4238269329071045,
+                "speaker_recognition_time": 0.040045976638793945
+        },
+        {
+                "start_time": 547.934072,
+                "end_time": 550.705282,
+                "MASR_results": "林昶佐:醫療打給齁多清楚桃度啊這個配舞",
+                "google_asr_results": "要打給華德清劉濤圖片",
+                "labels": "林昶佐:以後大家齁就像是剛才這個柏惟",
+                "asr_recognition_time": 0.8669147491455078,
+                "google_recognition_time": 2.2189807891845703,
+                "speaker_recognition_time": 0.09369826316833496
+        },
+        {
+                "start_time": 550.766525,
+                "end_time": 554.634991,
+                "MASR_results": "林昶佐:微軟給公大概臺灣南呃就定了啦跨部的展要啦齁",
+                "google_asr_results": "我就訂了啦看不懂啦",
+                "labels": "林昶佐:委員在講大家台灣人學很快的啦看久就知道啦齁",
+                "asr_recognition_time": 0.961146354675293,
+                "google_recognition_time": 1.3249900341033936,
+                "speaker_recognition_time": 0.16166901588439941
+        },
+        {
+                "start_time": 554.772786,
+                "end_time": 558.539182,
+                "MASR_results": "林昶佐:所以工作的保存是不起差九第五天跟九幾人三美換的一毫跟",
+                "google_asr_results": "射弓箭",
+                "labels": "林昶佐,陳明通:所以說這個部分是不是請局長去研究一下好什麼樣的以後我們",
+                "asr_recognition_time": 1.1450457572937012,
+                "google_recognition_time": 2.6331448554992676,
+                "speaker_recognition_time": 0.15746593475341797
+        },
+        {
+                "start_time": 558.758633,
+                "end_time": 559.896718,
+                "MASR_results": "林昶佐:第一川普",
+                "google_asr_results": "酸豆",
+                "labels": "林昶佐:在反駁",
+                "asr_recognition_time": 0.3289783000946045,
+                "google_recognition_time": 0.5502743721008301,
+                "speaker_recognition_time": 0.041136980056762695
+        },
+        {
+                "start_time": 559.937546,
+                "end_time": 563.8876690000001,
+                "MASR_results": "林昶佐:公允時間低收整的細準那呃但公共告上一塊呢這個",
+                "google_asr_results": "供應行情",
+                "labels": "林昶佐:說他們是認知作戰的時候我們可以公布到什麼樣的這個",
+                "asr_recognition_time": 1.2556419372558594,
+                "google_recognition_time": 0.46808481216430664,
+                "speaker_recognition_time": 0.12725520133972168
+        },
+        {
+                "start_time": 563.994842,
+                "end_time": 566.097492,
+                "MASR_results": "林昶佐:你每這個點數欸當馬給我跑出來",
+                "google_asr_results": "一德金屬",
+                "labels": "林昶佐:他們的這個程序可以把公布出來",
+                "asr_recognition_time": 0.7524433135986328,
+                "google_recognition_time": 2.4252331256866455,
+                "speaker_recognition_time": 0.09814882278442383
+        },
+        {
+                "start_time": 566.3730820000001,
+                "end_time": 566.720121,
+                "MASR_results": "陳柏惟:好",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:好",
+                "asr_recognition_time": 0.2596893310546875,
+                "google_recognition_time": 0.1949477195739746,
+                "speaker_recognition_time": 0.024441957473754883
+        },
+        {
+                "start_time": 566.995711,
+                "end_time": 568.593112,
+                "MASR_results": "林昶佐:共強委員齁都想決定",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通,林昶佐:多謝委員好多謝局長謝謝",
+                "asr_recognition_time": 0.5253534317016602,
+                "google_recognition_time": 0.8466415405273438,
+                "speaker_recognition_time": 0.06890368461608887
+        },
+        {
+                "start_time": 568.669665,
+                "end_time": 568.935048,
+                "MASR_results": "林昶佐:謝謝",
+                "google_asr_results": "謝",
+                "labels": "林昶佐:謝謝",
+                "asr_recognition_time": 0.2110588550567627,
+                "google_recognition_time": 0.20468831062316895,
+                "speaker_recognition_time": 0.02057623863220215
+        }
+]

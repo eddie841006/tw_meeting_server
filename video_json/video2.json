@@ -1,0 +1,1786 @@
+[
+        {
+                "speech_accuracy": 18,
+                "speaker_accuracy": 64
+        },
+        {
+                "start_time": 0.256,
+                "end_time": 1.547664,
+                "MASR_results": "陳柏惟:欸要加強改變",
+                "google_asr_results": "要加一個貝",
+                "labels": "陳柏惟:好邀請局長",
+                "asr_recognition_time": 0.4322035312652588,
+                "google_recognition_time": 0.5878159999847412,
+                "speaker_recognition_time": 0.09009504318237305
+        },
+        {
+                "start_time": 2.826531,
+                "end_time": 3.981269,
+                "MASR_results": "廖婉汝:來委員長請",
+                "google_asr_results": "三葉鋼琴",
+                "labels": "廖婉汝:陳局長請",
+                "asr_recognition_time": 0.3804354667663574,
+                "google_recognition_time": 0.5952944755554199,
+                "speaker_recognition_time": 0.04288840293884277
+        },
+        {
+                "start_time": 4.353146,
+                "end_time": 7.415552,
+                "MASR_results": "陳柏惟:欸還什麼欸我講這個樣子列喔",
+                "google_asr_results": "海水污染比例",
+                "labels": "陳柏惟:欸抱歉抱歉委員這是你的嗎",
+                "asr_recognition_time": 0.8628628253936768,
+                "google_recognition_time": 2.2673051357269287,
+                "speaker_recognition_time": 0.10026955604553223
+        },
+        {
+                "start_time": 13.54616,
+                "end_time": 15.185784,
+                "MASR_results": "邱國正:那委員早安你有",
+                "google_asr_results": "不然裸照",
+                "labels": "陳明通:委員早安委員你好",
+                "asr_recognition_time": 0.5250234603881836,
+                "google_recognition_time": 1.6203386783599854,
+                "speaker_recognition_time": 0.058454275131225586
+        },
+        {
+                "start_time": 15.312574,
+                "end_time": 16.13836,
+                "MASR_results": "陳柏惟:那再來你為",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:早安你好",
+                "asr_recognition_time": 0.36062121391296387,
+                "google_recognition_time": 1.0581448078155518,
+                "speaker_recognition_time": 0.03543376922607422
+        },
+        {
+                "start_time": 16.22586,
+                "end_time": 17.024302,
+                "MASR_results": "陳柏惟:欸",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:欸",
+                "asr_recognition_time": 0.2570536136627197,
+                "google_recognition_time": 0.23275089263916016,
+                "speaker_recognition_time": 0.03330659866333008
+        },
+        {
+                "start_time": 17.461804,
+                "end_time": 19.113374,
+                "MASR_results": "陳柏惟:這個經簡化因為",
+                "google_asr_results": "進講英文",
+                "labels": "陳柏惟:這個之前齁因為",
+                "asr_recognition_time": 0.2941899299621582,
+                "google_recognition_time": 0.5875210762023926,
+                "speaker_recognition_time": 0.05789017677307129
+        },
+        {
+                "start_time": 19.22275,
+                "end_time": 24.71887,
+                "MASR_results": "陳柏惟:一點我要錢要關掉來辦公室的報告啊大概受了還是請為黃金啊高",
+                "google_asr_results": "提醒我要加冠鷲哪裡辦公室被隔代開系統",
+                "labels": "陳柏惟:已經有邀請國安局來辦公室報告大概啊接下來的施政的方針啊跟",
+                "asr_recognition_time": 1.8398826122283936,
+                "google_recognition_time": 3.6630969047546387,
+                "speaker_recognition_time": 0.16614437103271484
+        },
+        {
+                "start_time": 25.008715,
+                "end_time": 33.518132,
+                "MASR_results": "陳柏惟:是的強調那等等我想雙點立這個購案可定馬是因為臺灣經貿想都還想保啊我一下齁應該也喜弟榮華對零啦齁",
+                "google_asr_results": "三點一刻觀酒店",
+                "labels": "陳柏惟:這個策略那當然我想選擇你做國安局長也是因為台灣現在最國家最大的威脅齁應該是在兩岸的對面啦齁",
+                "asr_recognition_time": 3.1495633125305176,
+                "google_recognition_time": 1.729304313659668,
+                "speaker_recognition_time": 0.2915349006652832
+        },
+        {
+                "start_time": 33.944696,
+                "end_time": 34.579074,
+                "MASR_results": "陳柏惟:那",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:那",
+                "asr_recognition_time": 0.2295691967010498,
+                "google_recognition_time": 0.19874334335327148,
+                "speaker_recognition_time": 0.05135822296142578
+        },
+        {
+                "start_time": 34.847044,
+                "end_time": 41.901766,
+                "MASR_results": "陳柏惟:這個也不不可能雖然這些敵力啦但是一些章節齁到軍來對北航空有減那其他百臺分之二夠給",
+                "google_asr_results": "屈臣氏三星捷航空",
+                "labels": "陳柏惟:這個業務報告呢雖然這是機密啦但是他的章節齁章節裡面第一行說疫情那其他大概分做國際",
+                "asr_recognition_time": 2.408759593963623,
+                "google_recognition_time": 2.665616989135742,
+                "speaker_recognition_time": 0.24824142456054688
+        },
+        {
+                "start_time": 42.082236,
+                "end_time": 44.083808,
+                "MASR_results": "陳柏惟:呃榮共告百萬之關",
+                "google_asr_results": "阿中貢丸",
+                "labels": "陳柏惟:啊中國跟台灣之間",
+                "asr_recognition_time": 0.5230793952941895,
+                "google_recognition_time": 0.847919225692749,
+                "speaker_recognition_time": 0.07364749908447266
+        },
+        {
+                "start_time": 44.288,
+                "end_time": 48.431485,
+                "MASR_results": "陳柏惟:不能該完了電話令購回來夠剛剛買臺灣名為係訂購啦齁",
+                "google_asr_results": "不能把我的電話",
+                "labels": "陳柏惟:當然台灣的中華民國有的人國家也會把我們認為是中國啦齁",
+                "asr_recognition_time": 1.3424043655395508,
+                "google_recognition_time": 1.7770521640777588,
+                "speaker_recognition_time": 0.14481782913208008
+        },
+        {
+                "start_time": 48.64,
+                "end_time": 50.536964,
+                "MASR_results": "陳柏惟:如果剛剛啦我們去公開搞不一點滴",
+                "google_asr_results": "水痘感染",
+                "labels": "陳柏惟:有的國家啦不是說我們自己的認知",
+                "asr_recognition_time": 0.7166380882263184,
+                "google_recognition_time": 1.5611507892608643,
+                "speaker_recognition_time": 0.07269454002380371
+        },
+        {
+                "start_time": 50.728372,
+                "end_time": 51.543219,
+                "MASR_results": "陳柏惟:所以即是",
+                "google_asr_results": "設計系",
+                "labels": "陳柏惟:所以其實",
+                "asr_recognition_time": 0.33020973205566406,
+                "google_recognition_time": 0.6294307708740234,
+                "speaker_recognition_time": 0.05122995376586914
+        },
+        {
+                "start_time": 51.701814,
+                "end_time": 54.315889,
+                "MASR_results": "陳柏惟:比各個人轉電管仍愛東西",
+                "google_asr_results": "轉燈管",
+                "labels": "陳柏惟:在國家安全上面我們要重視",
+                "asr_recognition_time": 0.4716982841491699,
+                "google_recognition_time": 0.5301847457885742,
+                "speaker_recognition_time": 0.1240684986114502
+        },
+        {
+                "start_time": 54.430733,
+                "end_time": 55.333081,
+                "MASR_results": "陳柏惟:包括率更低",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:包括你自己",
+                "asr_recognition_time": 0.3632020950317383,
+                "google_recognition_time": 0.48784971237182617,
+                "speaker_recognition_time": 0.0400996208190918
+        },
+        {
+                "start_time": 55.376832,
+                "end_time": 59.746384,
+                "MASR_results": "陳柏惟:的第二個齁外況網站一點我們心啊因為有列土地二個來對我供給公",
+                "google_asr_results": "Bird",
+                "labels": "陳柏惟:局長報告齁我看網站已經有換新了你的局長報告裡面有說到說",
+                "asr_recognition_time": 1.5885694026947021,
+                "google_recognition_time": 1.869438886642456,
+                "speaker_recognition_time": 0.16836285591125488
+        },
+        {
+                "start_time": 59.904,
+                "end_time": 62.72,
+                "MASR_results": "陳柏惟:中國的國射的旅決策略",
+                "google_asr_results": "中華隊vs",
+                "labels": "陳柏惟:境外敵對的勢敵對的勢力",
+                "asr_recognition_time": 0.45611023902893066,
+                "google_recognition_time": 2.4715559482574463,
+                "speaker_recognition_time": 0.11692976951599121
+        },
+        {
+                "start_time": 63.098744,
+                "end_time": 67.774548,
+                "MASR_results": "陳柏惟:呃透過這個訊息白婚華阿來破來打完林主委他底下會",
+                "google_asr_results": "打到櫃子的信心來混華阿來不來台灣兵最後底下會",
+                "labels": "陳柏惟:啊透過這個訊息來分化啊來破壞台灣民主的法治社會",
+                "asr_recognition_time": 1.3969895839691162,
+                "google_recognition_time": 2.1544079780578613,
+                "speaker_recognition_time": 0.1669924259185791
+        },
+        {
+                "start_time": 67.949549,
+                "end_time": 74.422894,
+                "MASR_results": "陳柏惟:股特你定為您經貿再進行讀標證監控也是認啊這個天估料的狀況弊嗎",
+                "google_asr_results": "股票0050今嘛再見塗料之刃積木",
+                "labels": "陳柏惟:具體你認為他們現在在進行除了戰爭齁軟實力啊這個恐武力的恐嚇以外",
+                "asr_recognition_time": 2.0653862953186035,
+                "google_recognition_time": 5.2340168952941895,
+                "speaker_recognition_time": 0.19972467422485352
+        },
+        {
+                "start_time": 74.572238,
+                "end_time": 78.788664,
+                "MASR_results": "陳柏惟:一點為經貿對臺灣相多一下不夠個案轉型都還誤一樣應該是這邊有",
+                "google_asr_results": "已經被改完想吐",
+                "labels": "陳柏惟:你認為現在對台灣最大的威脅國家安全最大的威脅應該是什麼東西",
+                "asr_recognition_time": 1.6345291137695312,
+                "google_recognition_time": 1.4135973453521729,
+                "speaker_recognition_time": 0.17377352714538574
+        },
+        {
+                "start_time": 79.379292,
+                "end_time": 80.538673,
+                "MASR_results": "陳柏惟:跟委員報告啊",
+                "google_asr_results": "中原洗包",
+                "labels": "陳明通:當然是北京",
+                "asr_recognition_time": 0.435823917388916,
+                "google_recognition_time": 0.3673553466796875,
+                "speaker_recognition_time": 0.0652165412902832
+        },
+        {
+                "start_time": 80.779299,
+                "end_time": 84.990257,
+                "MASR_results": "陳柏惟:報給啊也透過聲面同學來進年大臺灣跟手整",
+                "google_asr_results": "81砲貴生命",
+                "labels": "陳柏惟,陳明通:北京啊他會透過什麼形式來進行啊當然跟台灣作戰",
+                "asr_recognition_time": 1.1691393852233887,
+                "google_recognition_time": 2.0532968044281006,
+                "speaker_recognition_time": 0.13499140739440918
+        },
+        {
+                "start_time": 85.248,
+                "end_time": 87.330893,
+                "MASR_results": "陳柏惟:目的是幾夫人是一齁",
+                "google_asr_results": "李鴻源",
+                "labels": "陳明通,陳柏惟:武力是一方面是齁",
+                "asr_recognition_time": 0.5296165943145752,
+                "google_recognition_time": 1.1652381420135498,
+                "speaker_recognition_time": 0.09549689292907715
+        },
+        {
+                "start_time": 87.730114,
+                "end_time": 89.819187,
+                "MASR_results": "陳柏惟:另外中我們榮民都是以及欸",
+                "google_asr_results": "文化中心",
+                "labels": "陳明通:另外總方面就是他這個",
+                "asr_recognition_time": 0.6490919589996338,
+                "google_recognition_time": 0.89290452003479,
+                "speaker_recognition_time": 0.0706486701965332
+        },
+        {
+                "start_time": 90.048875,
+                "end_time": 91.574664,
+                "MASR_results": "邱國正:墊都混齁",
+                "google_asr_results": "做很厚",
+                "labels": "陳明通:假的資訊齁",
+                "asr_recognition_time": 0.20255494117736816,
+                "google_recognition_time": 0.8331625461578369,
+                "speaker_recognition_time": 0.08088326454162598
+        },
+        {
+                "start_time": 91.738727,
+                "end_time": 93.614518,
+                "MASR_results": "邱國正:就是領地業這個周鎮",
+                "google_asr_results": "最近的夜店",
+                "labels": "陳明通:這個認知的這個作戰",
+                "asr_recognition_time": 0.5507068634033203,
+                "google_recognition_time": 0.8670337200164795,
+                "speaker_recognition_time": 0.09837007522583008
+        },
+        {
+                "start_time": 93.69108,
+                "end_time": 94.341865,
+                "MASR_results": "陳柏惟:就我們",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:這方面",
+                "asr_recognition_time": 0.300936222076416,
+                "google_recognition_time": 0.3986995220184326,
+                "speaker_recognition_time": 0.0454561710357666
+        },
+        {
+                "start_time": 94.533272,
+                "end_time": 96.370781,
+                "MASR_results": "邱國正:我請彈射改榮已經",
+                "google_asr_results": "陳志凱容易經",
+                "labels": "陳明通:我想全世界都已經",
+                "asr_recognition_time": 0.5074591636657715,
+                "google_recognition_time": 1.576880693435669,
+                "speaker_recognition_time": 0.07335877418518066
+        },
+        {
+                "start_time": 96.491094,
+                "end_time": 97.28,
+                "MASR_results": "陳柏惟:呃另外",
+                "google_asr_results": "Lingo",
+                "labels": "陳明通:呃領教",
+                "asr_recognition_time": 0.1536259651184082,
+                "google_recognition_time": 0.32166433334350586,
+                "speaker_recognition_time": 0.05957984924316406
+        },
+        {
+                "start_time": 97.480943,
+                "end_time": 98.65673,
+                "MASR_results": "陳柏惟:你們這個作為",
+                "google_asr_results": "新美街的中醫",
+                "labels": "陳明通:他們的這個作為",
+                "asr_recognition_time": 0.4306464195251465,
+                "google_recognition_time": 0.9115533828735352,
+                "speaker_recognition_time": 0.05874061584472656
+        },
+        {
+                "start_time": 98.727824,
+                "end_time": 103.567691,
+                "MASR_results": "陳柏惟:你第一有就整呃排水個論清照人力列領低就整機器也離列領第一次嗎",
+                "google_asr_results": "您的也就整地排水的那青島的歷練的就診記得提領的是什麼",
+                "labels": "陳柏惟:認知的作戰啊抱歉局長請教一下你的你的認知作戰這四個字你的認知是什麼",
+                "asr_recognition_time": 1.736781120300293,
+                "google_recognition_time": 3.1491527557373047,
+                "speaker_recognition_time": 0.1783461570739746
+        },
+        {
+                "start_time": 103.835661,
+                "end_time": 110.32163,
+                "MASR_results": "陳柏惟:你剛認為這個是該被你有損壞嘛要不要說你有設有這部分來該的劣型患嘛因為他拿捏這個",
+                "google_asr_results": "你也喜歡",
+                "labels": "陳柏惟,陳明通:你認為什麼是沒有沒有他就是改變你的想法嘛改變你的想法比如說假的資訊來改變你的想法嘛因為我們人的這個",
+                "asr_recognition_time": 2.5458295345306396,
+                "google_recognition_time": 3.4187350273132324,
+                "speaker_recognition_time": 0.1942152976989746
+        },
+        {
+                "start_time": 110.452881,
+                "end_time": 113.879741,
+                "MASR_results": "陳柏惟:齁呃這個留在廣告打擊喔",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:喔欸這個了解外交的事情齁喔",
+                "asr_recognition_time": 0.7600524425506592,
+                "google_recognition_time": 0.7570044994354248,
+                "speaker_recognition_time": 0.1435229778289795
+        },
+        {
+                "start_time": 114.029461,
+                "end_time": 117.392758,
+                "MASR_results": "邱國正:天跨但是周化事實不是境內",
+                "google_asr_results": "跨行收款",
+                "labels": "陳明通:聽看但是所看是是不是真的",
+                "asr_recognition_time": 0.7857987880706787,
+                "google_recognition_time": 1.2634522914886475,
+                "speaker_recognition_time": 0.13988018035888672
+        },
+        {
+                "start_time": 117.895886,
+                "end_time": 121.499809,
+                "MASR_results": "陳柏惟:這是覺得進來好或者是說緩高於行為有點敢困",
+                "google_asr_results": "自己的近況",
+                "labels": "陳明通,陳柏惟:這是一個很大的喔就是說看的跟他想的不一定一樣",
+                "asr_recognition_time": 1.151444911956787,
+                "google_recognition_time": 1.9275751113891602,
+                "speaker_recognition_time": 0.13570189476013184
+        },
+        {
+                "start_time": 121.691217,
+                "end_time": 124.945139,
+                "MASR_results": "陳柏惟:你知道齁一塊嘛個人去對你你去賣口低",
+                "google_asr_results": "skip",
+                "labels": "陳柏惟,陳明通:這齁而且你看的也有可能是假的尤其現在的科技",
+                "asr_recognition_time": 0.9926371574401855,
+                "google_recognition_time": 1.3949787616729736,
+                "speaker_recognition_time": 0.14609622955322266
+        },
+        {
+                "start_time": 125.032639,
+                "end_time": 126.45999,
+                "MASR_results": "陳柏惟:一個就等一下重品",
+                "google_asr_results": "舅舅",
+                "labels": "陳明通:你看很多那種相片",
+                "asr_recognition_time": 0.5046706199645996,
+                "google_recognition_time": 0.46475696563720703,
+                "speaker_recognition_time": 0.08105182647705078
+        },
+        {
+                "start_time": 126.618584,
+                "end_time": 127.635777,
+                "MASR_results": "陳柏惟:剛剛停會",
+                "google_asr_results": "銀櫃",
+                "labels": "陳明通:那都經過",
+                "asr_recognition_time": 0.19437885284423828,
+                "google_recognition_time": 0.3593428134918213,
+                "speaker_recognition_time": 0.04375147819519043
+        },
+        {
+                "start_time": 127.701402,
+                "end_time": 130.293602,
+                "MASR_results": "陳柏惟:齁AI連續變鐘早不就死捏",
+                "google_asr_results": "日本整形",
+                "labels": "陳明通:齁AI下去變造做得很像的",
+                "asr_recognition_time": 0.5070788860321045,
+                "google_recognition_time": 2.9317023754119873,
+                "speaker_recognition_time": 0.1215672492980957
+        },
+        {
+                "start_time": 130.402978,
+                "end_time": 136.774102,
+                "MASR_results": "邱國正:齁所以這麼這個祝福我們的這個在蓋中文的呃勾鼻啊及陸海文化店齁",
+                "google_asr_results": "說中文的",
+                "labels": "陳明通,陳柏惟:齁所以現在這個資訊的這個這個假的資訊捏喔科技啊是越來越發展好",
+                "asr_recognition_time": 1.738832950592041,
+                "google_recognition_time": 1.9752964973449707,
+                "speaker_recognition_time": 0.2211017608642578
+        },
+        {
+                "start_time": 136.839728,
+                "end_time": 138.584267,
+                "MASR_results": "陳柏惟:外領白寫那樣因為齁",
+                "google_asr_results": "y08",
+                "labels": "陳柏惟:我的認知是這樣啦因為齁",
+                "asr_recognition_time": 0.5571019649505615,
+                "google_recognition_time": 0.733466625213623,
+                "speaker_recognition_time": 0.06152224540710449
+        },
+        {
+                "start_time": 138.633486,
+                "end_time": 144.578047,
+                "MASR_results": "陳柏惟:那這個新的校文補貼來一些總喔因為那開始五網喔呃那百號嘛他頗本",
+                "google_asr_results": "楠梓新年校園排行榜",
+                "labels": "陳柏惟,陳明通:我們這個新的校園被起來的時候齁因為我們開始有網路啊是也大學也比較普遍",
+                "asr_recognition_time": 1.960646629333496,
+                "google_recognition_time": 2.7630817890167236,
+                "speaker_recognition_time": 0.2168416976928711
+        },
+        {
+                "start_time": 144.736641,
+                "end_time": 149.532758,
+                "MASR_results": "陳柏惟:啊社會打我回來啦我可以動物他歸他嘴測以這是對科號的追究",
+                "google_asr_results": "他說你爸爸",
+                "labels": "陳柏惟:啊所以大部分的人有可能都有讀過比較多書亦或者是對科學的追求",
+                "asr_recognition_time": 1.5900485515594482,
+                "google_recognition_time": 1.676321268081665,
+                "speaker_recognition_time": 0.18698382377624512
+        },
+        {
+                "start_time": 149.653071,
+                "end_time": 150.653857,
+                "MASR_results": "陳柏惟:來看很細話",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:會比較現實化",
+                "asr_recognition_time": 0.21633410453796387,
+                "google_recognition_time": 0.2652111053466797,
+                "speaker_recognition_time": 0.0421297550201416
+        },
+        {
+                "start_time": 150.752295,
+                "end_time": 156.921075,
+                "MASR_results": "陳柏惟:那過去國有邀言那也這是因為間諜的官天齁用華來整那呃是空這的課品工",
+                "google_asr_results": "1元啦英文",
+                "labels": "陳柏惟:那過去有一些遊謠言啦或者是因為政治的關係齁兩岸內戰呢啊還是說這個國民國",
+                "asr_recognition_time": 1.811290979385376,
+                "google_recognition_time": 1.1806738376617432,
+                "speaker_recognition_time": 0.19216179847717285
+        },
+        {
+                "start_time": 157.243733,
+                "end_time": 159.299993,
+                "MASR_results": "陳柏惟:不懂白整年記得書官",
+                "google_asr_results": "證書框",
+                "labels": "陳柏惟:國共內戰的這個史觀",
+                "asr_recognition_time": 0.552908182144165,
+                "google_recognition_time": 0.5442726612091064,
+                "speaker_recognition_time": 0.07743239402770996
+        },
+        {
+                "start_time": 159.398431,
+                "end_time": 161.296097,
+                "MASR_results": "陳柏惟:澳大位能夠快點低落敢快",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:啊有台灣人的認知不一樣",
+                "asr_recognition_time": 0.6003327369689941,
+                "google_recognition_time": 1.0040240287780762,
+                "speaker_recognition_time": 0.07284975051879883
+        },
+        {
+                "start_time": 161.394535,
+                "end_time": 162.03985,
+                "MASR_results": "陳柏惟:啊所以呢",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:啊所以呢",
+                "asr_recognition_time": 0.3173198699951172,
+                "google_recognition_time": 0.240692138671875,
+                "speaker_recognition_time": 0.02615809440612793
+        },
+        {
+                "start_time": 162.116413,
+                "end_time": 163.193762,
+                "MASR_results": "陳柏惟:我類型齁比如公",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:我在想齁比如說",
+                "asr_recognition_time": 0.42902636528015137,
+                "google_recognition_time": 0.7103176116943359,
+                "speaker_recognition_time": 0.07204318046569824
+        },
+        {
+                "start_time": 163.407044,
+                "end_time": 166.475028,
+                "MASR_results": "陳柏惟:那那塊可他的碩齡這起提出破短零六耶",
+                "google_asr_results": "廁所裡最省的超短",
+                "labels": "陳柏惟:我們在看科學的數字這是有基礎判斷能力的",
+                "asr_recognition_time": 0.9335362911224365,
+                "google_recognition_time": 1.3914966583251953,
+                "speaker_recognition_time": 0.13402247428894043
+        },
+        {
+                "start_time": 166.628154,
+                "end_time": 169.275042,
+                "MASR_results": "陳柏惟:但是他們的這降低也有個二個細菌",
+                "google_asr_results": "彈性的",
+                "labels": "陳柏惟:但是我們在做政治的目的的時候",
+                "asr_recognition_time": 0.8361382484436035,
+                "google_recognition_time": 2.1674623489379883,
+                "speaker_recognition_time": 0.11207795143127441
+        },
+        {
+                "start_time": 169.329729,
+                "end_time": 171.057863,
+                "MASR_results": "陳柏惟:我想這個很喜國安用的押部",
+                "google_asr_results": "高雄這種習慣就好",
+                "labels": "陳柏惟:我想這就不是國安局的業務",
+                "asr_recognition_time": 0.6422407627105713,
+                "google_recognition_time": 0.7955138683319092,
+                "speaker_recognition_time": 0.06908965110778809
+        },
+        {
+                "start_time": 171.123488,
+                "end_time": 173.26178,
+                "MASR_results": "陳柏惟:有的是公文系中退官的屬性",
+                "google_asr_results": "家中為西裝的屬性",
+                "labels": "陳柏惟:也就是說有的時候客觀的事實",
+                "asr_recognition_time": 0.6483910083770752,
+                "google_recognition_time": 1.0582835674285889,
+                "speaker_recognition_time": 0.07048225402832031
+        },
+        {
+                "start_time": 173.551625,
+                "end_time": 175.028195,
+                "MASR_results": "陳柏惟:光掉二請包括公",
+                "google_asr_results": "逛街",
+                "labels": "陳柏惟:國安局要想辦法說",
+                "asr_recognition_time": 0.45690178871154785,
+                "google_recognition_time": 0.5587882995605469,
+                "speaker_recognition_time": 0.06513595581054688
+        },
+        {
+                "start_time": 175.13757,
+                "end_time": 179.151652,
+                "MASR_results": "陳柏惟:風格齁打來零種張欸靠他都出力借來電性式的保存",
+                "google_asr_results": "隔閡",
+                "labels": "陳柏惟:公告給大家民眾知道比較有辦法處理這個假訊息的部分",
+                "asr_recognition_time": 1.2553520202636719,
+                "google_recognition_time": 0.673271656036377,
+                "speaker_recognition_time": 0.16329288482666016
+        },
+        {
+                "start_time": 179.315715,
+                "end_time": 186.343093,
+                "MASR_results": "陳柏惟:但是如果以五件底行為我各個基準真的門列破洞我外立蓋官由這個高中心還內容兩邊變",
+                "google_asr_results": "三色15間體型的",
+                "labels": "陳柏惟:但是如果他有政治性的目的的時候這就會不用你的判斷我的理解國安局的這個工作是這樣內容對嗎",
+                "asr_recognition_time": 2.7202227115631104,
+                "google_recognition_time": 5.743818759918213,
+                "speaker_recognition_time": 0.21462106704711914
+        },
+        {
+                "start_time": 186.375906,
+                "end_time": 195.352593,
+                "MASR_results": "陳柏惟:司長跟過一個最重要同仁那些只不要求魂齁你們一下我一下可以申呃就給這個中重",
+                "google_asr_results": "這個最初有都沒耐心",
+                "labels": "陳明通:是啦我們國安局最主要當然要來收集一些資訊齁尤其來自於北京的一些威脅假訊呃假假的資訊種種",
+                "asr_recognition_time": 3.1112682819366455,
+                "google_recognition_time": 1.7168982028961182,
+                "speaker_recognition_time": 0.27500057220458984
+        },
+        {
+                "start_time": 195.864233,
+                "end_time": 199.922066,
+                "MASR_results": "陳柏惟:你覺得是要能盡保存這屬建類的速度性該進步線",
+                "google_asr_results": "分數的數線",
+                "labels": "陳明通,陳柏惟:而且也就是說我們情報分做事這個事務性跟政務性",
+                "asr_recognition_time": 1.2169890403747559,
+                "google_recognition_time": 4.768263339996338,
+                "speaker_recognition_time": 0.1289660930633545
+        },
+        {
+                "start_time": 200.192,
+                "end_time": 203.903123,
+                "MASR_results": "陳柏惟:啊單退官的科合欸受利息化都來工抱來丟掉",
+                "google_asr_results": "TOMICA厚禮數",
+                "labels": "Unknown:啊我們客觀的科學的數字是有辦法來公布的對不對",
+                "asr_recognition_time": 1.1176507472991943,
+                "google_recognition_time": 2.5519208908081055,
+                "speaker_recognition_time": 0.13248634338378906
+        },
+        {
+                "start_time": 204.340837,
+                "end_time": 206.096686,
+                "MASR_results": "陳柏惟:呃因為在",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:啊因因為這個",
+                "asr_recognition_time": 0.3830142021179199,
+                "google_recognition_time": 0.3731527328491211,
+                "speaker_recognition_time": 0.06766414642333984
+        },
+        {
+                "start_time": 207.015069,
+                "end_time": 208.601014,
+                "MASR_results": "陳柏惟:你也沒有那個在",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:要要怎麼講這個",
+                "asr_recognition_time": 0.4642925262451172,
+                "google_recognition_time": 0.3501861095428467,
+                "speaker_recognition_time": 0.07593894004821777
+        },
+        {
+                "start_time": 208.748671,
+                "end_time": 210.334616,
+                "MASR_results": "陳柏惟:幾官獸醫齁",
+                "google_asr_results": "怪獸裡歐",
+                "labels": "陳明通:有一些數字齁",
+                "asr_recognition_time": 0.4105539321899414,
+                "google_recognition_time": 0.63346266746521,
+                "speaker_recognition_time": 0.055057525634765625
+        },
+        {
+                "start_time": 210.728368,
+                "end_time": 212.23775,
+                "MASR_results": "陳柏惟:呃是我現在跟我",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:啊是不是要公布",
+                "asr_recognition_time": 0.4887821674346924,
+                "google_recognition_time": 0.43139100074768066,
+                "speaker_recognition_time": 0.06741786003112793
+        },
+        {
+                "start_time": 212.265094,
+                "end_time": 214.950264,
+                "MASR_results": "陳柏惟:一些抱該買的口啊可以好把他幹當籠子捏",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通,陳柏惟:其實北京也在看咧好那不然我簡單問一下",
+                "asr_recognition_time": 0.941824197769165,
+                "google_recognition_time": 0.6250424385070801,
+                "speaker_recognition_time": 0.1104123592376709
+        },
+        {
+                "start_time": 215.469797,
+                "end_time": 219.593255,
+                "MASR_results": "陳柏惟:啊用他竟警工齁白一玩了歐來裡面因為是中午殺中堂",
+                "google_asr_results": "他就會自己玩了",
+                "labels": "陳柏惟:阿共啊之前說齁台灣的鳳梨賣他們的時候有三種蟲",
+                "asr_recognition_time": 1.0781807899475098,
+                "google_recognition_time": 1.513268232345581,
+                "speaker_recognition_time": 0.15739178657531738
+        },
+        {
+                "start_time": 219.844819,
+                "end_time": 221.496389,
+                "MASR_results": "陳柏惟:稽查總統請教務嗎",
+                "google_asr_results": "至少忠堂平價無碼",
+                "labels": "陳柏惟:這三種蟲真的有嗎",
+                "asr_recognition_time": 0.4635334014892578,
+                "google_recognition_time": 1.08671236038208,
+                "speaker_recognition_time": 0.08049416542053223
+        },
+        {
+                "start_time": 222.437019,
+                "end_time": 224.378434,
+                "MASR_results": "陳柏惟:兩起摘一樣我們才樣啊十二",
+                "google_asr_results": "詹雅雯",
+                "labels": "陳柏惟:我們是知道不知道還是呃",
+                "asr_recognition_time": 0.6310901641845703,
+                "google_recognition_time": 0.7921121120452881,
+                "speaker_recognition_time": 0.09881234169006348
+        },
+        {
+                "start_time": 224.44406,
+                "end_time": 226.576883,
+                "MASR_results": "陳柏惟:西屋某呃時報辛苦",
+                "google_asr_results": "西屋",
+                "labels": "陳柏惟:是有沒有還是沒有證據",
+                "asr_recognition_time": 0.3488903045654297,
+                "google_recognition_time": 1.2256319522857666,
+                "speaker_recognition_time": 0.11057043075561523
+        },
+        {
+                "start_time": 226.730008,
+                "end_time": 230.426901,
+                "MASR_results": "陳柏惟:流灣會一點給他五共嘛欸光上一公欸",
+                "google_asr_results": "農委會1.95塊",
+                "labels": "陳明通,陳柏惟:農委會已經今天有說了他說什麼他說欸",
+                "asr_recognition_time": 0.9767043590545654,
+                "google_recognition_time": 1.8876135349273682,
+                "speaker_recognition_time": 0.2066361904144287
+        },
+        {
+                "start_time": 230.596433,
+                "end_time": 232.816757,
+                "MASR_results": "陳柏惟:我黨這十五報險來啦經過一月",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟,陳明通:沒有啦這事務性的啦他們在說的他們他們說的那個",
+                "asr_recognition_time": 0.6953787803649902,
+                "google_recognition_time": 1.021406888961792,
+                "speaker_recognition_time": 0.1169586181640625
+        },
+        {
+                "start_time": 232.89332,
+                "end_time": 236.098023,
+                "MASR_results": "陳柏惟:榮民節構齁給他旅五共齁因公文一塊呢",
+                "google_asr_results": "農地過戶",
+                "labels": "陳明通:農委會我有看到今天有說齁他們說的那種的",
+                "asr_recognition_time": 0.9514679908752441,
+                "google_recognition_time": 0.8238365650177002,
+                "speaker_recognition_time": 0.1400892734527588
+        },
+        {
+                "start_time": 236.371462,
+                "end_time": 236.73787,
+                "MASR_results": "邱國正:喔",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:齁",
+                "asr_recognition_time": 0.21186399459838867,
+                "google_recognition_time": 0.2100672721862793,
+                "speaker_recognition_time": 0.021923065185546875
+        },
+        {
+                "start_time": 237.339435,
+                "end_time": 238.52616,
+                "MASR_results": "邱國正:所以這定預算",
+                "google_asr_results": "解釋淨飲水",
+                "labels": "陳明通:拿出證據出來",
+                "asr_recognition_time": 0.40102124214172363,
+                "google_recognition_time": 1.4437167644500732,
+                "speaker_recognition_time": 0.04634261131286621
+        },
+        {
+                "start_time": 238.662879,
+                "end_time": 242.523835,
+                "MASR_results": "陳柏惟:依我李秀你在齁你有在說什麼列一發齁我們是",
+                "google_asr_results": "有點像你",
+                "labels": "陳明通,陳柏惟:他沒拿相片出來看你不可以不可以所以是沒證據嘛不是啦不是啦",
+                "asr_recognition_time": 1.274294137954712,
+                "google_recognition_time": 1.6239712238311768,
+                "speaker_recognition_time": 0.1301889419555664
+        },
+        {
+                "start_time": 242.715242,
+                "end_time": 243.456,
+                "MASR_results": "陳柏惟:妹妹在",
+                "google_asr_results": "力里山",
+                "labels": "陳明通:你不可以",
+                "asr_recognition_time": 0.15166354179382324,
+                "google_recognition_time": 0.46912598609924316,
+                "speaker_recognition_time": 0.03359389305114746
+        },
+        {
+                "start_time": 244.02228,
+                "end_time": 248.282457,
+                "MASR_results": "陳柏惟:抗成寶雞啊第二可以重美之後橫跨過五要跟帶我內",
+                "google_asr_results": "鋼琴譜降b",
+                "labels": "陳明通:空口無憑啊你要拿相片出來給人看說真的我們台灣的",
+                "asr_recognition_time": 1.3335373401641846,
+                "google_recognition_time": 1.4038772583007812,
+                "speaker_recognition_time": 0.17133450508117676
+        },
+        {
+                "start_time": 248.375426,
+                "end_time": 251.79888,
+                "MASR_results": "陳柏惟:公媒體我勸架在旁架在埋定",
+                "google_asr_results": "購買床架一次買進",
+                "labels": "陳明通:鳳梨去有這種的這個這個蟲這個這個壞菌",
+                "asr_recognition_time": 0.7947912216186523,
+                "google_recognition_time": 1.087409257888794,
+                "speaker_recognition_time": 0.11202859878540039
+        },
+        {
+                "start_time": 252.269195,
+                "end_time": 252.96373,
+                "MASR_results": "陳柏惟:這個",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:結果",
+                "asr_recognition_time": 0.2766439914703369,
+                "google_recognition_time": 0.24338436126708984,
+                "speaker_recognition_time": 0.05344438552856445
+        },
+        {
+                "start_time": 253.204356,
+                "end_time": 261.068457,
+                "MASR_results": "陳柏惟:你這個要謀底送你說啊立剛才康級國金啊啊那被沒有要到射頭溝然南北省小所以列定五這剛講就買零地就轉了只保溫",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通,陳柏惟:你現在也沒拿相片出來啊你只有空口無憑啊這樣要要怎麼說服說我們百姓的啊所以你難道認為這是阿共的認知作戰的一部分",
+                "asr_recognition_time": 3.616128921508789,
+                "google_recognition_time": 3.1369659900665283,
+                "speaker_recognition_time": 0.45169639587402344
+        },
+        {
+                "start_time": 261.145019,
+                "end_time": 265.07707,
+                "MASR_results": "陳柏惟:這公關係金被中職人我們明年就整了一把這麼文字我像官告處理",
+                "google_asr_results": "這種愛情金幣",
+                "labels": "陳明通,陳柏惟:這當然是認知作戰的一部分啊那認知作戰部一部分是不是可以國安局處理",
+                "asr_recognition_time": 1.4733524322509766,
+                "google_recognition_time": 1.7398488521575928,
+                "speaker_recognition_time": 0.18527650833129883
+        },
+        {
+                "start_time": 265.366915,
+                "end_time": 266.531764,
+                "MASR_results": "邱國正:那問題齁",
+                "google_asr_results": "盥洗後",
+                "labels": "陳明通:不我不是齁",
+                "asr_recognition_time": 0.3264610767364502,
+                "google_recognition_time": 0.31444787979125977,
+                "speaker_recognition_time": 0.038906097412109375
+        },
+        {
+                "start_time": 266.630202,
+                "end_time": 269.50131,
+                "MASR_results": "陳柏惟:這個就是說幾天過來兩位就臺灣的",
+                "google_asr_results": "這間修車",
+                "labels": "陳明通,陳柏惟:這些證據收集情報啦對啦再來收集來我們會",
+                "asr_recognition_time": 0.9056470394134521,
+                "google_recognition_time": 0.9349634647369385,
+                "speaker_recognition_time": 0.13759756088256836
+        },
+        {
+                "start_time": 269.632561,
+                "end_time": 277.031815,
+                "MASR_results": "陳柏惟:來來源影連火料案給各兩塊趕寬這個案媒萬億屬寫啊捏裡面你總要一些啊用啊零敵就整",
+                "google_asr_results": "來改天9點半",
+                "labels": "陳明通,陳柏惟:來來研究研判以後我們提供好一樣一樣這個案例我的意思是這樣你明明知道他是阿共的認知作戰",
+                "asr_recognition_time": 2.386852264404297,
+                "google_recognition_time": 4.632216930389404,
+                "speaker_recognition_time": 0.3788635730743408
+        },
+        {
+                "start_time": 277.064628,
+                "end_time": 279.148232,
+                "MASR_results": "陳柏惟:但是一看下各個駁回",
+                "google_asr_results": "3CE康橋各國徽",
+                "labels": "陳柏惟:但是他牽涉各個部會",
+                "asr_recognition_time": 0.5937643051147461,
+                "google_recognition_time": 0.5942544937133789,
+                "speaker_recognition_time": 0.06803178787231445
+        },
+        {
+                "start_time": 279.345108,
+                "end_time": 287.351397,
+                "MASR_results": "陳柏惟:包括展外一個公部不定進權的情報法供給我高撥的數量一公正應該是不是看回但是他可以來是不是國人又得去欸幹",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟,陳明通:包括我昨天在跟國防部部長質詢的時候我也講到外交部的事件他說這應該是外交部的工作嗯但是聽起來是不是國安局第一手可以感",
+                "asr_recognition_time": 3.626704454421997,
+                "google_recognition_time": 3.706983804702759,
+                "speaker_recognition_time": 0.41481709480285645
+        },
+        {
+                "start_time": 287.389678,
+                "end_time": 290.435787,
+                "MASR_results": "陳柏惟:欸轉業公這些行為想要電話對他那個林地就整",
+                "google_asr_results": "想要工作",
+                "labels": "陳柏惟:會會知道說這是不是阿共對我們的認知作戰",
+                "asr_recognition_time": 1.141247034072876,
+                "google_recognition_time": 1.736478567123413,
+                "speaker_recognition_time": 0.12447762489318848
+        },
+        {
+                "start_time": 291.071,
+                "end_time": 294.17643,
+                "MASR_results": "陳柏惟:啊當然最快的一個學者怎麼還比二來跟齁那",
+                "google_asr_results": "中原街",
+                "labels": "陳明通,陳柏惟:啊當然這我們要去收集情報要要來研判好那",
+                "asr_recognition_time": 1.0707390308380127,
+                "google_recognition_time": 1.4208929538726807,
+                "speaker_recognition_time": 0.1333632469177246
+        },
+        {
+                "start_time": 294.242055,
+                "end_time": 295.521749,
+                "MASR_results": "陳柏惟:啊用二零第一就診",
+                "google_asr_results": "電話亭的作者",
+                "labels": "陳柏惟:阿共的認知作戰",
+                "asr_recognition_time": 0.465543270111084,
+                "google_recognition_time": 0.46784496307373047,
+                "speaker_recognition_time": 0.07113194465637207
+        },
+        {
+                "start_time": 295.560031,
+                "end_time": 301.067089,
+                "MASR_results": "陳柏惟:欸處理性時單位出力的單位幾項臨時修這個修集金回到那馬是要給我",
+                "google_asr_results": "朱立信紙本微處理的單位置像靈修書籍",
+                "labels": "陳柏惟,陳明通:的處理訊息單位處理的單位是誰你們是收集的收集情報的單位嘛啊我們我們也是要研判",
+                "asr_recognition_time": 1.6742842197418213,
+                "google_recognition_time": 4.353956699371338,
+                "speaker_recognition_time": 0.26195526123046875
+        },
+        {
+                "start_time": 301.143651,
+                "end_time": 302.871785,
+                "MASR_results": "邱國正:那處理外子上齁",
+                "google_asr_results": "處理會上火",
+                "labels": "陳明通:啊處理我是送給",
+                "asr_recognition_time": 0.5230298042297363,
+                "google_recognition_time": 1.1716599464416504,
+                "speaker_recognition_time": 0.06160759925842285
+        },
+        {
+                "start_time": 302.942879,
+                "end_time": 304.742106,
+                "MASR_results": "陳柏惟:過凶關的登錄以後",
+                "google_asr_results": "相關的短文",
+                "labels": "陳明通:各相關的單位齁",
+                "asr_recognition_time": 0.33032870292663574,
+                "google_recognition_time": 0.8743586540222168,
+                "speaker_recognition_time": 0.08883428573608398
+        },
+        {
+                "start_time": 305.556954,
+                "end_time": 311.616359,
+                "MASR_results": "陳柏惟:不會勾雄全國大單位啊啊啊第二零一週整嘛那股特將對領敵做整這個要改進去",
+                "google_asr_results": "高雄什麼啦",
+                "labels": "陳明通,陳柏惟:我我們還有沒有啦相相關單位啦啊那阿共啊認知作戰嘛我們具體針對認知作戰這件事情是",
+                "asr_recognition_time": 2.1687533855438232,
+                "google_recognition_time": 1.3018138408660889,
+                "speaker_recognition_time": 0.3177151679992676
+        },
+        {
+                "start_time": 311.911672,
+                "end_time": 313.229648,
+                "MASR_results": "陳柏惟:習上處理向主管",
+                "google_asr_results": "影像處理像主管",
+                "labels": "陳柏惟:是誰處理誰主管",
+                "asr_recognition_time": 0.2779967784881592,
+                "google_recognition_time": 0.46426868438720703,
+                "speaker_recognition_time": 0.049654245376586914
+        },
+        {
+                "start_time": 315.652316,
+                "end_time": 321.405469,
+                "MASR_results": "陳柏惟:那一五會把我們六歐來領軍中正賣給我們就是你我說要跳回各個駁回",
+                "google_asr_results": "衣服",
+                "labels": "陳明通,陳柏惟:我們因為各部會你鳳梨認知作戰我們會跟他說這這是他們喔所以要扯開各個部會",
+                "asr_recognition_time": 1.912149429321289,
+                "google_recognition_time": 2.0875046253204346,
+                "speaker_recognition_time": 0.28693222999572754
+        },
+        {
+                "start_time": 321.535,
+                "end_time": 325.698458,
+                "MASR_results": "陳柏惟:欸請我們因為你過後不保維武科一個專家要標告啊為了提供給祝賀啊",
+                "google_asr_results": "兒童英語歌",
+                "labels": "陳明通:啊像是因為各各部會有他比較專業了解啊我們會提供他的資訊啊",
+                "asr_recognition_time": 1.6428020000457764,
+                "google_recognition_time": 1.181032419204712,
+                "speaker_recognition_time": 0.12705469131469727
+        },
+        {
+                "start_time": 326.042991,
+                "end_time": 331.007,
+                "MASR_results": "陳柏惟:那他裡我們買一個人誤一飛啊我看因為關係比有力的東西我高多",
+                "google_asr_results": "哪裡有賣",
+                "labels": "陳柏惟:沒有啦啊你鳳梨你就農委會啊外交那個關西機場你就說是外交部",
+                "asr_recognition_time": 1.6699883937835693,
+                "google_recognition_time": 1.7987091541290283,
+                "speaker_recognition_time": 0.17995285987854004
+        },
+        {
+                "start_time": 331.336767,
+                "end_time": 333.879748,
+                "MASR_results": "陳柏惟:啊那魯克什啊給我啊將對白我的通話了",
+                "google_asr_results": "不客氣",
+                "labels": "陳柏惟:啊我們如果是阿共啊針對台灣的恐嚇咧",
+                "asr_recognition_time": 0.8507225513458252,
+                "google_recognition_time": 1.4371843338012695,
+                "speaker_recognition_time": 0.11047887802124023
+        },
+        {
+                "start_time": 333.978186,
+                "end_time": 334.716471,
+                "MASR_results": "陳柏惟:共防波啊",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:國防部嗎",
+                "asr_recognition_time": 0.18006062507629395,
+                "google_recognition_time": 0.28777599334716797,
+                "speaker_recognition_time": 0.03368663787841797
+        },
+        {
+                "start_time": 335.449287,
+                "end_time": 337.029763,
+                "MASR_results": "陳柏惟:陸列東然是共和國啊",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:武力當然是國防部啊",
+                "asr_recognition_time": 0.5138299465179443,
+                "google_recognition_time": 1.251828670501709,
+                "speaker_recognition_time": 0.06104230880737305
+        },
+        {
+                "start_time": 337.106326,
+                "end_time": 343.564951,
+                "MASR_results": "陳柏惟:如他形成華為了跟國防部要單位那如盡靜靜點呢這個國軍戰力領啊內息送上喔文件",
+                "google_asr_results": "華信劃位",
+                "labels": "陳柏惟,陳明通:沒有啊心戰喊話就說我感覺心戰喊話當然我們有之之之前的這個說國軍戰力零這樣是算誰的都有征",
+                "asr_recognition_time": 2.383622169494629,
+                "google_recognition_time": 3.4726648330688477,
+                "speaker_recognition_time": 0.2863423824310303
+        },
+        {
+                "start_time": 343.636045,
+                "end_time": 351.133738,
+                "MASR_results": "陳柏惟:鏡檢的膽路樣禁止的單位已經簡單了那我們二樓外出來跟門齁立你們推肯兵九對就診而雙團高中",
+                "google_asr_results": "競爭的單位競爭的單位",
+                "labels": "陳明通,陳柏惟:征戰的單位啊征戰的單位心戰單位但不是好這樣我接下來要問喔你認為普遍民眾對征戰的宣傳工作",
+                "asr_recognition_time": 2.613703489303589,
+                "google_recognition_time": 1.437500238418579,
+                "speaker_recognition_time": 0.4040796756744385
+        },
+        {
+                "start_time": 351.357958,
+                "end_time": 352.561089,
+                "MASR_results": "陳柏惟:樂觀得寫下密",
+                "google_asr_results": "葉冠德洗蝦米",
+                "labels": "陳柏惟:他的管道是什麼",
+                "asr_recognition_time": 0.41323065757751465,
+                "google_recognition_time": 0.5200085639953613,
+                "speaker_recognition_time": 0.03991270065307617
+        },
+        {
+                "start_time": 352.839996,
+                "end_time": 356.465795,
+                "MASR_results": "陳柏惟:比如說我聽財購啦因為我會找要好這件動記規你的走起啊那",
+                "google_asr_results": "青菜購買東西給你再走",
+                "labels": "陳柏惟:比如說我隨便講啦齁因為我知道齁這政黨這幾年在做是怎樣",
+                "asr_recognition_time": 1.2997839450836182,
+                "google_recognition_time": 3.4878060817718506,
+                "speaker_recognition_time": 0.12377047538757324
+        },
+        {
+                "start_time": 356.744703,
+                "end_time": 360.879098,
+                "MASR_results": "陳柏惟:那告訴各個案總統關係總統的九任花光臺中共的整因為這一款嗎",
+                "google_asr_results": "打開通通電話",
+                "labels": "陳柏惟:那如果跟國家安全有關係是總統在做兩岸關係總統在做因為這職權嘛",
+                "asr_recognition_time": 1.5425095558166504,
+                "google_recognition_time": 2.1432275772094727,
+                "speaker_recognition_time": 0.16228008270263672
+        },
+        {
+                "start_time": 361.026755,
+                "end_time": 363.476767,
+                "MASR_results": "陳柏惟:阿朗憑警消官那個以前建議訂出來共",
+                "google_asr_results": "熊熊",
+                "labels": "陳柏惟:啊如果行政相關那可能行政院長出來講",
+                "asr_recognition_time": 0.8285572528839111,
+                "google_recognition_time": 0.8774194717407227,
+                "speaker_recognition_time": 0.11632800102233887
+        },
+        {
+                "start_time": 363.646299,
+                "end_time": 369.033044,
+                "MASR_results": "陳柏惟:這可以本席啊那但是因為關德第七公涵說你馬高告等住編的民人不太嘛",
+                "google_asr_results": "Applepen",
+                "labels": "陳柏惟:這普遍是這樣但是他們的管道其實都限縮在網路跟電子變平面的媒體嘛",
+                "asr_recognition_time": 1.9401979446411133,
+                "google_recognition_time": 6.522421360015869,
+                "speaker_recognition_time": 0.1640334129333496
+        },
+        {
+                "start_time": 369.169763,
+                "end_time": 374.534633,
+                "MASR_results": "陳柏惟:那麼有請靠照的公文也讓對不給齁或各立定的一筆算船你們你們真的我之間動告訴我不過外文本",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通,陳柏惟:嗯那不像以前說可以家家戶戶叫里長進去宣傳因為這也有執政黨跟事務官的問題",
+                "asr_recognition_time": 2.387662649154663,
+                "google_recognition_time": 1.2473480701446533,
+                "speaker_recognition_time": 0.2647664546966553
+        },
+        {
+                "start_time": 374.753384,
+                "end_time": 379.051843,
+                "MASR_results": "陳柏惟:然後經貿被共的吸毒更到丟丟欸零低就整那幹五主官單位",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:但我現在要說的是如果那中共的認知作戰我們有主管單位嗎",
+                "asr_recognition_time": 1.4153339862823486,
+                "google_recognition_time": 0.6630804538726807,
+                "speaker_recognition_time": 0.1277308464050293
+        },
+        {
+                "start_time": 381.179197,
+                "end_time": 384.487807,
+                "MASR_results": "陳柏惟:不批的想要還想要說要花東西嘛一老不要購啊黑",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:國你就知道那是阿共啊發動的嘛他後面講的那個",
+                "asr_recognition_time": 1.1064748764038086,
+                "google_recognition_time": 0.3504815101623535,
+                "speaker_recognition_time": 0.10130119323730469
+        },
+        {
+                "start_time": 384.537026,
+                "end_time": 388.901109,
+                "MASR_results": "陳柏惟:我我問哪時工過六天的違背停留我們第一個個伯恩那我可以哪一個他立公立",
+                "google_asr_results": "鬼鬼",
+                "labels": "陳柏惟:我我如果說我追那個尾巴去追你等於是各個部會都有可能啊他今天在說你",
+                "asr_recognition_time": 1.5662987232208252,
+                "google_recognition_time": 0.6126015186309814,
+                "speaker_recognition_time": 0.16677331924438477
+        },
+        {
+                "start_time": 389.163611,
+                "end_time": 405.83791,
+                "MASR_results": "陳柏惟:那當時我特別的關係中華語回來的話最重要點不是跟我們關單位是最具要是我們也給啊跟我們太重要攻擊的更一啦是我們一回所以一定齁的齁保身齁一個一個一定要是齁保護的地不是齁一萬光大意見齁在齁不是不是不是齁因為齁因為齁國防部齁不公剛起齁來一對不對不對齁來不供給齁一啦是齁",
+                "google_asr_results": "高雄教會朱冠德建設",
+                "labels": "陳柏惟,陳明通:勞工太累說你出價太高你就到處追兩岸的兩岸的主管單位最主要是陸委會啊兩岸最重要是陸委會啊所以你認為兩岸的部分是陸委會認知作戰的部分但你剛才還是說到政戰認知作戰也有軍事方面啊所以國防部也牽涉的到啊好啦我說一個建議啦是其實齁",
+                "asr_recognition_time": 14.2552490234375,
+                "google_recognition_time": 9.678564548492432,
+                "speaker_recognition_time": 0.8516614437103271
+        },
+        {
+                "start_time": 405.936348,
+                "end_time": 412.630131,
+                "MASR_results": "陳柏惟:我領委不知道等物喔為什麼供給那行情敵會沖著幾個北白啊大概來推論況買這邊要拿出力我才要進如",
+                "google_asr_results": "林緯度假等我有空",
+                "labels": "陳柏惟:我認為剛才定宇委員委員也有說到我們是不是有機會創造一個平台啊大家來討論看看這要怎麼處理我知道這有",
+                "asr_recognition_time": 2.8141162395477295,
+                "google_recognition_time": 2.3798561096191406,
+                "speaker_recognition_time": 0.1974349021911621
+        },
+        {
+                "start_time": 412.684819,
+                "end_time": 413.695,
+                "MASR_results": "陳柏惟:固定的流點",
+                "google_asr_results": "得留點",
+                "labels": "陳柏惟:固定的流程",
+                "asr_recognition_time": 0.21442580223083496,
+                "google_recognition_time": 0.6133570671081543,
+                "speaker_recognition_time": 0.06589293479919434
+        },
+        {
+                "start_time": 413.887949,
+                "end_time": 416.764526,
+                "MASR_results": "陳柏惟:本席經貿英文因對方齁因此可及低",
+                "google_asr_results": "三星Wiki",
+                "labels": "陳柏惟:但是現在因為他們對方喔他們是拿一隻",
+                "asr_recognition_time": 0.8021459579467773,
+                "google_recognition_time": 1.8080682754516602,
+                "speaker_recognition_time": 0.12932777404785156
+        },
+        {
+                "start_time": 417.048902,
+                "end_time": 418.470784,
+                "MASR_results": "陳柏惟:可以節列呃結人",
+                "google_asr_results": "最近",
+                "labels": "陳柏惟:拿一個拿一個",
+                "asr_recognition_time": 0.47533559799194336,
+                "google_recognition_time": 0.3181040287017822,
+                "speaker_recognition_time": 0.04892539978027344
+        },
+        {
+                "start_time": 418.678598,
+                "end_time": 425.459881,
+                "MASR_results": "陳柏惟:過電欸多打單位這些多少投標也被感造臺完嘛啊但是當經貿實際訊息調愛要加各個保回",
+                "google_asr_results": "露點的單位",
+                "labels": "陳柏惟:固定的平台單位一個大目標他要給人家炸台灣嘛啊但是我們現在收集訊息之後要邀請各個部會",
+                "asr_recognition_time": 2.5452144145965576,
+                "google_recognition_time": 5.802902460098267,
+                "speaker_recognition_time": 0.23113679885864258
+        },
+        {
+                "start_time": 425.541912,
+                "end_time": 427.42864,
+                "MASR_results": "陳柏惟:你只告訴個立委員遺記告訴委員",
+                "google_asr_results": "該說的該說耶",
+                "labels": "陳柏惟:你去解釋你的他去解釋他的",
+                "asr_recognition_time": 0.6822693347930908,
+                "google_recognition_time": 1.775393009185791,
+                "speaker_recognition_time": 0.06923556327819824
+        },
+        {
+                "start_time": 427.548953,
+                "end_time": 433.094293,
+                "MASR_results": "陳柏惟:啊打來華裔島的工商量包花一般公務員他也就是二十六號兩個月不過啦或啦後來",
+                "google_asr_results": "打給黃義達",
+                "labels": "陳柏惟,陳明通:啊大家高興大家講那如果不高興不要說這報告委員嘿這我私底下再跟你報告啦好啦好啦好啦",
+                "asr_recognition_time": 1.8252060413360596,
+                "google_recognition_time": 2.498352527618408,
+                "speaker_recognition_time": 0.2121574878692627
+        },
+        {
+                "start_time": 433.717733,
+                "end_time": 437.595096,
+                "MASR_results": "陳柏惟:那必須要告齁你去當然對領的就整寫就給你要賣內",
+                "google_asr_results": "我比數位共好團隊領的就做給人家",
+                "labels": "陳柏惟:我必須要說齁其實台灣對認知作戰是很有經驗的捏",
+                "asr_recognition_time": 1.265106439590454,
+                "google_recognition_time": 3.1486356258392334,
+                "speaker_recognition_time": 0.12027573585510254
+        },
+        {
+                "start_time": 437.912285,
+                "end_time": 439.826357,
+                "MASR_results": "陳柏惟:你看他上面六零地就整槍嗎",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:你知道什麼叫做認知作戰嗎請問",
+                "asr_recognition_time": 0.6753683090209961,
+                "google_recognition_time": 0.47274088859558105,
+                "speaker_recognition_time": 0.0808253288269043
+        },
+        {
+                "start_time": 440.187296,
+                "end_time": 442.746684,
+                "MASR_results": "陳柏惟:立委軍告這個總統跟我跨部提案",
+                "google_asr_results": "立委就蓋舊莊通告會對喜愛",
+                "labels": "陳柏惟:你認為蔣介石總統難道有看過魚",
+                "asr_recognition_time": 0.8047974109649658,
+                "google_recognition_time": 1.357065200805664,
+                "speaker_recognition_time": 0.10908699035644531
+        },
+        {
+                "start_time": 442.85059,
+                "end_time": 444.770131,
+                "MASR_results": "陳柏惟:就看到於網上有",
+                "google_asr_results": "看到魚往上游",
+                "labels": "陳柏惟:這個看到魚往上游",
+                "asr_recognition_time": 0.4858720302581787,
+                "google_recognition_time": 0.40865349769592285,
+                "speaker_recognition_time": 0.06928634643554688
+        },
+        {
+                "start_time": 445.125601,
+                "end_time": 446.279513,
+                "MASR_results": "陳柏惟:例如一道考的",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:你認為有看到嗎",
+                "asr_recognition_time": 0.2402033805847168,
+                "google_recognition_time": 0.47183752059936523,
+                "speaker_recognition_time": 0.0389859676361084
+        },
+        {
+                "start_time": 447.077955,
+                "end_time": 451.74829,
+                "MASR_results": "陳柏惟:這一剛啊跟兩點國一剛剛考量這個構實剛剛中矛盾",
+                "google_asr_results": "所以跟阿公牛盾",
+                "labels": "陳明通,陳柏惟:這個好像說你認為他有看到嗎這個故事好像說牛頓",
+                "asr_recognition_time": 1.3931663036346436,
+                "google_recognition_time": 2.289760112762451,
+                "speaker_recognition_time": 0.19224119186401367
+        },
+        {
+                "start_time": 451.813915,
+                "end_time": 453.656893,
+                "MASR_results": "陳柏惟:因為令國期五高",
+                "google_asr_results": "D-Link球他",
+                "labels": "陳明通:在蘋果樹下",
+                "asr_recognition_time": 0.5123734474182129,
+                "google_recognition_time": 0.5567841529846191,
+                "speaker_recognition_time": 0.07083868980407715
+        },
+        {
+                "start_time": 453.887,
+                "end_time": 455.313932,
+                "MASR_results": "陳柏惟:請教我再來另個",
+                "google_asr_results": "禁酒令",
+                "labels": "陳明通:是不是有這個蘋果",
+                "asr_recognition_time": 0.4761166572570801,
+                "google_recognition_time": 0.9313697814941406,
+                "speaker_recognition_time": 0.07545256614685059
+        },
+        {
+                "start_time": 455.461589,
+                "end_time": 456.828783,
+                "MASR_results": "陳柏惟:聽紐約召開趕快",
+                "google_asr_results": "真的耶他趕快",
+                "labels": "陳明通:砸到他的頭殼一樣",
+                "asr_recognition_time": 0.44393491744995117,
+                "google_recognition_time": 1.4259626865386963,
+                "speaker_recognition_time": 0.05765867233276367
+        },
+        {
+                "start_time": 456.916284,
+                "end_time": 458.458479,
+                "MASR_results": "陳柏惟:啊到下喜我好不好",
+                "google_asr_results": "打到消息無法播",
+                "labels": "陳柏惟:啊啊是有還是沒有",
+                "asr_recognition_time": 0.5153841972351074,
+                "google_recognition_time": 0.8951573371887207,
+                "speaker_recognition_time": 0.0516812801361084
+        },
+        {
+                "start_time": 459.125669,
+                "end_time": 464.058506,
+                "MASR_results": "陳柏惟:對不對我們拿起車裡克不來對啊這不是包括真的是小說我其實我想因為",
+                "google_asr_results": "微微一笑你客不來對啊我真的在這裡小說了幾萬",
+                "labels": "陳柏惟,陳明通:欸原原來都是寫在課本裡面的喔這不是報紙這不是小說不是幻想牛頓那個",
+                "asr_recognition_time": 1.787456750869751,
+                "google_recognition_time": 4.669896125793457,
+                "speaker_recognition_time": 0.2569468021392822
+        },
+        {
+                "start_time": 464.127,
+                "end_time": 473.623396,
+                "MASR_results": "陳柏惟:本席先領一個問哪一個小共大概有一萬二裡去案件二點提要背景那個人對九以我啊說一百萬人民他用港的一公文給他用告裡面他用幹嘛",
+                "google_asr_results": "你先來的",
+                "labels": "陳柏惟:我們是寫在課本裡面是國家教育孩子說蔣介石看到魚爬上要要要爬上游啊所以台灣人民要勇敢不然他說中華中國人民要勇敢",
+                "asr_recognition_time": 4.598660469055176,
+                "google_recognition_time": 9.239540815353394,
+                "speaker_recognition_time": 0.28127050399780273
+        },
+        {
+                "start_time": 474.049961,
+                "end_time": 475.247623,
+                "MASR_results": "陳柏惟:依靠獲得這個要待機",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:他有看到這件事情嗎",
+                "asr_recognition_time": 0.47953033447265625,
+                "google_recognition_time": 0.25600314140319824,
+                "speaker_recognition_time": 0.0750584602355957
+        },
+        {
+                "start_time": 475.739813,
+                "end_time": 477.347633,
+                "MASR_results": "陳柏惟:列為這東西領第一個就診",
+                "google_asr_results": "因為這幾點的",
+                "labels": "陳柏惟:你認為這是認知的作戰嗎",
+                "asr_recognition_time": 0.5712556838989258,
+                "google_recognition_time": 1.6367504596710205,
+                "speaker_recognition_time": 0.05777120590209961
+        },
+        {
+                "start_time": 477.439,
+                "end_time": 484.194541,
+                "MASR_results": "陳柏惟:這都很厲在審這一起領低就診所以他們提去就應要被要牽告顧名到啊然後對臺灣人民政治來領地業做診",
+                "google_asr_results": "地震地震",
+                "labels": "陳明通,陳柏惟:這當然認知作戰啊這是認知作戰所以台灣其實很有經驗的要請教國民黨怎麼樣對台灣人民做這個認知的作戰",
+                "asr_recognition_time": 2.8917431831359863,
+                "google_recognition_time": 6.166511058807373,
+                "speaker_recognition_time": 0.19486570358276367
+        },
+        {
+                "start_time": 484.292979,
+                "end_time": 486.917992,
+                "MASR_results": "陳柏惟:兩行為必須外過我起金貿購來呼一下我",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:但是我必須要說的是現在國內的威脅",
+                "asr_recognition_time": 0.8763408660888672,
+                "google_recognition_time": 0.4529740810394287,
+                "speaker_recognition_time": 0.09738612174987793
+        },
+        {
+                "start_time": 487.027368,
+                "end_time": 489.871131,
+                "MASR_results": "陳柏惟:那這樣我以他不請問你告過我的吧當然你們在團點",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:我們現在威脅是從國外進來的台灣人民要團結",
+                "asr_recognition_time": 1.029259204864502,
+                "google_recognition_time": 1.4049458503723145,
+                "speaker_recognition_time": 0.10043883323669434
+        },
+        {
+                "start_time": 489.983,
+                "end_time": 494.814905,
+                "MASR_results": "陳柏惟:因為現在談口可能英雄點當這不要設改就這個平行那經貿公文就平行世界",
+                "google_asr_results": "五結Coco可能會改這麼跟我就平行世界",
+                "labels": "陳柏惟:因為這些工作有可能會影響到我們現在世界叫做平行我們現在講法叫平行世界",
+                "asr_recognition_time": 1.8191120624542236,
+                "google_recognition_time": 3.0896549224853516,
+                "speaker_recognition_time": 0.18973636627197266
+        },
+        {
+                "start_time": 495.044594,
+                "end_time": 496.461007,
+                "MASR_results": "陳柏惟:賣領低工敵怪",
+                "google_asr_results": "未領的攻擊",
+                "labels": "陳柏惟:我的認知說奇怪",
+                "asr_recognition_time": 0.4256131649017334,
+                "google_recognition_time": 0.6188087463378906,
+                "speaker_recognition_time": 0.054116249084472656
+        },
+        {
+                "start_time": 496.679758,
+                "end_time": 502.050097,
+                "MASR_results": "陳柏惟:那隻要那敵國明年對他五五億要安維兩個就告一點口啊我們來寫那因為領第一起",
+                "google_asr_results": "如果不能對他喔",
+                "labels": "陳柏惟:啊是怎樣中國明明對我們有威脅啊有的人就很喜歡中國啊原來是怎樣他們的認知是",
+                "asr_recognition_time": 2.1018011569976807,
+                "google_recognition_time": 2.5443360805511475,
+                "speaker_recognition_time": 0.1564338207244873
+        },
+        {
+                "start_time": 502.181347,
+                "end_time": 503.551,
+                "MASR_results": "陳柏惟:榮共對臺灣美拜",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:中國對台灣不錯",
+                "asr_recognition_time": 0.2841370105743408,
+                "google_recognition_time": 0.7751266956329346,
+                "speaker_recognition_time": 0.05258965492248535
+        },
+        {
+                "start_time": 503.761824,
+                "end_time": 505.200112,
+                "MASR_results": "陳柏惟:齁也被他做誰歐來",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:讓他們買我們很多鳳梨",
+                "asr_recognition_time": 0.31531214714050293,
+                "google_recognition_time": 0.531599760055542,
+                "speaker_recognition_time": 0.0847616195678711
+        },
+        {
+                "start_time": 505.343,
+                "end_time": 510.838421,
+                "MASR_results": "陳柏惟:飛狼外地緊張冒覺這裡面公安美七起來歐來那百網武器起來我們來沒通過",
+                "google_asr_results": "洄瀾會吃什麼",
+                "labels": "陳柏惟:有的人我有記得前陣子有一個政論節目說我們賣七成的鳳梨我們台灣有七成的鳳梨賣中國",
+                "asr_recognition_time": 1.6805167198181152,
+                "google_recognition_time": 4.713649034500122,
+                "speaker_recognition_time": 0.19951748847961426
+        },
+        {
+                "start_time": 511.007953,
+                "end_time": 512.45171,
+                "MASR_results": "陳柏惟:這個錢保基金了是對",
+                "google_asr_results": "這個簡譜",
+                "labels": "陳柏惟:這個情報是真的還是假的",
+                "asr_recognition_time": 0.3438270092010498,
+                "google_recognition_time": 0.5874748229980469,
+                "speaker_recognition_time": 0.0550227165222168
+        },
+        {
+                "start_time": 512.528273,
+                "end_time": 515.694694,
+                "MASR_results": "陳柏惟:這裡保對不管啦速度新來共這個受理當起第二",
+                "google_asr_results": "用筆電不管啦速度兇來記得受理中心",
+                "labels": "陳柏惟:政治目的不管啦事務性來說這個數字是對的嗎",
+                "asr_recognition_time": 1.079374074935913,
+                "google_recognition_time": 1.6623704433441162,
+                "speaker_recognition_time": 0.13837146759033203
+        },
+        {
+                "start_time": 516.635324,
+                "end_time": 517.061889,
+                "MASR_results": "陳柏惟:是",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:對啦",
+                "asr_recognition_time": 0.2810673713684082,
+                "google_recognition_time": 0.18199753761291504,
+                "speaker_recognition_time": 0.024911165237426758
+        },
+        {
+                "start_time": 517.264233,
+                "end_time": 520.961126,
+                "MASR_results": "陳柏惟:記得說是祥龍來北榮總這十七號線那但是",
+                "google_asr_results": "謝祥王來的",
+                "labels": "陳柏惟,陳明通:這個數我們的鳳梨七成鳳梨賣中國這是真的還是假的我們我們是",
+                "asr_recognition_time": 0.8313860893249512,
+                "google_recognition_time": 3.3892011642456055,
+                "speaker_recognition_time": 0.11352825164794922
+        },
+        {
+                "start_time": 521.037689,
+                "end_time": 522.42129,
+                "MASR_results": "邱國正:這靠欸歐來啊",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:出口的鳳梨啦",
+                "asr_recognition_time": 0.41835522651672363,
+                "google_recognition_time": 0.9258325099945068,
+                "speaker_recognition_time": 0.07982587814331055
+        },
+        {
+                "start_time": 522.495,
+                "end_time": 524.335361,
+                "MASR_results": "邱國正:這高呃來確實啊",
+                "google_asr_results": "蜂蠟",
+                "labels": "陳明通:出口的鳳梨七成",
+                "asr_recognition_time": 0.4845011234283447,
+                "google_recognition_time": 0.9531667232513428,
+                "speaker_recognition_time": 0.09443879127502441
+        },
+        {
+                "start_time": 524.625207,
+                "end_time": 524.953333,
+                "MASR_results": "邱國正:齁",
+                "google_asr_results": "無法辨識",
+                "labels": "陳明通:齁",
+                "asr_recognition_time": 0.21075129508972168,
+                "google_recognition_time": 0.20647883415222168,
+                "speaker_recognition_time": 0.019732952117919922
+        },
+        {
+                "start_time": 525.055,
+                "end_time": 530.564298,
+                "MASR_results": "陳柏惟:然後到一個文中共的移工專溝歐萊塢基起來系被通告然後服務來羅罵店內喔",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟,陳明通:沒有啦他說我們全國的他說全國的鳳梨有七成是賣中國你沒有啦沒有啦沒有嘛對不對沒有啦",
+                "asr_recognition_time": 1.7325356006622314,
+                "google_recognition_time": 1.7174286842346191,
+                "speaker_recognition_time": 0.18472886085510254
+        },
+        {
+                "start_time": 530.591642,
+                "end_time": 536.530733,
+                "MASR_results": "陳柏惟:那他這那是你們林總有人沒有啊那如果我們買二講欸老舊理裡面攻擊人為這幾次跟朱冠跟幾項",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟,陳明通:所以這就是認知作戰的領域我們那如果這樣我們就沒有鳳梨可以吃了我們就沒有鳳梨可以吃好那如果有政治人物說這個話這是算又主管又是誰",
+                "asr_recognition_time": 2.468670606613159,
+                "google_recognition_time": 0.7561593055725098,
+                "speaker_recognition_time": 0.21634960174560547
+        },
+        {
+                "start_time": 537.646364,
+                "end_time": 538.581524,
+                "MASR_results": "邱國正:能夠欸",
+                "google_asr_results": "農曆",
+                "labels": "陳明通:農委欸",
+                "asr_recognition_time": 0.30950498580932617,
+                "google_recognition_time": 0.28411102294921875,
+                "speaker_recognition_time": 0.040315866470336914
+        },
+        {
+                "start_time": 539.740905,
+                "end_time": 544.378428,
+                "MASR_results": "陳柏惟:榮民因為應該要出來這個點錢啊我比較股票有九塊掉",
+                "google_asr_results": "腰椎滑脫有關",
+                "labels": "陳明通,陳柏惟:農委會應該要出來出來澄清吧我在這裡具體的要求國安局",
+                "asr_recognition_time": 1.4017751216888428,
+                "google_recognition_time": 2.3602921962738037,
+                "speaker_recognition_time": 0.16196489334106445
+        },
+        {
+                "start_time": 544.449522,
+                "end_time": 546.237812,
+                "MASR_results": "陳柏惟:共同多嚴進一",
+                "google_asr_results": "宏博眼鏡",
+                "labels": "陳明通,陳柏惟:嘿國防部行政院",
+                "asr_recognition_time": 0.2735586166381836,
+                "google_recognition_time": 1.1105446815490723,
+                "speaker_recognition_time": 0.062306880950927734
+        },
+        {
+                "start_time": 546.303,
+                "end_time": 549.978455,
+                "MASR_results": "陳柏惟:我我你我就不會修背齁公開或嗎訂擔心啊這是個要打擊",
+                "google_asr_results": "歐舒丹",
+                "labels": "陳柏惟:我我認為你要私底下公開我都不要緊但是要做這件事情",
+                "asr_recognition_time": 1.31557035446167,
+                "google_recognition_time": 1.8764944076538086,
+                "speaker_recognition_time": 0.15718579292297363
+        },
+        {
+                "start_time": 550.257362,
+                "end_time": 552.986282,
+                "MASR_results": "陳柏惟:來通話給共通波天電制空軍",
+                "google_asr_results": "台東HAPPYGO紅博電電子通訊",
+                "labels": "陳柏惟:要統合到國防部的電電資通軍",
+                "asr_recognition_time": 0.5173509120941162,
+                "google_recognition_time": 1.5222325325012207,
+                "speaker_recognition_time": 0.08863425254821777
+        },
+        {
+                "start_time": 553.215,
+                "end_time": 554.096444,
+                "MASR_results": "陳柏惟:政戰局",
+                "google_asr_results": "政戰局",
+                "labels": "陳柏惟:政戰局",
+                "asr_recognition_time": 0.3111402988433838,
+                "google_recognition_time": 0.32441282272338867,
+                "speaker_recognition_time": 0.05512809753417969
+        },
+        {
+                "start_time": 554.118319,
+                "end_time": 558.569903,
+                "MASR_results": "陳柏惟:也這起單情報作為當然我要這訊息處理雄官也該雄進行主官雄官",
+                "google_asr_results": "這幾張就會幫你處理雄冠眼鏡蛇毒丸雄關",
+                "labels": "陳柏惟:或者是我們情報局的我們我訊息處理相關跟行政院主管相關",
+                "asr_recognition_time": 1.579662799835205,
+                "google_recognition_time": 2.076939105987549,
+                "speaker_recognition_time": 0.16933608055114746
+        },
+        {
+                "start_time": 558.766779,
+                "end_time": 562.600391,
+                "MASR_results": "陳柏惟:以領低就整接的保文一點二我覺得專要的部門包括",
+                "google_asr_results": "107教甄一轉調部門包括",
+                "labels": "陳柏惟:在認知作戰這個部分一定要一個專業的部門包括",
+                "asr_recognition_time": 0.9880287647247314,
+                "google_recognition_time": 1.0787508487701416,
+                "speaker_recognition_time": 0.1537163257598877
+        },
+        {
+                "start_time": 562.687,
+                "end_time": 564.279306,
+                "MASR_results": "陳柏惟:度家共為橫向的聯絡",
+                "google_asr_results": "杜佳騰像的聯絡",
+                "labels": "陳柏惟:剛才說的橫向的聯絡",
+                "asr_recognition_time": 0.3496067523956299,
+                "google_recognition_time": 0.5251047611236572,
+                "speaker_recognition_time": 0.07863831520080566
+        },
+        {
+                "start_time": 564.416025,
+                "end_time": 565.6465,
+                "MASR_results": "陳柏惟:隨時的澄清",
+                "google_asr_results": "垂直的澄清",
+                "labels": "陳柏惟:垂直的澄清",
+                "asr_recognition_time": 0.22246432304382324,
+                "google_recognition_time": 0.2956099510192871,
+                "speaker_recognition_time": 0.04844355583190918
+        },
+        {
+                "start_time": 565.854313,
+                "end_time": 569.906677,
+                "MASR_results": "陳柏惟:各個平臺不分男率要轉亞公正名該是啊都啊接得領地就整",
+                "google_asr_results": "平台不分藍綠惡長要證明",
+                "labels": "陳柏惟:各個平台不分藍綠要知道說這個東西是阿共啊的這個認知作戰",
+                "asr_recognition_time": 1.4210143089294434,
+                "google_recognition_time": 1.4429967403411865,
+                "speaker_recognition_time": 0.14246320724487305
+        },
+        {
+                "start_time": 569.944958,
+                "end_time": 571.667623,
+                "MASR_results": "陳柏惟:啊裡面共這個教育的高軍購",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:啊你要說你要照他們的口供說",
+                "asr_recognition_time": 0.6387736797332764,
+                "google_recognition_time": 0.2936558723449707,
+                "speaker_recognition_time": 0.06733536720275879
+        },
+        {
+                "start_time": 571.771529,
+                "end_time": 574.216073,
+                "MASR_results": "陳柏惟:比這樣子被黃賭也挑起臺灣來的軍購",
+                "google_asr_results": "比較喜歡比耶",
+                "labels": "陳柏惟:或者是要反對他要站在台灣的立場說",
+                "asr_recognition_time": 0.8128435611724854,
+                "google_recognition_time": 0.8038740158081055,
+                "speaker_recognition_time": 0.09065866470336914
+        },
+        {
+                "start_time": 574.352792,
+                "end_time": 576.299676,
+                "MASR_results": "陳柏惟:機艦我打人我不及跨斷的敵準",
+                "google_asr_results": "字節跳動",
+                "labels": "陳柏惟:至少給大家有一個判斷的標準",
+                "asr_recognition_time": 0.6641721725463867,
+                "google_recognition_time": 2.0350258350372314,
+                "speaker_recognition_time": 0.09065651893615723
+        },
+        {
+                "start_time": 576.398114,
+                "end_time": 580.510634,
+                "MASR_results": "陳柏惟:啊看好假啦齁不關係各個保維修立法民意改掉被送了一個皮出來控",
+                "google_asr_results": "在南部關係個個都會休假呢改掉",
+                "labels": "陳柏惟:啊比較讓這些人齁不管是各個部會首長還是民意代表要講的自己出來講",
+                "asr_recognition_time": 1.3149826526641846,
+                "google_recognition_time": 2.2080070972442627,
+                "speaker_recognition_time": 0.14080524444580078
+        },
+        {
+                "start_time": 580.702042,
+                "end_time": 583.742681,
+                "MASR_results": "陳柏惟:啊麼打個案公告的公文公文青中工那按他停工",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:啊不要大家都來講講的說我們說人家親中說人家怎樣舔共",
+                "asr_recognition_time": 0.8277771472930908,
+                "google_recognition_time": 0.5114409923553467,
+                "speaker_recognition_time": 0.12605690956115723
+        },
+        {
+                "start_time": 583.819244,
+                "end_time": 585.215,
+                "MASR_results": "陳柏惟:欸所期相但是因為",
+                "google_asr_results": "煮雞胸的腥味",
+                "labels": "陳柏惟:那事實上就是因為",
+                "asr_recognition_time": 0.5043478012084961,
+                "google_recognition_time": 1.0716733932495117,
+                "speaker_recognition_time": 0.057464599609375
+        },
+        {
+                "start_time": 585.503627,
+                "end_time": 587.078635,
+                "MASR_results": "陳柏惟:大概啦我們只要這一起領敵就診",
+                "google_asr_results": "無法辨識",
+                "labels": "陳柏惟:大家如果不知道這是認知作戰",
+                "asr_recognition_time": 0.49050068855285645,
+                "google_recognition_time": 0.4835808277130127,
+                "speaker_recognition_time": 0.05523347854614258
+        },
+        {
+                "start_time": 587.297386,
+                "end_time": 588.57708,
+                "MASR_results": "陳柏惟:再者請教有個",
+                "google_asr_results": "再者請假9個",
+                "labels": "陳柏惟:才會造成這些後果",
+                "asr_recognition_time": 0.4406423568725586,
+                "google_recognition_time": 0.7893881797790527,
+                "speaker_recognition_time": 0.04756665229797363
+        },
+        {
+                "start_time": 588.763018,
+                "end_time": 591.770845,
+                "MASR_results": "陳柏惟:再導投標或不要隔離這降低也跨板高寶店",
+                "google_asr_results": "這種種不會有靜電",
+                "labels": "陳柏惟:再度強調我沒有要求你們要做政治的判斷跟目的",
+                "asr_recognition_time": 0.9561383724212646,
+                "google_recognition_time": 2.588590621948242,
+                "speaker_recognition_time": 0.1125791072845459
+        },
+        {
+                "start_time": 591.907565,
+                "end_time": 598.399003,
+                "MASR_results": "陳柏惟:但不能聯繫退官的屬性科他的受理這起購案掛就應該一蓋臺灣可以總統打來電掉",
+                "google_asr_results": "岡本SK關的數習慣作用",
+                "labels": "陳柏惟:但問題是客觀的事實科學的數字這是國安國安局應該要自己提供給大家對不對",
+                "asr_recognition_time": 2.368035316467285,
+                "google_recognition_time": 3.853621482849121,
+                "speaker_recognition_time": 0.22870540618896484
+        },
+        {
+                "start_time": 598.541191,
+                "end_time": 601.308392,
+                "MASR_results": "陳柏惟:美國的提供在豬魂齁相關的保我們",
+                "google_asr_results": "胸",
+                "labels": "陳明通:是我們會提供這些資訊給相關的部門",
+                "asr_recognition_time": 0.6229870319366455,
+                "google_recognition_time": 0.5171477794647217,
+                "speaker_recognition_time": 0.11015772819519043
+        },
+        {
+                "start_time": 601.599,
+                "end_time": 605.021691,
+                "MASR_results": "邱國正:可以但有戰敏啊齁你們啊跟拉工",
+                "google_asr_results": "更了解你",
+                "labels": "陳明通:去加入這些東西齁不是只是說",
+                "asr_recognition_time": 0.6437654495239258,
+                "google_recognition_time": 0.8438339233398438,
+                "speaker_recognition_time": 0.10806751251220703
+        },
+        {
+                "start_time": 605.183,
+                "end_time": 607.509984,
+                "MASR_results": "陳柏惟:齁訂經一吧那那但某架你啊",
+                "google_asr_results": "定睛一看",
+                "labels": "陳明通:齁澄清以外我們要加入這些東西",
+                "asr_recognition_time": 0.7115776538848877,
+                "google_recognition_time": 0.8222129344940186,
+                "speaker_recognition_time": 0.07940196990966797
+        },
+        {
+                "start_time": 607.570141,
+                "end_time": 612.191257,
+                "MASR_results": "陳柏惟:呃難總懂的點點人寫啊給他啊大概就會發表剛才謝謝我小英文",
+                "google_asr_results": "荷蘭總統",
+                "labels": "陳柏惟,陳明通:好我們共同的敵人是阿共啊啊大家一起努力感謝謝謝謝謝感謝委員",
+                "asr_recognition_time": 1.687732458114624,
+                "google_recognition_time": 2.1998355388641357,
+                "speaker_recognition_time": 0.23871707916259766
+        },
+        {
+                "start_time": 612.382664,
+                "end_time": 612.852979,
+                "MASR_results": "廖婉汝:謝謝",
+                "google_asr_results": "無法辨識",
+                "labels": "廖婉汝:謝謝",
+                "asr_recognition_time": 0.26221370697021484,
+                "google_recognition_time": 0.2935049533843994,
+                "speaker_recognition_time": 0.022147655487060547
+        }
+]

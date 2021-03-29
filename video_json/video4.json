@@ -1,0 +1,2596 @@
+[
+        {
+                "speech_accuracy": 90,
+                "speaker_accuracy": 84
+        },
+        {
+                "start_time": 2.00601,
+                "end_time": 3.072,
+                "MASR_results": "姜森:有請邱部長",
+                "google_asr_results": "歌曲秋布朗",
+                "labels": "吳斯懷:有請邱部長",
+                "asr_recognition_time": 0.38741588592529297,
+                "google_recognition_time": 0.861536979675293,
+                "speaker_recognition_time": 0.06171536445617676
+        },
+        {
+                "start_time": 3.395229,
+                "end_time": 4.3348260000000005,
+                "MASR_results": "劉世芳:邱部長請",
+                "google_asr_results": "無法辨識",
+                "labels": "廖婉汝:邱部長請",
+                "asr_recognition_time": 0.36293911933898926,
+                "google_recognition_time": 0.4985635280609131,
+                "speaker_recognition_time": 0.044561147689819336
+        },
+        {
+                "start_time": 9.609248,
+                "end_time": 10.370148,
+                "MASR_results": "邱國正:陳委員好",
+                "google_asr_results": "對啊",
+                "labels": "邱國正:委員好",
+                "asr_recognition_time": 0.2991507053375244,
+                "google_recognition_time": 0.5247917175292969,
+                "speaker_recognition_time": 0.03253769874572754
+        },
+        {
+                "start_time": 10.900473,
+                "end_time": 13.281168,
+                "MASR_results": "吳斯懷:部長首先恭喜你承擔重任啦",
+                "google_asr_results": "首先恭喜你承擔重任啦",
+                "labels": "吳斯懷:部長先恭喜你承擔重任哪",
+                "asr_recognition_time": 0.6706492900848389,
+                "google_recognition_time": 1.2984974384307861,
+                "speaker_recognition_time": 0.08011150360107422
+        },
+        {
+                "start_time": 13.863372,
+                "end_time": 15.292943,
+                "MASR_results": "邱臣遠:這不是一個好參事",
+                "google_asr_results": "這不是一個好差事",
+                "labels": "吳斯懷:這不是一個好差事",
+                "asr_recognition_time": 0.31497621536254883,
+                "google_recognition_time": 0.398287296295166,
+                "speaker_recognition_time": 0.05119824409484863
+        },
+        {
+                "start_time": 17.863863000000002,
+                "end_time": 19.437543,
+                "MASR_results": "吳斯懷:我想先問一個",
+                "google_asr_results": "獨角仙為一個",
+                "labels": "吳斯懷:我想先問一個",
+                "asr_recognition_time": 0.42526865005493164,
+                "google_recognition_time": 0.4059946537017822,
+                "speaker_recognition_time": 0.07997846603393555
+        },
+        {
+                "start_time": 19.968,
+                "end_time": 22.625254,
+                "MASR_results": "吳斯懷:美國總統拜登一上任之後",
+                "google_asr_results": "美國總統拜登一上任之後",
+                "labels": "吳斯懷:美國總統拜登一上任之後",
+                "asr_recognition_time": 0.6413171291351318,
+                "google_recognition_time": 0.394777774810791,
+                "speaker_recognition_time": 0.09052824974060059
+        },
+        {
+                "start_time": 23.04,
+                "end_time": 26.717975,
+                "MASR_results": "吳斯懷:很短的時間美中雙方的國防部",
+                "google_asr_results": "很短的時間美中雙方的國防部",
+                "labels": "吳斯懷:很短的時間美中雙方的國防部",
+                "asr_recognition_time": 0.8086245059967041,
+                "google_recognition_time": 0.37506723403930664,
+                "speaker_recognition_time": 0.14402461051940918
+        },
+        {
+                "start_time": 27.058075,
+                "end_time": 29.600173,
+                "MASR_results": "吳斯懷:就在一月二十五到二十六號",
+                "google_asr_results": "就在1月25到26號",
+                "labels": "吳斯懷:就在一月二十五到二十六號",
+                "asr_recognition_time": 0.7075884342193604,
+                "google_recognition_time": 0.36374640464782715,
+                "speaker_recognition_time": 0.08650517463684082
+        },
+        {
+                "start_time": 30.124733000000003,
+                "end_time": 31.686885,
+                "MASR_results": "吳斯懷:開了一個視訊會議",
+                "google_asr_results": "開一個視訊會議",
+                "labels": "吳斯懷:開了一個視訊會議",
+                "asr_recognition_time": 0.4622805118560791,
+                "google_recognition_time": 0.9946351051330566,
+                "speaker_recognition_time": 0.06436276435852051
+        },
+        {
+                "start_time": 32.153801,
+                "end_time": 34.217455,
+                "MASR_results": "吳斯懷:針對過去十五件",
+                "google_asr_results": "針對過去15間",
+                "labels": "吳斯懷:針對過去十五件",
+                "asr_recognition_time": 0.31085944175720215,
+                "google_recognition_time": 0.3172779083251953,
+                "speaker_recognition_time": 0.10157060623168945
+        },
+        {
+                "start_time": 34.332742,
+                "end_time": 37.289878,
+                "MASR_results": "吳斯懷:美軍政府和失蹤士兵的案件",
+                "google_asr_results": "美軍戰斧和失蹤士兵的案件",
+                "labels": "吳斯懷:美軍戰撫和失蹤士兵的案件",
+                "asr_recognition_time": 0.5227797031402588,
+                "google_recognition_time": 0.6962945461273193,
+                "speaker_recognition_time": 0.12565016746520996
+        },
+        {
+                "start_time": 37.641506,
+                "end_time": 38.454286,
+                "MASR_results": "邱臣遠:來討論",
+                "google_asr_results": "來討論",
+                "labels": "吳斯懷:來討論",
+                "asr_recognition_time": 0.2779538631439209,
+                "google_recognition_time": 0.5414073467254639,
+                "speaker_recognition_time": 0.037189483642578125
+        },
+        {
+                "start_time": 38.656,
+                "end_time": 42.933221,
+                "MASR_results": "吳斯懷:這期間包含從二戰含戰冷戰到月戰",
+                "google_asr_results": "這期間包含重二戰韓戰冷戰鬥越戰",
+                "labels": "吳斯懷:這期間包含從二戰韓戰冷戰到越戰",
+                "asr_recognition_time": 0.7504096031188965,
+                "google_recognition_time": 0.5058426856994629,
+                "speaker_recognition_time": 0.1725156307220459
+        },
+        {
+                "start_time": 43.264,
+                "end_time": 46.184341,
+                "MASR_results": "吳斯懷:也就是說美國從總統開始",
+                "google_asr_results": "也就是說美國從總統開始",
+                "labels": "吳斯懷:也就是說美國從總統開始",
+                "asr_recognition_time": 0.6655809879302979,
+                "google_recognition_time": 0.6573400497436523,
+                "speaker_recognition_time": 0.10508060455322266
+        },
+        {
+                "start_time": 46.651257,
+                "end_time": 48.801376,
+                "MASR_results": "邱臣遠:這個政府重視",
+                "google_asr_results": "政府處是",
+                "labels": "吳斯懷:這個政府重視",
+                "asr_recognition_time": 0.4694499969482422,
+                "google_recognition_time": 0.42787909507751465,
+                "speaker_recognition_time": 0.10369324684143066
+        },
+        {
+                "start_time": 49.118418,
+                "end_time": 49.977313,
+                "MASR_results": "李維德:老兵",
+                "google_asr_results": "老兵",
+                "labels": "吳斯懷:老兵",
+                "asr_recognition_time": 0.13395380973815918,
+                "google_recognition_time": 0.2655794620513916,
+                "speaker_recognition_time": 0.03918862342834473
+        },
+        {
+                "start_time": 50.461522,
+                "end_time": 51.326182,
+                "MASR_results": "陳世池:重視",
+                "google_asr_results": "中視",
+                "labels": "吳斯懷:重視",
+                "asr_recognition_time": 0.2561039924621582,
+                "google_recognition_time": 0.5135278701782227,
+                "speaker_recognition_time": 0.04710125923156738
+        },
+        {
+                "start_time": 51.389590000000005,
+                "end_time": 54.882814,
+                "MASR_results": "吳斯懷:過去為國家犧牲腹線的軍人",
+                "google_asr_results": "去為國家犧牲奉獻的軍人",
+                "labels": "吳斯懷:過去為國家犧牲奉獻的軍人",
+                "asr_recognition_time": 0.5700910091400146,
+                "google_recognition_time": 0.38530802726745605,
+                "speaker_recognition_time": 0.12107634544372559
+        },
+        {
+                "start_time": 55.263264,
+                "end_time": 56.064,
+                "MASR_results": "陳世池:那麼我想",
+                "google_asr_results": "那麼我想",
+                "labels": "吳斯懷:那麼我想",
+                "asr_recognition_time": 0.3308901786804199,
+                "google_recognition_time": 0.39462995529174805,
+                "speaker_recognition_time": 0.03764605522155762
+        },
+        {
+                "start_time": 56.427672,
+                "end_time": 59.534682,
+                "MASR_results": "吳斯懷:首先我先感謝國防部從去年",
+                "google_asr_results": "首先我先感謝國防部從去年",
+                "labels": "吳斯懷:首先我先感謝國防部從去年",
+                "asr_recognition_time": 0.7497272491455078,
+                "google_recognition_time": 1.000861406326294,
+                "speaker_recognition_time": 0.10475468635559082
+        },
+        {
+                "start_time": 59.811373,
+                "end_time": 62.088309,
+                "MASR_results": "吳斯懷:本席十月份質詢國防部",
+                "google_asr_results": "北溪10月份質詢國防部",
+                "labels": "吳斯懷:本席十月份質詢國防部",
+                "asr_recognition_time": 0.5700387954711914,
+                "google_recognition_time": 0.5070526599884033,
+                "speaker_recognition_time": 0.08775472640991211
+        },
+        {
+                "start_time": 62.261241000000005,
+                "end_time": 64.526649,
+                "MASR_results": "吳斯懷:在泰北孤軍這一塊",
+                "google_asr_results": "在泰北孤軍這一塊",
+                "labels": "吳斯懷:在泰北孤軍這一塊",
+                "asr_recognition_time": 0.35416603088378906,
+                "google_recognition_time": 0.38794374465942383,
+                "speaker_recognition_time": 0.07726097106933594
+        },
+        {
+                "start_time": 64.90133399999999,
+                "end_time": 65.725643,
+                "MASR_results": "吳斯懷:前部長",
+                "google_asr_results": "全部長",
+                "labels": "吳斯懷:前部長",
+                "asr_recognition_time": 0.30626964569091797,
+                "google_recognition_time": 0.2365574836730957,
+                "speaker_recognition_time": 0.03244948387145996
+        },
+        {
+                "start_time": 66.077271,
+                "end_time": 66.745941,
+                "MASR_results": "林正壹:加上",
+                "google_asr_results": "交通",
+                "labels": "吳斯懷:加上",
+                "asr_recognition_time": 0.27179455757141113,
+                "google_recognition_time": 0.2995293140411377,
+                "speaker_recognition_time": 0.03350377082824707
+        },
+        {
+                "start_time": 67.016868,
+                "end_time": 68.60207700000001,
+                "MASR_results": "吳斯懷:學安普徐執行官",
+                "google_asr_results": "青埔區資訊館",
+                "labels": "吳斯懷:徐衍璞徐執行官",
+                "asr_recognition_time": 0.28909945487976074,
+                "google_recognition_time": 0.7485201358795166,
+                "speaker_recognition_time": 0.07077574729919434
+        },
+        {
+                "start_time": 68.665485,
+                "end_time": 70.279516,
+                "MASR_results": "吳斯懷:全力的配合",
+                "google_asr_results": "全力的配合",
+                "labels": "邱國正,吳斯懷:是全力的配合",
+                "asr_recognition_time": 0.40420103073120117,
+                "google_recognition_time": 0.2794508934020996,
+                "speaker_recognition_time": 0.08626794815063477
+        },
+        {
+                "start_time": 70.798311,
+                "end_time": 74.24,
+                "MASR_results": "吳斯懷:將泰北孤軍這一批老人以及他的",
+                "google_asr_results": "張泰北孤軍最低老人以及他的",
+                "labels": "吳斯懷:將泰北孤軍這一批老人以及他的",
+                "asr_recognition_time": 0.8216245174407959,
+                "google_recognition_time": 0.5405311584472656,
+                "speaker_recognition_time": 0.14730429649353027
+        },
+        {
+                "start_time": 74.496,
+                "end_time": 75.092786,
+                "MASR_results": "邱臣遠:以所",
+                "google_asr_results": "遺屬",
+                "labels": "吳斯懷:遺屬",
+                "asr_recognition_time": 0.13460278511047363,
+                "google_recognition_time": 0.3617744445800781,
+                "speaker_recognition_time": 0.029740333557128906
+        },
+        {
+                "start_time": 75.398299,
+                "end_time": 76.239901,
+                "MASR_results": "吳斯懷:到現在",
+                "google_asr_results": "到現在",
+                "labels": "吳斯懷:到現在",
+                "asr_recognition_time": 0.2785651683807373,
+                "google_recognition_time": 0.2568662166595459,
+                "speaker_recognition_time": 0.03601241111755371
+        },
+        {
+                "start_time": 76.320603,
+                "end_time": 78.176738,
+                "MASR_results": "吳斯懷:目前已經完成的是",
+                "google_asr_results": "目前已經完成的事",
+                "labels": "吳斯懷:目前已經完成的是",
+                "asr_recognition_time": 0.5072486400604248,
+                "google_recognition_time": 0.34676122665405273,
+                "speaker_recognition_time": 0.08163881301879883
+        },
+        {
+                "start_time": 78.43037199999999,
+                "end_time": 79.277738,
+                "MASR_results": "胡木源:國防部",
+                "google_asr_results": "國防部",
+                "labels": "吳斯懷:國防部",
+                "asr_recognition_time": 0.27869534492492676,
+                "google_recognition_time": 0.4734227657318115,
+                "speaker_recognition_time": 0.03490614891052246
+        },
+        {
+                "start_time": 79.51984300000001,
+                "end_time": 80.40756,
+                "MASR_results": "陳世池:完成了",
+                "google_asr_results": "完成了",
+                "labels": "吳斯懷:完成了",
+                "asr_recognition_time": 0.3047366142272949,
+                "google_recognition_time": 0.34148550033569336,
+                "speaker_recognition_time": 0.06096982955932617
+        },
+        {
+                "start_time": 80.81106700000001,
+                "end_time": 85.08248499999999,
+                "MASR_results": "吳斯懷:中華民國雲南反共救國軍的紀念章製作",
+                "google_asr_results": "中華民國雲南反共救國軍的紀念章製作",
+                "labels": "吳斯懷:中華民國雲南反共救國軍的紀念章製作",
+                "asr_recognition_time": 0.8356118202209473,
+                "google_recognition_time": 0.5109984874725342,
+                "speaker_recognition_time": 0.12893962860107422
+        },
+        {
+                "start_time": 85.18624399999999,
+                "end_time": 87.186489,
+                "MASR_results": "黃文啟:也已經送到泰北",
+                "google_asr_results": "已經送到泰北",
+                "labels": "吳斯懷:也已經送到泰北",
+                "asr_recognition_time": 0.30558037757873535,
+                "google_recognition_time": 0.35967183113098145,
+                "speaker_recognition_time": 0.07041645050048828
+        },
+        {
+                "start_time": 87.451651,
+                "end_time": 89.503776,
+                "MASR_results": "林正壹:第二個就是這第一批",
+                "google_asr_results": "6個就是在第一批",
+                "labels": "吳斯懷:第二個就是這第一批",
+                "asr_recognition_time": 0.5477557182312012,
+                "google_recognition_time": 0.5287344455718994,
+                "speaker_recognition_time": 0.0790262222290039
+        },
+        {
+                "start_time": 89.99375,
+                "end_time": 90.771944,
+                "MASR_results": "吳斯懷:有關",
+                "google_asr_results": "有關",
+                "labels": "吳斯懷:有關",
+                "asr_recognition_time": 0.2523488998413086,
+                "google_recognition_time": 0.2436997890472412,
+                "speaker_recognition_time": 0.04017996788024902
+        },
+        {
+                "start_time": 91.100514,
+                "end_time": 95.810026,
+                "MASR_results": "吳斯懷:墓園中烈祠的整修預算編列也已經編列完成",
+                "google_asr_results": "墓園忠烈祠的整修預算編列也已經編六完成",
+                "labels": "吳斯懷:墓園忠烈祠的整修預算編列也已經編列完成",
+                "asr_recognition_time": 0.9686143398284912,
+                "google_recognition_time": 0.6071405410766602,
+                "speaker_recognition_time": 0.1552872657775879
+        },
+        {
+                "start_time": 96.034837,
+                "end_time": 97.971674,
+                "MASR_results": "吳斯懷:這一點非常感謝但是",
+                "google_asr_results": "非常感謝但是",
+                "labels": "吳斯懷:這一點非常感謝但是",
+                "asr_recognition_time": 0.5124742984771729,
+                "google_recognition_time": 0.6540191173553467,
+                "speaker_recognition_time": 0.10100889205932617
+        },
+        {
+                "start_time": 98.11002,
+                "end_time": 101.297731,
+                "MASR_results": "吳斯懷:有關他們在迎靈回到忠烈祠這一部分",
+                "google_asr_results": "有關他們的100回到忠烈祠這一部分",
+                "labels": "吳斯懷:有關他們的迎靈回到忠烈祠這一部分",
+                "asr_recognition_time": 0.692385196685791,
+                "google_recognition_time": 0.9101526737213135,
+                "speaker_recognition_time": 0.13634085655212402
+        },
+        {
+                "start_time": 101.447605,
+                "end_time": 105.315515,
+                "MASR_results": "吳斯懷:是等今年疫情和緩有希望邱部長能夠接續",
+                "google_asr_results": "知本金聯誼型手環有希望秋不然能夠接續",
+                "labels": "吳斯懷:是等今年疫情和緩有希望邱部長能夠接續",
+                "asr_recognition_time": 0.8339402675628662,
+                "google_recognition_time": 0.9190878868103027,
+                "speaker_recognition_time": 0.1316242218017578
+        },
+        {
+                "start_time": 105.425038,
+                "end_time": 106.496,
+                "MASR_results": "吳斯懷:繼續努力",
+                "google_asr_results": "繼續努力",
+                "labels": "吳斯懷:繼續努力",
+                "asr_recognition_time": 0.32894134521484375,
+                "google_recognition_time": 0.24625658988952637,
+                "speaker_recognition_time": 0.06986355781555176
+        },
+        {
+                "start_time": 106.987189,
+                "end_time": 108.606985,
+                "MASR_results": "吳斯懷:我看到國防部在",
+                "google_asr_results": "我看到國防部在",
+                "labels": "吳斯懷:我看到國防部在",
+                "asr_recognition_time": 0.4594235420227051,
+                "google_recognition_time": 0.4808347225189209,
+                "speaker_recognition_time": 0.05956721305847168
+        },
+        {
+                "start_time": 108.676157,
+                "end_time": 110.151843,
+                "MASR_results": "吳斯懷:二零一四年的時候",
+                "google_asr_results": "2014年的時候",
+                "labels": "吳斯懷:二零一四年的時候",
+                "asr_recognition_time": 0.4848506450653076,
+                "google_recognition_time": 0.3113369941711426,
+                "speaker_recognition_time": 0.08157491683959961
+        },
+        {
+                "start_time": 110.491942,
+                "end_time": 111.872,
+                "MASR_results": "吳斯懷:緬甸眼徵軍",
+                "google_asr_results": "緬甸遠春軍",
+                "labels": "吳斯懷:緬甸遠征軍",
+                "asr_recognition_time": 0.23572874069213867,
+                "google_recognition_time": 0.3001430034637451,
+                "speaker_recognition_time": 0.05251455307006836
+        },
+        {
+                "start_time": 112.284669,
+                "end_time": 113.500957,
+                "MASR_results": "吳斯懷:我們正式",
+                "google_asr_results": "我們正式",
+                "labels": "吳斯懷:我們正式",
+                "asr_recognition_time": 0.36936116218566895,
+                "google_recognition_time": 0.2594327926635742,
+                "speaker_recognition_time": 0.04107165336608887
+        },
+        {
+                "start_time": 114.025517,
+                "end_time": 115.345564,
+                "MASR_results": "吳斯懷:迎靈回國",
+                "google_asr_results": "雲林回國",
+                "labels": "吳斯懷:迎靈回國",
+                "asr_recognition_time": 0.19928526878356934,
+                "google_recognition_time": 0.23582673072814941,
+                "speaker_recognition_time": 0.05227518081665039
+        },
+        {
+                "start_time": 115.426265,
+                "end_time": 117.391924,
+                "MASR_results": "吳斯懷:非常的榮眾盛大",
+                "google_asr_results": "非常的隆重盛大",
+                "labels": "吳斯懷:非常的隆重盛大",
+                "asr_recognition_time": 0.32109594345092773,
+                "google_recognition_time": 0.5774755477905273,
+                "speaker_recognition_time": 0.1033482551574707
+        },
+        {
+                "start_time": 117.541798,
+                "end_time": 119.755327,
+                "MASR_results": "吳斯懷:有五萬六千多名",
+                "google_asr_results": "56000多明",
+                "labels": "吳斯懷:有五萬六千多名",
+                "asr_recognition_time": 0.49793457984924316,
+                "google_recognition_time": 0.4407920837402344,
+                "speaker_recognition_time": 0.09494948387145996
+        },
+        {
+                "start_time": 119.899436,
+                "end_time": 122.77587,
+                "MASR_results": "吳斯懷:遠徵軍的總臺會迎回忠烈祠",
+                "google_asr_results": "遠徵軍的總牌位贏回忠烈祠",
+                "labels": "吳斯懷:遠征軍的總牌位迎回忠烈祠",
+                "asr_recognition_time": 0.539675235748291,
+                "google_recognition_time": 0.43956947326660156,
+                "speaker_recognition_time": 0.12158346176147461
+        },
+        {
+                "start_time": 122.937273,
+                "end_time": 125.047042,
+                "MASR_results": "吳斯懷:這是代表中華民國政府",
+                "google_asr_results": "這是代表中華民國政府",
+                "labels": "吳斯懷:這是代表中華民國政府",
+                "asr_recognition_time": 0.5984241962432861,
+                "google_recognition_time": 0.6615417003631592,
+                "speaker_recognition_time": 0.08466219902038574
+        },
+        {
+                "start_time": 125.277618,
+                "end_time": 129.024,
+                "MASR_results": "吳斯懷:對這些為了保衛國家所犧牲的前輩",
+                "google_asr_results": "對這些為了保衛國家所犧牲的前輩",
+                "labels": "吳斯懷:對這些為了保衛國家所犧牲的前輩",
+                "asr_recognition_time": 0.9402892589569092,
+                "google_recognition_time": 0.9394168853759766,
+                "speaker_recognition_time": 0.1255052089691162
+        },
+        {
+                "start_time": 129.157056,
+                "end_time": 131.072,
+                "MASR_results": "吳斯懷:一個尊重跟榮點",
+                "google_asr_results": "一個尊重跟熔點",
+                "labels": "吳斯懷:一個尊重跟隆典",
+                "asr_recognition_time": 0.30808234214782715,
+                "google_recognition_time": 0.516779899597168,
+                "speaker_recognition_time": 0.10605478286743164
+        },
+        {
+                "start_time": 131.328,
+                "end_time": 133.47458899999998,
+                "MASR_results": "吳斯懷:但是我同樣還要問的就是",
+                "google_asr_results": "告訴我主要還有問的就是",
+                "labels": "吳斯懷:但是我同樣還有問的就是",
+                "asr_recognition_time": 0.6610462665557861,
+                "google_recognition_time": 0.8871519565582275,
+                "speaker_recognition_time": 0.07105422019958496
+        },
+        {
+                "start_time": 133.632,
+                "end_time": 134.38536399999998,
+                "MASR_results": "林正壹:除了",
+                "google_asr_results": "除了",
+                "labels": "吳斯懷:除了",
+                "asr_recognition_time": 0.27788496017456055,
+                "google_recognition_time": 0.306227445602417,
+                "speaker_recognition_time": 0.030853986740112305
+        },
+        {
+                "start_time": 134.443007,
+                "end_time": 136.166562,
+                "MASR_results": "吳斯懷:泰北孤軍這一塊",
+                "google_asr_results": "泰北孤軍這一塊",
+                "labels": "吳斯懷:泰北孤軍這一塊",
+                "asr_recognition_time": 0.46280813217163086,
+                "google_recognition_time": 0.4776277542114258,
+                "speaker_recognition_time": 0.07373809814453125
+        },
+        {
+                "start_time": 136.627714,
+                "end_time": 137.198389,
+                "MASR_results": "吳育華:之外",
+                "google_asr_results": "無法辨識",
+                "labels": "吳斯懷:之外",
+                "asr_recognition_time": 0.2527306079864502,
+                "google_recognition_time": 0.2535231113433838,
+                "speaker_recognition_time": 0.02396082878112793
+        },
+        {
+                "start_time": 137.33097,
+                "end_time": 139.775074,
+                "MASR_results": "吳斯懷:還有在印度第二遠跟軍",
+                "google_asr_results": "還有在印度丟遠徵軍",
+                "labels": "吳斯懷:還有在印度第二遠征軍",
+                "asr_recognition_time": 0.6088123321533203,
+                "google_recognition_time": 0.5672609806060791,
+                "speaker_recognition_time": 0.1096656322479248
+        },
+        {
+                "start_time": 139.878833,
+                "end_time": 141.41216200000002,
+                "MASR_results": "陳世池:在越南副國島",
+                "google_asr_results": "在越南富國島",
+                "labels": "吳斯懷:在越南富國島",
+                "asr_recognition_time": 0.26850008964538574,
+                "google_recognition_time": 0.457364559173584,
+                "speaker_recognition_time": 0.05867314338684082
+        },
+        {
+                "start_time": 141.62544499999998,
+                "end_time": 143.62569,
+                "MASR_results": "陳世池:我們看看後面這些",
+                "google_asr_results": "我們看看後面這一些",
+                "labels": "吳斯懷:我們看看後面這些",
+                "asr_recognition_time": 0.5481200218200684,
+                "google_recognition_time": 0.4240260124206543,
+                "speaker_recognition_time": 0.06747579574584961
+        },
+        {
+                "start_time": 143.787093,
+                "end_time": 144.501878,
+                "MASR_results": "吳斯懷:都是",
+                "google_asr_results": "都是",
+                "labels": "吳斯懷:都是",
+                "asr_recognition_time": 0.27912306785583496,
+                "google_recognition_time": 0.25574350357055664,
+                "speaker_recognition_time": 0.03151965141296387
+        },
+        {
+                "start_time": 144.72669,
+                "end_time": 146.928689,
+                "MASR_results": "吳斯懷:看到墓碑我們會感動",
+                "google_asr_results": "那我們會感動",
+                "labels": "吳斯懷:看到墓碑我們會感動",
+                "asr_recognition_time": 0.3896644115447998,
+                "google_recognition_time": 1.0709044933319092,
+                "speaker_recognition_time": 0.10263323783874512
+        },
+        {
+                "start_time": 147.078563,
+                "end_time": 150.375798,
+                "MASR_results": "吳斯懷:中華民國的國徽中華民國的國號",
+                "google_asr_results": "中華民國的國徽中華民國的股號",
+                "labels": "吳斯懷:中華民國的國徽中華民國的國號",
+                "asr_recognition_time": 0.7026386260986328,
+                "google_recognition_time": 0.48770642280578613,
+                "speaker_recognition_time": 0.1425468921661377
+        },
+        {
+                "start_time": 150.687075,
+                "end_time": 154.318645,
+                "MASR_results": "吳斯懷:這些都是為國犧牲沒有他們的努力",
+                "google_asr_results": "一切都是為國犧牲沒有他們的努力",
+                "labels": "吳斯懷:這一些都是為國犧牲沒有他們的努力",
+                "asr_recognition_time": 0.9456536769866943,
+                "google_recognition_time": 0.42659568786621094,
+                "speaker_recognition_time": 0.14906907081604004
+        },
+        {
+                "start_time": 154.451226,
+                "end_time": 156.572524,
+                "MASR_results": "吳斯懷:中華民國沒有今天",
+                "google_asr_results": "中華民國沒有今天",
+                "labels": "吳斯懷:中華民國沒有今天",
+                "asr_recognition_time": 0.5661001205444336,
+                "google_recognition_time": 0.3225443363189697,
+                "speaker_recognition_time": 0.08160948753356934
+        },
+        {
+                "start_time": 156.854979,
+                "end_time": 158.976,
+                "MASR_results": "吳斯懷:所以我建議部長是不是除了",
+                "google_asr_results": "附近一部長是不是除了",
+                "labels": "吳斯懷:所以我建議部長是不是除了",
+                "asr_recognition_time": 0.6314365863800049,
+                "google_recognition_time": 0.5310797691345215,
+                "speaker_recognition_time": 0.07233452796936035
+        },
+        {
+                "start_time": 159.074272,
+                "end_time": 161.426145,
+                "MASR_results": "吳斯懷:泰北孤軍這一塊接續去做",
+                "google_asr_results": "泰北孤軍最快接續去做",
+                "labels": "吳斯懷:泰北孤軍這一塊接續去做",
+                "asr_recognition_time": 0.6176145076751709,
+                "google_recognition_time": 0.4873843193054199,
+                "speaker_recognition_time": 0.10119318962097168
+        },
+        {
+                "start_time": 161.536,
+                "end_time": 163.44368400000002,
+                "MASR_results": "吳斯懷:整個整體這一塊",
+                "google_asr_results": "整個整體這一塊",
+                "labels": "吳斯懷:整個整體這一塊",
+                "asr_recognition_time": 0.47609949111938477,
+                "google_recognition_time": 0.49912118911743164,
+                "speaker_recognition_time": 0.08271217346191406
+        },
+        {
+                "start_time": 163.57626499999998,
+                "end_time": 166.089541,
+                "MASR_results": "吳斯懷:是不是應該成立一個專案小組",
+                "google_asr_results": "是不是應該成立一個專案小組",
+                "labels": "吳斯懷:是不是應該成立一個專案小組",
+                "asr_recognition_time": 0.7969176769256592,
+                "google_recognition_time": 0.4024059772491455,
+                "speaker_recognition_time": 0.11993980407714844
+        },
+        {
+                "start_time": 166.29706000000002,
+                "end_time": 168.147431,
+                "MASR_results": "吳斯懷:本席願意協助配合",
+                "google_asr_results": "北西願意協助配合",
+                "labels": "吳斯懷:本席願意協助配合",
+                "asr_recognition_time": 0.48317813873291016,
+                "google_recognition_time": 0.43209147453308105,
+                "speaker_recognition_time": 0.0649111270904541
+        },
+        {
+                "start_time": 168.3953,
+                "end_time": 169.82487,
+                "MASR_results": "吳斯懷:雖然沒有邦交",
+                "google_asr_results": "一人沒有邦交",
+                "labels": "吳斯懷:雖然沒有邦交",
+                "asr_recognition_time": 0.2582056522369385,
+                "google_recognition_time": 0.3741922378540039,
+                "speaker_recognition_time": 0.05461382865905762
+        },
+        {
+                "start_time": 169.934394,
+                "end_time": 171.992283,
+                "MASR_results": "吳斯懷:我們可以去做一些",
+                "google_asr_results": "我們可以去做一些",
+                "labels": "吳斯懷:我們可以去做一些",
+                "asr_recognition_time": 0.5081138610839844,
+                "google_recognition_time": 0.33646583557128906,
+                "speaker_recognition_time": 0.1056816577911377
+        },
+        {
+                "start_time": 172.36696899999998,
+                "end_time": 174.874481,
+                "MASR_results": "黃文啟:是輔謂這些英民",
+                "google_asr_results": "數位這些英靈",
+                "labels": "邱國正,吳斯懷:是撫慰這些英靈",
+                "asr_recognition_time": 0.3444232940673828,
+                "google_recognition_time": 0.41716504096984863,
+                "speaker_recognition_time": 0.09461379051208496
+        },
+        {
+                "start_time": 174.960947,
+                "end_time": 177.105302,
+                "MASR_results": "吳斯懷:然後把他們的總排位",
+                "google_asr_results": "然後把湯的總牌位",
+                "labels": "吳斯懷:然後把他們的總牌位",
+                "asr_recognition_time": 0.3980576992034912,
+                "google_recognition_time": 0.545677661895752,
+                "speaker_recognition_time": 0.08629870414733887
+        },
+        {
+                "start_time": 177.353171,
+                "end_time": 178.874972,
+                "MASR_results": "吳斯懷:隱回忠烈祠",
+                "google_asr_results": "雲回忠烈祠",
+                "labels": "吳斯懷:迎回忠烈祠",
+                "asr_recognition_time": 0.24627208709716797,
+                "google_recognition_time": 0.31464195251464844,
+                "speaker_recognition_time": 0.08816289901733398
+        },
+        {
+                "start_time": 178.978731,
+                "end_time": 181.492007,
+                "MASR_results": "吳斯懷:也代表中華民國的政府",
+                "google_asr_results": "元代表中華民國的政府",
+                "labels": "吳斯懷:也代表中華民國的政府",
+                "asr_recognition_time": 0.6788656711578369,
+                "google_recognition_time": 0.5434865951538086,
+                "speaker_recognition_time": 0.11669158935546875
+        },
+        {
+                "start_time": 181.716819,
+                "end_time": 185.04864,
+                "MASR_results": "吳斯懷:重視這些人看看美國政府講的那一句話",
+                "google_asr_results": "護士姐姐人看看美國政府繳的那句話",
+                "labels": "吳斯懷:重視這些人看看美國政府講的那句話",
+                "asr_recognition_time": 0.9959595203399658,
+                "google_recognition_time": 1.3340864181518555,
+                "speaker_recognition_time": 0.14458394050598145
+        },
+        {
+                "start_time": 185.6,
+                "end_time": 186.112,
+                "MASR_results": "林正壹:我們",
+                "google_asr_results": "我們",
+                "labels": "吳斯懷:我們",
+                "asr_recognition_time": 0.2541208267211914,
+                "google_recognition_time": 0.21834993362426758,
+                "speaker_recognition_time": 0.025246858596801758
+        },
+        {
+                "start_time": 186.368,
+                "end_time": 188.876199,
+                "MASR_results": "吳斯懷:帶回每一個人回家",
+                "google_asr_results": "帶回每一個人回家",
+                "labels": "吳斯懷:帶回每一個人回家",
+                "asr_recognition_time": 0.44185662269592285,
+                "google_recognition_time": 0.37774229049682617,
+                "speaker_recognition_time": 0.10878729820251465
+        },
+        {
+                "start_time": 189.037602,
+                "end_time": 190.772685,
+                "MASR_results": "邱臣遠:不管是死自我",
+                "google_asr_results": "不管是死是活",
+                "labels": "吳斯懷:不管是死是活",
+                "asr_recognition_time": 0.35012245178222656,
+                "google_recognition_time": 0.423109769821167,
+                "speaker_recognition_time": 0.08370447158813477
+        },
+        {
+                "start_time": 190.976,
+                "end_time": 192.282957,
+                "MASR_results": "吳斯懷:美國政府做的到",
+                "google_asr_results": "美國政府做得到",
+                "labels": "吳斯懷:美國政府做得到",
+                "asr_recognition_time": 0.44517993927001953,
+                "google_recognition_time": 0.5449657440185547,
+                "speaker_recognition_time": 0.08293724060058594
+        },
+        {
+                "start_time": 192.553883,
+                "end_time": 193.914281,
+                "MASR_results": "吳斯懷:總統一上任",
+                "google_asr_results": "等等與上任",
+                "labels": "吳斯懷:總統一上任",
+                "asr_recognition_time": 0.39737939834594727,
+                "google_recognition_time": 1.7586357593536377,
+                "speaker_recognition_time": 0.054912567138671875
+        },
+        {
+                "start_time": 194.058391,
+                "end_time": 195.97217,
+                "MASR_results": "吳斯懷:在著前後前面認",
+                "google_asr_results": "帶著前後前面任",
+                "labels": "吳斯懷:帶著前後前面任",
+                "asr_recognition_time": 0.31772780418395996,
+                "google_recognition_time": 0.5380520820617676,
+                "speaker_recognition_time": 0.06993389129638672
+        },
+        {
+                "start_time": 196.035579,
+                "end_time": 197.044348,
+                "MASR_results": "吳斯懷:任總統的",
+                "google_asr_results": "正統統的",
+                "labels": "吳斯懷:任總統的",
+                "asr_recognition_time": 0.18132972717285156,
+                "google_recognition_time": 0.5025844573974609,
+                "speaker_recognition_time": 0.06137967109680176
+        },
+        {
+                "start_time": 197.142343,
+                "end_time": 199.378928,
+                "MASR_results": "林正壹:第一個時間代的他的夫人",
+                "google_asr_results": "時間帶的他的夫人",
+                "labels": "吳斯懷:第一個時間帶著他的夫人",
+                "asr_recognition_time": 0.45364809036254883,
+                "google_recognition_time": 0.9630167484283447,
+                "speaker_recognition_time": 0.07480740547180176
+        },
+        {
+                "start_time": 199.868902,
+                "end_time": 200.802734,
+                "MASR_results": "吳斯懷:拜登到",
+                "google_asr_results": "拜登",
+                "labels": "吳斯懷:拜登到",
+                "asr_recognition_time": 0.431657075881958,
+                "google_recognition_time": 0.3809521198272705,
+                "speaker_recognition_time": 0.03827691078186035
+        },
+        {
+                "start_time": 200.860378,
+                "end_time": 202.849095,
+                "MASR_results": "吳斯懷:阿林頓公務去致意",
+                "google_asr_results": "20路公墓去致意",
+                "labels": "吳斯懷:阿靈頓公墓去致意",
+                "asr_recognition_time": 0.5510349273681641,
+                "google_recognition_time": 0.5671558380126953,
+                "speaker_recognition_time": 0.0682377815246582
+        },
+        {
+                "start_time": 203.008,
+                "end_time": 204.032,
+                "MASR_results": "陳柏惟:我們國家",
+                "google_asr_results": "我們國家",
+                "labels": "吳斯懷:我們國家",
+                "asr_recognition_time": 0.3549838066101074,
+                "google_recognition_time": 0.5085339546203613,
+                "speaker_recognition_time": 0.04455757141113281
+        },
+        {
+                "start_time": 204.12879,
+                "end_time": 207.172392,
+                "MASR_results": "吳斯懷:怎麼對待這些為國犧牲的軍人",
+                "google_asr_results": "怎麼對待這些為國犧牲的軍人",
+                "labels": "吳斯懷:怎麼對待這些為國犧牲的軍人",
+                "asr_recognition_time": 0.8023011684417725,
+                "google_recognition_time": 0.47763848304748535,
+                "speaker_recognition_time": 0.1293790340423584
+        },
+        {
+                "start_time": 207.36,
+                "end_time": 210.00847400000004,
+                "MASR_results": "吳斯懷:這一點請邱部長能夠全力配合可以嗎",
+                "google_asr_results": "敬請初步轉能夠全力配合可以嗎",
+                "labels": "吳斯懷:這一點請邱部長能夠全力配合可以嗎",
+                "asr_recognition_time": 0.8663299083709717,
+                "google_recognition_time": 1.1655223369598389,
+                "speaker_recognition_time": 0.10535120964050293
+        },
+        {
+                "start_time": 210.077647,
+                "end_time": 214.879389,
+                "MASR_results": "邱國正:呃絕對全力配合而且我要多講兩句喔跟委員報告喔",
+                "google_asr_results": "絕對權力配合而且我要多講兩句啊跟委員報告",
+                "labels": "邱國正:呃絕對全力配合而且我要多講兩句啊跟委員報告",
+                "asr_recognition_time": 1.2021937370300293,
+                "google_recognition_time": 0.884575605392456,
+                "speaker_recognition_time": 0.18029022216796875
+        },
+        {
+                "start_time": 214.983148,
+                "end_time": 216.770111,
+                "MASR_results": "邱國正:就當初有一些工作推動",
+                "google_asr_results": "當初有加工作推動",
+                "labels": "邱國正:就當初有些工作推動",
+                "asr_recognition_time": 0.6051669120788574,
+                "google_recognition_time": 0.46422576904296875,
+                "speaker_recognition_time": 0.07092905044555664
+        },
+        {
+                "start_time": 216.832,
+                "end_time": 218.914466,
+                "MASR_results": "邱國正:但是我還在軍中我都知道的",
+                "google_asr_results": "那個我還在軍中火車吃到了",
+                "labels": "邱國正:那時候我還在軍中我都知道的",
+                "asr_recognition_time": 0.6414668560028076,
+                "google_recognition_time": 0.5011239051818848,
+                "speaker_recognition_time": 0.09734201431274414
+        },
+        {
+                "start_time": 219.1681,
+                "end_time": 220.92624,
+                "MASR_results": "邱國正:甚至於我們派的專人",
+                "google_asr_results": "社區王派的傳人",
+                "labels": "邱國正:甚至於我們派的專人",
+                "asr_recognition_time": 0.3579833507537842,
+                "google_recognition_time": 0.7937390804290771,
+                "speaker_recognition_time": 0.07919502258300781
+        },
+        {
+                "start_time": 220.960827,
+                "end_time": 223.488,
+                "MASR_results": "邱國正:到這東西怎麼樣跟他落選完了以後",
+                "google_asr_results": "到了以後",
+                "labels": "邱國正:到那邊去怎麼樣跟他斡旋完了以後",
+                "asr_recognition_time": 0.5928013324737549,
+                "google_recognition_time": 0.8056504726409912,
+                "speaker_recognition_time": 0.11551737785339355
+        },
+        {
+                "start_time": 223.670093,
+                "end_time": 226.264071,
+                "MASR_results": "邱國正:後續經費的資助人力太減",
+                "google_asr_results": "後續經費的資助人力派遣",
+                "labels": "邱國正:後續經費的資助人力的派遣",
+                "asr_recognition_time": 0.46770715713500977,
+                "google_recognition_time": 0.8249979019165039,
+                "speaker_recognition_time": 0.11149430274963379
+        },
+        {
+                "start_time": 226.448532,
+                "end_time": 228.42572,
+                "MASR_results": "邱國正:把這些呃零股贏回來",
+                "google_asr_results": "8051回來",
+                "labels": "邱國正:把這些呃靈骨迎回來",
+                "asr_recognition_time": 0.36519908905029297,
+                "google_recognition_time": 1.0532078742980957,
+                "speaker_recognition_time": 0.07125616073608398
+        },
+        {
+                "start_time": 228.66206,
+                "end_time": 230.500902,
+                "MASR_results": "邱國正:這代表我們對他的尊重",
+                "google_asr_results": "就代表我們對他的尊重",
+                "labels": "邱國正:這代表我們對他的尊崇",
+                "asr_recognition_time": 0.38802528381347656,
+                "google_recognition_time": 0.6080372333526611,
+                "speaker_recognition_time": 0.07039451599121094
+        },
+        {
+                "start_time": 230.656,
+                "end_time": 233.089116,
+                "MASR_results": "邱國正:本來戰爭就是一個很不幸的事情",
+                "google_asr_results": "本來轉正就一個很不是有事情",
+                "labels": "邱國正:本來戰爭就是一個很不幸的事情",
+                "asr_recognition_time": 0.5648505687713623,
+                "google_recognition_time": 0.647606611251831,
+                "speaker_recognition_time": 0.11687684059143066
+        },
+        {
+                "start_time": 233.34274900000003,
+                "end_time": 234.507157,
+                "MASR_results": "邱國正:戰爭犧牲",
+                "google_asr_results": "戰爭犧牲",
+                "labels": "邱國正:戰爭犧牲",
+                "asr_recognition_time": 0.3520658016204834,
+                "google_recognition_time": 0.5217442512512207,
+                "speaker_recognition_time": 0.04900360107421875
+        },
+        {
+                "start_time": 234.645503,
+                "end_time": 235.619686,
+                "MASR_results": "邱國正:但是人員",
+                "google_asr_results": "人員",
+                "labels": "邱國正:這些人員",
+                "asr_recognition_time": 0.3316168785095215,
+                "google_recognition_time": 0.3184535503387451,
+                "speaker_recognition_time": 0.03877568244934082
+        },
+        {
+                "start_time": 235.67733,
+                "end_time": 236.495874,
+                "MASR_results": "邱國正:跟他家裡",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:這個來加禮",
+                "asr_recognition_time": 0.18550729751586914,
+                "google_recognition_time": 0.46452927589416504,
+                "speaker_recognition_time": 0.04075741767883301
+        },
+        {
+                "start_time": 236.96279,
+                "end_time": 238.311659,
+                "MASR_results": "邱國正:更是一個不幸的事情",
+                "google_asr_results": "更是一個不幸的事",
+                "labels": "邱國正:更是一個不幸的事情",
+                "asr_recognition_time": 0.49021100997924805,
+                "google_recognition_time": 0.846900224685669,
+                "speaker_recognition_time": 0.05994129180908203
+        },
+        {
+                "start_time": 238.386596,
+                "end_time": 240.58859500000003,
+                "MASR_results": "邱國正:但我們現在能夠彌補能夠做的",
+                "google_asr_results": "在我們家能夠彌補能夠做的",
+                "labels": "邱國正:但我們現在能夠彌補能夠做的",
+                "asr_recognition_time": 0.6588079929351807,
+                "google_recognition_time": 0.6274042129516602,
+                "speaker_recognition_time": 0.07587146759033203
+        },
+        {
+                "start_time": 240.755763,
+                "end_time": 242.427437,
+                "MASR_results": "邱國正:就告位在天之裡啊",
+                "google_asr_results": "舊告慰在天之靈",
+                "labels": "邱國正:就告慰在天之靈啊",
+                "asr_recognition_time": 0.3195030689239502,
+                "google_recognition_time": 0.989926815032959,
+                "speaker_recognition_time": 0.05800986289978027
+        },
+        {
+                "start_time": 242.473553,
+                "end_time": 246.528,
+                "MASR_results": "邱國正:這也是呃列進我們對好我這些部分我想要什麼的去做",
+                "google_asr_results": "就是對接不到",
+                "labels": "邱國正,吳斯懷:這也是啊略盡我們的微薄之意好謝謝部長我想我們我們要持續去做",
+                "asr_recognition_time": 1.3210575580596924,
+                "google_recognition_time": 4.250793933868408,
+                "speaker_recognition_time": 0.15250253677368164
+        },
+        {
+                "start_time": 246.842965,
+                "end_time": 251.558241,
+                "MASR_results": "吳斯懷:首先先把泰北的這個幾個批階段完成以後",
+                "google_asr_results": "首先先把台北的這個幾個PK完成以後",
+                "labels": "吳斯懷,邱國正:首先先把是泰北的這個幾個批階段是是完成以後",
+                "asr_recognition_time": 1.1935675144195557,
+                "google_recognition_time": 0.7127101421356201,
+                "speaker_recognition_time": 0.22097325325012207
+        },
+        {
+                "start_time": 251.829167,
+                "end_time": 257.610856,
+                "MASR_results": "吳斯懷:接著印度覺得越南請部長能夠全力配合齁接著我再問一下",
+                "google_asr_results": "並不覺得越南媳婦的全力配合好了我再問一下",
+                "labels": "吳斯懷,邱國正:接著印度接著越南是請部長能夠全力配合好的接著我再問一下",
+                "asr_recognition_time": 1.6641414165496826,
+                "google_recognition_time": 1.49592924118042,
+                "speaker_recognition_time": 0.3121333122253418
+        },
+        {
+                "start_time": 257.852961,
+                "end_time": 258.498573,
+                "MASR_results": "林正壹:幾個",
+                "google_asr_results": "幾個",
+                "labels": "吳斯懷:幾個",
+                "asr_recognition_time": 0.13031601905822754,
+                "google_recognition_time": 0.29694294929504395,
+                "speaker_recognition_time": 0.03710675239562988
+        },
+        {
+                "start_time": 258.97701800000004,
+                "end_time": 261.271248,
+                "MASR_results": "吳斯懷:小的問題但是有點敏感喔",
+                "google_asr_results": "小的問題但是有點敏感",
+                "labels": "吳斯懷:小的問題但是有點敏感啊",
+                "asr_recognition_time": 0.6458160877227783,
+                "google_recognition_time": 0.40767550468444824,
+                "speaker_recognition_time": 0.09744095802307129
+        },
+        {
+                "start_time": 261.375007,
+                "end_time": 263.77876000000003,
+                "MASR_results": "吳斯懷:海巡署最近他的船艦",
+                "google_asr_results": "海巡署最近他的船艦",
+                "labels": "邱國正,吳斯懷:是海巡署最近他的船艦",
+                "asr_recognition_time": 0.3868410587310791,
+                "google_recognition_time": 0.5137901306152344,
+                "speaker_recognition_time": 0.09879326820373535
+        },
+        {
+                "start_time": 264.038158,
+                "end_time": 265.727,
+                "MASR_results": "吳斯懷:塗裝增加了臺灣",
+                "google_asr_results": "服裝增加了Taiwan",
+                "labels": "吳斯懷:塗裝增加了Taiwan",
+                "asr_recognition_time": 0.2937510013580322,
+                "google_recognition_time": 0.4442906379699707,
+                "speaker_recognition_time": 0.07828330993652344
+        },
+        {
+                "start_time": 266.107576,
+                "end_time": 268.390277,
+                "MASR_results": "吳斯懷:這個是一件很小的事",
+                "google_asr_results": "這個是一件很小的事",
+                "labels": "吳斯懷:這個是一件很小的事",
+                "asr_recognition_time": 0.5772624015808105,
+                "google_recognition_time": 0.31989073753356934,
+                "speaker_recognition_time": 0.11028313636779785
+        },
+        {
+                "start_time": 268.678497,
+                "end_time": 270.482753,
+                "MASR_results": "吳斯懷:沒有什麼值得爭議",
+                "google_asr_results": "沒有什麼值得爭議",
+                "labels": "吳斯懷:沒有什麼值得爭議",
+                "asr_recognition_time": 0.5023837089538574,
+                "google_recognition_time": 0.31304168701171875,
+                "speaker_recognition_time": 0.06697416305541992
+        },
+        {
+                "start_time": 270.759444,
+                "end_time": 273.462945,
+                "MASR_results": "吳斯懷:但是變成一個政治敏感度",
+                "google_asr_results": "但是變成一個政治敏感度",
+                "labels": "吳斯懷:但是變成一個政治敏感度",
+                "asr_recognition_time": 0.4700322151184082,
+                "google_recognition_time": 0.382413387298584,
+                "speaker_recognition_time": 0.12864398956298828
+        },
+        {
+                "start_time": 273.831867,
+                "end_time": 275.32484500000004,
+                "MASR_results": "吳斯懷:海巡署發布新聞",
+                "google_asr_results": "海巡署發布新聞",
+                "labels": "吳斯懷:海巡署發布新聞",
+                "asr_recognition_time": 0.44379639625549316,
+                "google_recognition_time": 0.3164377212524414,
+                "speaker_recognition_time": 0.05597329139709473
+        },
+        {
+                "start_time": 275.405547,
+                "end_time": 277.647897,
+                "MASR_results": "吳斯懷:總統府出來澄清就是我",
+                "google_asr_results": "捷運走出來澄清就是我",
+                "labels": "吳斯懷:總統府出來澄清就是我",
+                "asr_recognition_time": 0.415524959564209,
+                "google_recognition_time": 0.8039278984069824,
+                "speaker_recognition_time": 0.10755395889282227
+        },
+        {
+                "start_time": 277.759,
+                "end_time": 278.97947200000004,
+                "MASR_results": "吳斯懷:總統說的怎麼樣",
+                "google_asr_results": "總統說得怎麼樣",
+                "labels": "吳斯懷:總統說的怎麼樣",
+                "asr_recognition_time": 0.4029700756072998,
+                "google_recognition_time": 0.6705460548400879,
+                "speaker_recognition_time": 0.07555699348449707
+        },
+        {
+                "start_time": 279.648142,
+                "end_time": 282.63409900000005,
+                "MASR_results": "吳斯懷:這個顯然違反行政程序",
+                "google_asr_results": "這個顯然違反行政程序",
+                "labels": "吳斯懷:這個顯然違反行政程序",
+                "asr_recognition_time": 0.660006046295166,
+                "google_recognition_time": 0.31229519844055176,
+                "speaker_recognition_time": 0.13219785690307617
+        },
+        {
+                "start_time": 282.743623,
+                "end_time": 284.813041,
+                "MASR_results": "吳斯懷:我想問邱部長是國軍",
+                "google_asr_results": "我想問邱部長是國軍",
+                "labels": "吳斯懷:我想問邱部長是國軍",
+                "asr_recognition_time": 0.5484063625335693,
+                "google_recognition_time": 0.4403524398803711,
+                "speaker_recognition_time": 0.07685351371765137
+        },
+        {
+                "start_time": 285.723816,
+                "end_time": 287.383962,
+                "MASR_results": "吳斯懷:戰車飛機船艦",
+                "google_asr_results": "戰車飛機船艦",
+                "labels": "吳斯懷:戰車飛機船艦",
+                "asr_recognition_time": 0.2628459930419922,
+                "google_recognition_time": 0.31387996673583984,
+                "speaker_recognition_time": 0.05921745300292969
+        },
+        {
+                "start_time": 287.533836,
+                "end_time": 289.81077200000004,
+                "MASR_results": "吳斯懷:會不會也跟著改成這個樣子",
+                "google_asr_results": "是不會也跟著改成這個樣子",
+                "labels": "吳斯懷:會不會也跟著改成這個樣子",
+                "asr_recognition_time": 0.6634488105773926,
+                "google_recognition_time": 0.5759685039520264,
+                "speaker_recognition_time": 0.1136937141418457
+        },
+        {
+                "start_time": 290.07017,
+                "end_time": 293.401991,
+                "MASR_results": "邱國正:我跟委員報告我個人從來沒有思考過這種問題",
+                "google_asr_results": "我認為報我個人穿沒有思考過這種問題",
+                "labels": "邱國正:我跟委員報告我個人從來沒有思考過這種問題",
+                "asr_recognition_time": 1.0668058395385742,
+                "google_recognition_time": 0.8342094421386719,
+                "speaker_recognition_time": 0.1264181137084961
+        },
+        {
+                "start_time": 293.736326,
+                "end_time": 296.837571,
+                "MASR_results": "邱國正:剛剛有委員問的我從小看到的",
+                "google_asr_results": "高有委員或多從小看到的",
+                "labels": "邱國正:剛剛有委員問的喔我從小看到的",
+                "asr_recognition_time": 0.7946350574493408,
+                "google_recognition_time": 0.6602823734283447,
+                "speaker_recognition_time": 0.1298966407775879
+        },
+        {
+                "start_time": 297.08544,
+                "end_time": 299.074157,
+                "MASR_results": "邱國正:是青天排是滿地紅",
+                "google_asr_results": "刺青天白日滿地紅",
+                "labels": "邱國正:是青天白日滿地紅",
+                "asr_recognition_time": 0.5141947269439697,
+                "google_recognition_time": 0.45149755477905273,
+                "speaker_recognition_time": 0.06812715530395508
+        },
+        {
+                "start_time": 299.23556,
+                "end_time": 300.95335,
+                "MASR_results": "邱國正:聽到中華民國",
+                "google_asr_results": "聽到中華鼎國",
+                "labels": "邱國正:聽到中華民國",
+                "asr_recognition_time": 0.4391202926635742,
+                "google_recognition_time": 0.5296204090118408,
+                "speaker_recognition_time": 0.0790243148803711
+        },
+        {
+                "start_time": 301.28192,
+                "end_time": 304.639,
+                "MASR_results": "邱國正:某五八年九月進軍校我第一天我跟自己講",
+                "google_asr_results": "53年9月慶君笑我的一天我跟說一下",
+                "labels": "邱國正:我五十八年九月進軍校我第一天我跟自己講",
+                "asr_recognition_time": 1.0023317337036133,
+                "google_recognition_time": 1.1669039726257324,
+                "speaker_recognition_time": 0.14135169982910156
+        },
+        {
+                "start_time": 304.95960499999995,
+                "end_time": 306.931028,
+                "MASR_results": "邱國正:我的生命屬於國家人",
+                "google_asr_results": "我的生命屬於國家",
+                "labels": "邱國正:我的生命屬於國家的",
+                "asr_recognition_time": 0.5464951992034912,
+                "google_recognition_time": 0.5144567489624023,
+                "speaker_recognition_time": 0.09493279457092285
+        },
+        {
+                "start_time": 307.582405,
+                "end_time": 310.280142,
+                "MASR_results": "邱國正:在我致使之中我的認知就如此",
+                "google_asr_results": "在我自始至終我的認知就如此",
+                "labels": "邱國正:在我自始至終我的認知就如此",
+                "asr_recognition_time": 0.5415353775024414,
+                "google_recognition_time": 0.7655239105224609,
+                "speaker_recognition_time": 0.12067699432373047
+        },
+        {
+                "start_time": 310.38966600000003,
+                "end_time": 312.701189,
+                "MASR_results": "邱國正:所以在我任何工作當中",
+                "google_asr_results": "所以下我任何工作當中",
+                "labels": "邱國正:所以在我任何工作當中",
+                "asr_recognition_time": 0.5990533828735352,
+                "google_recognition_time": 0.5411033630371094,
+                "speaker_recognition_time": 0.07560276985168457
+        },
+        {
+                "start_time": 312.851063,
+                "end_time": 315.135,
+                "MASR_results": "邱國正:我有權而且有這個責",
+                "google_asr_results": "我有全而且有作者",
+                "labels": "邱國正:我有權而且有這個責",
+                "asr_recognition_time": 0.5366768836975098,
+                "google_recognition_time": 0.7785766124725342,
+                "speaker_recognition_time": 0.07854247093200684
+        },
+        {
+                "start_time": 315.249052,
+                "end_time": 318.851799,
+                "MASR_results": "邱國正:要維護我們從年輕一路過來的這個認知",
+                "google_asr_results": "要維護我們從年西路過來的這個認知",
+                "labels": "邱國正:要維護我們從年輕一路過來的這個認知",
+                "asr_recognition_time": 0.9881999492645264,
+                "google_recognition_time": 1.63517165184021,
+                "speaker_recognition_time": 0.146864652633667
+        },
+        {
+                "start_time": 318.920972,
+                "end_time": 320.89816,
+                "MASR_results": "吳斯懷:謝謝部長的回答我想",
+                "google_asr_results": "謝謝不得都回答我想",
+                "labels": "吳斯懷:謝謝部長的回答我想",
+                "asr_recognition_time": 0.5468602180480957,
+                "google_recognition_time": 0.7547051906585693,
+                "speaker_recognition_time": 0.07080960273742676
+        },
+        {
+                "start_time": 321.35354700000005,
+                "end_time": 324.062813,
+                "MASR_results": "吳斯懷:國軍要有國軍的角度跟立場",
+                "google_asr_results": "國軍要有國軍的角度跟立場",
+                "labels": "吳斯懷:國軍要有國軍的角度跟立場",
+                "asr_recognition_time": 0.6720337867736816,
+                "google_recognition_time": 0.461397647857666,
+                "speaker_recognition_time": 0.126908540725708
+        },
+        {
+                "start_time": 324.276096,
+                "end_time": 325.590378,
+                "MASR_results": "吳斯懷:針對國家化",
+                "google_asr_results": "軍隊國家化",
+                "labels": "吳斯懷:軍隊國家化",
+                "asr_recognition_time": 0.21910548210144043,
+                "google_recognition_time": 0.3140690326690674,
+                "speaker_recognition_time": 0.07777810096740723
+        },
+        {
+                "start_time": 325.81519,
+                "end_time": 326.858545,
+                "MASR_results": "林正壹:我聽到",
+                "google_asr_results": "知道",
+                "labels": "吳斯懷:我聽到",
+                "asr_recognition_time": 0.16298317909240723,
+                "google_recognition_time": 0.5366837978363037,
+                "speaker_recognition_time": 0.03981804847717285
+        },
+        {
+                "start_time": 327.296639,
+                "end_time": 329.982848,
+                "MASR_results": "吳斯懷:部長過去幾個職務的回答",
+                "google_asr_results": "不然過去幾個植物的回答",
+                "labels": "吳斯懷:部長過去幾個職務的回答",
+                "asr_recognition_time": 0.4735574722290039,
+                "google_recognition_time": 0.5448417663574219,
+                "speaker_recognition_time": 0.11841726303100586
+        },
+        {
+                "start_time": 330.19036600000004,
+                "end_time": 332.403894,
+                "MASR_results": "吳斯懷:這一點應該要堅持到底",
+                "google_asr_results": "這一點應該有堅持到底",
+                "labels": "吳斯懷:這一點應該要堅持到底",
+                "asr_recognition_time": 0.6691153049468994,
+                "google_recognition_time": 0.4258716106414795,
+                "speaker_recognition_time": 0.08526062965393066
+        },
+        {
+                "start_time": 332.743994,
+                "end_time": 338.300871,
+                "MASR_results": "吳斯懷:軍隊是為中華民國服務不會政黨服務國軍喔親",
+                "google_asr_results": "軍隊是為中華民國服務部委政黨和睦國軍",
+                "labels": "吳斯懷,邱國正:軍隊是為中華民國服務不為政黨服務好不好是國軍是請",
+                "asr_recognition_time": 1.0949842929840088,
+                "google_recognition_time": 1.1626677513122559,
+                "speaker_recognition_time": 0.2843303680419922
+        },
+        {
+                "start_time": 338.84848900000003,
+                "end_time": 340.779562,
+                "MASR_results": "吳斯懷:部長能夠堅持這個裡面",
+                "google_asr_results": "部長能夠堅持這個理念",
+                "labels": "吳斯懷,邱國正:部長能夠堅持這個理念一定",
+                "asr_recognition_time": 0.5638225078582764,
+                "google_recognition_time": 0.8508057594299316,
+                "speaker_recognition_time": 0.06261515617370605
+        },
+        {
+                "start_time": 341.247,
+                "end_time": 342.157252,
+                "MASR_results": "吳斯懷:再問一個",
+                "google_asr_results": "再問一個",
+                "labels": "吳斯懷:再問一個",
+                "asr_recognition_time": 0.33251500129699707,
+                "google_recognition_time": 0.2962794303894043,
+                "speaker_recognition_time": 0.03516364097595215
+        },
+        {
+                "start_time": 342.41665,
+                "end_time": 343.295,
+                "MASR_results": "吳斯懷:這兩天",
+                "google_asr_results": "這兩天",
+                "labels": "吳斯懷:這兩天",
+                "asr_recognition_time": 0.2794921398162842,
+                "google_recognition_time": 0.23525547981262207,
+                "speaker_recognition_time": 0.04564809799194336
+        },
+        {
+                "start_time": 343.483063,
+                "end_time": 345.506366,
+                "MASR_results": "吳斯懷:每日之間大家要會談",
+                "google_asr_results": "每日增加二加二會談",
+                "labels": "吳斯懷:美日之間二加二會談",
+                "asr_recognition_time": 0.362396240234375,
+                "google_recognition_time": 0.7092599868774414,
+                "speaker_recognition_time": 0.09577369689941406
+        },
+        {
+                "start_time": 345.742707,
+                "end_time": 347.973528,
+                "MASR_results": "吳斯懷:其中一個重點就是釣魚臺",
+                "google_asr_results": "其中一個重點就是釣魚台",
+                "labels": "吳斯懷:其中一個重點就是釣魚台",
+                "asr_recognition_time": 0.4454789161682129,
+                "google_recognition_time": 0.42066478729248047,
+                "speaker_recognition_time": 0.08139967918395996
+        },
+        {
+                "start_time": 348.048465,
+                "end_time": 350.521391,
+                "MASR_results": "吳斯懷:我想很正式的再問部長一下",
+                "google_asr_results": "很正式的再問不然一下",
+                "labels": "吳斯懷:我想很正式的再問部長一下",
+                "asr_recognition_time": 0.6871988773345947,
+                "google_recognition_time": 0.7486710548400879,
+                "speaker_recognition_time": 0.11568641662597656
+        },
+        {
+                "start_time": 350.688558,
+                "end_time": 355.26594,
+                "MASR_results": "邱國正:釣魚臺是不是中華民國政府是我們中民國政府的您他",
+                "google_asr_results": "鱷魚台是不是中華民國政府的是我們政府的年糕",
+                "labels": "邱國正,吳斯懷:釣魚台是不是中華民國政府的是我們中華民國政府的領土好",
+                "asr_recognition_time": 1.4076027870178223,
+                "google_recognition_time": 3.351994276046753,
+                "speaker_recognition_time": 0.29902005195617676
+        },
+        {
+                "start_time": 355.323133,
+                "end_time": 358.430142,
+                "MASR_results": "吳斯懷:這個這很明確是我們中華民國政府",
+                "google_asr_results": "這個叫什麼名卻是我們中華民國政府",
+                "labels": "邱國正,吳斯懷:欸這個是很明確是是我們中華民國政府",
+                "asr_recognition_time": 0.9082415103912354,
+                "google_recognition_time": 0.6117885112762451,
+                "speaker_recognition_time": 0.10598254203796387
+        },
+        {
+                "start_time": 358.911,
+                "end_time": 360.93189,
+                "MASR_results": "白捷隆:日本做的這麼多動作",
+                "google_asr_results": "日本做的這麼多動作",
+                "labels": "吳斯懷:日本做了這麼多動作",
+                "asr_recognition_time": 0.5184626579284668,
+                "google_recognition_time": 0.5358033180236816,
+                "speaker_recognition_time": 0.08594083786010742
+        },
+        {
+                "start_time": 361.070235,
+                "end_time": 364.027371,
+                "MASR_results": "吳斯懷:老共也做了一些動作海警法出來了",
+                "google_asr_results": "老公也做了一些動作還經法出來了",
+                "labels": "吳斯懷:老共也做了一些動作海警法出來了",
+                "asr_recognition_time": 0.6365060806274414,
+                "google_recognition_time": 0.7683279514312744,
+                "speaker_recognition_time": 0.11428475379943848
+        },
+        {
+                "start_time": 364.269475,
+                "end_time": 366.431124,
+                "MASR_results": "吳斯懷:中華民國政府沒有聲音",
+                "google_asr_results": "中華民國政府沒有聲音",
+                "labels": "吳斯懷:中華民國政府沒有聲音",
+                "asr_recognition_time": 0.5898668766021729,
+                "google_recognition_time": 0.44957661628723145,
+                "speaker_recognition_time": 0.09812450408935547
+        },
+        {
+                "start_time": 367.070972,
+                "end_time": 368.598537,
+                "MASR_results": "吳斯懷:我建議邱部長",
+                "google_asr_results": "我建議秋部長",
+                "labels": "吳斯懷:我建議邱部長",
+                "asr_recognition_time": 0.25831079483032227,
+                "google_recognition_time": 0.4261143207550049,
+                "speaker_recognition_time": 0.05469465255737305
+        },
+        {
+                "start_time": 368.811819,
+                "end_time": 370.633368,
+                "MASR_results": "吳斯懷:在適當時機要表態",
+                "google_asr_results": "這是當時就要表態",
+                "labels": "吳斯懷:在適當時機要表態",
+                "asr_recognition_time": 0.4758179187774658,
+                "google_recognition_time": 0.6265759468078613,
+                "speaker_recognition_time": 0.08208656311035156
+        },
+        {
+                "start_time": 370.863944,
+                "end_time": 372.735,
+                "MASR_results": "吳斯懷:我們至少要有聲音吧",
+                "google_asr_results": "我們至少有聲音吧",
+                "labels": "吳斯懷:我們至少要有聲音吧",
+                "asr_recognition_time": 0.5345621109008789,
+                "google_recognition_time": 0.3316001892089844,
+                "speaker_recognition_time": 0.06760406494140625
+        },
+        {
+                "start_time": 373.037122,
+                "end_time": 375.371702,
+                "MASR_results": "吳斯懷:教育臺是中華民國政府的",
+                "google_asr_results": "釣魚台是中華民國政府的",
+                "labels": "吳斯懷:釣魚台是中華民國政府的",
+                "asr_recognition_time": 0.47129011154174805,
+                "google_recognition_time": 0.8688995838165283,
+                "speaker_recognition_time": 0.10825467109680176
+        },
+        {
+                "start_time": 375.700272,
+                "end_time": 377.527586,
+                "MASR_results": "吳斯懷:但話語權總要有",
+                "google_asr_results": "話語權主任",
+                "labels": "吳斯懷:欸話語權總要有",
+                "asr_recognition_time": 0.2984461784362793,
+                "google_recognition_time": 0.43683719635009766,
+                "speaker_recognition_time": 0.06231498718261719
+        },
+        {
+                "start_time": 377.775455,
+                "end_time": 380.703768,
+                "MASR_results": "吳斯懷:不可以像外交部長否則我們看為什麼",
+                "google_asr_results": "取消外交部強火車我沒有看為什麼",
+                "labels": "吳斯懷:不可以像外交部這樣否則我們捍衛什麼",
+                "asr_recognition_time": 0.878119945526123,
+                "google_recognition_time": 1.0251185894012451,
+                "speaker_recognition_time": 0.09482336044311523
+        },
+        {
+                "start_time": 381.183,
+                "end_time": 384.150877,
+                "MASR_results": "吳斯懷:我們的移民有問題的時候海巡傳見區了",
+                "google_asr_results": "我們的漁民有問題的時候海軍團結去了",
+                "labels": "吳斯懷:我們的漁民有問題的時候海巡船艦去了",
+                "asr_recognition_time": 0.7000806331634521,
+                "google_recognition_time": 0.8859424591064453,
+                "speaker_recognition_time": 0.12735486030578613
+        },
+        {
+                "start_time": 384.231579,
+                "end_time": 385.119296,
+                "MASR_results": "吳斯懷:海軍在哪裡",
+                "google_asr_results": "海龜在哪裡",
+                "labels": "吳斯懷:海軍在哪裡",
+                "asr_recognition_time": 0.35022997856140137,
+                "google_recognition_time": 0.321765661239624,
+                "speaker_recognition_time": 0.03570818901062012
+        },
+        {
+                "start_time": 385.279,
+                "end_time": 387.17142,
+                "MASR_results": "陳世池:在二線申辦是不是",
+                "google_asr_results": "在二線申辦是不是",
+                "labels": "吳斯懷:在二線Standby是不是",
+                "asr_recognition_time": 0.5385363101959229,
+                "google_recognition_time": 0.8073368072509766,
+                "speaker_recognition_time": 0.07358717918395996
+        },
+        {
+                "start_time": 387.2233,
+                "end_time": 388.773923,
+                "MASR_results": "吳斯懷:海軍參謀長是不是認為在",
+                "google_asr_results": "海軍陸戰隊",
+                "labels": "吳斯懷:海軍參謀長是不是這回事",
+                "asr_recognition_time": 0.3984222412109375,
+                "google_recognition_time": 1.101463794708252,
+                "speaker_recognition_time": 0.08364415168762207
+        },
+        {
+                "start_time": 389.552116,
+                "end_time": 390.911,
+                "MASR_results": "吳斯懷:司法好請說",
+                "google_asr_results": "還請坐",
+                "labels": "敖以智,吳斯懷:是是吧好你請坐",
+                "asr_recognition_time": 0.22722768783569336,
+                "google_recognition_time": 0.5809953212738037,
+                "speaker_recognition_time": 0.05213642120361328
+        },
+        {
+                "start_time": 391.581183,
+                "end_time": 393.28168,
+                "MASR_results": "吳斯懷:那你這邊帶什麼密啊",
+                "google_asr_results": "那邊帶什麼命嗎",
+                "labels": "吳斯懷:那你就在那邊待什麼命呢",
+                "asr_recognition_time": 0.3505423069000244,
+                "google_recognition_time": 0.6578381061553955,
+                "speaker_recognition_time": 0.09111976623535156
+        },
+        {
+                "start_time": 393.898471,
+                "end_time": 394.861125,
+                "MASR_results": "吳斯懷:到底這個",
+                "google_asr_results": "不給這個",
+                "labels": "吳斯懷:到底這個",
+                "asr_recognition_time": 0.3109452724456787,
+                "google_recognition_time": 0.5018796920776367,
+                "speaker_recognition_time": 0.04001021385192871
+        },
+        {
+                "start_time": 394.918769,
+                "end_time": 398.002721,
+                "MASR_results": "吳斯懷:釣魚臺是不是中華民國政府站在國家",
+                "google_asr_results": "鮑魚台是不是中華民國政府正在國家",
+                "labels": "吳斯懷:釣魚台是不是中華民國政府站在國家",
+                "asr_recognition_time": 0.8952326774597168,
+                "google_recognition_time": 0.7449064254760742,
+                "speaker_recognition_time": 0.13337397575378418
+        },
+        {
+                "start_time": 398.25059,
+                "end_time": 399.755097,
+                "MASR_results": "吳斯懷:跟國軍的立場",
+                "google_asr_results": "國軍的立場",
+                "labels": "吳斯懷:跟國軍的立場",
+                "asr_recognition_time": 0.39568018913269043,
+                "google_recognition_time": 0.3620789051055908,
+                "speaker_recognition_time": 0.08667445182800293
+        },
+        {
+                "start_time": 400.026024,
+                "end_time": 403.156091,
+                "MASR_results": "吳斯懷:是不是應該要正式宣示一下邱部長",
+                "google_asr_results": "是不是應該要正式宣示一下全部的",
+                "labels": "吳斯懷:是不是應該要正式宣示一下邱部長",
+                "asr_recognition_time": 0.6440789699554443,
+                "google_recognition_time": 0.5335075855255127,
+                "speaker_recognition_time": 0.10870194435119629
+        },
+        {
+                "start_time": 403.361302,
+                "end_time": 408.315225,
+                "MASR_results": "邱國正:是這個該臺灣是我們中韓國林土之一這不可否定的",
+                "google_asr_results": "做愛真的舒服穿過黏土之一乘不可否定的",
+                "labels": "邱國正:是這我要釣魚台是我們中華民國領土之一這不可否定的",
+                "asr_recognition_time": 1.441969394683838,
+                "google_recognition_time": 2.194654703140259,
+                "speaker_recognition_time": 0.2065582275390625
+        },
+        {
+                "start_time": 408.401691,
+                "end_time": 411.537522,
+                "MASR_results": "邱國正:但現在這個政治的氛圍就剛剛委員也講到",
+                "google_asr_results": "在這個正式的範圍就剛我有也講到",
+                "labels": "邱國正:在現在這個政治的氛圍就剛剛委員也講到",
+                "asr_recognition_time": 1.0302529335021973,
+                "google_recognition_time": 1.4331989288330078,
+                "speaker_recognition_time": 0.14286494255065918
+        },
+        {
+                "start_time": 411.768098,
+                "end_time": 412.874862,
+                "MASR_results": "邱國正:各說各話",
+                "google_asr_results": "各說各話",
+                "labels": "邱國正:各說各話",
+                "asr_recognition_time": 0.31475830078125,
+                "google_recognition_time": 0.4915482997894287,
+                "speaker_recognition_time": 0.04460930824279785
+        },
+        {
+                "start_time": 413.053558,
+                "end_time": 416.154803,
+                "MASR_results": "邱國正:所以我們這個政策擬定政府也講得很清楚",
+                "google_asr_results": "說我們這個政順一定送別講得很清楚",
+                "labels": "邱國正:說我們這個政策擬定政府也講得很清楚",
+                "asr_recognition_time": 0.9616012573242188,
+                "google_recognition_time": 1.3924622535705566,
+                "speaker_recognition_time": 0.11265420913696289
+        },
+        {
+                "start_time": 416.431494,
+                "end_time": 417.61896,
+                "MASR_results": "邱國正:那和平共處",
+                "google_asr_results": "和平共處",
+                "labels": "邱國正:都要和平共處",
+                "asr_recognition_time": 0.3781421184539795,
+                "google_recognition_time": 0.48508620262145996,
+                "speaker_recognition_time": 0.04208207130432129
+        },
+        {
+                "start_time": 417.682368,
+                "end_time": 419.025473,
+                "MASR_results": "邱國正:大家來好好談",
+                "google_asr_results": "大家來後台",
+                "labels": "邱國正:大家來好好談",
+                "asr_recognition_time": 0.40972161293029785,
+                "google_recognition_time": 0.31464219093322754,
+                "speaker_recognition_time": 0.05976271629333496
+        },
+        {
+                "start_time": 419.215698,
+                "end_time": 421.498399,
+                "MASR_results": "邱國正:呃官員不會跟也好激烈",
+                "google_asr_results": "肺癌多天涯系列",
+                "labels": "邱國正,吳斯懷:欸對我同意激烈",
+                "asr_recognition_time": 0.6435527801513672,
+                "google_recognition_time": 0.7859542369842529,
+                "speaker_recognition_time": 0.11271953582763672
+        },
+        {
+                "start_time": 421.573336,
+                "end_time": 423.902152,
+                "MASR_results": "邱國正:產生一些好像那個激烈這個",
+                "google_asr_results": "長庚醫院哪個區",
+                "labels": "邱國正:產生一些好像這個激烈這個",
+                "asr_recognition_time": 0.672691822052002,
+                "google_recognition_time": 1.1309137344360352,
+                "speaker_recognition_time": 0.11069083213806152
+        },
+        {
+                "start_time": 424.115434,
+                "end_time": 426.720941,
+                "MASR_results": "邱國正:的動作的話都會造成一個更",
+                "google_asr_results": "動作的話都會造成一個更",
+                "labels": "邱國正:的動作的話都會造成一個更",
+                "asr_recognition_time": 0.693692684173584,
+                "google_recognition_time": 0.5338249206542969,
+                "speaker_recognition_time": 0.09469771385192871
+        },
+        {
+                "start_time": 426.818936,
+                "end_time": 427.810412,
+                "MASR_results": "邱國正:更大的危害",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:更大的危害",
+                "asr_recognition_time": 0.34205055236816406,
+                "google_recognition_time": 0.5588958263397217,
+                "speaker_recognition_time": 0.04030108451843262
+        },
+        {
+                "start_time": 427.873821,
+                "end_time": 430.277574,
+                "MASR_results": "吳斯懷:我同意部長的說法但是我們查一查",
+                "google_asr_results": "同意不同的說法但是我們查一查",
+                "labels": "吳斯懷:我同意部長的說法但是我們查一查",
+                "asr_recognition_time": 0.7741532325744629,
+                "google_recognition_time": 1.009127140045166,
+                "speaker_recognition_time": 0.08866238594055176
+        },
+        {
+                "start_time": 430.894364,
+                "end_time": 434.145483,
+                "MASR_results": "吳斯懷:蔡英文總統在被我們媒體或者",
+                "google_asr_results": "蔡英文總統在被我們媒體或者",
+                "labels": "吳斯懷:蔡英文總統在被我們媒體或者",
+                "asr_recognition_time": 0.8047740459442139,
+                "google_recognition_time": 0.4502279758453369,
+                "speaker_recognition_time": 0.14358067512512207
+        },
+        {
+                "start_time": 434.243478,
+                "end_time": 436.168786,
+                "MASR_results": "吳斯懷:在也黨逼著不得以的時候",
+                "google_asr_results": "在野黨逼得不得已的時候",
+                "labels": "吳斯懷:在野黨逼的不得已的時候",
+                "asr_recognition_time": 0.42910337448120117,
+                "google_recognition_time": 0.5951991081237793,
+                "speaker_recognition_time": 0.08052897453308105
+        },
+        {
+                "start_time": 436.223,
+                "end_time": 438.271,
+                "MASR_results": "吳斯懷:也曾經公開說過",
+                "google_asr_results": "也曾經公開說過",
+                "labels": "吳斯懷:也曾經公開說過",
+                "asr_recognition_time": 0.4589543342590332,
+                "google_recognition_time": 0.31676506996154785,
+                "speaker_recognition_time": 0.07662630081176758
+        },
+        {
+                "start_time": 438.527,
+                "end_time": 440.896337,
+                "MASR_results": "吳斯懷:教育臺是中華民國的",
+                "google_asr_results": "釣魚台是中華民國的",
+                "labels": "吳斯懷:釣魚台是中華民國的",
+                "asr_recognition_time": 0.38718080520629883,
+                "google_recognition_time": 0.3537733554840088,
+                "speaker_recognition_time": 0.10548830032348633
+        },
+        {
+                "start_time": 441.304863,
+                "end_time": 443.991072,
+                "MASR_results": "吳斯懷:所以秉持總統的政策指導",
+                "google_asr_results": "所以秉持總統的政策指導",
+                "labels": "吳斯懷:所以秉持總統的政策指導",
+                "asr_recognition_time": 0.4758453369140625,
+                "google_recognition_time": 0.5195450782775879,
+                "speaker_recognition_time": 0.12413597106933594
+        },
+        {
+                "start_time": 444.117888,
+                "end_time": 449.657473,
+                "MASR_results": "吳斯懷:我們當然可以公開呼籲但不需要採取激烈的動作這一點我是同意的",
+                "google_asr_results": "我們當然可以公開呼籲不需要採取激烈的動作這一點我是同意的",
+                "labels": "吳斯懷,邱國正:我們當然可以公開呼籲但不需要採取激烈的動作這一點我是同意的了解了解",
+                "asr_recognition_time": 1.811676263809204,
+                "google_recognition_time": 0.8983547687530518,
+                "speaker_recognition_time": 0.20489501953125
+        },
+        {
+                "start_time": 449.743939,
+                "end_time": 450.429902,
+                "MASR_results": "莊啟臣:至少",
+                "google_asr_results": "射手",
+                "labels": "吳斯懷:至少",
+                "asr_recognition_time": 0.2438950538635254,
+                "google_recognition_time": 0.3555455207824707,
+                "speaker_recognition_time": 0.029829025268554688
+        },
+        {
+                "start_time": 450.499075,
+                "end_time": 453.225634,
+                "MASR_results": "吳斯懷:該宣示嘛你是國防部長嘛",
+                "google_asr_results": "該宣是嗎你是國防部長嗎",
+                "labels": "吳斯懷:該宣示嘛你是國防部長嘛",
+                "asr_recognition_time": 0.4966137409210205,
+                "google_recognition_time": 0.6801326274871826,
+                "speaker_recognition_time": 0.11034464836120605
+        },
+        {
+                "start_time": 453.392802,
+                "end_time": 455.162471,
+                "MASR_results": "吳斯懷:最後再問一個問題",
+                "google_asr_results": "我在問一個問題",
+                "labels": "吳斯懷:最後我再問一個問題",
+                "asr_recognition_time": 0.5058789253234863,
+                "google_recognition_time": 0.5013818740844727,
+                "speaker_recognition_time": 0.058911800384521484
+        },
+        {
+                "start_time": 455.79079,
+                "end_time": 458.37324,
+                "MASR_results": "吳斯懷:去年的二月份啊在華盛頓有個",
+                "google_asr_results": "去年的2月份打架滑順日語歌",
+                "labels": "吳斯懷:去年的二月份哪在華盛頓有一個",
+                "asr_recognition_time": 0.7260799407958984,
+                "google_recognition_time": 0.8821549415588379,
+                "speaker_recognition_time": 0.12221121788024902
+        },
+        {
+                "start_time": 458.4366480000001,
+                "end_time": 460.892281,
+                "MASR_results": "吳斯懷:民間智庫四川和平基金會",
+                "google_asr_results": "民間智庫四川和平基金會",
+                "labels": "吳斯懷:民間智庫四川和平基金會",
+                "asr_recognition_time": 0.459836483001709,
+                "google_recognition_time": 0.5749325752258301,
+                "speaker_recognition_time": 0.08395624160766602
+        },
+        {
+                "start_time": 461.28426,
+                "end_time": 463.613076,
+                "MASR_results": "吳斯懷:開的一個做了一個兵棋推演包含",
+                "google_asr_results": "開立一個做的冰淇推也包含",
+                "labels": "吳斯懷:開立一個做了一個兵棋推演包含",
+                "asr_recognition_time": 0.707085132598877,
+                "google_recognition_time": 0.7679388523101807,
+                "speaker_recognition_time": 0.10690116882324219
+        },
+        {
+                "start_time": 463.716835,
+                "end_time": 466.299284,
+                "MASR_results": "吳斯懷:美國日本韓國臺灣的官員",
+                "google_asr_results": "美國日本韓國台灣的官員",
+                "labels": "吳斯懷:美國日本韓國台灣的官員",
+                "asr_recognition_time": 0.638533353805542,
+                "google_recognition_time": 0.3360743522644043,
+                "speaker_recognition_time": 0.08720612525939941
+        },
+        {
+                "start_time": 467.221587,
+                "end_time": 469.247,
+                "MASR_results": "吳斯懷:布萊爾上架我想你也很熟",
+                "google_asr_results": "布萊爾上架我想你也很熟",
+                "labels": "吳斯懷:布萊爾上將我想你也很熟",
+                "asr_recognition_time": 0.5749166011810303,
+                "google_recognition_time": 0.4580678939819336,
+                "speaker_recognition_time": 0.07763338088989258
+        },
+        {
+                "start_time": 469.39476500000006,
+                "end_time": 471.049146,
+                "MASR_results": "黃文啟:我們都認識了對欸",
+                "google_asr_results": "我們都認識",
+                "labels": "吳斯懷,邱國正:我們都認識欸對欸",
+                "asr_recognition_time": 0.4910745620727539,
+                "google_recognition_time": 0.6554598808288574,
+                "speaker_recognition_time": 0.0612490177154541
+        },
+        {
+                "start_time": 471.295,
+                "end_time": 475.245627,
+                "MASR_results": "吳斯懷:在這個兵棋推演的結論裡面他包含的是",
+                "google_asr_results": "這個兵棋推演的結論裡面都包含的是",
+                "labels": "吳斯懷:在這個兵棋推演的結論裡面他包含的是",
+                "asr_recognition_time": 0.8028333187103271,
+                "google_recognition_time": 0.9437310695648193,
+                "speaker_recognition_time": 0.12734103202819824
+        },
+        {
+                "start_time": 475.533846,
+                "end_time": 477.758903,
+                "MASR_results": "吳斯懷:中國大陸解放軍",
+                "google_asr_results": "中國大陸解放軍",
+                "labels": "吳斯懷:中國大陸解放軍",
+                "asr_recognition_time": 0.4767014980316162,
+                "google_recognition_time": 0.2848331928253174,
+                "speaker_recognition_time": 0.08691000938415527
+        },
+        {
+                "start_time": 477.951,
+                "end_time": 479.949374,
+                "MASR_results": "吳斯懷:在你東沙跟泰平臺",
+                "google_asr_results": "佔領東沙跟太平島",
+                "labels": "吳斯懷:佔領東沙跟太平島",
+                "asr_recognition_time": 0.3365316390991211,
+                "google_recognition_time": 0.4635756015777588,
+                "speaker_recognition_time": 0.09364128112792969
+        },
+        {
+                "start_time": 480.727567,
+                "end_time": 482.814279,
+                "MASR_results": "吳斯懷:有這麼一個議題的推演",
+                "google_asr_results": "九州每一個議題的推演",
+                "labels": "吳斯懷:有這麼一個議題的推演",
+                "asr_recognition_time": 0.4045131206512451,
+                "google_recognition_time": 0.6666264533996582,
+                "speaker_recognition_time": 0.06849265098571777
+        },
+        {
+                "start_time": 482.975682,
+                "end_time": 485.887,
+                "MASR_results": "吳斯懷:然後在這個基金會六月十六號去年",
+                "google_asr_results": "然後在這個基金會6月16號去年",
+                "labels": "吳斯懷:然後在這個基金會六月十六號去年",
+                "asr_recognition_time": 0.8010587692260742,
+                "google_recognition_time": 0.43643760681152344,
+                "speaker_recognition_time": 0.12531471252441406
+        },
+        {
+                "start_time": 485.996225,
+                "end_time": 487.881183,
+                "MASR_results": "吳斯懷:釋出的報告裡面講到",
+                "google_asr_results": "四書的報告裡面講到",
+                "labels": "吳斯懷:釋出的報告裡面講到",
+                "asr_recognition_time": 0.36405158042907715,
+                "google_recognition_time": 0.6430671215057373,
+                "speaker_recognition_time": 0.07249283790588379
+        },
+        {
+                "start_time": 488.29621900000006,
+                "end_time": 492.786684,
+                "MASR_results": "吳斯懷:美國會拒絕臺灣要求協助奪回泰平島的要求",
+                "google_asr_results": "美國會拒絕台灣要求協助奪回太平島的要求",
+                "labels": "吳斯懷:美國會拒絕台灣要求協助奪回太平島的要求",
+                "asr_recognition_time": 0.940941572189331,
+                "google_recognition_time": 0.4796757698059082,
+                "speaker_recognition_time": 0.17935538291931152
+        },
+        {
+                "start_time": 493.340066,
+                "end_time": 499.541231,
+                "MASR_results": "吳斯懷:然後布萊爾上架我們都很熟悉都見過好多次面的他也在兵這院中表明",
+                "google_asr_results": "勞工布萊爾上將我們都很熟悉都見過好多次面的他也在冰水演都表明",
+                "labels": "吳斯懷:然後布萊爾上將我們都很熟悉都見過好多次面的他也在兵水演中表明",
+                "asr_recognition_time": 1.9845802783966064,
+                "google_recognition_time": 1.221423625946045,
+                "speaker_recognition_time": 0.1913917064666748
+        },
+        {
+                "start_time": 499.98065,
+                "end_time": 502.63803600000006,
+                "MASR_results": "吳斯懷:美國對臺灣有條件的",
+                "google_asr_results": "美國對台灣有條件的",
+                "labels": "吳斯懷:美國對台灣有條件的",
+                "asr_recognition_time": 0.4013533592224121,
+                "google_recognition_time": 0.3063199520111084,
+                "speaker_recognition_time": 0.08724308013916016
+        },
+        {
+                "start_time": 502.816733,
+                "end_time": 504.851564,
+                "MASR_results": "吳斯懷:安全協防保證之下",
+                "google_asr_results": "安全鞋防保證之下",
+                "labels": "吳斯懷:安全協防保證之下",
+                "asr_recognition_time": 0.34114623069763184,
+                "google_recognition_time": 0.3136308193206787,
+                "speaker_recognition_time": 0.06613421440124512
+        },
+        {
+                "start_time": 505.116727,
+                "end_time": 507.4282490000001,
+                "MASR_results": "吳斯懷:不包含這些領導",
+                "google_asr_results": "不包含這些離島",
+                "labels": "吳斯懷:不包含這些離島",
+                "asr_recognition_time": 0.5056591033935547,
+                "google_recognition_time": 0.4443545341491699,
+                "speaker_recognition_time": 0.08685708045959473
+        },
+        {
+                "start_time": 507.601181,
+                "end_time": 510.137516,
+                "MASR_results": "吳斯懷:的奪回或者擁有的領土",
+                "google_asr_results": "駁回或者擁有的離譜",
+                "labels": "吳斯懷:的奪回或者擁有的領土",
+                "asr_recognition_time": 0.4230825901031494,
+                "google_recognition_time": 0.4549412727355957,
+                "speaker_recognition_time": 0.0786142349243164
+        },
+        {
+                "start_time": 510.581374,
+                "end_time": 514.184122,
+                "MASR_results": "吳斯懷:這個有條件的協防代表什麼意義",
+                "google_asr_results": "這個有條件的寫房代表什麼意義",
+                "labels": "吳斯懷:這個有條件的協防代表什麼意義",
+                "asr_recognition_time": 0.91506028175354,
+                "google_recognition_time": 0.5372343063354492,
+                "speaker_recognition_time": 0.11644506454467773
+        },
+        {
+                "start_time": 514.4146969999999,
+                "end_time": 515.573341,
+                "MASR_results": "白捷隆:我的認知",
+                "google_asr_results": "我的認知",
+                "labels": "吳斯懷:我的認知",
+                "asr_recognition_time": 0.34624671936035156,
+                "google_recognition_time": 0.27702808380126953,
+                "speaker_recognition_time": 0.04304671287536621
+        },
+        {
+                "start_time": 515.6771,
+                "end_time": 517.118199,
+                "MASR_results": "白捷隆:是美國政府講的",
+                "google_asr_results": "是美國政府家長",
+                "labels": "吳斯懷:是美國政府講的",
+                "asr_recognition_time": 0.44452738761901855,
+                "google_recognition_time": 0.6457183361053467,
+                "speaker_recognition_time": 0.08238458633422852
+        },
+        {
+                "start_time": 517.262309,
+                "end_time": 518.248021,
+                "MASR_results": "白捷隆:不支持臺堵",
+                "google_asr_results": "不支持台獨",
+                "labels": "吳斯懷:不支持台獨",
+                "asr_recognition_time": 0.2129683494567871,
+                "google_recognition_time": 0.6260864734649658,
+                "speaker_recognition_time": 0.041127681732177734
+        },
+        {
+                "start_time": 518.605413,
+                "end_time": 521.11869,
+                "MASR_results": "吳斯懷:如果你中華民國政府搞臺灣獨立",
+                "google_asr_results": "如果你說還沒顧著佛口台灣獨立",
+                "labels": "吳斯懷:如果你中華民國政府搞台灣獨立",
+                "asr_recognition_time": 0.5606296062469482,
+                "google_recognition_time": 1.0175855159759521,
+                "speaker_recognition_time": 0.09419107437133789
+        },
+        {
+                "start_time": 521.303151,
+                "end_time": 522.899888,
+                "MASR_results": "沈世偉:我沒辦法來幫你",
+                "google_asr_results": "我沒辦法來幫你",
+                "labels": "吳斯懷:我沒辦法來幫你",
+                "asr_recognition_time": 0.45679140090942383,
+                "google_recognition_time": 0.290372371673584,
+                "speaker_recognition_time": 0.0706777572631836
+        },
+        {
+                "start_time": 523.326454,
+                "end_time": 524.0066519999999,
+                "MASR_results": "吳斯懷:第二個",
+                "google_asr_results": "熱狗",
+                "labels": "吳斯懷:第二個",
+                "asr_recognition_time": 0.2732665538787842,
+                "google_recognition_time": 0.295062780380249,
+                "speaker_recognition_time": 0.03268623352050781
+        },
+        {
+                "start_time": 524.087354,
+                "end_time": 526.640981,
+                "MASR_results": "吳斯懷:代表的意涵你這些領導",
+                "google_asr_results": "代表的意涵你自己切離島",
+                "labels": "吳斯懷:代表的意涵你這些離島",
+                "asr_recognition_time": 0.6299240589141846,
+                "google_recognition_time": 0.6555008888244629,
+                "speaker_recognition_time": 0.0922248363494873
+        },
+        {
+                "start_time": 526.952259,
+                "end_time": 529.263781,
+                "MASR_results": "吳斯懷:僑導我不可能來幫你",
+                "google_asr_results": "小島友不可能來幫你",
+                "labels": "吳斯懷:小島我不可能來幫你",
+                "asr_recognition_time": 0.38008642196655273,
+                "google_recognition_time": 0.40815091133117676,
+                "speaker_recognition_time": 0.11202073097229004
+        },
+        {
+                "start_time": 529.494357,
+                "end_time": 532.814649,
+                "MASR_results": "吳斯懷:這兩天紐約時報最新的一個評估很有去",
+                "google_asr_results": "這兩天紐約時報最新的一個評估還有去",
+                "labels": "吳斯懷:這兩天紐約時報最新的一個評估很有趣",
+                "asr_recognition_time": 0.7354981899261475,
+                "google_recognition_time": 0.40920233726501465,
+                "speaker_recognition_time": 0.14956259727478027
+        },
+        {
+                "start_time": 533.454497,
+                "end_time": 534.8667740000001,
+                "MASR_results": "吳斯懷:包含川普總統",
+                "google_asr_results": "包含川普總統",
+                "labels": "吳斯懷:包含川普總統",
+                "asr_recognition_time": 0.3939816951751709,
+                "google_recognition_time": 0.36720824241638184,
+                "speaker_recognition_time": 0.05913138389587402
+        },
+        {
+                "start_time": 535.09735,
+                "end_time": 537.10336,
+                "MASR_results": "林正壹:之前出的有違出了這本書",
+                "google_asr_results": "寫出的有益處的這本書",
+                "labels": "吳斯懷:之前出的有人出的這本書",
+                "asr_recognition_time": 0.4242415428161621,
+                "google_recognition_time": 1.112229824066162,
+                "speaker_recognition_time": 0.10793566703796387
+        },
+        {
+                "start_time": 537.5068679999999,
+                "end_time": 539.022904,
+                "MASR_results": "吳斯懷:他根本不會來",
+                "google_asr_results": "根本不會來",
+                "labels": "吳斯懷:他根本不會來",
+                "asr_recognition_time": 0.38768815994262695,
+                "google_recognition_time": 0.29592275619506836,
+                "speaker_recognition_time": 0.08269071578979492
+        },
+        {
+                "start_time": 539.3111240000001,
+                "end_time": 541.695,
+                "MASR_results": "吳斯懷:非常簡單講我們軍事專業",
+                "google_asr_results": "非常簡單講我們軍事專業",
+                "labels": "吳斯懷:非常簡單講我們軍事專業",
+                "asr_recognition_time": 0.6433453559875488,
+                "google_recognition_time": 0.5912082195281982,
+                "speaker_recognition_time": 0.1136469841003418
+        },
+        {
+                "start_time": 541.853222,
+                "end_time": 545.312242,
+                "MASR_results": "吳斯懷:直空力來不及所以他不會來",
+                "google_asr_results": "時空力來不及吃他不會來",
+                "labels": "吳斯懷:時空力來不及所以他不會來",
+                "asr_recognition_time": 0.5638811588287354,
+                "google_recognition_time": 0.49452686309814453,
+                "speaker_recognition_time": 0.11934757232666016
+        },
+        {
+                "start_time": 545.5712580000001,
+                "end_time": 547.894309,
+                "MASR_results": "吳斯懷:即便他拿了東沙拿到南沙",
+                "google_asr_results": "吃遍台南的東沙南的南沙",
+                "labels": "吳斯懷:即便他拿了東沙拿了南沙",
+                "asr_recognition_time": 0.4528794288635254,
+                "google_recognition_time": 0.836524248123169,
+                "speaker_recognition_time": 0.11209440231323242
+        },
+        {
+                "start_time": 548.0268900000001,
+                "end_time": 550.436408,
+                "MASR_results": "吳斯懷:美軍想來都不會來來不及",
+                "google_asr_results": "每次想來都不會來來不及",
+                "labels": "吳斯懷:美軍想來都不會來來不及",
+                "asr_recognition_time": 0.45128631591796875,
+                "google_recognition_time": 0.5020687580108643,
+                "speaker_recognition_time": 0.08005189895629883
+        },
+        {
+                "start_time": 550.6612190000001,
+                "end_time": 552.010088,
+                "MASR_results": "吳斯懷:所以我想建議",
+                "google_asr_results": "富享建議",
+                "labels": "吳斯懷:所以我想建議",
+                "asr_recognition_time": 0.3837876319885254,
+                "google_recognition_time": 0.7322359085083008,
+                "speaker_recognition_time": 0.05039334297180176
+        },
+        {
+                "start_time": 552.6095849999999,
+                "end_time": 553.335899,
+                "MASR_results": "吳斯懷:邱部長",
+                "google_asr_results": "全部長",
+                "labels": "吳斯懷:邱部長",
+                "asr_recognition_time": 0.29769301414489746,
+                "google_recognition_time": 0.6059808731079102,
+                "speaker_recognition_time": 0.04680657386779785
+        },
+        {
+                "start_time": 554.240909,
+                "end_time": 556.869474,
+                "MASR_results": "吳斯懷:在這個部分要很務實的",
+                "google_asr_results": "在這個部分又很務實的",
+                "labels": "吳斯懷:在這個部分要很務實的",
+                "asr_recognition_time": 0.6362388134002686,
+                "google_recognition_time": 0.330855131149292,
+                "speaker_recognition_time": 0.12644243240356445
+        },
+        {
+                "start_time": 557.019348,
+                "end_time": 559.615,
+                "MASR_results": "邱臣遠:利用軍事會談跟總統報告",
+                "google_asr_results": "六龜慈惠堂跟總統報告",
+                "labels": "吳斯懷:利用軍事會談跟總統報告",
+                "asr_recognition_time": 0.4679758548736572,
+                "google_recognition_time": 0.8476135730743408,
+                "speaker_recognition_time": 0.11200070381164551
+        },
+        {
+                "start_time": 559.871,
+                "end_time": 561.002546,
+                "MASR_results": "吳斯懷:我覺得我們",
+                "google_asr_results": "我覺得我們",
+                "labels": "吳斯懷:我覺得我們",
+                "asr_recognition_time": 0.3379812240600586,
+                "google_recognition_time": 0.30352783203125,
+                "speaker_recognition_time": 0.04270458221435547
+        },
+        {
+                "start_time": 561.407,
+                "end_time": 564.069204,
+                "MASR_results": "吳斯懷:軍事專業不能做大內宣",
+                "google_asr_results": "民視專業不能坐大內宣",
+                "labels": "吳斯懷:軍事專業不能做大內宣",
+                "asr_recognition_time": 0.6405768394470215,
+                "google_recognition_time": 0.5639348030090332,
+                "speaker_recognition_time": 0.11027073860168457
+        },
+        {
+                "start_time": 564.2997799999999,
+                "end_time": 565.1010309999999,
+                "MASR_results": "邱臣遠:講實話",
+                "google_asr_results": "講實話",
+                "labels": "吳斯懷:講實話",
+                "asr_recognition_time": 0.27561211585998535,
+                "google_recognition_time": 0.2867560386657715,
+                "speaker_recognition_time": 0.04183244705200195
+        },
+        {
+                "start_time": 565.16444,
+                "end_time": 567.551,
+                "MASR_results": "曹進平:在做的告訴我們的老同事很多了",
+                "google_asr_results": "在座的故事我們的老婆是很多了",
+                "labels": "吳斯懷:在座的都是我們的老同事很多了",
+                "asr_recognition_time": 0.5531938076019287,
+                "google_recognition_time": 0.4024698734283447,
+                "speaker_recognition_time": 0.09023451805114746
+        },
+        {
+                "start_time": 567.764182,
+                "end_time": 568.922826,
+                "MASR_results": "吳斯懷:必須講實話",
+                "google_asr_results": "繼續講實話",
+                "labels": "吳斯懷:必須講實話",
+                "asr_recognition_time": 0.2211928367614746,
+                "google_recognition_time": 0.3270883560180664,
+                "speaker_recognition_time": 0.04612278938293457
+        },
+        {
+                "start_time": 569.095758,
+                "end_time": 570.444626,
+                "MASR_results": "林正壹:真的有這種事",
+                "google_asr_results": "真的有這種事",
+                "labels": "吳斯懷:真的有這種事",
+                "asr_recognition_time": 0.3823692798614502,
+                "google_recognition_time": 0.26798176765441895,
+                "speaker_recognition_time": 0.04823803901672363
+        },
+        {
+                "start_time": 570.4907410000001,
+                "end_time": 571.609034,
+                "MASR_results": "沈世偉:他不會來",
+                "google_asr_results": "他不會來",
+                "labels": "吳斯懷:他不會來",
+                "asr_recognition_time": 0.3193838596343994,
+                "google_recognition_time": 0.5075173377990723,
+                "speaker_recognition_time": 0.039629459381103516
+        },
+        {
+                "start_time": 571.83961,
+                "end_time": 574.474575,
+                "MASR_results": "吳斯懷:必須靠自己至於自己要怎麼做",
+                "google_asr_results": "靠自己至於自己要怎麼做",
+                "labels": "吳斯懷:必須靠自己至於自己要怎麼做",
+                "asr_recognition_time": 0.5340712070465088,
+                "google_recognition_time": 0.8315556049346924,
+                "speaker_recognition_time": 0.09101104736328125
+        },
+        {
+                "start_time": 574.767923,
+                "end_time": 580.605681,
+                "MASR_results": "吳斯懷:部長你的反網頁好不好臉所以好最後一個就是剛剛最新的新聞",
+                "google_asr_results": "不然你的煩惱不好好點睡最後一個就是剛剛最新的新聞",
+                "labels": "吳斯懷,邱國正:部長你的煩惱是我們要是好不好好的這應該的好最後一個就是剛剛最新的新聞",
+                "asr_recognition_time": 1.8083059787750244,
+                "google_recognition_time": 1.897576093673706,
+                "speaker_recognition_time": 0.304898738861084
+        },
+        {
+                "start_time": 580.780188,
+                "end_time": 583.0110099999999,
+                "MASR_results": "吳斯懷:請邱部長還有慎重考慮一下",
+                "google_asr_results": "請出不倒後慎重考慮一下",
+                "labels": "吳斯懷:請邱部長好好慎重考慮一下",
+                "asr_recognition_time": 0.6303157806396484,
+                "google_recognition_time": 0.6376845836639404,
+                "speaker_recognition_time": 0.07582330703735352
+        },
+        {
+                "start_time": 583.598978,
+                "end_time": 584.703,
+                "MASR_results": "吳斯懷:小英總統",
+                "google_asr_results": "小英總統",
+                "labels": "吳斯懷:小英總統",
+                "asr_recognition_time": 0.18534255027770996,
+                "google_recognition_time": 0.27205753326416016,
+                "speaker_recognition_time": 0.038038015365600586
+        },
+        {
+                "start_time": 584.855616,
+                "end_time": 586.452354,
+                "MASR_results": "吳斯懷:命令要擴軍",
+                "google_asr_results": "一定要擴軍",
+                "labels": "吳斯懷:密令要擴軍",
+                "asr_recognition_time": 0.23653411865234375,
+                "google_recognition_time": 0.55422043800354,
+                "speaker_recognition_time": 0.08788728713989258
+        },
+        {
+                "start_time": 587.178668,
+                "end_time": 589.259615,
+                "MASR_results": "吳斯懷:這二月份軍事會談裡面報導",
+                "google_asr_results": "12月份軍事會來你們報的",
+                "labels": "吳斯懷:這二月份軍事會談你們報的",
+                "asr_recognition_time": 0.6488580703735352,
+                "google_recognition_time": 0.9015717506408691,
+                "speaker_recognition_time": 0.10221385955810547
+        },
+        {
+                "start_time": 589.495955,
+                "end_time": 591.519258,
+                "MASR_results": "吳斯懷:新新聞剛開最新的新聞",
+                "google_asr_results": "新新聞剛開最新的新聞",
+                "labels": "吳斯懷:新新聞剛開最新的新聞",
+                "asr_recognition_time": 0.5740652084350586,
+                "google_recognition_time": 0.66721510887146,
+                "speaker_recognition_time": 0.0746307373046875
+        },
+        {
+                "start_time": 591.615,
+                "end_time": 594.643561,
+                "MASR_results": "吳斯懷:這一點我不需要邱部長回答我只是提醒您",
+                "google_asr_results": "我不需要求不找回答我只是提醒你",
+                "labels": "吳斯懷:這點我不需要邱部長回答我只是提醒你",
+                "asr_recognition_time": 0.9175629615783691,
+                "google_recognition_time": 0.8225812911987305,
+                "speaker_recognition_time": 0.13160347938537598
+        },
+        {
+                "start_time": 595.552052,
+                "end_time": 596.735,
+                "MASR_results": "李維德:需要擴軍",
+                "google_asr_results": "破軍",
+                "labels": "吳斯懷:要擴軍",
+                "asr_recognition_time": 0.3188464641571045,
+                "google_recognition_time": 0.4674363136291504,
+                "speaker_recognition_time": 0.045047760009765625
+        },
+        {
+                "start_time": 597.247,
+                "end_time": 599.981391,
+                "MASR_results": "吳斯懷:要想清楚配套措施",
+                "google_asr_results": "要想清楚配套措施",
+                "labels": "吳斯懷:要想清楚配套措施",
+                "asr_recognition_time": 0.5420222282409668,
+                "google_recognition_time": 0.40550899505615234,
+                "speaker_recognition_time": 0.12121725082397461
+        },
+        {
+                "start_time": 600.22926,
+                "end_time": 603.1979240000001,
+                "MASR_results": "吳斯懷:否則我們的國防預算人員維持費",
+                "google_asr_results": "否則我們的國防預算人員維持費",
+                "labels": "吳斯懷:否則我們的國防預算人員維持費",
+                "asr_recognition_time": 0.605022668838501,
+                "google_recognition_time": 0.4499986171722412,
+                "speaker_recognition_time": 0.1258096694946289
+        },
+        {
+                "start_time": 603.307448,
+                "end_time": 604.811955,
+                "MASR_results": "吳斯懷:無限增加",
+                "google_asr_results": "無限增加",
+                "labels": "吳斯懷:無限增加",
+                "asr_recognition_time": 0.3360884189605713,
+                "google_recognition_time": 0.26364684104919434,
+                "speaker_recognition_time": 0.05405998229980469
+        },
+        {
+                "start_time": 605.1174679999999,
+                "end_time": 608.29365,
+                "MASR_results": "吳斯懷:以這些軍購國防自主怎麼去平衡",
+                "google_asr_results": "一例一休軍購國防自主怎麼去平衡",
+                "labels": "吳斯懷:你這些軍購國防自主怎麼去平衡",
+                "asr_recognition_time": 0.8274133205413818,
+                "google_recognition_time": 0.7314693927764893,
+                "speaker_recognition_time": 0.13498735427856445
+        },
+        {
+                "start_time": 608.506933,
+                "end_time": 612.3690780000001,
+                "MASR_results": "吳斯懷:那這個軍種之間的鬥爭又開始的部長你又要反擾了",
+                "google_asr_results": "那這個軍種之間的鬥爭又開始了不然又要煩惱了",
+                "labels": "吳斯懷:那這個軍種之間的鬥爭又開始了部長你又要煩惱了",
+                "asr_recognition_time": 0.99111008644104,
+                "google_recognition_time": 0.6357204914093018,
+                "speaker_recognition_time": 0.11955094337463379
+        },
+        {
+                "start_time": 612.54201,
+                "end_time": 614.571078,
+                "MASR_results": "吳斯懷:所以這件事情要很審慎",
+                "google_asr_results": "數據解事情要很審慎",
+                "labels": "吳斯懷:所以這件事情要很審慎",
+                "asr_recognition_time": 0.5783207416534424,
+                "google_recognition_time": 1.2361080646514893,
+                "speaker_recognition_time": 0.08491730690002441
+        },
+        {
+                "start_time": 614.8477690000001,
+                "end_time": 615.579847,
+                "MASR_results": "林正壹:不能讓",
+                "google_asr_results": "不能讓",
+                "labels": "吳斯懷:不能讓",
+                "asr_recognition_time": 0.27225708961486816,
+                "google_recognition_time": 0.23657989501953125,
+                "speaker_recognition_time": 0.04109549522399902
+        },
+        {
+                "start_time": 615.935,
+                "end_time": 619.090364,
+                "MASR_results": "吳斯懷:媒體披露以後變成軍種之間的惡鬥",
+                "google_asr_results": "媒體披露以後變成軍種之間的惡鬥",
+                "labels": "吳斯懷:媒體披露以後變成軍種之間的惡鬥",
+                "asr_recognition_time": 0.6504456996917725,
+                "google_recognition_time": 0.6402316093444824,
+                "speaker_recognition_time": 0.13080358505249023
+        },
+        {
+                "start_time": 619.280589,
+                "end_time": 621.2058969999999,
+                "MASR_results": "吳斯懷:總統一句話就決定了嗎",
+                "google_asr_results": "總統一句話就決定的嗎",
+                "labels": "吳斯懷:總統一句話就決定的嗎",
+                "asr_recognition_time": 0.393355131149292,
+                "google_recognition_time": 0.5995190143585205,
+                "speaker_recognition_time": 0.06868124008178711
+        },
+        {
+                "start_time": 621.246248,
+                "end_time": 622.595117,
+                "MASR_results": "吳斯懷:好像不應該這樣子",
+                "google_asr_results": "好像不應該這樣子",
+                "labels": "吳斯懷:好像不應該這樣子",
+                "asr_recognition_time": 0.46942925453186035,
+                "google_recognition_time": 0.2657322883605957,
+                "speaker_recognition_time": 0.06820988655090332
+        },
+        {
+                "start_time": 622.923687,
+                "end_time": 624.4800740000001,
+                "MASR_results": "吳斯懷:要做專業評估",
+                "google_asr_results": "要做專業評估",
+                "labels": "吳斯懷:要做專業評估",
+                "asr_recognition_time": 0.4013807773590088,
+                "google_recognition_time": 0.3316664695739746,
+                "speaker_recognition_time": 0.08238697052001953
+        },
+        {
+                "start_time": 624.572305,
+                "end_time": 627.90989,
+                "MASR_results": "吳斯懷:因為我所認識的邱部長是一個很務實的教你",
+                "google_asr_results": "因為我所認識的邱部長是一個很務實的樣子",
+                "labels": "吳斯懷:因為我所認識的邱部長是一個很務實的將領",
+                "asr_recognition_time": 1.0273849964141846,
+                "google_recognition_time": 1.0010359287261963,
+                "speaker_recognition_time": 0.14188385009765625
+        },
+        {
+                "start_time": 628.284576,
+                "end_time": 630.843967,
+                "MASR_results": "吳斯懷:我建議你真的很務實很誠懇的",
+                "google_asr_results": "我建議你真的很務實很誠懇的",
+                "labels": "吳斯懷:我建議你真的很務實很誠懇的",
+                "asr_recognition_time": 0.7259664535522461,
+                "google_recognition_time": 0.31792116165161133,
+                "speaker_recognition_time": 0.1059722900390625
+        },
+        {
+                "start_time": 630.947727,
+                "end_time": 632.717396,
+                "MASR_results": "吳斯懷:向總統說明清楚",
+                "google_asr_results": "向總統說明清楚",
+                "labels": "吳斯懷:向總統說明清楚",
+                "asr_recognition_time": 0.4660513401031494,
+                "google_recognition_time": 0.3545877933502197,
+                "speaker_recognition_time": 0.0981442928314209
+        },
+        {
+                "start_time": 632.844213,
+                "end_time": 633.3399509999999,
+                "MASR_results": "黃文啟:好不好",
+                "google_asr_results": "無法辨識",
+                "labels": "吳斯懷:好不好",
+                "asr_recognition_time": 0.1472618579864502,
+                "google_recognition_time": 0.22134017944335938,
+                "speaker_recognition_time": 0.046233177185058594
+        },
+        {
+                "start_time": 633.53594,
+                "end_time": 637.542196,
+                "MASR_results": "邱國正:是謝謝委員我要而且這個新聞我剛剛他們有跟我反應",
+                "google_asr_results": "色情文我剛剛有跟我反應",
+                "labels": "邱國正,吳斯懷:是謝謝委員我這個好謝謝部長這個這個新聞我剛剛他們有跟我反應",
+                "asr_recognition_time": 1.363506555557251,
+                "google_recognition_time": 0.6326665878295898,
+                "speaker_recognition_time": 0.1624617576599121
+        },
+        {
+                "start_time": 637.599839,
+                "end_time": 641.791,
+                "MASR_results": "邱臣遠:我們你要來處理接下部長請務實地做這些事好不好謝謝",
+                "google_asr_results": "我們在處理這部實地做這些事好嗎謝謝",
+                "labels": "邱國正,吳斯懷:我們已經在處理了好謝謝部長是是是請務實的做這些事好嗎謝謝是",
+                "asr_recognition_time": 1.3904192447662354,
+                "google_recognition_time": 1.0336861610412598,
+                "speaker_recognition_time": 0.31050658226013184
+        },
+        {
+                "start_time": 641.97791,
+                "end_time": 642.7011219999999,
+                "MASR_results": "邱國正:謝謝委員",
+                "google_asr_results": "臭味",
+                "labels": "邱國正:謝委員",
+                "asr_recognition_time": 0.3262674808502197,
+                "google_recognition_time": 0.3232901096343994,
+                "speaker_recognition_time": 0.028960227966308594
+        }
+]

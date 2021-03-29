@@ -1,0 +1,3056 @@
+[
+        {
+                "speech_accuracy": 87,
+                "speaker_accuracy": 94
+        },
+        {
+                "start_time": 0.126215,
+                "end_time": 1.370333,
+                "MASR_results": "呂玉玲:謝謝主席",
+                "google_asr_results": "謝謝主席",
+                "labels": "呂玉玲:謝謝主席",
+                "asr_recognition_time": 0.3831932544708252,
+                "google_recognition_time": 0.2712113857269287,
+                "speaker_recognition_time": 0.062343597412109375
+        },
+        {
+                "start_time": 2.816,
+                "end_time": 4.183123,
+                "MASR_results": "呂玉玲:部長先喝口水",
+                "google_asr_results": "早先喝口水",
+                "labels": "呂玉玲:部長先喝口水",
+                "asr_recognition_time": 0.4319467544555664,
+                "google_recognition_time": 0.30281686782836914,
+                "speaker_recognition_time": 0.0527956485748291
+        },
+        {
+                "start_time": 4.814198,
+                "end_time": 6.094377,
+                "MASR_results": "呂玉玲:請邱部長",
+                "google_asr_results": "請就不展",
+                "labels": "呂玉玲:請邱部長",
+                "asr_recognition_time": 0.35877180099487305,
+                "google_recognition_time": 0.49071407318115234,
+                "speaker_recognition_time": 0.06385040283203125
+        },
+        {
+                "start_time": 7.110107000000001,
+                "end_time": 8.023663,
+                "MASR_results": "廖婉汝:求部長請",
+                "google_asr_results": "全部單曲",
+                "labels": "廖婉汝:邱部長請",
+                "asr_recognition_time": 0.34558653831481934,
+                "google_recognition_time": 0.8424766063690186,
+                "speaker_recognition_time": 0.03854489326477051
+        },
+        {
+                "start_time": 12.84387,
+                "end_time": 13.61919,
+                "MASR_results": "邱國正:劉委員好",
+                "google_asr_results": "主任好",
+                "labels": "邱國正:呂委員好",
+                "asr_recognition_time": 0.3059520721435547,
+                "google_recognition_time": 0.742072343826294,
+                "speaker_recognition_time": 0.037224531173706055
+        },
+        {
+                "start_time": 13.673282999999998,
+                "end_time": 15.272004999999998,
+                "MASR_results": "呂玉玲:部長先恭喜你喔",
+                "google_asr_results": "先恭喜你喔",
+                "labels": "呂玉玲:部長先恭喜你喔",
+                "asr_recognition_time": 0.45754194259643555,
+                "google_recognition_time": 0.3914222717285156,
+                "speaker_recognition_time": 0.06606364250183105
+        },
+        {
+                "start_time": 15.716762,
+                "end_time": 18.415357,
+                "MASR_results": "呂玉玲:從退輔會的主委到國安局的局長",
+                "google_asr_results": "從退輔會的主委到國安局的局長",
+                "labels": "呂玉玲:從退輔會的主委到國安局的局長",
+                "asr_recognition_time": 0.7419736385345459,
+                "google_recognition_time": 0.6624255180358887,
+                "speaker_recognition_time": 0.09351253509521484
+        },
+        {
+                "start_time": 18.781982,
+                "end_time": 20.595534,
+                "MASR_results": "呂玉玲:到國防部的部長",
+                "google_asr_results": "到國防部的部長",
+                "labels": "呂玉玲:到國防部的部長",
+                "asr_recognition_time": 0.4644453525543213,
+                "google_recognition_time": 0.4046454429626465,
+                "speaker_recognition_time": 0.07088232040405273
+        },
+        {
+                "start_time": 21.31229,
+                "end_time": 23.025207,
+                "MASR_results": "呂玉玲:感覺到你是比較",
+                "google_asr_results": "感覺到你是比較",
+                "labels": "呂玉玲:感覺到你是比較",
+                "asr_recognition_time": 0.309680700302124,
+                "google_recognition_time": 0.321178674697876,
+                "speaker_recognition_time": 0.0897376537322998
+        },
+        {
+                "start_time": 23.349759,
+                "end_time": 24.371499,
+                "MASR_results": "呂玉玲:歡心的",
+                "google_asr_results": "寬心得",
+                "labels": "呂玉玲:歡欣的",
+                "asr_recognition_time": 0.3312520980834961,
+                "google_recognition_time": 0.30298852920532227,
+                "speaker_recognition_time": 0.049463510513305664
+        },
+        {
+                "start_time": 24.455643,
+                "end_time": 26.901808000000003,
+                "MASR_results": "呂玉玲:喜歡的來接受這個部長的位置",
+                "google_asr_results": "喜歡的來接受這個複雜的位置",
+                "labels": "呂玉玲:喜歡的來接受這個部長的位子",
+                "asr_recognition_time": 0.7344627380371094,
+                "google_recognition_time": 0.39429616928100586,
+                "speaker_recognition_time": 0.11517786979675293
+        },
+        {
+                "start_time": 26.943879,
+                "end_time": 35.304115,
+                "MASR_results": "邱國正:畢竟這是你有專業啦齁我就說相信這是您專業能夠發揮你們專場的地方的可能我造成誤委員早不會啦齁是",
+                "google_asr_results": "專業的話我就說想念專業的發揮你的專長的地方我造成誤會",
+                "labels": "呂玉玲,邱國正:畢竟這是你專業啦齁呃那這樣那這樣我就造成誤會了哈哈哈我相信這是您專業能夠發揮你的專長的地方我這可能我造成誤會造成那個不會啦是是嘿",
+                "asr_recognition_time": 3.5295662879943848,
+                "google_recognition_time": 1.9021060466766357,
+                "speaker_recognition_time": 0.4847073554992676
+        },
+        {
+                "start_time": 35.484421999999995,
+                "end_time": 37.799406,
+                "MASR_results": "呂玉玲:我們都很肯定你最好好合作",
+                "google_asr_results": "我們都很肯定你最好好的做",
+                "labels": "呂玉玲:我們都很肯定你所以好好的做",
+                "asr_recognition_time": 0.6932532787322998,
+                "google_recognition_time": 0.4535641670227051,
+                "speaker_recognition_time": 0.07883572578430176
+        },
+        {
+                "start_time": 37.948881,
+                "end_time": 39.962047,
+                "MASR_results": "邱國正:呃所以",
+                "google_asr_results": "所以",
+                "labels": "邱國正,呂玉玲:謝謝委員嗯努力所以",
+                "asr_recognition_time": 0.4287543296813965,
+                "google_recognition_time": 0.419705867767334,
+                "speaker_recognition_time": 0.07164478302001953
+        },
+        {
+                "start_time": 40.034169,
+                "end_time": 41.266267,
+                "MASR_results": "呂玉玲:本席在這邊",
+                "google_asr_results": "你在這邊",
+                "labels": "呂玉玲:本席在這邊",
+                "asr_recognition_time": 0.3776581287384033,
+                "google_recognition_time": 0.5088398456573486,
+                "speaker_recognition_time": 0.053435325622558594
+        },
+        {
+                "start_time": 41.33238,
+                "end_time": 44.980592,
+                "MASR_results": "呂玉玲:呃長期在國防外交我們非常瞭解三軍的各種",
+                "google_asr_results": "長期在國防外交文非常了解參軍的各種",
+                "labels": "呂玉玲:呃長期在國防外交我們非常了解三軍的各種",
+                "asr_recognition_time": 1.083418607711792,
+                "google_recognition_time": 0.6563925743103027,
+                "speaker_recognition_time": 0.15174555778503418
+        },
+        {
+                "start_time": 45.124838,
+                "end_time": 46.861795,
+                "MASR_results": "呂玉玲:不管是我們的呃",
+                "google_asr_results": "不管這麼多",
+                "labels": "呂玉玲:不管是我們的呃",
+                "asr_recognition_time": 0.510178804397583,
+                "google_recognition_time": 0.433729887008667,
+                "speaker_recognition_time": 0.06063675880432129
+        },
+        {
+                "start_time": 47.23443,
+                "end_time": 49.758728000000005,
+                "MASR_results": "呂玉玲:軍呃紀律或者士氣齁",
+                "google_asr_results": "紀律或者是氣候",
+                "labels": "呂玉玲:軍呃紀律或者是士氣齁",
+                "asr_recognition_time": 0.40497708320617676,
+                "google_recognition_time": 0.9914333820343018,
+                "speaker_recognition_time": 0.11787176132202148
+        },
+        {
+                "start_time": 50.176,
+                "end_time": 51.573819,
+                "MASR_results": "呂玉玲:最重要的我們",
+                "google_asr_results": "最重要的我們",
+                "labels": "呂玉玲:最重要的我們",
+                "asr_recognition_time": 0.42696714401245117,
+                "google_recognition_time": 0.32069921493530273,
+                "speaker_recognition_time": 0.04631853103637695
+        },
+        {
+                "start_time": 51.802208,
+                "end_time": 52.589548,
+                "MASR_results": "呂玉玲:拜登",
+                "google_asr_results": "帶兵",
+                "labels": "呂玉玲:帶兵",
+                "asr_recognition_time": 0.1477346420288086,
+                "google_recognition_time": 0.24216651916503906,
+                "speaker_recognition_time": 0.035691022872924805
+        },
+        {
+                "start_time": 52.866019,
+                "end_time": 53.605278000000006,
+                "MASR_results": "廖婉汝:帶軍",
+                "google_asr_results": "戴軍",
+                "labels": "呂玉玲:帶軍",
+                "asr_recognition_time": 0.13357806205749512,
+                "google_recognition_time": 0.3717842102050781,
+                "speaker_recognition_time": 0.03764772415161133
+        },
+        {
+                "start_time": 53.707452,
+                "end_time": 54.39862900000001,
+                "MASR_results": "呂玉玲:都要",
+                "google_asr_results": "都樂",
+                "labels": "呂玉玲:都要",
+                "asr_recognition_time": 0.24822473526000977,
+                "google_recognition_time": 0.26267361640930176,
+                "speaker_recognition_time": 0.060882568359375
+        },
+        {
+                "start_time": 54.784,
+                "end_time": 56.003361,
+                "MASR_results": "呂玉玲:把他帶心",
+                "google_asr_results": "把他帶新",
+                "labels": "呂玉玲:把他帶心",
+                "asr_recognition_time": 0.19044923782348633,
+                "google_recognition_time": 0.4077482223510742,
+                "speaker_recognition_time": 0.04922652244567871
+        },
+        {
+                "start_time": 56.339934,
+                "end_time": 58.780089,
+                "MASR_results": "呂玉玲:所以在嚴部長之前有",
+                "google_asr_results": "所以這也不講之前有",
+                "labels": "邱國正,呂玉玲:是所以在嚴部長之前有",
+                "asr_recognition_time": 0.534552812576294,
+                "google_recognition_time": 0.7604842185974121,
+                "speaker_recognition_time": 0.09126615524291992
+        },
+        {
+                "start_time": 58.88,
+                "end_time": 59.777788,
+                "MASR_results": "呂玉玲:再做二個",
+                "google_asr_results": "在最後一個",
+                "labels": "呂玉玲:在最後一個",
+                "asr_recognition_time": 0.38912510871887207,
+                "google_recognition_time": 0.4449174404144287,
+                "speaker_recognition_time": 0.037119150161743164
+        },
+        {
+                "start_time": 59.831880000000005,
+                "end_time": 61.268326,
+                "MASR_results": "呂玉玲:呃有提到說",
+                "google_asr_results": "有提到說",
+                "labels": "呂玉玲:呃有提到說",
+                "asr_recognition_time": 0.36031031608581543,
+                "google_recognition_time": 0.32880401611328125,
+                "speaker_recognition_time": 0.0521235466003418
+        },
+        {
+                "start_time": 61.3705,
+                "end_time": 62.891090000000005,
+                "MASR_results": "呂玉玲:要了完成這個我們",
+                "google_asr_results": "完成這個我們",
+                "labels": "呂玉玲:要來完成這個我們",
+                "asr_recognition_time": 0.4596061706542969,
+                "google_recognition_time": 0.3870382308959961,
+                "speaker_recognition_time": 0.07706236839294434
+        },
+        {
+                "start_time": 63.005284,
+                "end_time": 65.13290699999999,
+                "MASR_results": "呂玉玲:呃軍人的軍士官兵的這個",
+                "google_asr_results": "軍人的技術官兵的這個",
+                "labels": "呂玉玲:呃軍人的軍士官兵的這個",
+                "asr_recognition_time": 0.6739077568054199,
+                "google_recognition_time": 0.5465877056121826,
+                "speaker_recognition_time": 0.0727531909942627
+        },
+        {
+                "start_time": 65.22306,
+                "end_time": 66.010401,
+                "MASR_results": "呂玉玲:右頭跟",
+                "google_asr_results": "YouTube",
+                "labels": "呂玉玲:幼托跟",
+                "asr_recognition_time": 0.1537914276123047,
+                "google_recognition_time": 0.26164913177490234,
+                "speaker_recognition_time": 0.03468894958496094
+        },
+        {
+                "start_time": 66.106565,
+                "end_time": 68.02383,
+                "MASR_results": "呂玉玲:跟功又溝通這部分齁",
+                "google_asr_results": "公幼公托這部分囉",
+                "labels": "呂玉玲:跟公幼公托這部分喔",
+                "asr_recognition_time": 0.3797428607940674,
+                "google_recognition_time": 0.6712737083435059,
+                "speaker_recognition_time": 0.07359910011291504
+        },
+        {
+                "start_time": 68.252218,
+                "end_time": 70.253626,
+                "MASR_results": "呂玉玲:在我們特別在",
+                "google_asr_results": "被我們特別在",
+                "labels": "呂玉玲:在我們特別在",
+                "asr_recognition_time": 0.4752190113067627,
+                "google_recognition_time": 0.6642329692840576,
+                "speaker_recognition_time": 0.09370684623718262
+        },
+        {
+                "start_time": 70.34979,
+                "end_time": 74.665138,
+                "MASR_results": "呂玉玲:行政院在推動我們的公共教保這個托育的這個服務喔",
+                "google_asr_results": "行政院在推動我們的公共教保這個托育的這個服務喔",
+                "labels": "呂玉玲:行政院在推動我們的公共教保這個托育的這個服務喔",
+                "asr_recognition_time": 1.160738229751587,
+                "google_recognition_time": 0.6436316967010498,
+                "speaker_recognition_time": 0.17066717147827148
+        },
+        {
+                "start_time": 74.953629,
+                "end_time": 76.570382,
+                "MASR_results": "呂玉玲:在教育部有核準是",
+                "google_asr_results": "在教育部有核准字",
+                "labels": "呂玉玲:在教育部有核准是",
+                "asr_recognition_time": 0.33590006828308105,
+                "google_recognition_time": 0.6315937042236328,
+                "speaker_recognition_time": 0.0596463680267334
+        },
+        {
+                "start_time": 76.83483299999999,
+                "end_time": 78.974476,
+                "MASR_results": "呂玉玲:我們國防部這邊是三十個班",
+                "google_asr_results": "我們國防部這邊是30個班",
+                "labels": "呂玉玲:我們國防部這邊是三十個班",
+                "asr_recognition_time": 0.6647937297821045,
+                "google_recognition_time": 0.8303318023681641,
+                "speaker_recognition_time": 0.08968210220336914
+        },
+        {
+                "start_time": 79.058619,
+                "end_time": 81.01795600000001,
+                "MASR_results": "呂玉玲:九百個名額啦齁",
+                "google_asr_results": "900個名額",
+                "labels": "呂玉玲:九百個名額啦齁",
+                "asr_recognition_time": 0.5176889896392822,
+                "google_recognition_time": 0.361858606338501,
+                "speaker_recognition_time": 0.0963587760925293
+        },
+        {
+                "start_time": 81.168211,
+                "end_time": 83.265783,
+                "MASR_results": "呂玉玲:那特別在我們",
+                "google_asr_results": "要特別的我們",
+                "labels": "呂玉玲:那特別在我們",
+                "asr_recognition_time": 0.4400455951690674,
+                "google_recognition_time": 0.6132943630218506,
+                "speaker_recognition_time": 0.1077272891998291
+        },
+        {
+                "start_time": 83.42806,
+                "end_time": 84.672178,
+                "MASR_results": "呂玉玲:桃園的",
+                "google_asr_results": "桃園的",
+                "labels": "呂玉玲:桃園的",
+                "asr_recognition_time": 0.17096686363220215,
+                "google_recognition_time": 0.2533738613128662,
+                "speaker_recognition_time": 0.049228668212890625
+        },
+        {
+                "start_time": 84.844915,
+                "end_time": 86.643535,
+                "MASR_results": "呂玉玲:我平在龍臺這個地方",
+                "google_asr_results": "桃園平鎮龍潭哪個地方",
+                "labels": "呂玉玲:平鎮龍潭這個地方",
+                "asr_recognition_time": 0.3839731216430664,
+                "google_recognition_time": 0.396395206451416,
+                "speaker_recognition_time": 0.07703804969787598
+        },
+        {
+                "start_time": 86.823842,
+                "end_time": 92.564236,
+                "MASR_results": "呂玉玲:也是我們的六軍團也是我們的陸軍總部這個地方所以很多的兵敵",
+                "google_asr_results": "你是我們的六軍團也是我們的陸軍總部這個地方所以很多的冰品",
+                "labels": "呂玉玲,邱國正:也是我們的六軍團也是我們的陸軍總部這個地方是所以很多的兵營",
+                "asr_recognition_time": 1.5597972869873047,
+                "google_recognition_time": 1.1848490238189697,
+                "speaker_recognition_time": 0.29239845275878906
+        },
+        {
+                "start_time": 92.589149,
+                "end_time": 93.362976,
+                "MASR_results": "呂玉玲:跟我們的",
+                "google_asr_results": "跟我們的",
+                "labels": "呂玉玲:跟我們的",
+                "asr_recognition_time": 0.3174419403076172,
+                "google_recognition_time": 0.25939202308654785,
+                "speaker_recognition_time": 0.034403324127197266
+        },
+        {
+                "start_time": 93.543284,
+                "end_time": 94.775381,
+                "MASR_results": "呂玉玲:呃軍眷",
+                "google_asr_results": "軍艦",
+                "labels": "呂玉玲:呃軍眷",
+                "asr_recognition_time": 0.17050766944885254,
+                "google_recognition_time": 0.30858874320983887,
+                "speaker_recognition_time": 0.05017256736755371
+        },
+        {
+                "start_time": 94.847504,
+                "end_time": 97.870652,
+                "MASR_results": "呂玉玲:都在這個地方所以更加的比任何地方",
+                "google_asr_results": "在這個地方更加的比這麼地方",
+                "labels": "呂玉玲,邱國正:都在這個地方了解對所以更加比任何地方",
+                "asr_recognition_time": 0.8788721561431885,
+                "google_recognition_time": 0.6110332012176514,
+                "speaker_recognition_time": 0.13178777694702148
+        },
+        {
+                "start_time": 97.942775,
+                "end_time": 102.011703,
+                "MASR_results": "呂玉玲:都是需要的喔那但是給我們的數量",
+                "google_asr_results": "都是需要的給我們的數量",
+                "labels": "呂玉玲,邱國正:都是需要的喔是那但是給我們的數量",
+                "asr_recognition_time": 0.9673469066619873,
+                "google_recognition_time": 0.763932466506958,
+                "speaker_recognition_time": 0.17340779304504395
+        },
+        {
+                "start_time": 102.107867,
+                "end_time": 105.106974,
+                "MASR_results": "呂玉玲:給我們的這個工作工用是非常少的",
+                "google_asr_results": "給我們的這個工作工作是非常少的",
+                "labels": "呂玉玲:給我們的這個公托公幼是非常少的",
+                "asr_recognition_time": 0.6547131538391113,
+                "google_recognition_time": 0.7140097618103027,
+                "speaker_recognition_time": 0.09829473495483398
+        },
+        {
+                "start_time": 105.216,
+                "end_time": 106.597512,
+                "MASR_results": "呂玉玲:所以本席也特別去",
+                "google_asr_results": "新北市特別去",
+                "labels": "呂玉玲:所以本席也特別去",
+                "asr_recognition_time": 0.4534773826599121,
+                "google_recognition_time": 0.553314208984375,
+                "speaker_recognition_time": 0.07375550270080566
+        },
+        {
+                "start_time": 106.735747,
+                "end_time": 107.120402,
+                "MASR_results": "呂玉玲:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:呃",
+                "asr_recognition_time": 0.21930146217346191,
+                "google_recognition_time": 0.19975757598876953,
+                "speaker_recognition_time": 0.020488977432250977
+        },
+        {
+                "start_time": 107.204546,
+                "end_time": 109.987284,
+                "MASR_results": "呂玉玲:至少了幾個地方看看是不適合",
+                "google_asr_results": "查了幾個地方看看適不適合",
+                "labels": "呂玉玲:視察了幾個地方看看適不適合",
+                "asr_recognition_time": 0.5742073059082031,
+                "google_recognition_time": 0.5873775482177734,
+                "speaker_recognition_time": 0.10803866386413574
+        },
+        {
+                "start_time": 110.107489,
+                "end_time": 112.102886,
+                "MASR_results": "呂玉玲:因為是老舊的那個營色",
+                "google_asr_results": "因為是老舊的那個銀色",
+                "labels": "呂玉玲:因為是老舊的那個營舍",
+                "asr_recognition_time": 0.41617655754089355,
+                "google_recognition_time": 0.43717360496520996,
+                "speaker_recognition_time": 0.0832984447479248
+        },
+        {
+                "start_time": 112.19905,
+                "end_time": 113.863885,
+                "MASR_results": "呂玉玲:跟我們的那個",
+                "google_asr_results": "跟我們的那個",
+                "labels": "呂玉玲:跟我們的那個",
+                "asr_recognition_time": 0.4021899700164795,
+                "google_recognition_time": 0.29958486557006836,
+                "speaker_recognition_time": 0.08623981475830078
+        },
+        {
+                "start_time": 114.116315,
+                "end_time": 117.674373,
+                "MASR_results": "呂玉玲:設備要來改建成我們的",
+                "google_asr_results": "設備要來改變成我們的",
+                "labels": "呂玉玲:設備要來改建成我們的",
+                "asr_recognition_time": 0.6859838962554932,
+                "google_recognition_time": 0.4154472351074219,
+                "speaker_recognition_time": 0.15124726295471191
+        },
+        {
+                "start_time": 117.76,
+                "end_time": 120.030385,
+                "MASR_results": "呂玉玲:呃這個公用工作的這個地方喔",
+                "google_asr_results": "這個工作工作了這個地方喔",
+                "labels": "呂玉玲:呃這個公幼公托的這個地方喔",
+                "asr_recognition_time": 0.5104405879974365,
+                "google_recognition_time": 0.4403953552246094,
+                "speaker_recognition_time": 0.0767829418182373
+        },
+        {
+                "start_time": 120.120539,
+                "end_time": 123.732689,
+                "MASR_results": "呂玉玲:我們怕說這個不符合我們教育部因為還是給教育部核定",
+                "google_asr_results": "我們怕說這個不是我們教育部因為孩子給教育部核定",
+                "labels": "呂玉玲:我們怕說這個不符合我們教育部因為還是給教育部核定",
+                "asr_recognition_time": 1.2793517112731934,
+                "google_recognition_time": 0.8328757286071777,
+                "speaker_recognition_time": 0.1496753692626953
+        },
+        {
+                "start_time": 123.804812,
+                "end_time": 125.505708,
+                "MASR_results": "呂玉玲:所以當他在前提之下",
+                "google_asr_results": "就在千里之下",
+                "labels": "呂玉玲:所以剛剛在前提之下",
+                "asr_recognition_time": 0.5289058685302734,
+                "google_recognition_time": 0.8898086547851562,
+                "speaker_recognition_time": 0.05926632881164551
+        },
+        {
+                "start_time": 125.696,
+                "end_time": 127.33282,
+                "MASR_results": "呂玉玲:本席就講了教育部",
+                "google_asr_results": "本期就講了教育部",
+                "labels": "呂玉玲:本席就講了教育部",
+                "asr_recognition_time": 0.509030818939209,
+                "google_recognition_time": 0.8652138710021973,
+                "speaker_recognition_time": 0.0551149845123291
+        },
+        {
+                "start_time": 127.368881,
+                "end_time": 130.109548,
+                "MASR_results": "呂玉玲:核定的這個三十個班九百個名額",
+                "google_asr_results": "核定了這30個班就買個名額",
+                "labels": "呂玉玲:核定了這個三十個班九百個名額",
+                "asr_recognition_time": 0.585662841796875,
+                "google_recognition_time": 0.9400429725646973,
+                "speaker_recognition_time": 0.11185908317565918
+        },
+        {
+                "start_time": 130.241773,
+                "end_time": 132.96440900000002,
+                "MASR_results": "呂玉玲:那我們看到了這個有陸總部這個地方",
+                "google_asr_results": "那我們看到了這個有陸總部這個地方",
+                "labels": "呂玉玲:那我們看到了這個有陸總部這個地方",
+                "asr_recognition_time": 0.8276543617248535,
+                "google_recognition_time": 0.5369851589202881,
+                "speaker_recognition_time": 0.11327910423278809
+        },
+        {
+                "start_time": 133.084614,
+                "end_time": 135.62694299999998,
+                "MASR_results": "呂玉玲:還有這個太陽這個營區喔",
+                "google_asr_results": "還有這個太陽這個營區喔",
+                "labels": "呂玉玲:還有這個漢陽這個營區喔",
+                "asr_recognition_time": 0.48030996322631836,
+                "google_recognition_time": 0.42996668815612793,
+                "speaker_recognition_time": 0.10329341888427734
+        },
+        {
+                "start_time": 135.86134199999998,
+                "end_time": 137.249706,
+                "MASR_results": "呂玉玲:那我們是希望說",
+                "google_asr_results": "那我們是希望說",
+                "labels": "呂玉玲:那我們是希望說",
+                "asr_recognition_time": 0.4373807907104492,
+                "google_recognition_time": 0.3096444606781006,
+                "speaker_recognition_time": 0.0459442138671875
+        },
+        {
+                "start_time": 137.436023,
+                "end_time": 139.341267,
+                "MASR_results": "呂玉玲:我們要做這件事情的時候",
+                "google_asr_results": "我們要做這個事情的時候",
+                "labels": "呂玉玲:我們要做這件事情的時候",
+                "asr_recognition_time": 0.5888092517852783,
+                "google_recognition_time": 0.5872848033905029,
+                "speaker_recognition_time": 0.0890660285949707
+        },
+        {
+                "start_time": 141.366716,
+                "end_time": 142.460579,
+                "MASR_results": "呂玉玲:我們國防部",
+                "google_asr_results": "我們國防部",
+                "labels": "呂玉玲:我們國防部",
+                "asr_recognition_time": 0.3794088363647461,
+                "google_recognition_time": 0.4570653438568115,
+                "speaker_recognition_time": 0.06397461891174316
+        },
+        {
+                "start_time": 142.610835,
+                "end_time": 144.630273,
+                "MASR_results": "呂玉玲:應該要給我們的三軍",
+                "google_asr_results": "應該要給我們的三軍",
+                "labels": "呂玉玲:應該要給我們的三軍",
+                "asr_recognition_time": 0.5532152652740479,
+                "google_recognition_time": 0.457439661026001,
+                "speaker_recognition_time": 0.0683736801147461
+        },
+        {
+                "start_time": 144.734606,
+                "end_time": 146.439354,
+                "MASR_results": "呂玉玲:看到我們的決心",
+                "google_asr_results": "看到我們的情形",
+                "labels": "呂玉玲,邱國正:看到我們的決心是",
+                "asr_recognition_time": 0.30312299728393555,
+                "google_recognition_time": 0.32033205032348633,
+                "speaker_recognition_time": 0.05590057373046875
+        },
+        {
+                "start_time": 146.599486,
+                "end_time": 147.749585,
+                "MASR_results": "呂玉玲:你看大使",
+                "google_asr_results": "你看大直",
+                "labels": "呂玉玲:你看大直",
+                "asr_recognition_time": 0.19907617568969727,
+                "google_recognition_time": 0.2781860828399658,
+                "speaker_recognition_time": 0.04947471618652344
+        },
+        {
+                "start_time": 148.170301,
+                "end_time": 150.159689,
+                "MASR_results": "呂玉玲:投資了六千五百萬",
+                "google_asr_results": "投資6500萬",
+                "labels": "呂玉玲:投資了六千五百萬",
+                "asr_recognition_time": 0.49474000930786133,
+                "google_recognition_time": 0.32544541358947754,
+                "speaker_recognition_time": 0.09642624855041504
+        },
+        {
+                "start_time": 150.891557,
+                "end_time": 151.836544,
+                "MASR_results": "呂玉玲:那",
+                "google_asr_results": "那",
+                "labels": "呂玉玲:那",
+                "asr_recognition_time": 0.2393944263458252,
+                "google_recognition_time": 0.32888054847717285,
+                "speaker_recognition_time": 0.0372004508972168
+        },
+        {
+                "start_time": 152.076953,
+                "end_time": 153.483348,
+                "MASR_results": "呂玉玲:這個出資的方面",
+                "google_asr_results": "這個出這方面",
+                "labels": "呂玉玲:這個出資的方面",
+                "asr_recognition_time": 0.2904841899871826,
+                "google_recognition_time": 0.40903353691101074,
+                "speaker_recognition_time": 0.05325889587402344
+        },
+        {
+                "start_time": 153.78987,
+                "end_time": 154.487057,
+                "MASR_results": "呂玉玲:我們看到",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:我們看到",
+                "asr_recognition_time": 0.299818754196167,
+                "google_recognition_time": 0.217376708984375,
+                "speaker_recognition_time": 0.030753612518310547
+        },
+        {
+                "start_time": 154.667364,
+                "end_time": 155.689104,
+                "MASR_results": "呂玉玲:比我們一般",
+                "google_asr_results": "比我們一般",
+                "labels": "呂玉玲:比我們一般",
+                "asr_recognition_time": 0.36543750762939453,
+                "google_recognition_time": 0.43636131286621094,
+                "speaker_recognition_time": 0.07448053359985352
+        },
+        {
+                "start_time": 155.971585,
+                "end_time": 157.522225,
+                "MASR_results": "呂玉玲:對我們的市民中心",
+                "google_asr_results": "在我們的市民中心",
+                "labels": "呂玉玲:蓋我們的市民中心",
+                "asr_recognition_time": 0.3339841365814209,
+                "google_recognition_time": 0.3854689598083496,
+                "speaker_recognition_time": 0.05694913864135742
+        },
+        {
+                "start_time": 157.594348,
+                "end_time": 158.802405,
+                "MASR_results": "呂玉玲:還要高的規格",
+                "google_asr_results": "還有高的規格",
+                "labels": "呂玉玲:還要高的規格",
+                "asr_recognition_time": 0.40865492820739746,
+                "google_recognition_time": 0.3489084243774414,
+                "speaker_recognition_time": 0.04895138740539551
+        },
+        {
+                "start_time": 158.976,
+                "end_time": 160.869926,
+                "MASR_results": "呂玉玲:這是代表你們的決心",
+                "google_asr_results": "自製代表你們的決心",
+                "labels": "呂玉玲:這是代表你們的決心",
+                "asr_recognition_time": 0.5459232330322266,
+                "google_recognition_time": 0.5826559066772461,
+                "speaker_recognition_time": 0.062262773513793945
+        },
+        {
+                "start_time": 161.34473400000002,
+                "end_time": 163.328,
+                "MASR_results": "呂玉玲:所以我希望動作要快",
+                "google_asr_results": "所以我希望動作要快",
+                "labels": "呂玉玲:所以我希望動作要快",
+                "asr_recognition_time": 0.5591886043548584,
+                "google_recognition_time": 0.40167760848999023,
+                "speaker_recognition_time": 0.08803319931030273
+        },
+        {
+                "start_time": 163.772869,
+                "end_time": 164.608,
+                "MASR_results": "呂玉玲:不要太慢",
+                "google_asr_results": "又太慢",
+                "labels": "呂玉玲:不要太慢",
+                "asr_recognition_time": 0.3125956058502197,
+                "google_recognition_time": 0.3463728427886963,
+                "speaker_recognition_time": 0.0349729061126709
+        },
+        {
+                "start_time": 165.12,
+                "end_time": 166.3753,
+                "MASR_results": "呂玉玲:那今年審核",
+                "google_asr_results": "機電整合",
+                "labels": "呂玉玲:那今年審核",
+                "asr_recognition_time": 0.23065900802612305,
+                "google_recognition_time": 0.40822863578796387,
+                "speaker_recognition_time": 0.04644966125488281
+        },
+        {
+                "start_time": 166.41136200000005,
+                "end_time": 168.148319,
+                "MASR_results": "呂玉玲:已經經下次年初",
+                "google_asr_results": "金價4年初",
+                "labels": "呂玉玲:已經今現在是年初",
+                "asr_recognition_time": 0.4743080139160156,
+                "google_recognition_time": 0.715648889541626,
+                "speaker_recognition_time": 0.0636451244354248
+        },
+        {
+                "start_time": 168.232463,
+                "end_time": 170.852925,
+                "MASR_results": "呂玉玲:你是審核好了但是要明年才能完成",
+                "google_asr_results": "你什麼好了但是要明年才能完成",
+                "labels": "呂玉玲:你已經審核好了但是要明年才能完成",
+                "asr_recognition_time": 0.8490052223205566,
+                "google_recognition_time": 0.708979606628418,
+                "speaker_recognition_time": 0.10103535652160645
+        },
+        {
+                "start_time": 170.98515,
+                "end_time": 173.83598500000002,
+                "MASR_results": "呂玉玲:而且這一直接所有的這個營色",
+                "google_asr_results": "直接所有的這個顏色",
+                "labels": "呂玉玲:而且這些這些所有的這個營舍",
+                "asr_recognition_time": 0.5645160675048828,
+                "google_recognition_time": 0.9491605758666992,
+                "speaker_recognition_time": 0.10519599914550781
+        },
+        {
+                "start_time": 174.014308,
+                "end_time": 175.366611,
+                "MASR_results": "呂玉玲:跟我們所有的那個",
+                "google_asr_results": "跟我們說有人那個",
+                "labels": "呂玉玲:跟我們所有的那個",
+                "asr_recognition_time": 0.47820234298706055,
+                "google_recognition_time": 0.6475441455841064,
+                "speaker_recognition_time": 0.07802462577819824
+        },
+        {
+                "start_time": 175.408682,
+                "end_time": 177.800755,
+                "MASR_results": "呂玉玲:公務的這些試聽這個地方",
+                "google_asr_results": "公佈的這些是聽這個地方",
+                "labels": "呂玉玲:公佈的這些試聽這個地方",
+                "asr_recognition_time": 0.4596741199493408,
+                "google_recognition_time": 0.607262134552002,
+                "speaker_recognition_time": 0.09426617622375488
+        },
+        {
+                "start_time": 178.053185,
+                "end_time": 179.008812,
+                "MASR_results": "呂玉玲:都是",
+                "google_asr_results": "都是",
+                "labels": "呂玉玲:都是",
+                "asr_recognition_time": 0.2617835998535156,
+                "google_recognition_time": 0.2770683765411377,
+                "speaker_recognition_time": 0.05663919448852539
+        },
+        {
+                "start_time": 179.2,
+                "end_time": 180.276972,
+                "MASR_results": "呂玉玲:現有的",
+                "google_asr_results": "現有的",
+                "labels": "呂玉玲:現有的",
+                "asr_recognition_time": 0.2914736270904541,
+                "google_recognition_time": 0.25901031494140625,
+                "speaker_recognition_time": 0.04607367515563965
+        },
+        {
+                "start_time": 180.517381,
+                "end_time": 182.254339,
+                "MASR_results": "呂玉玲:但是你們有序整件",
+                "google_asr_results": "但是你們有去整間",
+                "labels": "呂玉玲:但是你們洗有去整建",
+                "asr_recognition_time": 0.3273441791534424,
+                "google_recognition_time": 0.43877148628234863,
+                "speaker_recognition_time": 0.07451415061950684
+        },
+        {
+                "start_time": 182.528,
+                "end_time": 184.568279,
+                "MASR_results": "呂玉玲:可是是在教育部來做",
+                "google_asr_results": "可是是這叫一步來做",
+                "labels": "呂玉玲:可是是在教育部來做",
+                "asr_recognition_time": 0.557215690612793,
+                "google_recognition_time": 0.6063666343688965,
+                "speaker_recognition_time": 0.08185553550720215
+        },
+        {
+                "start_time": 185.055108,
+                "end_time": 186.792066,
+                "MASR_results": "呂玉玲:教育部又叫給地方來做",
+                "google_asr_results": "教育部這個地方來做",
+                "labels": "呂玉玲:教育部又交給地方來做",
+                "asr_recognition_time": 0.3841235637664795,
+                "google_recognition_time": 0.6192450523376465,
+                "speaker_recognition_time": 0.06050610542297363
+        },
+        {
+                "start_time": 186.990403,
+                "end_time": 189.051914,
+                "MASR_results": "呂玉玲:所以我們國防部會希望",
+                "google_asr_results": "所以我們不乏不會希望",
+                "labels": "呂玉玲:所以我們國防部會希望",
+                "asr_recognition_time": 0.6513180732727051,
+                "google_recognition_time": 0.8007957935333252,
+                "speaker_recognition_time": 0.06797432899475098
+        },
+        {
+                "start_time": 189.142067,
+                "end_time": 192.04501,
+                "MASR_results": "呂玉玲:有我們地方的教育局跟我們地方的",
+                "google_asr_results": "因為我們地方的教育局跟我的地方了",
+                "labels": "呂玉玲:由我們地方的教育局跟我們地方的",
+                "asr_recognition_time": 0.8624513149261475,
+                "google_recognition_time": 0.5172998905181885,
+                "speaker_recognition_time": 0.09711194038391113
+        },
+        {
+                "start_time": 192.213297,
+                "end_time": 192.940535,
+                "MASR_results": "呂玉玲:市政府",
+                "google_asr_results": "市政府",
+                "labels": "呂玉玲:市政府",
+                "asr_recognition_time": 0.3054964542388916,
+                "google_recognition_time": 0.2650423049926758,
+                "speaker_recognition_time": 0.0322113037109375
+        },
+        {
+                "start_time": 193.07276,
+                "end_time": 194.551278,
+                "MASR_results": "呂玉玲:能夠出這筆款項",
+                "google_asr_results": "那個出這筆款項",
+                "labels": "呂玉玲:能夠出這筆款項",
+                "asr_recognition_time": 0.453319787979126,
+                "google_recognition_time": 0.3503553867340088,
+                "speaker_recognition_time": 0.058171987533569336
+        },
+        {
+                "start_time": 194.816,
+                "end_time": 195.470844,
+                "MASR_results": "呂玉玲:可是",
+                "google_asr_results": "可是",
+                "labels": "呂玉玲:可是",
+                "asr_recognition_time": 0.249222993850708,
+                "google_recognition_time": 0.2521400451660156,
+                "speaker_recognition_time": 0.033933401107788086
+        },
+        {
+                "start_time": 195.518925,
+                "end_time": 198.049234,
+                "MASR_results": "呂玉玲:本席擔心的是如果市政府不出",
+                "google_asr_results": "期待新的是如果是政府不出",
+                "labels": "呂玉玲:本席擔心的是如果市政府不出",
+                "asr_recognition_time": 0.5498344898223877,
+                "google_recognition_time": 1.038567066192627,
+                "speaker_recognition_time": 0.1169579029083252
+        },
+        {
+                "start_time": 198.295654,
+                "end_time": 199.431588,
+                "MASR_results": "呂玉玲:教育博不敢",
+                "google_asr_results": "教育部不管",
+                "labels": "呂玉玲:教育部不管",
+                "asr_recognition_time": 0.37892723083496094,
+                "google_recognition_time": 0.29694294929504395,
+                "speaker_recognition_time": 0.04764389991760254
+        },
+        {
+                "start_time": 199.68,
+                "end_time": 200.704,
+                "MASR_results": "呂玉玲:那是不是就",
+                "google_asr_results": "那是不是就",
+                "labels": "呂玉玲:那是不是就",
+                "asr_recognition_time": 0.35581040382385254,
+                "google_recognition_time": 0.31372570991516113,
+                "speaker_recognition_time": 0.04430222511291504
+        },
+        {
+                "start_time": 200.843993,
+                "end_time": 202.803329,
+                "MASR_results": "呂玉玲:空有審定合格的部分",
+                "google_asr_results": "都有省電合格的部分",
+                "labels": "呂玉玲:空有審定合格的部分",
+                "asr_recognition_time": 0.3663301467895508,
+                "google_recognition_time": 0.7173271179199219,
+                "speaker_recognition_time": 0.09395742416381836
+        },
+        {
+                "start_time": 202.899493,
+                "end_time": 204.726604,
+                "MASR_results": "呂玉玲:呃沒有去落實執行",
+                "google_asr_results": "沒有進落實執行",
+                "labels": "呂玉玲:而沒有去落實執行",
+                "asr_recognition_time": 0.4242548942565918,
+                "google_recognition_time": 0.6763243675231934,
+                "speaker_recognition_time": 0.08021283149719238
+        },
+        {
+                "start_time": 204.822768,
+                "end_time": 206.15704,
+                "MASR_results": "呂玉玲:是會讓我們的",
+                "google_asr_results": "是會讓我們的",
+                "labels": "呂玉玲:這會讓我們的",
+                "asr_recognition_time": 0.4881291389465332,
+                "google_recognition_time": 0.37725090980529785,
+                "speaker_recognition_time": 0.07699298858642578
+        },
+        {
+                "start_time": 206.349367,
+                "end_time": 207.18479,
+                "MASR_results": "呂玉玲:三軍",
+                "google_asr_results": "三軍",
+                "labels": "呂玉玲:三軍",
+                "asr_recognition_time": 0.2518608570098877,
+                "google_recognition_time": 0.2377912998199463,
+                "speaker_recognition_time": 0.04511141777038574
+        },
+        {
+                "start_time": 207.563435,
+                "end_time": 208.380826,
+                "MASR_results": "呂玉玲:軍士官兵",
+                "google_asr_results": "士官兵",
+                "labels": "呂玉玲:軍士官兵",
+                "asr_recognition_time": 0.3069953918457031,
+                "google_recognition_time": 0.3027060031890869,
+                "speaker_recognition_time": 0.03487086296081543
+        },
+        {
+                "start_time": 208.47699,
+                "end_time": 209.642976,
+                "MASR_results": "呂玉玲:都會很失望",
+                "google_asr_results": "都會很失望",
+                "labels": "呂玉玲:都會不會很失望",
+                "asr_recognition_time": 0.4038357734680176,
+                "google_recognition_time": 0.777122974395752,
+                "speaker_recognition_time": 0.0460658073425293
+        },
+        {
+                "start_time": 209.823283,
+                "end_time": 211.716506,
+                "MASR_results": "呂玉玲:所以我希望這一點",
+                "google_asr_results": "所以我希望這一點",
+                "labels": "呂玉玲:所以我希望這一點",
+                "asr_recognition_time": 0.5132207870483398,
+                "google_recognition_time": 0.3805358409881592,
+                "speaker_recognition_time": 0.0655369758605957
+        },
+        {
+                "start_time": 211.842721,
+                "end_time": 212.359601,
+                "MASR_results": "呂玉玲:你部長",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:部長",
+                "asr_recognition_time": 0.26102566719055176,
+                "google_recognition_time": 0.21005010604858398,
+                "speaker_recognition_time": 0.053806304931640625
+        },
+        {
+                "start_time": 212.43172400000003,
+                "end_time": 214.264846,
+                "MASR_results": "呂玉玲:您要去好好的監督",
+                "google_asr_results": "你要就好好的去監督",
+                "labels": "呂玉玲:您要去好好的去監督",
+                "asr_recognition_time": 0.481658935546875,
+                "google_recognition_time": 0.5186092853546143,
+                "speaker_recognition_time": 0.10034823417663574
+        },
+        {
+                "start_time": 214.407798,
+                "end_time": 215.552,
+                "MASR_results": "廖婉汝:齁去執行",
+                "google_asr_results": "執行",
+                "labels": "邱國正,呂玉玲:好去執行",
+                "asr_recognition_time": 0.3294985294342041,
+                "google_recognition_time": 0.3186149597167969,
+                "speaker_recognition_time": 0.05207681655883789
+        },
+        {
+                "start_time": 215.743363,
+                "end_time": 218.880705,
+                "MASR_results": "邱國正:他不好好的做我應該呃責任之內的呃謝",
+                "google_asr_results": "好不好好的錯我應該主任室內樂",
+                "labels": "呂玉玲,邱國正:好不好好的這我應該啊責任之內的是",
+                "asr_recognition_time": 0.9744751453399658,
+                "google_recognition_time": 1.1238460540771484,
+                "speaker_recognition_time": 0.10570716857910156
+        },
+        {
+                "start_time": 218.9949,
+                "end_time": 221.230707,
+                "MASR_results": "呂玉玲:那因為我我們那個區域齁",
+                "google_asr_results": "因為我我們的區域",
+                "labels": "呂玉玲:那因為我我們這個區域喔",
+                "asr_recognition_time": 0.6401035785675049,
+                "google_recognition_time": 0.3840043544769287,
+                "speaker_recognition_time": 0.07972311973571777
+        },
+        {
+                "start_time": 221.801679,
+                "end_time": 225.91869,
+                "MASR_results": "呂玉玲:桃園的平鎮農海這個區域是陸總在這邊營設非常的多",
+                "google_asr_results": "桃園的平鎮龍潭地區是陸總在這邊顏色非常的多",
+                "labels": "呂玉玲:桃園的平鎮龍潭這個地區是陸總在這邊營舍非常的多",
+                "asr_recognition_time": 1.3706824779510498,
+                "google_recognition_time": 1.020207166671753,
+                "speaker_recognition_time": 0.1557626724243164
+        },
+        {
+                "start_time": 226.048,
+                "end_time": 227.084675,
+                "MASR_results": "呂玉玲:本來是這個",
+                "google_asr_results": "本來是這個",
+                "labels": "呂玉玲:本來是這個",
+                "asr_recognition_time": 0.3551805019378662,
+                "google_recognition_time": 0.2852365970611572,
+                "speaker_recognition_time": 0.03960299491882324
+        },
+        {
+                "start_time": 227.168818,
+                "end_time": 229.458717,
+                "MASR_results": "呂玉玲:陸總部那邊要一百二十個名額結果",
+                "google_asr_results": "陸總部那邊要120個名額結果",
+                "labels": "呂玉玲:陸總部那邊要一百二十個名額結果",
+                "asr_recognition_time": 0.7443761825561523,
+                "google_recognition_time": 0.8529922962188721,
+                "speaker_recognition_time": 0.11384844779968262
+        },
+        {
+                "start_time": 229.855393,
+                "end_time": 232.36166,
+                "MASR_results": "呂玉玲:教育部這邊有核定改成九十個名單喔",
+                "google_asr_results": "教育部字邊又何必改成96名人",
+                "labels": "呂玉玲:教育部這邊又核定改成九十個名額",
+                "asr_recognition_time": 0.8134293556213379,
+                "google_recognition_time": 1.0980453491210938,
+                "speaker_recognition_time": 0.10090422630310059
+        },
+        {
+                "start_time": 232.448,
+                "end_time": 233.11895,
+                "MASR_results": "廖婉汝:那我們",
+                "google_asr_results": "那我們",
+                "labels": "呂玉玲:那我們",
+                "asr_recognition_time": 0.30218052864074707,
+                "google_recognition_time": 0.2596771717071533,
+                "speaker_recognition_time": 0.030699491500854492
+        },
+        {
+                "start_time": 233.305267,
+                "end_time": 235.511023,
+                "MASR_results": "呂玉玲:憑著這個地方的話這個看養營區",
+                "google_asr_results": "平鎮這個地方的話這太陽營區",
+                "labels": "呂玉玲:平鎮這個地方的話這個漢陽營區",
+                "asr_recognition_time": 0.6986417770385742,
+                "google_recognition_time": 0.6032919883728027,
+                "speaker_recognition_time": 0.08466672897338867
+        },
+        {
+                "start_time": 235.571125,
+                "end_time": 237.686728,
+                "MASR_results": "呂玉玲:又因為他心蓋一些大樓",
+                "google_asr_results": "就因為他新蓋歇大樓",
+                "labels": "呂玉玲:又因為他新蓋一些大樓",
+                "asr_recognition_time": 0.47378063201904297,
+                "google_recognition_time": 0.5770473480224609,
+                "speaker_recognition_time": 0.10743212699890137
+        },
+        {
+                "start_time": 237.824,
+                "end_time": 239.303481,
+                "MASR_results": "呂玉玲:而又取消這部分",
+                "google_asr_results": "我要取消這部分",
+                "labels": "呂玉玲:而又取消我這部分",
+                "asr_recognition_time": 0.27780818939208984,
+                "google_recognition_time": 0.43564820289611816,
+                "speaker_recognition_time": 0.05425238609313965
+        },
+        {
+                "start_time": 239.441716,
+                "end_time": 240.679824,
+                "MASR_results": "呂玉玲:本席去看的時候",
+                "google_asr_results": "回去去看的時候",
+                "labels": "呂玉玲:本席去看的時候",
+                "asr_recognition_time": 0.4291057586669922,
+                "google_recognition_time": 0.6275668144226074,
+                "speaker_recognition_time": 0.04923415184020996
+        },
+        {
+                "start_time": 240.721896,
+                "end_time": 242.380721,
+                "MASR_results": "呂玉玲:告訴我現在大我時候",
+                "google_asr_results": "告訴我新蓋大樓",
+                "labels": "呂玉玲:告訴我新蓋大樓的時候",
+                "asr_recognition_time": 0.5111486911773682,
+                "google_recognition_time": 0.525871992111206,
+                "speaker_recognition_time": 0.06790924072265625
+        },
+        {
+                "start_time": 242.428803,
+                "end_time": 243.871259,
+                "MASR_results": "呂玉玲:我想危險不影響",
+                "google_asr_results": "我想我寫不影響",
+                "labels": "呂玉玲:圍牆圍起來不影響",
+                "asr_recognition_time": 0.29671502113342285,
+                "google_recognition_time": 0.43905138969421387,
+                "speaker_recognition_time": 0.08333277702331543
+        },
+        {
+                "start_time": 243.973433,
+                "end_time": 245.504,
+                "MASR_results": "呂玉玲:我們未來的溝通共用",
+                "google_asr_results": "我們未來的工作工作",
+                "labels": "呂玉玲:我們未來的公托公幼",
+                "asr_recognition_time": 0.341172456741333,
+                "google_recognition_time": 0.3190302848815918,
+                "speaker_recognition_time": 0.07567739486694336
+        },
+        {
+                "start_time": 245.697919,
+                "end_time": 247.267041,
+                "MASR_results": "呂玉玲:但是現在教育部的",
+                "google_asr_results": "20現在教育部的",
+                "labels": "呂玉玲:但是現在教育部的",
+                "asr_recognition_time": 0.47920918464660645,
+                "google_recognition_time": 0.4648876190185547,
+                "speaker_recognition_time": 0.08147048950195312
+        },
+        {
+                "start_time": 247.351184,
+                "end_time": 248.745559,
+                "MASR_results": "呂玉玲:核定文裡面的話",
+                "google_asr_results": "和的文裡面的話",
+                "labels": "呂玉玲:核定文裡面的話",
+                "asr_recognition_time": 0.46681952476501465,
+                "google_recognition_time": 1.1747028827667236,
+                "speaker_recognition_time": 0.08315563201904297
+        },
+        {
+                "start_time": 249.052081,
+                "end_time": 249.929575,
+                "MASR_results": "呂玉玲:國防部這邊",
+                "google_asr_results": "我不知道",
+                "labels": "呂玉玲:國防部這邊",
+                "asr_recognition_time": 0.3441436290740967,
+                "google_recognition_time": 0.5926206111907959,
+                "speaker_recognition_time": 0.036690473556518555
+        },
+        {
+                "start_time": 249.983667,
+                "end_time": 251.528297,
+                "MASR_results": "呂玉玲:又把我取消了",
+                "google_asr_results": "又把我取消了",
+                "labels": "呂玉玲:又把我取消了",
+                "asr_recognition_time": 0.42981576919555664,
+                "google_recognition_time": 0.3050878047943115,
+                "speaker_recognition_time": 0.08967065811157227
+        },
+        {
+                "start_time": 251.588399,
+                "end_time": 252.928,
+                "MASR_results": "呂玉玲:所以我希望部長",
+                "google_asr_results": "所以我希望不長",
+                "labels": "呂玉玲:所以我希望部長",
+                "asr_recognition_time": 0.41709280014038086,
+                "google_recognition_time": 0.43019604682922363,
+                "speaker_recognition_time": 0.0547945499420166
+        },
+        {
+                "start_time": 253.51167400000003,
+                "end_time": 254.347097,
+                "MASR_results": "呂玉玲:重視",
+                "google_asr_results": "中視",
+                "labels": "呂玉玲:重視",
+                "asr_recognition_time": 0.26937413215637207,
+                "google_recognition_time": 0.3627345561981201,
+                "speaker_recognition_time": 0.03484225273132324
+        },
+        {
+                "start_time": 254.464,
+                "end_time": 255.687379,
+                "MASR_results": "呂玉玲:實質的",
+                "google_asr_results": "10尺的",
+                "labels": "呂玉玲:實質的",
+                "asr_recognition_time": 0.3215303421020508,
+                "google_recognition_time": 0.3455393314361572,
+                "speaker_recognition_time": 0.042848825454711914
+        },
+        {
+                "start_time": 255.765512,
+                "end_time": 259.071,
+                "MASR_results": "呂玉玲:讓我們軍事官兵的感受所以你請盡快",
+                "google_asr_results": "那我們騎士官變的感受所以你請盡快",
+                "labels": "呂玉玲:讓我們軍事士官兵的感受所以你請盡快",
+                "asr_recognition_time": 0.9431545734405518,
+                "google_recognition_time": 0.8393814563751221,
+                "speaker_recognition_time": 0.114959716796875
+        },
+        {
+                "start_time": 259.167305,
+                "end_time": 260.69991400000004,
+                "MASR_results": "呂玉玲:再找出建議的",
+                "google_asr_results": "再找出建議的",
+                "labels": "呂玉玲,邱國正:再找出建議的好",
+                "asr_recognition_time": 0.3082551956176758,
+                "google_recognition_time": 0.40721988677978516,
+                "speaker_recognition_time": 0.07549619674682617
+        },
+        {
+                "start_time": 260.772037,
+                "end_time": 265.045314,
+                "MASR_results": "呂玉玲:那個選舉好不好好那接下來本席要問的就是",
+                "google_asr_results": "這個弦子好不好",
+                "labels": "呂玉玲,邱國正:那個選址好不好好好這個好好那接下來本席要問的就是",
+                "asr_recognition_time": 1.1994621753692627,
+                "google_recognition_time": 0.5697019100189209,
+                "speaker_recognition_time": 0.16549134254455566
+        },
+        {
+                "start_time": 265.117436,
+                "end_time": 266.800302,
+                "MASR_results": "呂玉玲:在也言前部長",
+                "google_asr_results": "肺癌選部長",
+                "labels": "呂玉玲:在嚴嚴前部長",
+                "asr_recognition_time": 0.2769496440887451,
+                "google_recognition_time": 0.4475975036621094,
+                "speaker_recognition_time": 0.08928179740905762
+        },
+        {
+                "start_time": 267.007,
+                "end_time": 270.700944,
+                "MASR_results": "呂玉玲:他在做呃要退休的之後最後一個任務啊齁",
+                "google_asr_results": "他在做要退休的時候的最後一個任務啊",
+                "labels": "呂玉玲:他在最後呃要退休的時候的最後一個任務啊齁",
+                "asr_recognition_time": 1.1439712047576904,
+                "google_recognition_time": 0.7494204044342041,
+                "speaker_recognition_time": 0.13019299507141113
+        },
+        {
+                "start_time": 270.761046,
+                "end_time": 272.127,
+                "MASR_results": "呂玉玲:他特別是",
+                "google_asr_results": "特別是",
+                "labels": "呂玉玲,邱國正:是他特別是",
+                "asr_recognition_time": 0.35155415534973145,
+                "google_recognition_time": 0.3149726390838623,
+                "speaker_recognition_time": 0.07592296600341797
+        },
+        {
+                "start_time": 272.449922,
+                "end_time": 275.64736600000003,
+                "MASR_results": "呂玉玲:著重在我們的後備戰力的這個改革喔",
+                "google_asr_results": "著重在我們的後備戰力的這個改革啊",
+                "labels": "呂玉玲:著重在我們的後備戰力的這個改革啊",
+                "asr_recognition_time": 0.723555326461792,
+                "google_recognition_time": 0.6265506744384766,
+                "speaker_recognition_time": 0.1398921012878418
+        },
+        {
+                "start_time": 275.695448,
+                "end_time": 277.925245,
+                "MASR_results": "呂玉玲:希望我們的後備戰你跟全民國防",
+                "google_asr_results": "希望我們的後輩在那個全民國防",
+                "labels": "呂玉玲:希望我們的後備戰力跟全民國防",
+                "asr_recognition_time": 0.7367465496063232,
+                "google_recognition_time": 0.9384665489196777,
+                "speaker_recognition_time": 0.10030651092529297
+        },
+        {
+                "start_time": 277.991358,
+                "end_time": 281.296987,
+                "MASR_results": "呂玉玲:能夠互相的來做一個支配",
+                "google_asr_results": "能夠互相的來做一個支配",
+                "labels": "呂玉玲:能夠互相的來做一個支配",
+                "asr_recognition_time": 0.7525503635406494,
+                "google_recognition_time": 0.46277570724487305,
+                "speaker_recognition_time": 0.13911151885986328
+        },
+        {
+                "start_time": 281.543406,
+                "end_time": 282.781514,
+                "MASR_results": "呂玉玲:能夠讓我們的",
+                "google_asr_results": "讓我們的",
+                "labels": "呂玉玲:能夠讓我們的",
+                "asr_recognition_time": 0.3809998035430908,
+                "google_recognition_time": 0.2863128185272217,
+                "speaker_recognition_time": 0.07586145401000977
+        },
+        {
+                "start_time": 282.92576,
+                "end_time": 284.51847200000003,
+                "MASR_results": "呂玉玲:後備的這個動員啦",
+                "google_asr_results": "設備的這個重點啦",
+                "labels": "呂玉玲:後備的這個動員啦",
+                "asr_recognition_time": 0.3110527992248535,
+                "google_recognition_time": 0.7683351039886475,
+                "speaker_recognition_time": 0.07442498207092285
+        },
+        {
+                "start_time": 284.566554,
+                "end_time": 286.463,
+                "MASR_results": "呂玉玲:能夠發揮出他的人力",
+                "google_asr_results": "有沒有發揮出他的人力",
+                "labels": "呂玉玲:能夠發揮出他的人力",
+                "asr_recognition_time": 0.5357768535614014,
+                "google_recognition_time": 0.54634690284729,
+                "speaker_recognition_time": 0.07375073432922363
+        },
+        {
+                "start_time": 286.652105,
+                "end_time": 287.81809100000004,
+                "MASR_results": "呂玉玲:的一個需求喔",
+                "google_asr_results": "有一個需求",
+                "labels": "呂玉玲:的一個需求喔",
+                "asr_recognition_time": 0.3993384838104248,
+                "google_recognition_time": 0.29964280128479004,
+                "speaker_recognition_time": 0.04447579383850098
+        },
+        {
+                "start_time": 288.06451,
+                "end_time": 289.002107,
+                "MASR_results": "呂玉玲:那最重要",
+                "google_asr_results": "最重要",
+                "labels": "呂玉玲:那最重要",
+                "asr_recognition_time": 0.320817232131958,
+                "google_recognition_time": 0.32842302322387695,
+                "speaker_recognition_time": 0.05553603172302246
+        },
+        {
+                "start_time": 289.044178,
+                "end_time": 291.959142,
+                "MASR_results": "呂玉玲:除了人力以外我們還要把這個後備這個",
+                "google_asr_results": "除了整理以外我們還要把這個後輩這個",
+                "labels": "呂玉玲:除了人力以外我們還要把這個後備這個",
+                "asr_recognition_time": 0.7775816917419434,
+                "google_recognition_time": 1.170339822769165,
+                "speaker_recognition_time": 0.13196492195129395
+        },
+        {
+                "start_time": 292.139449,
+                "end_time": 294.513491,
+                "MASR_results": "呂玉玲:太過一老舊的這個武力裝備",
+                "google_asr_results": "太過於老舊的這個武力裝備",
+                "labels": "呂玉玲:太過於老舊的這個武力裝備",
+                "asr_recognition_time": 0.5396428108215332,
+                "google_recognition_time": 0.4717891216278076,
+                "speaker_recognition_time": 0.07779455184936523
+        },
+        {
+                "start_time": 294.597635,
+                "end_time": 295.583313,
+                "MASR_results": "呂玉玲:給太換喔",
+                "google_asr_results": "和泰換喔",
+                "labels": "呂玉玲:給汰換喔",
+                "asr_recognition_time": 0.18467378616333008,
+                "google_recognition_time": 0.3862612247467041,
+                "speaker_recognition_time": 0.03673291206359863
+        },
+        {
+                "start_time": 295.697507,
+                "end_time": 296.556971,
+                "MASR_results": "呂玉玲:這個部分",
+                "google_asr_results": "這個部分",
+                "labels": "呂玉玲:這個部分",
+                "asr_recognition_time": 0.303786039352417,
+                "google_recognition_time": 0.22510194778442383,
+                "speaker_recognition_time": 0.03120899200439453
+        },
+        {
+                "start_time": 296.703,
+                "end_time": 298.804798,
+                "MASR_results": "呂玉玲:所以本席想請問一下喔",
+                "google_asr_results": "所以本系想請問一下喔",
+                "labels": "呂玉玲:所以本席想請問一下喔",
+                "asr_recognition_time": 0.5914411544799805,
+                "google_recognition_time": 0.6765589714050293,
+                "speaker_recognition_time": 0.06915736198425293
+        },
+        {
+                "start_time": 299.007,
+                "end_time": 301.317076,
+                "MASR_results": "呂玉玲:我們國防部對於這個我們行政院",
+                "google_asr_results": "我們國防部對於這個我們行政院",
+                "labels": "呂玉玲:我們國防部對於這個我們行政院",
+                "asr_recognition_time": 0.7232420444488525,
+                "google_recognition_time": 0.7611973285675049,
+                "speaker_recognition_time": 0.0726308822631836
+        },
+        {
+                "start_time": 301.461322,
+                "end_time": 303.19827999999995,
+                "MASR_results": "呂玉玲:對我們這個整個預算",
+                "google_asr_results": "對我們這個整個預算",
+                "labels": "呂玉玲:對我們這個整個預算",
+                "asr_recognition_time": 0.49863100051879883,
+                "google_recognition_time": 0.5612654685974121,
+                "speaker_recognition_time": 0.09152698516845703
+        },
+        {
+                "start_time": 303.359,
+                "end_time": 305.584343,
+                "MASR_results": "呂玉玲:提出了一些意見傳說",
+                "google_asr_results": "提出一些意見傳說",
+                "labels": "呂玉玲:提出了一些意見傳說",
+                "asr_recognition_time": 0.5762696266174316,
+                "google_recognition_time": 0.9438238143920898,
+                "speaker_recognition_time": 0.10552191734313965
+        },
+        {
+                "start_time": 305.663,
+                "end_time": 306.227438,
+                "MASR_results": "呂玉玲:我有",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:我有",
+                "asr_recognition_time": 0.2672302722930908,
+                "google_recognition_time": 0.22424054145812988,
+                "speaker_recognition_time": 0.054453134536743164
+        },
+        {
+                "start_time": 306.353652,
+                "end_time": 308.58946000000003,
+                "MASR_results": "呂玉玲:國防部這個重點的這個嚴格啊",
+                "google_asr_results": "國防部自動員的課原則",
+                "labels": "呂玉玲:國防部這個動員的這個員額啊",
+                "asr_recognition_time": 0.5072553157806396,
+                "google_recognition_time": 0.9712774753570557,
+                "speaker_recognition_time": 0.1101386547088623
+        },
+        {
+                "start_time": 308.735,
+                "end_time": 312.36989700000004,
+                "MASR_results": "呂玉玲:不希望你們新增呃希望你們在內部裡面做調整",
+                "google_asr_results": "不需要你們新生兒希望你們在內部裡面做調整",
+                "labels": "呂玉玲:不希望你們新增而希望你們在內部裡面做調整",
+                "asr_recognition_time": 1.1568520069122314,
+                "google_recognition_time": 0.49616265296936035,
+                "speaker_recognition_time": 0.15024399757385254
+        },
+        {
+                "start_time": 312.417979,
+                "end_time": 313.087,
+                "MASR_results": "廖婉汝:是不是這樣子",
+                "google_asr_results": "這樣子",
+                "labels": "呂玉玲:是不是這樣子",
+                "asr_recognition_time": 0.36933350563049316,
+                "google_recognition_time": 0.3487560749053955,
+                "speaker_recognition_time": 0.031002283096313477
+        },
+        {
+                "start_time": 313.511841,
+                "end_time": 318.96312400000005,
+                "MASR_results": "呂玉玲:因為我們原來是七個旅嘛現在要改成呃增加到十二個旅增加了五個旅",
+                "google_asr_results": "因為我們本來是7個旅嗎現在又改成增加了12個禮這樣的五個裡",
+                "labels": "呂玉玲:因為我們原來是七個旅嘛現在要改成呃增加了十二個旅增加了五個旅",
+                "asr_recognition_time": 1.913830280303955,
+                "google_recognition_time": 1.429948329925537,
+                "speaker_recognition_time": 0.19940757751464844
+        },
+        {
+                "start_time": 319.035246,
+                "end_time": 320.51376400000004,
+                "MASR_results": "呂玉玲:我個有三千人",
+                "google_asr_results": "3000人",
+                "labels": "呂玉玲:五個旅有三千人",
+                "asr_recognition_time": 0.43527960777282715,
+                "google_recognition_time": 0.28458428382873535,
+                "speaker_recognition_time": 0.05867362022399902
+        },
+        {
+                "start_time": 320.832306,
+                "end_time": 322.268752,
+                "MASR_results": "呂玉玲:這三千人的人次",
+                "google_asr_results": "收件人的人質",
+                "labels": "呂玉玲:這三千人的人事",
+                "asr_recognition_time": 0.2971651554107666,
+                "google_recognition_time": 1.1725761890411377,
+                "speaker_recognition_time": 0.07370305061340332
+        },
+        {
+                "start_time": 322.316834,
+                "end_time": 324.438447,
+                "MASR_results": "呂玉玲:是新增還是內部去調整",
+                "google_asr_results": "新增還是那不去調整",
+                "labels": "呂玉玲:是新增還是內部去調整",
+                "asr_recognition_time": 0.5978360176086426,
+                "google_recognition_time": 0.3916895389556885,
+                "speaker_recognition_time": 0.09470152854919434
+        },
+        {
+                "start_time": 325.143936,
+                "end_time": 329.40891,
+                "MASR_results": "邱國正:呃報告委員在我們二十一萬五的總兵力內部自行做調整",
+                "google_asr_results": "富源在我們215000的總兵力內部自行做調整",
+                "labels": "李世強:報告委員在我們二十一萬五的總兵力內部自行做調整",
+                "asr_recognition_time": 1.3235752582550049,
+                "google_recognition_time": 0.8182399272918701,
+                "speaker_recognition_time": 0.1752924919128418
+        },
+        {
+                "start_time": 329.65533,
+                "end_time": 331.007,
+                "MASR_results": "呂玉玲:進行做調整",
+                "google_asr_results": "自行做調整",
+                "labels": "呂玉玲:自行做調整",
+                "asr_recognition_time": 0.2203845977783203,
+                "google_recognition_time": 0.5618782043457031,
+                "speaker_recognition_time": 0.07962322235107422
+        },
+        {
+                "start_time": 331.127837,
+                "end_time": 333.201368,
+                "MASR_results": "呂玉玲:所以他不支持你們這個的預算",
+                "google_asr_results": "所以他不支持你們這個的預算",
+                "labels": "呂玉玲:所以他不支持你們這個的預算",
+                "asr_recognition_time": 0.6405339241027832,
+                "google_recognition_time": 0.5099964141845703,
+                "speaker_recognition_time": 0.10399341583251953
+        },
+        {
+                "start_time": 333.351624,
+                "end_time": 334.591,
+                "MASR_results": "呂玉玲:你想看看",
+                "google_asr_results": "你講看看",
+                "labels": "呂玉玲:你想看看",
+                "asr_recognition_time": 0.35636019706726074,
+                "google_recognition_time": 0.3848750591278076,
+                "speaker_recognition_time": 0.06905364990234375
+        },
+        {
+                "start_time": 334.733978,
+                "end_time": 336.32068,
+                "MASR_results": "呂玉玲:三千的人力",
+                "google_asr_results": "升遷的人力",
+                "labels": "呂玉玲:三千的人力",
+                "asr_recognition_time": 0.23112821578979492,
+                "google_recognition_time": 0.5537433624267578,
+                "speaker_recognition_time": 0.07134151458740234
+        },
+        {
+                "start_time": 336.452905,
+                "end_time": 339.554186,
+                "MASR_results": "呂玉玲:在我們的目標這個情況不是良好情況之下",
+                "google_asr_results": "在我們的沒冰的情況不是良好情況之下",
+                "labels": "呂玉玲:在我們的募兵這個情況不是良好情況之下",
+                "asr_recognition_time": 0.959428071975708,
+                "google_recognition_time": 0.8242545127868652,
+                "speaker_recognition_time": 0.13461613655090332
+        },
+        {
+                "start_time": 339.638329,
+                "end_time": 341.357256,
+                "MASR_results": "呂玉玲:你在各個單位裡面去",
+                "google_asr_results": "各個單位裡面去",
+                "labels": "呂玉玲:你在各個單位裡面去",
+                "asr_recognition_time": 0.5332584381103516,
+                "google_recognition_time": 0.5626847743988037,
+                "speaker_recognition_time": 0.08661913871765137
+        },
+        {
+                "start_time": 341.387307,
+                "end_time": 343.334623,
+                "MASR_results": "呂玉玲:調控過來的這三千的人力",
+                "google_asr_results": "小空不來得3000的人力",
+                "labels": "呂玉玲:調控過來的這三千的人力",
+                "asr_recognition_time": 0.6029140949249268,
+                "google_recognition_time": 0.6735365390777588,
+                "speaker_recognition_time": 0.08867669105529785
+        },
+        {
+                "start_time": 343.388715,
+                "end_time": 345.54638900000003,
+                "MASR_results": "呂玉玲:會不會影響他們正常的作業呢",
+                "google_asr_results": "影響他們正常的作業呢",
+                "labels": "呂玉玲:會不會影響他們正常的作業呢",
+                "asr_recognition_time": 0.6911342144012451,
+                "google_recognition_time": 0.6853091716766357,
+                "speaker_recognition_time": 0.07544374465942383
+        },
+        {
+                "start_time": 346.405852,
+                "end_time": 351.244091,
+                "MASR_results": "邱國正:報告委員我們去年陸軍的聯兵營編成我們就收回了兩千多個元額",
+                "google_asr_results": "幫我連我們去年陸軍的聯兵營編成我們就收回了2000多9元了",
+                "labels": "李世強:報告委員我們去年陸軍的聯兵營編成我們就收回了兩千多個員額",
+                "asr_recognition_time": 1.3903520107269287,
+                "google_recognition_time": 0.953514814376831,
+                "speaker_recognition_time": 0.18378496170043945
+        },
+        {
+                "start_time": 351.382326,
+                "end_time": 355.391152,
+                "MASR_results": "邱國正:這些員合就是用來做為這些後備部隊人力的補充",
+                "google_asr_results": "這些原則就是用來作為這些後備部隊能力的補充",
+                "labels": "李世強:這些員額就是用來作為這些後備部隊人力的補充",
+                "asr_recognition_time": 0.9851822853088379,
+                "google_recognition_time": 1.3180501461029053,
+                "speaker_recognition_time": 0.1617908477783203
+        },
+        {
+                "start_time": 356.815578,
+                "end_time": 359.868777,
+                "MASR_results": "呂玉玲:所以那這樣子的話就真預算是不給你們增加了",
+                "google_asr_results": "所以那這樣子的話就真預算不給你們增加了",
+                "labels": "呂玉玲:所以那這樣子的話就增預算就不給你們增加了",
+                "asr_recognition_time": 1.0701298713684082,
+                "google_recognition_time": 0.6619720458984375,
+                "speaker_recognition_time": 0.13710594177246094
+        },
+        {
+                "start_time": 360.079135,
+                "end_time": 363.090262,
+                "MASR_results": "呂玉玲:我這個可是你們支持你們這個跟預算無關啦",
+                "google_asr_results": "我這裡不是你們就是算無關",
+                "labels": "李世強,呂玉玲:喔這個跟預預算不支持你們這個跟預算無關哪",
+                "asr_recognition_time": 0.8853452205657959,
+                "google_recognition_time": 1.7241730690002441,
+                "speaker_recognition_time": 0.1473395824432373
+        },
+        {
+                "start_time": 364.118012,
+                "end_time": 369.749602,
+                "MASR_results": "呂玉玲:我們希望關後備部隊原而就反應預算這個人士成本啊",
+                "google_asr_results": "我們相關後備部隊員額就反應預算是人事成本啊",
+                "labels": "呂玉玲:我們相關後備部隊員額就反映預算這人事成本啊",
+                "asr_recognition_time": 1.5470695495605469,
+                "google_recognition_time": 0.8009400367736816,
+                "speaker_recognition_time": 0.31769299507141113
+        },
+        {
+                "start_time": 370.175,
+                "end_time": 370.915587,
+                "MASR_results": "呂玉玲:不是嗎",
+                "google_asr_results": "不是嗎",
+                "labels": "呂玉玲:不是嗎",
+                "asr_recognition_time": 0.2809438705444336,
+                "google_recognition_time": 0.29694175720214844,
+                "speaker_recognition_time": 0.029904842376708984
+        },
+        {
+                "start_time": 371.711,
+                "end_time": 373.247,
+                "MASR_results": "廖婉汝:怎麼並沒有相關呢",
+                "google_asr_results": "怎麼都沒有相關呢",
+                "labels": "呂玉玲:怎麼會不沒有相關呢",
+                "asr_recognition_time": 0.4857351779937744,
+                "google_recognition_time": 0.35071444511413574,
+                "speaker_recognition_time": 0.08263683319091797
+        },
+        {
+                "start_time": 373.427865,
+                "end_time": 373.866612,
+                "MASR_results": "呂玉玲:所以",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:所以",
+                "asr_recognition_time": 0.2569539546966553,
+                "google_recognition_time": 0.21318912506103516,
+                "speaker_recognition_time": 0.019826173782348633
+        },
+        {
+                "start_time": 374.06495,
+                "end_time": 374.527,
+                "MASR_results": "呂玉玲:部長",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:部長",
+                "asr_recognition_time": 0.2810182571411133,
+                "google_recognition_time": 0.23168134689331055,
+                "speaker_recognition_time": 0.04251694679260254
+        },
+        {
+                "start_time": 375.158812,
+                "end_time": 376.475054,
+                "MASR_results": "呂玉玲:您非常的瞭解",
+                "google_asr_results": "你非常的了解",
+                "labels": "呂玉玲:您非常的了解",
+                "asr_recognition_time": 0.4484429359436035,
+                "google_recognition_time": 0.6726570129394531,
+                "speaker_recognition_time": 0.07720541954040527
+        },
+        {
+                "start_time": 376.781576,
+                "end_time": 378.488482,
+                "MASR_results": "呂玉玲:每一個軍種他有各自了",
+                "google_asr_results": "每一個群組他有個子了",
+                "labels": "呂玉玲:每一個軍種他有各自的",
+                "asr_recognition_time": 0.3971683979034424,
+                "google_recognition_time": 0.7872433662414551,
+                "speaker_recognition_time": 0.08274602890014648
+        },
+        {
+                "start_time": 378.623,
+                "end_time": 379.522242,
+                "MASR_results": "呂玉玲:工作業務",
+                "google_asr_results": "工作業務",
+                "labels": "呂玉玲:工作業務",
+                "asr_recognition_time": 0.3135359287261963,
+                "google_recognition_time": 0.4592750072479248,
+                "speaker_recognition_time": 0.04266619682312012
+        },
+        {
+                "start_time": 379.72659,
+                "end_time": 380.291552,
+                "MASR_results": "廖婉汝:而且",
+                "google_asr_results": "而且",
+                "labels": "呂玉玲:而且",
+                "asr_recognition_time": 0.25069427490234375,
+                "google_recognition_time": 0.21901488304138184,
+                "speaker_recognition_time": 0.03469228744506836
+        },
+        {
+                "start_time": 380.48989,
+                "end_time": 382.857922,
+                "MASR_results": "呂玉玲:我們這個未來照改革",
+                "google_asr_results": "我們這個未來的改革",
+                "labels": "呂玉玲:我們這個未來這改革",
+                "asr_recognition_time": 0.5963702201843262,
+                "google_recognition_time": 0.6190950870513916,
+                "speaker_recognition_time": 0.08168554306030273
+        },
+        {
+                "start_time": 383.134393,
+                "end_time": 385.328129,
+                "MASR_results": "呂玉玲:是含主任上來了吧",
+                "google_asr_results": "藍主任上來了吧",
+                "labels": "呂玉玲:是韓主任上來了吧",
+                "asr_recognition_time": 0.3581576347351074,
+                "google_recognition_time": 0.44208455085754395,
+                "speaker_recognition_time": 0.07286810874938965
+        },
+        {
+                "start_time": 385.442323,
+                "end_time": 387.203322,
+                "MASR_results": "呂玉玲:孩主委你很懂這個業務喔",
+                "google_asr_results": "存錢筒這個業務啊",
+                "labels": "呂玉玲:韓主任你很懂這個業務喔",
+                "asr_recognition_time": 0.4271068572998047,
+                "google_recognition_time": 0.6805191040039062,
+                "speaker_recognition_time": 0.056136369705200195
+        },
+        {
+                "start_time": 387.41969,
+                "end_time": 389.348975,
+                "MASR_results": "呂玉玲:齁本席是非常關心的",
+                "google_asr_results": "擔心是非常關心的",
+                "labels": "呂玉玲:齁本席是非常關心的",
+                "asr_recognition_time": 0.5443248748779297,
+                "google_recognition_time": 0.9024875164031982,
+                "speaker_recognition_time": 0.09231948852539062
+        },
+        {
+                "start_time": 389.887,
+                "end_time": 391.975447,
+                "MASR_results": "呂玉玲:所以未來這三千個人",
+                "google_asr_results": "所以為了自3000的人",
+                "labels": "呂玉玲:所以未來這三千個人",
+                "asr_recognition_time": 0.5696709156036377,
+                "google_recognition_time": 0.45588040351867676,
+                "speaker_recognition_time": 0.07257795333862305
+        },
+        {
+                "start_time": 392.03555,
+                "end_time": 393.568159,
+                "MASR_results": "呂玉玲:不管在哪裡調控過來",
+                "google_asr_results": "不管在哪裡調控過來",
+                "labels": "呂玉玲:不管在哪裡調控過來",
+                "asr_recognition_time": 0.47479844093322754,
+                "google_recognition_time": 0.37493324279785156,
+                "speaker_recognition_time": 0.06209731101989746
+        },
+        {
+                "start_time": 393.676344,
+                "end_time": 394.553838,
+                "MASR_results": "呂玉玲:調整過來",
+                "google_asr_results": "調整過來",
+                "labels": "呂玉玲:調整過來",
+                "asr_recognition_time": 0.3345944881439209,
+                "google_recognition_time": 0.3068239688873291,
+                "speaker_recognition_time": 0.05167508125305176
+        },
+        {
+                "start_time": 394.674043,
+                "end_time": 396.435041,
+                "MASR_results": "呂玉玲:這三千個人這個歷史在",
+                "google_asr_results": "生氣的人是隸屬在",
+                "labels": "呂玉玲:這三千個人是隸屬在",
+                "asr_recognition_time": 0.5280807018280029,
+                "google_recognition_time": 0.8337526321411133,
+                "speaker_recognition_time": 0.0821983814239502
+        },
+        {
+                "start_time": 396.561256,
+                "end_time": 398.045784,
+                "MASR_results": "呂玉玲:這個陸軍底下",
+                "google_asr_results": "這個陸龜底下",
+                "labels": "呂玉玲:這個陸軍底下",
+                "asr_recognition_time": 0.25902700424194336,
+                "google_recognition_time": 0.5136418342590332,
+                "speaker_recognition_time": 0.06295609474182129
+        },
+        {
+                "start_time": 398.370337,
+                "end_time": 398.917268,
+                "MASR_results": "呂玉玲:對不對",
+                "google_asr_results": "對不對",
+                "labels": "呂玉玲:對不對",
+                "asr_recognition_time": 0.28865814208984375,
+                "google_recognition_time": 0.23799490928649902,
+                "speaker_recognition_time": 0.028250455856323242
+        },
+        {
+                "start_time": 399.07361,
+                "end_time": 401.407,
+                "MASR_results": "呂玉玲:那你那個都底下的話未來你看看",
+                "google_asr_results": "迷路都的未來你看看",
+                "labels": "呂玉玲:那你陸督底下的話未來你看看",
+                "asr_recognition_time": 0.7156903743743896,
+                "google_recognition_time": 1.545055866241455,
+                "speaker_recognition_time": 0.11300325393676758
+        },
+        {
+                "start_time": 401.555761,
+                "end_time": 402.457296,
+                "MASR_results": "呂玉玲:有可能",
+                "google_asr_results": "有可能",
+                "labels": "呂玉玲:有可能",
+                "asr_recognition_time": 0.28223609924316406,
+                "google_recognition_time": 0.4040815830230713,
+                "speaker_recognition_time": 0.03834724426269531
+        },
+        {
+                "start_time": 402.655633,
+                "end_time": 403.695404,
+                "MASR_results": "呂玉玲:啊不十六分",
+                "google_asr_results": "16v",
+                "labels": "呂玉玲:F十六V",
+                "asr_recognition_time": 0.36673474311828613,
+                "google_recognition_time": 0.3629288673400879,
+                "speaker_recognition_time": 0.04782676696777344
+        },
+        {
+                "start_time": 403.815609,
+                "end_time": 406.478142,
+                "MASR_results": "呂玉玲:在我們東部要基地也成立了",
+                "google_asr_results": "教我們東部基地的成立了",
+                "labels": "呂玉玲:在我們東部也要基地也要成立了",
+                "asr_recognition_time": 0.7612318992614746,
+                "google_recognition_time": 1.0291352272033691,
+                "speaker_recognition_time": 0.11969780921936035
+        },
+        {
+                "start_time": 406.580316,
+                "end_time": 408.046813,
+                "MASR_results": "呂玉玲:這人員有沒有扣別",
+                "google_asr_results": "至臻園有沒有圖片",
+                "labels": "呂玉玲:這人員有沒有擴編",
+                "asr_recognition_time": 0.4710562229156494,
+                "google_recognition_time": 0.778024435043335,
+                "speaker_recognition_time": 0.05710959434509277
+        },
+        {
+                "start_time": 408.443489,
+                "end_time": 409.531341,
+                "MASR_results": "呂玉玲:增加一個年嘛",
+                "google_asr_results": "增加一個臉嗎",
+                "labels": "呂玉玲:增加一個連嘛",
+                "asr_recognition_time": 0.2426910400390625,
+                "google_recognition_time": 0.4379734992980957,
+                "speaker_recognition_time": 0.038376569747924805
+        },
+        {
+                "start_time": 409.819832,
+                "end_time": 410.408835,
+                "MASR_results": "呂玉玲:是不是",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:是不是",
+                "asr_recognition_time": 0.29403233528137207,
+                "google_recognition_time": 0.20048928260803223,
+                "speaker_recognition_time": 0.03057408332824707
+        },
+        {
+                "start_time": 411.196176,
+                "end_time": 412.091701,
+                "MASR_results": "廖婉汝:一個年對嗎",
+                "google_asr_results": "個人對嗎",
+                "labels": "呂玉玲:一個連對嗎",
+                "asr_recognition_time": 0.20869922637939453,
+                "google_recognition_time": 0.27286791801452637,
+                "speaker_recognition_time": 0.04438281059265137
+        },
+        {
+                "start_time": 412.671,
+                "end_time": 413.299758,
+                "MASR_results": "呂玉玲:是不是",
+                "google_asr_results": "是不是",
+                "labels": "呂玉玲:是不是",
+                "asr_recognition_time": 0.2987091541290283,
+                "google_recognition_time": 0.22305512428283691,
+                "speaker_recognition_time": 0.027645587921142578
+        },
+        {
+                "start_time": 413.570219,
+                "end_time": 414.147201,
+                "MASR_results": "廖婉汝:那好",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:那好",
+                "asr_recognition_time": 0.3032255172729492,
+                "google_recognition_time": 0.20454049110412598,
+                "speaker_recognition_time": 0.026671648025512695
+        },
+        {
+                "start_time": 414.255385,
+                "end_time": 415.168941,
+                "MASR_results": "廖婉汝:那潛艦",
+                "google_asr_results": "8點間",
+                "labels": "呂玉玲:搭潛艦",
+                "asr_recognition_time": 0.34034109115600586,
+                "google_recognition_time": 0.42804837226867676,
+                "speaker_recognition_time": 0.03789663314819336
+        },
+        {
+                "start_time": 415.231,
+                "end_time": 416.316896,
+                "MASR_results": "呂玉玲:你要澄清哪",
+                "google_asr_results": "謝承均",
+                "labels": "呂玉玲:也要成軍了",
+                "asr_recognition_time": 0.23290348052978516,
+                "google_recognition_time": 0.6791238784790039,
+                "speaker_recognition_time": 0.0404200553894043
+        },
+        {
+                "start_time": 416.707561,
+                "end_time": 418.119966,
+                "MASR_results": "呂玉玲:也會參加人員",
+                "google_asr_results": "也會參加人員",
+                "labels": "呂玉玲:也會增加人員",
+                "asr_recognition_time": 0.2830638885498047,
+                "google_recognition_time": 0.2709529399871826,
+                "speaker_recognition_time": 0.054915428161621094
+        },
+        {
+                "start_time": 418.414467,
+                "end_time": 420.475978,
+                "MASR_results": "呂玉玲:這些都需要增加人員",
+                "google_asr_results": "這些都需要增加人員",
+                "labels": "呂玉玲:這些都需要增加人員",
+                "asr_recognition_time": 0.5893344879150391,
+                "google_recognition_time": 0.7215147018432617,
+                "speaker_recognition_time": 0.10423088073730469
+        },
+        {
+                "start_time": 420.662295,
+                "end_time": 422.483396,
+                "MASR_results": "呂玉玲:這些教務叫新增",
+                "google_asr_results": "出去就不叫新增",
+                "labels": "呂玉玲:這些叫不叫新增",
+                "asr_recognition_time": 0.501582145690918,
+                "google_recognition_time": 1.4118950366973877,
+                "speaker_recognition_time": 0.064483642578125
+        },
+        {
+                "start_time": 422.633652,
+                "end_time": 423.048358,
+                "MASR_results": "廖婉汝:部長",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:部長",
+                "asr_recognition_time": 0.2690854072570801,
+                "google_recognition_time": 0.17336201667785645,
+                "speaker_recognition_time": 0.04608631134033203
+        },
+        {
+                "start_time": 423.935,
+                "end_time": 425.314216,
+                "MASR_results": "呂玉玲:這些先權力的",
+                "google_asr_results": "這些權利的",
+                "labels": "呂玉玲:這些些權利的",
+                "asr_recognition_time": 0.39008569717407227,
+                "google_recognition_time": 0.7572832107543945,
+                "speaker_recognition_time": 0.08083248138427734
+        },
+        {
+                "start_time": 426.011403,
+                "end_time": 430.43491,
+                "MASR_results": "邱國正:是不是叫新增我行政人員呢我們在如果說他答覆喔就想說",
+                "google_asr_results": "是比較行政人員",
+                "labels": "呂玉玲,邱國正:是不是叫新增新增人員我說剛才剛才我們戰規司他答覆了喔就講說",
+                "asr_recognition_time": 1.4871175289154053,
+                "google_recognition_time": 0.5928993225097656,
+                "speaker_recognition_time": 0.31103038787841797
+        },
+        {
+                "start_time": 430.495412,
+                "end_time": 433.650411,
+                "MASR_results": "邱國正:這個原額就把他當作一個調整職務的",
+                "google_asr_results": "原來就把它當作一個調整食物的",
+                "labels": "邱國正:這個員額就把他當作一個調整職務的",
+                "asr_recognition_time": 0.6971244812011719,
+                "google_recognition_time": 1.1935172080993652,
+                "speaker_recognition_time": 0.12347888946533203
+        },
+        {
+                "start_time": 433.770615,
+                "end_time": 439.624583,
+                "MASR_results": "呂玉玲:的存所以本書長你還是一樣說不要去激勵跟行政院爭取呃補先這個啊",
+                "google_asr_results": "所以在這邊吃的你還是一樣說不要去吃力的行政爭取",
+                "labels": "邱國正,呂玉玲:所以在原來所以的編制裡面部長你還是一樣說不要去極力跟行政院爭取呃不不不是這樣新增員額",
+                "asr_recognition_time": 1.9751546382904053,
+                "google_recognition_time": 2.305616855621338,
+                "speaker_recognition_time": 0.28233838081359863
+        },
+        {
+                "start_time": 439.68468600000006,
+                "end_time": 445.514613,
+                "MASR_results": "邱國正:來他在你內部的做調整嗎或是因為要調整的話對臺幣要有個源頭嗎",
+                "google_asr_results": "在你那不得做調整嗎調整的話對他的源頭嗎",
+                "labels": "呂玉玲:反而在你內部的做調整嗎不是因為要調整的話對不對他一定要有個源頭嘛",
+                "asr_recognition_time": 2.030665397644043,
+                "google_recognition_time": 1.2092409133911133,
+                "speaker_recognition_time": 0.23951959609985352
+        },
+        {
+                "start_time": 445.6107769999999,
+                "end_time": 446.674588,
+                "MASR_results": "邱國正:一個案子起來",
+                "google_asr_results": "你按了起來",
+                "labels": "邱國正:這案子起來",
+                "asr_recognition_time": 0.40794992446899414,
+                "google_recognition_time": 1.661301851272583,
+                "speaker_recognition_time": 0.038593292236328125
+        },
+        {
+                "start_time": 446.72267,
+                "end_time": 449.661674,
+                "MASR_results": "邱國正:我從哪裡可以來調這不能隨便亂抓",
+                "google_asr_results": "我從哪裡可以來調就不能隨便亂抓",
+                "labels": "邱國正:我從哪裡可以來調就不能隨便亂抓",
+                "asr_recognition_time": 0.6853961944580078,
+                "google_recognition_time": 0.5326759815216064,
+                "speaker_recognition_time": 0.12345314025878906
+        },
+        {
+                "start_time": 449.867752,
+                "end_time": 452.87715,
+                "MASR_results": "邱國正:但不能講說一月七個愛國就新增縣人",
+                "google_asr_results": "apa期刊我就心生解任",
+                "labels": "邱國正,呂玉玲:但也不能講說因為旗桿是我就新增一些人",
+                "asr_recognition_time": 0.9311563968658447,
+                "google_recognition_time": 1.820030927658081,
+                "speaker_recognition_time": 0.09831118583679199
+        },
+        {
+                "start_time": 452.937252,
+                "end_time": 458.7171780000001,
+                "MASR_results": "呂玉玲:所以本席有告訴你的好你說原來你就有已經有我們調控好有兩千多名人額了",
+                "google_asr_results": "所以本校告訴你啦你說有2000多1元了",
+                "labels": "呂玉玲,邱國正:所以本席就告訴你了好這要孰從來改良你說原來已經有已經有什麼調控好有兩千多名員額了",
+                "asr_recognition_time": 2.0955379009246826,
+                "google_recognition_time": 1.9660651683807373,
+                "speaker_recognition_time": 0.19978880882263184
+        },
+        {
+                "start_time": 458.776972,
+                "end_time": 460.543,
+                "MASR_results": "呂玉玲:所以你可以再進來調控過來",
+                "google_asr_results": "所以你可以再去把調空過來",
+                "labels": "呂玉玲:所以你可以再去把他調控過來",
+                "asr_recognition_time": 0.45342040061950684,
+                "google_recognition_time": 0.825294017791748,
+                "speaker_recognition_time": 0.056693077087402344
+        },
+        {
+                "start_time": 460.857783,
+                "end_time": 463.615,
+                "MASR_results": "呂玉玲:兩千跟三千的距離還是有一千啦",
+                "google_asr_results": "2000個最近的距離還是有1000啊",
+                "labels": "呂玉玲:兩千跟三千的距離還是有一千哪",
+                "asr_recognition_time": 0.6058459281921387,
+                "google_recognition_time": 0.6127398014068604,
+                "speaker_recognition_time": 0.11696624755859375
+        },
+        {
+                "start_time": 463.775702,
+                "end_time": 465.264558,
+                "MASR_results": "呂玉玲:所以你在這邊調整",
+                "google_asr_results": "你在這邊調整",
+                "labels": "呂玉玲:所以你在這邊調整",
+                "asr_recognition_time": 0.49824953079223633,
+                "google_recognition_time": 0.33681607246398926,
+                "speaker_recognition_time": 0.05126810073852539
+        },
+        {
+                "start_time": 465.407,
+                "end_time": 466.867021,
+                "MASR_results": "呂玉玲:那我舉例說陸軍",
+                "google_asr_results": "那我給你說陸軍",
+                "labels": "呂玉玲:那我舉例說陸軍",
+                "asr_recognition_time": 0.45890235900878906,
+                "google_recognition_time": 0.5890510082244873,
+                "speaker_recognition_time": 0.05881452560424805
+        },
+        {
+                "start_time": 466.962691,
+                "end_time": 468.15258,
+                "MASR_results": "呂玉玲:現在你全部屬",
+                "google_asr_results": "現在你全倒數",
+                "labels": "呂玉玲:現在你全動屬",
+                "asr_recognition_time": 0.2683231830596924,
+                "google_recognition_time": 0.38993024826049805,
+                "speaker_recognition_time": 0.057004451751708984
+        },
+        {
+                "start_time": 469.145151,
+                "end_time": 471.551,
+                "MASR_results": "呂玉玲:調整過來這五個旅都是屬於陸軍",
+                "google_asr_results": "調整過來的五個裡都是屬於杜俊",
+                "labels": "呂玉玲:調整過來這五個旅都是屬於陸軍",
+                "asr_recognition_time": 0.6097276210784912,
+                "google_recognition_time": 0.5014071464538574,
+                "speaker_recognition_time": 0.07476568222045898
+        },
+        {
+                "start_time": 471.716268,
+                "end_time": 473.647595,
+                "MASR_results": "廖婉汝:那未來的呃五十六推的話",
+                "google_asr_results": "那未來的f-16v",
+                "labels": "呂玉玲:那未來的F十六V的話",
+                "asr_recognition_time": 0.4406392574310303,
+                "google_recognition_time": 0.5044224262237549,
+                "speaker_recognition_time": 0.0818946361541748
+        },
+        {
+                "start_time": 473.701409,
+                "end_time": 475.034803,
+                "MASR_results": "呂玉玲:在東部的基地",
+                "google_asr_results": "在東部的基地",
+                "labels": "呂玉玲:在東部的基地",
+                "asr_recognition_time": 0.26287364959716797,
+                "google_recognition_time": 0.42185306549072266,
+                "speaker_recognition_time": 0.07834458351135254
+        },
+        {
+                "start_time": 475.135,
+                "end_time": 476.200774,
+                "MASR_results": "呂玉玲:也要增加一個",
+                "google_asr_results": "你要增加一個",
+                "labels": "呂玉玲:也要增加一個",
+                "asr_recognition_time": 0.39469099044799805,
+                "google_recognition_time": 0.376986026763916,
+                "speaker_recognition_time": 0.06080126762390137
+        },
+        {
+                "start_time": 476.248609,
+                "end_time": 476.978089,
+                "MASR_results": "廖婉汝:一個年對",
+                "google_asr_results": "一個聯隊",
+                "labels": "呂玉玲:一個連隊",
+                "asr_recognition_time": 0.3041958808898926,
+                "google_recognition_time": 0.3082594871520996,
+                "speaker_recognition_time": 0.03112936019897461
+        },
+        {
+                "start_time": 477.414581,
+                "end_time": 479.070858,
+                "MASR_results": "呂玉玲:那未來潛艦要增加",
+                "google_asr_results": "為了錢夾真假",
+                "labels": "呂玉玲:那未來潛艦也要增加",
+                "asr_recognition_time": 0.4940042495727539,
+                "google_recognition_time": 0.44722986221313477,
+                "speaker_recognition_time": 0.08632302284240723
+        },
+        {
+                "start_time": 479.220342,
+                "end_time": 479.650855,
+                "MASR_results": "廖婉汝:所以",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:所以",
+                "asr_recognition_time": 0.2607758045196533,
+                "google_recognition_time": 0.22241783142089844,
+                "speaker_recognition_time": 0.043410301208496094
+        },
+        {
+                "start_time": 480.12322300000005,
+                "end_time": 481.791,
+                "MASR_results": "呂玉玲:部長我要請問一下",
+                "google_asr_results": "不懂我要請問一下",
+                "labels": "呂玉玲:部長我想請問一下",
+                "asr_recognition_time": 0.5192148685455322,
+                "google_recognition_time": 0.4230685234069824,
+                "speaker_recognition_time": 0.09645414352416992
+        },
+        {
+                "start_time": 481.970839,
+                "end_time": 483.973919,
+                "MASR_results": "呂玉玲:像這個權鬥所的成立",
+                "google_asr_results": "像這個全倒數的成立",
+                "labels": "呂玉玲:像這個全動屬的成立",
+                "asr_recognition_time": 0.42031407356262207,
+                "google_recognition_time": 0.6068379878997803,
+                "speaker_recognition_time": 0.06978893280029297
+        },
+        {
+                "start_time": 484.302783,
+                "end_time": 485.283395,
+                "MASR_results": "呂玉玲:呃這個是",
+                "google_asr_results": "這個是",
+                "labels": "呂玉玲:呃這個是",
+                "asr_recognition_time": 0.34786558151245117,
+                "google_recognition_time": 0.2603325843811035,
+                "speaker_recognition_time": 0.0640873908996582
+        },
+        {
+                "start_time": 485.522568,
+                "end_time": 486.59885,
+                "MASR_results": "呂玉玲:原部長",
+                "google_asr_results": "鹽部長",
+                "labels": "呂玉玲:嚴部長",
+                "asr_recognition_time": 0.175506591796875,
+                "google_recognition_time": 0.3608708381652832,
+                "speaker_recognition_time": 0.040754079818725586
+        },
+        {
+                "start_time": 486.86792,
+                "end_time": 489.576562,
+                "MASR_results": "呂玉玲:他當時的一個做一個任務的一個政策",
+                "google_asr_results": "他當時的一個這個任務的業政策",
+                "labels": "呂玉玲:他當時的一個最後一個任務的一個政策",
+                "asr_recognition_time": 0.9208011627197266,
+                "google_recognition_time": 0.9700298309326172,
+                "speaker_recognition_time": 0.08539938926696777
+        },
+        {
+                "start_time": 490.365835,
+                "end_time": 491.603559,
+                "MASR_results": "呂玉玲:還是說你現在",
+                "google_asr_results": "還是說你現在",
+                "labels": "呂玉玲:還是說你現在",
+                "asr_recognition_time": 0.41875600814819336,
+                "google_recognition_time": 0.440230131149292,
+                "speaker_recognition_time": 0.07086467742919922
+        },
+        {
+                "start_time": 491.95634,
+                "end_time": 495.755529,
+                "MASR_results": "呂玉玲:你對於這個會不會這個重點你有自己的想法",
+                "google_asr_results": "你這個會被這個洞扁你有自己的想法",
+                "labels": "呂玉玲:你對於這個後備這個動員你有自己的想法",
+                "asr_recognition_time": 1.1299364566802979,
+                "google_recognition_time": 1.8080377578735352,
+                "speaker_recognition_time": 0.15616393089294434
+        },
+        {
+                "start_time": 496.5185780000001,
+                "end_time": 504.285744,
+                "MASR_results": "邱國正:呃教委我說與消法但原來的政治退還在呃我要延續到因為部長想百位你這些有新的想法我要延續",
+                "google_asr_results": "家有自己想法在原來的政策推著小白",
+                "labels": "邱國正,呂玉玲:呃加有自己想法但原來的政策推動我要我要延續你還是要自會延續到嚴部長的想法我要延續還是你自己有新的想法不我要延續",
+                "asr_recognition_time": 3.162510395050049,
+                "google_recognition_time": 1.353485345840454,
+                "speaker_recognition_time": 0.4361579418182373
+        },
+        {
+                "start_time": 504.381413,
+                "end_time": 509.487771,
+                "MASR_results": "邱國正:那影響我會因為他有一個時間點譬如說明年做一個實驗組的",
+                "google_asr_results": "你要養我會説他有一個時間點就在明年做一個實驗啦",
+                "labels": "呂玉玲,邱國正:你要延續但我會因為他有一個時間點譬如說欸明年做一個實驗什麼",
+                "asr_recognition_time": 1.7329764366149902,
+                "google_recognition_time": 1.4003307819366455,
+                "speaker_recognition_time": 0.22596025466918945
+        },
+        {
+                "start_time": 509.762821,
+                "end_time": 512.8660990000001,
+                "MASR_results": "邱國正:我們講實驗當中我要立處在十年之前",
+                "google_asr_results": "我要實驗當中我要的樹下16之前",
+                "labels": "邱國正:我們在實驗當中我要力促在實驗之前",
+                "asr_recognition_time": 0.9194769859313965,
+                "google_recognition_time": 1.4761254787445068,
+                "speaker_recognition_time": 0.11620306968688965
+        },
+        {
+                "start_time": 513.023,
+                "end_time": 516.6689610000001,
+                "MASR_results": "邱國正:我們厲處這個案子能夠成功的去實驗",
+                "google_asr_results": "我立處這個案子能夠成功的去實驗",
+                "labels": "邱國正:我要力促這個案子能夠成功的去實驗",
+                "asr_recognition_time": 0.9244496822357178,
+                "google_recognition_time": 1.2133657932281494,
+                "speaker_recognition_time": 0.1358330249786377
+        },
+        {
+                "start_time": 516.908134,
+                "end_time": 519.3237889999999,
+                "MASR_results": "邱國正:但實驗當中我們很客觀了",
+                "google_asr_results": "要10元東週網路很客觀了",
+                "labels": "邱國正:但實驗當中我們會很客觀的",
+                "asr_recognition_time": 0.6852779388427734,
+                "google_recognition_time": 0.9183063507080078,
+                "speaker_recognition_time": 0.0961461067199707
+        },
+        {
+                "start_time": 519.423,
+                "end_time": 520.244607,
+                "MASR_results": "邱國正:來評估",
+                "google_asr_results": "大蘋果",
+                "labels": "邱國正:來評估",
+                "asr_recognition_time": 0.16846203804016113,
+                "google_recognition_time": 0.5277743339538574,
+                "speaker_recognition_time": 0.0358431339263916
+        },
+        {
+                "start_time": 520.370173,
+                "end_time": 523.6707700000001,
+                "MASR_results": "邱國正:哪一方面要強化哪個要欸要做自調整",
+                "google_asr_results": "哪一方沒有強化嗎",
+                "labels": "邱國正,呂玉玲:哪一方面要強化哪邊要欸要做一個調整是",
+                "asr_recognition_time": 0.7873902320861816,
+                "google_recognition_time": 1.0722973346710205,
+                "speaker_recognition_time": 0.13764166831970215
+        },
+        {
+                "start_time": 523.85613,
+                "end_time": 526.40333,
+                "MASR_results": "呂玉玲:做我一定欸我我想我要提醒你齁",
+                "google_asr_results": "設定提醒",
+                "labels": "邱國正,呂玉玲:這我一定要做的所以部長我也要提醒你喔",
+                "asr_recognition_time": 0.946800708770752,
+                "google_recognition_time": 0.5487065315246582,
+                "speaker_recognition_time": 0.09918451309204102
+        },
+        {
+                "start_time": 526.433226,
+                "end_time": 528.938571,
+                "MASR_results": "呂玉玲:因為在前參謀總長這個",
+                "google_asr_results": "水位在前參謀總長這個",
+                "labels": "邱國正,呂玉玲:是因為在前參謀總長這個",
+                "asr_recognition_time": 0.66933274269104,
+                "google_recognition_time": 0.6735587120056152,
+                "speaker_recognition_time": 0.11228775978088379
+        },
+        {
+                "start_time": 529.016302,
+                "end_time": 530.463303,
+                "MASR_results": "呂玉玲:您李喜明這個",
+                "google_asr_results": "李錦明這個",
+                "labels": "呂玉玲:李李喜明這個",
+                "asr_recognition_time": 0.3465006351470947,
+                "google_recognition_time": 0.6593852043151855,
+                "speaker_recognition_time": 0.04959368705749512
+        },
+        {
+                "start_time": 530.523096,
+                "end_time": 531.5874190000001,
+                "MASR_results": "呂玉玲:參謀總長喔",
+                "google_asr_results": "參謀總長喔",
+                "labels": "呂玉玲:參謀總長喔",
+                "asr_recognition_time": 0.24223661422729492,
+                "google_recognition_time": 0.4129517078399658,
+                "speaker_recognition_time": 0.07169127464294434
+        },
+        {
+                "start_time": 531.711,
+                "end_time": 534.343896,
+                "MASR_results": "呂玉玲:他原來他對國防部的後備動別",
+                "google_asr_results": "原來他對國防部的後備動點",
+                "labels": "呂玉玲:他原來他對國防部的後備動員",
+                "asr_recognition_time": 0.5651841163635254,
+                "google_recognition_time": 1.1282329559326172,
+                "speaker_recognition_time": 0.11522507667541504
+        },
+        {
+                "start_time": 534.445544,
+                "end_time": 536.3230580000001,
+                "MASR_results": "呂玉玲:他也是有改革的方式",
+                "google_asr_results": "他也是有改革的方式",
+                "labels": "呂玉玲:他也是有改革的方式",
+                "asr_recognition_time": 0.5428037643432617,
+                "google_recognition_time": 0.40442991256713867,
+                "speaker_recognition_time": 0.06614971160888672
+        },
+        {
+                "start_time": 536.418727,
+                "end_time": 537.6504719999999,
+                "MASR_results": "呂玉玲:他也說過要",
+                "google_asr_results": "他有說過要",
+                "labels": "呂玉玲:他有說過要",
+                "asr_recognition_time": 0.37323522567749023,
+                "google_recognition_time": 0.38344359397888184,
+                "speaker_recognition_time": 0.04805874824523926
+        },
+        {
+                "start_time": 537.722224,
+                "end_time": 539.527985,
+                "MASR_results": "呂玉玲:國土防衛部隊喔",
+                "google_asr_results": "國土防衛部隊喔",
+                "labels": "呂玉玲:國土防衛部隊喔",
+                "asr_recognition_time": 0.4685523509979248,
+                "google_recognition_time": 0.3121614456176758,
+                "speaker_recognition_time": 0.10062789916992188
+        },
+        {
+                "start_time": 539.797056,
+                "end_time": 541.5071469999999,
+                "MASR_results": "呂玉玲:推動全民皆兵",
+                "google_asr_results": "推動全民皆兵",
+                "labels": "呂玉玲:推動全民皆兵",
+                "asr_recognition_time": 0.26468682289123535,
+                "google_recognition_time": 0.6689705848693848,
+                "speaker_recognition_time": 0.06375408172607422
+        },
+        {
+                "start_time": 541.695,
+                "end_time": 542.6193049999999,
+                "MASR_results": "呂玉玲:你會不會有",
+                "google_asr_results": "你會不會有",
+                "labels": "呂玉玲:你會不會有",
+                "asr_recognition_time": 0.3491976261138916,
+                "google_recognition_time": 0.23773574829101562,
+                "speaker_recognition_time": 0.0410001277923584
+        },
+        {
+                "start_time": 542.75085,
+                "end_time": 543.8689870000001,
+                "MASR_results": "呂玉玲:被他這種想法",
+                "google_asr_results": "他這種想法",
+                "labels": "呂玉玲:被他這種想法",
+                "asr_recognition_time": 0.42125916481018066,
+                "google_recognition_time": 0.5181553363800049,
+                "speaker_recognition_time": 0.04955291748046875
+        },
+        {
+                "start_time": 543.999,
+                "end_time": 544.658261,
+                "MASR_results": "呂玉玲:也會",
+                "google_asr_results": "只會",
+                "labels": "呂玉玲:也會",
+                "asr_recognition_time": 0.2696835994720459,
+                "google_recognition_time": 0.3397207260131836,
+                "speaker_recognition_time": 0.027971744537353516
+        },
+        {
+                "start_time": 544.718054,
+                "end_time": 546.458043,
+                "MASR_results": "呂玉玲:來列入考慮去做改革呢",
+                "google_asr_results": "百列入考慮去做改革呢",
+                "labels": "呂玉玲:來列入考慮去做改革呢",
+                "asr_recognition_time": 0.5369200706481934,
+                "google_recognition_time": 0.37320685386657715,
+                "speaker_recognition_time": 0.06613755226135254
+        },
+        {
+                "start_time": 546.577629,
+                "end_time": 549.178643,
+                "MASR_results": "邱國正:所有全民皆兵又一旦動員的話",
+                "google_asr_results": "所有全民皆兵有一戰動員的話",
+                "labels": "邱國正:所謂全民皆兵就一旦動員的話",
+                "asr_recognition_time": 0.7513484954833984,
+                "google_recognition_time": 0.7292532920837402,
+                "speaker_recognition_time": 0.10924553871154785
+        },
+        {
+                "start_time": 549.631,
+                "end_time": 551.4388339999999,
+                "MASR_results": "邱國正:他不就是全民皆兵的嘛",
+                "google_asr_results": "w全名結冰了嗎",
+                "labels": "邱國正:那不就全民皆兵了嗎",
+                "asr_recognition_time": 0.5832006931304932,
+                "google_recognition_time": 0.4137260913848877,
+                "speaker_recognition_time": 0.1046900749206543
+        },
+        {
+                "start_time": 551.6122349999999,
+                "end_time": 554.2012900000001,
+                "MASR_results": "邱國正:但假如說要之前要講這些兵",
+                "google_asr_results": "但小狗要吃前要養結冰",
+                "labels": "邱國正:但假如說要之前要養這些兵",
+                "asr_recognition_time": 0.7233521938323975,
+                "google_recognition_time": 0.865642786026001,
+                "speaker_recognition_time": 0.08347845077514648
+        },
+        {
+                "start_time": 554.495,
+                "end_time": 555.594477,
+                "MASR_results": "邱國正:那我覺得講說",
+                "google_asr_results": "宙斯小說",
+                "labels": "邱國正:那我覺得講說",
+                "asr_recognition_time": 0.40379762649536133,
+                "google_recognition_time": 0.6037559509277344,
+                "speaker_recognition_time": 0.043819427490234375
+        },
+        {
+                "start_time": 555.672208,
+                "end_time": 556.799,
+                "MASR_results": "邱國正:的一把一個",
+                "google_asr_results": "可以把一個",
+                "labels": "邱國正:等於把一個",
+                "asr_recognition_time": 0.41731882095336914,
+                "google_recognition_time": 0.560837984085083,
+                "speaker_recognition_time": 0.0518796443939209
+        },
+        {
+                "start_time": 556.939829,
+                "end_time": 560.067025,
+                "MASR_results": "邱國正:期望放在一個還不可見到結果的",
+                "google_asr_results": "希望放在一個還不可見好結果的",
+                "labels": "邱國正:期望放在一個還不可見到結果的",
+                "asr_recognition_time": 0.8634867668151855,
+                "google_recognition_time": 0.8137719631195068,
+                "speaker_recognition_time": 0.1335461139678955
+        },
+        {
+                "start_time": 560.240426,
+                "end_time": 563.828031,
+                "MASR_results": "邱國正:這上面的話是我不能講浪費但最起碼",
+                "google_asr_results": "上面的話我們講費但最起碼",
+                "labels": "邱國正,呂玉玲:這上面的話是我不能講浪費但最起碼",
+                "asr_recognition_time": 1.001401662826538,
+                "google_recognition_time": 1.4610700607299805,
+                "speaker_recognition_time": 0.15139079093933105
+        },
+        {
+                "start_time": 564.085143,
+                "end_time": 565.633792,
+                "MASR_results": "邱國正:會熱來爭議的",
+                "google_asr_results": "櫃子而來生意的",
+                "labels": "邱國正:會惹來爭議的",
+                "asr_recognition_time": 0.44616103172302246,
+                "google_recognition_time": 0.5789809226989746,
+                "speaker_recognition_time": 0.05814409255981445
+        },
+        {
+                "start_time": 565.9387389999999,
+                "end_time": 569.29315,
+                "MASR_results": "邱國正:所以前他們在討論講欸是在家庭服務在如果",
+                "google_asr_results": "與前男友討論想要在家樂福要再出來",
+                "labels": "邱國正:所以以前咱們在討論一下欸是不是要家裡面服役在如何",
+                "asr_recognition_time": 1.1081814765930176,
+                "google_recognition_time": 2.0382649898529053,
+                "speaker_recognition_time": 0.14084148406982422
+        },
+        {
+                "start_time": 569.454592,
+                "end_time": 573.0302379999999,
+                "MASR_results": "邱國正:我們都不與智慧的連下也有不是很瞭解他們的",
+                "google_asr_results": "我們都不予智慧名字啊又不是很了解他們的",
+                "labels": "邱國正:我們都不予置喙的原因在哪因為我不是很了解他們的",
+                "asr_recognition_time": 1.12288236618042,
+                "google_recognition_time": 1.724076747894287,
+                "speaker_recognition_time": 0.12080502510070801
+        },
+        {
+                "start_time": 573.167763,
+                "end_time": 574.979504,
+                "MASR_results": "邱國正:期喔這個期望是什麼",
+                "google_asr_results": "12期望什麼",
+                "labels": "邱國正:期呃這個期望是什麼",
+                "asr_recognition_time": 0.5585472583770752,
+                "google_recognition_time": 0.6055524349212646,
+                "speaker_recognition_time": 0.09711861610412598
+        },
+        {
+                "start_time": 575.231,
+                "end_time": 576.581967,
+                "MASR_results": "邱國正:我也找人",
+                "google_asr_results": "我也找人",
+                "labels": "邱國正:我也找人",
+                "asr_recognition_time": 0.4332914352416992,
+                "google_recognition_time": 0.35373353958129883,
+                "speaker_recognition_time": 0.054082393646240234
+        },
+        {
+                "start_time": 576.605885,
+                "end_time": 577.37722,
+                "MASR_results": "邱國正:不是啊",
+                "google_asr_results": "對啊",
+                "labels": "邱國正:這個欸",
+                "asr_recognition_time": 0.1755962371826172,
+                "google_recognition_time": 0.3589446544647217,
+                "speaker_recognition_time": 0.030214786529541016
+        },
+        {
+                "start_time": 577.508765,
+                "end_time": 579.28463,
+                "MASR_results": "邱國正:他去跟以前老",
+                "google_asr_results": "去跟你學院喔",
+                "labels": "邱國正:他會去跟以前老",
+                "asr_recognition_time": 0.496396541595459,
+                "google_recognition_time": 0.7633376121520996,
+                "speaker_recognition_time": 0.06651830673217773
+        },
+        {
+                "start_time": 579.434113,
+                "end_time": 585.120468,
+                "MASR_results": "呂玉玲:總統啊我是含主任在這方面還有力在做了好對但是因為現在是怎麼邱部長",
+                "google_asr_results": "熊爪子涵主任在這方面現在做了",
+                "labels": "邱國正,呂玉玲:總長啊我我知道韓主任在這方面討論一下欸已經很努力在做了喔對對對討論看一下是怎麼回事但是因為現在是邱部長",
+                "asr_recognition_time": 2.128140449523926,
+                "google_recognition_time": 2.11643385887146,
+                "speaker_recognition_time": 0.2499713897705078
+        },
+        {
+                "start_time": 585.533042,
+                "end_time": 588.265602,
+                "MASR_results": "呂玉玲:我希望你自己有這個最中心的一個價值",
+                "google_asr_results": "我希望你自己有這個最真心的一個價值",
+                "labels": "邱國正,呂玉玲:是我希望你自己有這個最中心的一個價值",
+                "asr_recognition_time": 0.7040939331054688,
+                "google_recognition_time": 0.6164565086364746,
+                "speaker_recognition_time": 0.12273263931274414
+        },
+        {
+                "start_time": 588.5825070000001,
+                "end_time": 590.149094,
+                "MASR_results": "呂玉玲:好不管是原部長",
+                "google_asr_results": "不管這個顏部長",
+                "labels": "呂玉玲:齁不管是嚴部長",
+                "asr_recognition_time": 0.29369091987609863,
+                "google_recognition_time": 0.6429386138916016,
+                "speaker_recognition_time": 0.06858396530151367
+        },
+        {
+                "start_time": 590.322495,
+                "end_time": 592.935468,
+                "MASR_results": "呂玉玲:或者是這個李喜明前參謀總長",
+                "google_asr_results": "或者是這個利息錢超模總長",
+                "labels": "呂玉玲:或者是這個李喜明前參謀總長",
+                "asr_recognition_time": 0.539863109588623,
+                "google_recognition_time": 0.7156050205230713,
+                "speaker_recognition_time": 0.11559200286865234
+        },
+        {
+                "start_time": 593.168662,
+                "end_time": 594.5319519999999,
+                "MASR_results": "呂玉玲:他們的一些意見",
+                "google_asr_results": "他們的一些意見",
+                "labels": "呂玉玲:他們的一些意見",
+                "asr_recognition_time": 0.4148275852203369,
+                "google_recognition_time": 0.39218616485595703,
+                "speaker_recognition_time": 0.04880833625793457
+        },
+        {
+                "start_time": 594.866795,
+                "end_time": 596.223,
+                "MASR_results": "呂玉玲:但是我們最重要的",
+                "google_asr_results": "但是我們最重要的",
+                "labels": "呂玉玲:但是我們最重要的",
+                "asr_recognition_time": 0.43719935417175293,
+                "google_recognition_time": 0.4555666446685791,
+                "speaker_recognition_time": 0.05874824523925781
+        },
+        {
+                "start_time": 596.499155,
+                "end_time": 598.6816150000001,
+                "MASR_results": "呂玉玲:就是做好萬前的準備",
+                "google_asr_results": "就是做好萬全的準備",
+                "labels": "呂玉玲:就是做好萬全的準備",
+                "asr_recognition_time": 0.38927531242370605,
+                "google_recognition_time": 0.31536316871643066,
+                "speaker_recognition_time": 0.1052083969116211
+        },
+        {
+                "start_time": 599.0164580000001,
+                "end_time": 600.421604,
+                "MASR_results": "呂玉玲:不管是我們的武器",
+                "google_asr_results": "不管是我們的武器",
+                "labels": "呂玉玲:不管是我們的武器",
+                "asr_recognition_time": 0.4456913471221924,
+                "google_recognition_time": 0.30324292182922363,
+                "speaker_recognition_time": 0.06307482719421387
+        },
+        {
+                "start_time": 600.575,
+                "end_time": 602.604064,
+                "MASR_results": "呂玉玲:更加更加的先進跟盡量",
+                "google_asr_results": "更加的先進跟精良",
+                "labels": "呂玉玲:更更加的先進跟精良",
+                "asr_recognition_time": 0.39830517768859863,
+                "google_recognition_time": 0.49376916885375977,
+                "speaker_recognition_time": 0.09475398063659668
+        },
+        {
+                "start_time": 602.747568,
+                "end_time": 604.5234320000001,
+                "MASR_results": "呂玉玲:我們所有軍中的所有",
+                "google_asr_results": "我們所有軍中的所有",
+                "labels": "呂玉玲:我們所有的軍中的所有",
+                "asr_recognition_time": 0.5316166877746582,
+                "google_recognition_time": 0.3778989315032959,
+                "speaker_recognition_time": 0.0601654052734375
+        },
+        {
+                "start_time": 604.595185,
+                "end_time": 606.747748,
+                "MASR_results": "呂玉玲:我們的軍士官兵的這個士氣",
+                "google_asr_results": "我們的軍士官比的這個世紀",
+                "labels": "呂玉玲:我們的軍士官兵的這個士氣",
+                "asr_recognition_time": 0.4682619571685791,
+                "google_recognition_time": 0.48077893257141113,
+                "speaker_recognition_time": 0.06951403617858887
+        },
+        {
+                "start_time": 606.843417,
+                "end_time": 607.620732,
+                "MASR_results": "呂玉玲:跟紀律",
+                "google_asr_results": "紀律",
+                "labels": "呂玉玲:跟紀律",
+                "asr_recognition_time": 0.1604762077331543,
+                "google_recognition_time": 0.43645453453063965,
+                "speaker_recognition_time": 0.03076004981994629
+        },
+        {
+                "start_time": 607.7522769999999,
+                "end_time": 610.263601,
+                "MASR_results": "呂玉玲:你也要好好的照顧所以我希望說",
+                "google_asr_results": "你也要好好的照顧所以我希望",
+                "labels": "呂玉玲,邱國正:你也要好好的照顧這一定所以我希望說",
+                "asr_recognition_time": 0.7528059482574463,
+                "google_recognition_time": 0.3690030574798584,
+                "speaker_recognition_time": 0.11229968070983887
+        },
+        {
+                "start_time": 610.317415,
+                "end_time": 611.525242,
+                "MASR_results": "呂玉玲:原來我們的",
+                "google_asr_results": "原來我們的",
+                "labels": "呂玉玲:原來我們的",
+                "asr_recognition_time": 0.3486328125,
+                "google_recognition_time": 0.2629261016845703,
+                "speaker_recognition_time": 0.05081367492675781
+        },
+        {
+                "start_time": 611.583,
+                "end_time": 613.839247,
+                "MASR_results": "呂玉玲:兵員就不是非常非常的衝突",
+                "google_asr_results": "1元就不是非常非常的充足",
+                "labels": "呂玉玲:兵員就不是非常非常的充足",
+                "asr_recognition_time": 0.48877811431884766,
+                "google_recognition_time": 0.5221333503723145,
+                "speaker_recognition_time": 0.07393884658813477
+        },
+        {
+                "start_time": 613.9109990000001,
+                "end_time": 616.0815,
+                "MASR_results": "呂玉玲:你們一個內部在做調整",
+                "google_asr_results": "人類不再做調整",
+                "labels": "呂玉玲:你們一直在內部在做調整",
+                "asr_recognition_time": 0.594083309173584,
+                "google_recognition_time": 0.6744999885559082,
+                "speaker_recognition_time": 0.10368800163269043
+        },
+        {
+                "start_time": 616.191,
+                "end_time": 618.772204,
+                "MASR_results": "呂玉玲:會影響所有這基本的我們的",
+                "google_asr_results": "影響所有最基本的我們的",
+                "labels": "呂玉玲:會影響所有最基本的我們的",
+                "asr_recognition_time": 0.752300500869751,
+                "google_recognition_time": 0.6196999549865723,
+                "speaker_recognition_time": 0.11272311210632324
+        },
+        {
+                "start_time": 618.8379769999999,
+                "end_time": 620.607862,
+                "MASR_results": "呂玉玲:呃的業務工作齁",
+                "google_asr_results": "業務工作",
+                "labels": "呂玉玲:呃的業務工作喔",
+                "asr_recognition_time": 0.48919224739074707,
+                "google_recognition_time": 0.48354458808898926,
+                "speaker_recognition_time": 0.05870389938354492
+        },
+        {
+                "start_time": 620.71549,
+                "end_time": 623.005578,
+                "MASR_results": "呂玉玲:所以我希望你能夠去行政院",
+                "google_asr_results": "所以我希望你能夠去行政院",
+                "labels": "呂玉玲:所以我希望你能夠去行政院",
+                "asr_recognition_time": 0.7325778007507324,
+                "google_recognition_time": 0.5840458869934082,
+                "speaker_recognition_time": 0.11085891723632812
+        },
+        {
+                "start_time": 623.065372,
+                "end_time": 624.9369059999999,
+                "MASR_results": "呂玉玲:申請用新增的方式",
+                "google_asr_results": "爭取用新增的方式",
+                "labels": "呂玉玲:爭取用新增的方式",
+                "asr_recognition_time": 0.35033369064331055,
+                "google_recognition_time": 0.5358891487121582,
+                "speaker_recognition_time": 0.08189916610717773
+        },
+        {
+                "start_time": 625.0026790000001,
+                "end_time": 626.324113,
+                "MASR_results": "廖婉汝:所以剛剛所舉例的",
+                "google_asr_results": "無法辨識",
+                "labels": "呂玉玲:所以我剛剛所舉例的",
+                "asr_recognition_time": 0.4754798412322998,
+                "google_recognition_time": 0.687889814376831,
+                "speaker_recognition_time": 0.05337214469909668
+        },
+        {
+                "start_time": 626.431741,
+                "end_time": 627.4960639999999,
+                "MASR_results": "呂玉玲:不管是空軍",
+                "google_asr_results": "空軍",
+                "labels": "呂玉玲:不管是空軍",
+                "asr_recognition_time": 0.337310791015625,
+                "google_recognition_time": 0.27957749366760254,
+                "speaker_recognition_time": 0.07255077362060547
+        },
+        {
+                "start_time": 627.5558580000001,
+                "end_time": 628.596263,
+                "MASR_results": "呂玉玲:不管是海軍",
+                "google_asr_results": "不管是海軍",
+                "labels": "呂玉玲:不管是海軍",
+                "asr_recognition_time": 0.36562299728393555,
+                "google_recognition_time": 0.2985665798187256,
+                "speaker_recognition_time": 0.07104659080505371
+        },
+        {
+                "start_time": 628.966982,
+                "end_time": 629.6486269999999,
+                "MASR_results": "呂玉玲:現在",
+                "google_asr_results": "現在",
+                "labels": "呂玉玲:現在",
+                "asr_recognition_time": 0.2686445713043213,
+                "google_recognition_time": 0.2147674560546875,
+                "speaker_recognition_time": 0.03742408752441406
+        },
+        {
+                "start_time": 629.89378,
+                "end_time": 631.526141,
+                "MASR_results": "呂玉玲:都有需要增加",
+                "google_asr_results": "都有需要增加",
+                "labels": "呂玉玲:都有需要增加",
+                "asr_recognition_time": 0.40552854537963867,
+                "google_recognition_time": 0.35108399391174316,
+                "speaker_recognition_time": 0.09073686599731445
+        },
+        {
+                "start_time": 631.7234589999999,
+                "end_time": 632.53665,
+                "MASR_results": "呂玉玲:這個邊緣",
+                "google_asr_results": "這個冰原",
+                "labels": "呂玉玲:這個兵員",
+                "asr_recognition_time": 0.202164888381958,
+                "google_recognition_time": 0.2807042598724365,
+                "speaker_recognition_time": 0.03781294822692871
+        },
+        {
+                "start_time": 632.831,
+                "end_time": 634.180969,
+                "MASR_results": "呂玉玲:包括我們下全倒數",
+                "google_asr_results": "我下全鬥數",
+                "labels": "呂玉玲:包括我們現在全動屬",
+                "asr_recognition_time": 0.46195244789123535,
+                "google_recognition_time": 0.4812147617340088,
+                "speaker_recognition_time": 0.05626344680786133
+        },
+        {
+                "start_time": 634.216845,
+                "end_time": 636.680334,
+                "MASR_results": "呂玉玲:要到三增加這個三千人齁",
+                "google_asr_results": "要到聖加這個3000元喔",
+                "labels": "呂玉玲:也要到三增加這個三千人喔",
+                "asr_recognition_time": 0.6858346462249756,
+                "google_recognition_time": 0.6524434089660645,
+                "speaker_recognition_time": 0.11372518539428711
+        },
+        {
+                "start_time": 636.793941,
+                "end_time": 638.862793,
+                "MASR_results": "呂玉玲:不是一直用內部調整",
+                "google_asr_results": "不是一直用內部調整",
+                "labels": "呂玉玲:不是一直用內部調整",
+                "asr_recognition_time": 0.5503051280975342,
+                "google_recognition_time": 0.43730688095092773,
+                "speaker_recognition_time": 0.0844259262084961
+        },
+        {
+                "start_time": 638.946504,
+                "end_time": 641.846088,
+                "MASR_results": "呂玉玲:可以解決的方案啦齁做所以大家才認為說",
+                "google_asr_results": "可以解決的方案大家才做作",
+                "labels": "呂玉玲,邱國正:可以解決的方案啦了解所以大家才認為說",
+                "asr_recognition_time": 0.9357397556304932,
+                "google_recognition_time": 0.7457354068756104,
+                "speaker_recognition_time": 0.12865924835205078
+        },
+        {
+                "start_time": 641.924216,
+                "end_time": 643.885441,
+                "MASR_results": "呂玉玲:我們每個地方都需要這些邊緣",
+                "google_asr_results": "我每個地方都設這些比耶",
+                "labels": "呂玉玲:我們每個地方都需要這些兵員",
+                "asr_recognition_time": 0.6370491981506348,
+                "google_recognition_time": 0.8722739219665527,
+                "speaker_recognition_time": 0.06983542442321777
+        },
+        {
+                "start_time": 643.945234,
+                "end_time": 644.961722,
+                "MASR_results": "呂玉玲:外就等於是",
+                "google_asr_results": "那就等於是",
+                "labels": "呂玉玲:那就等於是",
+                "asr_recognition_time": 0.3758716583251953,
+                "google_recognition_time": 0.3106544017791748,
+                "speaker_recognition_time": 0.04612541198730469
+        },
+        {
+                "start_time": 645.119,
+                "end_time": 647.0963469999999,
+                "MASR_results": "呂玉玲:擴大了這個邊緣的",
+                "google_asr_results": "擴大了這個冰原了",
+                "labels": "呂玉玲:擴大了這個兵員了",
+                "asr_recognition_time": 0.3453705310821533,
+                "google_recognition_time": 0.4980638027191162,
+                "speaker_recognition_time": 0.0624082088470459
+        },
+        {
+                "start_time": 647.604591,
+                "end_time": 650.062101,
+                "MASR_results": "邱國正:也是一個方式嘛對不對我要去欸",
+                "google_asr_results": "你這個方式嗎對不對",
+                "labels": "呂玉玲,邱國正:也是一個方式嘛對不對是我了解是",
+                "asr_recognition_time": 0.8081703186035156,
+                "google_recognition_time": 0.7782623767852783,
+                "speaker_recognition_time": 0.08193564414978027
+        },
+        {
+                "start_time": 650.4029230000001,
+                "end_time": 652.0651799999999,
+                "MASR_results": "呂玉玲:所以是個破冰的方式吧",
+                "google_asr_results": "這個擴冰的方式吧",
+                "labels": "邱國正:所以也是個擴兵的方式吧",
+                "asr_recognition_time": 0.5864791870117188,
+                "google_recognition_time": 0.6450142860412598,
+                "speaker_recognition_time": 0.062076568603515625
+        },
+        {
+                "start_time": 652.16085,
+                "end_time": 654.498773,
+                "MASR_results": "邱國正:是也這個方法欸這對我們都要",
+                "google_asr_results": "所以有時候方法",
+                "labels": "邱國正,呂玉玲:是也是個方法是欸所以我們都要",
+                "asr_recognition_time": 0.7232174873352051,
+                "google_recognition_time": 0.5774784088134766,
+                "speaker_recognition_time": 0.07800912857055664
+        },
+        {
+                "start_time": 654.5645450000001,
+                "end_time": 656.029484,
+                "MASR_results": "呂玉玲:把事情做好",
+                "google_asr_results": "把事情做好",
+                "labels": "呂玉玲:把事情做好",
+                "asr_recognition_time": 0.4015185832977295,
+                "google_recognition_time": 0.3686521053314209,
+                "speaker_recognition_time": 0.05833172798156738
+        },
+        {
+                "start_time": 656.1789679999999,
+                "end_time": 660.2090440000001,
+                "MASR_results": "呂玉玲:不要讓所有的這個我們的軍士官兵啦生間素質",
+                "google_asr_results": "不要所有的知道我們的軍士官兵身兼數職",
+                "labels": "邱國正,呂玉玲:是不要讓所有的這個我們的軍士官兵哪身兼數職",
+                "asr_recognition_time": 0.9912889003753662,
+                "google_recognition_time": 0.9972190856933594,
+                "speaker_recognition_time": 0.2118842601776123
+        },
+        {
+                "start_time": 660.914607,
+                "end_time": 661.554396,
+                "MASR_results": "廖婉汝:專業",
+                "google_asr_results": "專業",
+                "labels": "呂玉玲:專業",
+                "asr_recognition_time": 0.2420501708984375,
+                "google_recognition_time": 0.28116536140441895,
+                "speaker_recognition_time": 0.032926082611083984
+        },
+        {
+                "start_time": 661.715838,
+                "end_time": 663.402013,
+                "MASR_results": "呂玉玲:我們要用專業來執行",
+                "google_asr_results": "我們用專業來執行",
+                "labels": "呂玉玲:我們要用專業來執行",
+                "asr_recognition_time": 0.36396193504333496,
+                "google_recognition_time": 0.5027046203613281,
+                "speaker_recognition_time": 0.07027602195739746
+        },
+        {
+                "start_time": 663.599331,
+                "end_time": 664.7413849999999,
+                "MASR_results": "呂玉玲:好不好這個請",
+                "google_asr_results": "好不好色情",
+                "labels": "呂玉玲,邱國正:好不好這個請是",
+                "asr_recognition_time": 0.3987576961517334,
+                "google_recognition_time": 0.4216923713684082,
+                "speaker_recognition_time": 0.07116341590881348
+        },
+        {
+                "start_time": 665.0343730000001,
+                "end_time": 669.87764,
+                "MASR_results": "邱國正:部長要堅持你自己的理念不瞭解我好好謝謝要做事謝委員",
+                "google_asr_results": "要堅持你自己的裡面",
+                "labels": "呂玉玲,邱國正:部長要堅持你自己的理念了解我是好謝謝欸應該要做的是謝謝委員",
+                "asr_recognition_time": 1.5776865482330322,
+                "google_recognition_time": 1.0566976070404053,
+                "speaker_recognition_time": 0.19232773780822754
+        }
+]

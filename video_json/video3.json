@@ -1,0 +1,2296 @@
+[
+        {
+                "speech_accuracy": 80,
+                "speaker_accuracy": 97
+        },
+        {
+                "start_time": 0.132815,
+                "end_time": 2.551952,
+                "MASR_results": "曾銘宗:我先恭喜您擔任",
+                "google_asr_results": "先恭喜你擔任",
+                "labels": "曾銘宗:首先恭喜您擔任",
+                "asr_recognition_time": 0.36173248291015625,
+                "google_recognition_time": 0.41188740730285645,
+                "speaker_recognition_time": 0.13421916961669922
+        },
+        {
+                "start_time": 2.7274580000000004,
+                "end_time": 4.16471,
+                "MASR_results": "曾銘宗:這個重則大熱",
+                "google_asr_results": "這個重責大任",
+                "labels": "曾銘宗:這個重責大任",
+                "asr_recognition_time": 0.2558248043060303,
+                "google_recognition_time": 0.3018801212310791,
+                "speaker_recognition_time": 0.08062195777893066
+        },
+        {
+                "start_time": 5.032753,
+                "end_time": 6.707175,
+                "MASR_results": "曾銘宗:一個問題先跟你討教了",
+                "google_asr_results": "萬裡仙草架",
+                "labels": "曾銘宗:一個問題先跟你討教",
+                "asr_recognition_time": 0.5501232147216797,
+                "google_recognition_time": 0.3336212635040283,
+                "speaker_recognition_time": 0.0590519905090332
+        },
+        {
+                "start_time": 7.475607000000001,
+                "end_time": 9.771415,
+                "MASR_results": "曾銘宗:就是您今天的",
+                "google_asr_results": "就是你今天的",
+                "labels": "曾銘宗:就是您今天的",
+                "asr_recognition_time": 0.2888650894165039,
+                "google_recognition_time": 0.4186081886291504,
+                "speaker_recognition_time": 0.09750795364379883
+        },
+        {
+                "start_time": 9.87577,
+                "end_time": 14.012019,
+                "MASR_results": "曾銘宗:一百一十年度國防司政規劃裡面總共有九項",
+                "google_asr_results": "110年度國防施政規劃裡面總共有9項",
+                "labels": "曾銘宗:一百一十年度國防施政規劃裡面總共有九項",
+                "asr_recognition_time": 0.9159588813781738,
+                "google_recognition_time": 0.6167106628417969,
+                "speaker_recognition_time": 0.16954255104064941
+        },
+        {
+                "start_time": 14.087914,
+                "end_time": 16.64,
+                "MASR_results": "曾銘宗:呃包括掌握區域情勢",
+                "google_asr_results": "八卦掌握區域情勢",
+                "labels": "邱國正,曾銘宗:欸是包括掌握區域情勢",
+                "asr_recognition_time": 0.6008129119873047,
+                "google_recognition_time": 0.6953167915344238,
+                "speaker_recognition_time": 0.12000560760498047
+        },
+        {
+                "start_time": 16.744221,
+                "end_time": 18.688,
+                "MASR_results": "曾銘宗:應對敵情威脅",
+                "google_asr_results": "應對敵情威脅",
+                "labels": "曾銘宗:應對敵情威脅",
+                "asr_recognition_time": 0.4558982849121094,
+                "google_recognition_time": 0.38438963890075684,
+                "speaker_recognition_time": 0.09860992431640625
+        },
+        {
+                "start_time": 18.850293,
+                "end_time": 21.5066,
+                "MASR_results": "曾銘宗:第二個是堅持戰訓準備",
+                "google_asr_results": "第二個是堅實戰訓整備",
+                "labels": "曾銘宗:第二個是堅持戰訓整備",
+                "asr_recognition_time": 0.44342827796936035,
+                "google_recognition_time": 0.7747220993041992,
+                "speaker_recognition_time": 0.10428261756896973
+        },
+        {
+                "start_time": 21.848125,
+                "end_time": 26.221545000000003,
+                "MASR_results": "曾銘宗:展現防衛實力是他請教一就是你作為",
+                "google_asr_results": "展現防衛使命就是作為",
+                "labels": "曾銘宗,邱國正:展現防衛使命是我要請教就是你做為",
+                "asr_recognition_time": 1.0668303966522217,
+                "google_recognition_time": 0.6939523220062256,
+                "speaker_recognition_time": 0.19148945808410645
+        },
+        {
+                "start_time": 26.496662,
+                "end_time": 27.369449,
+                "MASR_results": "曾銘宗:國防部長",
+                "google_asr_results": "王部長",
+                "labels": "曾銘宗:國防部長",
+                "asr_recognition_time": 0.31011199951171875,
+                "google_recognition_time": 0.5001204013824463,
+                "speaker_recognition_time": 0.03768467903137207
+        },
+        {
+                "start_time": 27.904,
+                "end_time": 31.866197,
+                "MASR_results": "曾銘宗:你的施政願檢是什麼用句話來形容",
+                "google_asr_results": "你的施政願景是什麼用句話來形容",
+                "labels": "曾銘宗:您的施政願景是什麼用一句話來形容",
+                "asr_recognition_time": 0.9688949584960938,
+                "google_recognition_time": 1.1246113777160645,
+                "speaker_recognition_time": 0.15917563438415527
+        },
+        {
+                "start_time": 32.131828000000006,
+                "end_time": 33.108969,
+                "MASR_results": "邱國正:這一個",
+                "google_asr_results": "數位",
+                "labels": "邱國正:這個",
+                "asr_recognition_time": 0.3470602035522461,
+                "google_recognition_time": 0.6460494995117188,
+                "speaker_recognition_time": 0.07326698303222656
+        },
+        {
+                "start_time": 34.304,
+                "end_time": 36.154236,
+                "MASR_results": "邱國正:讓國軍能夠發揮",
+                "google_asr_results": "中國軍能夠發揮",
+                "labels": "邱國正:讓國軍能夠發揮",
+                "asr_recognition_time": 0.5092494487762451,
+                "google_recognition_time": 0.4617314338684082,
+                "speaker_recognition_time": 0.06327438354492188
+        },
+        {
+                "start_time": 36.306025,
+                "end_time": 39.341804,
+                "MASR_results": "邱國正:他最大的保家衛國的校門嘛",
+                "google_asr_results": "他去倒垃保家衛國的效能嗎",
+                "labels": "邱國正:他最大的保家衛國的效能嘛",
+                "asr_recognition_time": 0.7120320796966553,
+                "google_recognition_time": 0.9031233787536621,
+                "speaker_recognition_time": 0.10657787322998047
+        },
+        {
+                "start_time": 39.484106,
+                "end_time": 41.713507,
+                "MASR_results": "邱國正:這一定是這個期望喔",
+                "google_asr_results": "注意力著期望嗎",
+                "labels": "邱國正:這一定是這個期望喔",
+                "asr_recognition_time": 0.5710785388946533,
+                "google_recognition_time": 0.8612158298492432,
+                "speaker_recognition_time": 0.07445693016052246
+        },
+        {
+                "start_time": 41.984,
+                "end_time": 42.728596,
+                "MASR_results": "曾銘宗:好",
+                "google_asr_results": "好",
+                "labels": "曾銘宗:好",
+                "asr_recognition_time": 0.23144268989562988,
+                "google_recognition_time": 0.21431922912597656,
+                "speaker_recognition_time": 0.03569316864013672
+        },
+        {
+                "start_time": 43.022687,
+                "end_time": 44.284433,
+                "MASR_results": "曾銘宗:這個是",
+                "google_asr_results": "這個是",
+                "labels": "曾銘宗:這個是",
+                "asr_recognition_time": 0.3026421070098877,
+                "google_recognition_time": 0.3267378807067871,
+                "speaker_recognition_time": 0.06213736534118652
+        },
+        {
+                "start_time": 44.682879,
+                "end_time": 46.99766,
+                "MASR_results": "曾銘宗:您的時政願景",
+                "google_asr_results": "您的市政願景",
+                "labels": "曾銘宗:您的施政願景",
+                "asr_recognition_time": 0.2885096073150635,
+                "google_recognition_time": 0.7990033626556396,
+                "speaker_recognition_time": 0.08436369895935059
+        },
+        {
+                "start_time": 47.36,
+                "end_time": 51.968749,
+                "MASR_results": "曾銘宗:那你也知道接著你的願景要實現",
+                "google_asr_results": "那你也知道騎著你的願景要實現",
+                "labels": "曾銘宗:那你也知道接著你的願景要實現",
+                "asr_recognition_time": 0.7381727695465088,
+                "google_recognition_time": 1.0541481971740723,
+                "speaker_recognition_time": 0.1416780948638916
+        },
+        {
+                "start_time": 52.101565,
+                "end_time": 54.274044,
+                "MASR_results": "曾銘宗:很重要的是國防經會",
+                "google_asr_results": "很重要是國王金貴",
+                "labels": "曾銘宗:很重要的是國防經費",
+                "asr_recognition_time": 0.5722370147705078,
+                "google_recognition_time": 0.6403679847717285,
+                "speaker_recognition_time": 0.07087492942810059
+        },
+        {
+                "start_time": 54.919147,
+                "end_time": 56.133459,
+                "MASR_results": "曾銘宗:那你也知道",
+                "google_asr_results": "那你也知道",
+                "labels": "曾銘宗:那你也知道",
+                "asr_recognition_time": 0.37490391731262207,
+                "google_recognition_time": 0.35539746284484863,
+                "speaker_recognition_time": 0.045003414154052734
+        },
+        {
+                "start_time": 56.361143000000006,
+                "end_time": 57.660836,
+                "MASR_results": "曾銘宗:中國大陸啊",
+                "google_asr_results": "竹道路",
+                "labels": "曾銘宗:中國大陸",
+                "asr_recognition_time": 0.35968470573425293,
+                "google_recognition_time": 0.27785563468933105,
+                "speaker_recognition_time": 0.05290865898132324
+        },
+        {
+                "start_time": 58.368,
+                "end_time": 60.63020699999999,
+                "MASR_results": "曾銘宗:一百一十年的經會",
+                "google_asr_results": "110年的經費",
+                "labels": "曾銘宗:一百一十年的經費",
+                "asr_recognition_time": 0.5092918872833252,
+                "google_recognition_time": 0.34026646614074707,
+                "speaker_recognition_time": 0.09448504447937012
+        },
+        {
+                "start_time": 61.114035,
+                "end_time": 64.84235100000001,
+                "MASR_results": "曾銘宗:國防預算高達五點八兆",
+                "google_asr_results": "國防預算高達5.8兆",
+                "labels": "曾銘宗:國防預算高達五點八兆",
+                "asr_recognition_time": 0.5064699649810791,
+                "google_recognition_time": 0.44260120391845703,
+                "speaker_recognition_time": 0.15729093551635742
+        },
+        {
+                "start_time": 65.477968,
+                "end_time": 66.606898,
+                "MASR_results": "曾銘宗:元的臺幣",
+                "google_asr_results": "元的台幣",
+                "labels": "曾銘宗:元的台幣",
+                "asr_recognition_time": 0.1856522560119629,
+                "google_recognition_time": 0.3062868118286133,
+                "speaker_recognition_time": 0.05611109733581543
+        },
+        {
+                "start_time": 67.176107,
+                "end_time": 70.61981899999999,
+                "MASR_results": "曾銘宗:我們是三千六百六十三億",
+                "google_asr_results": "我們是366031",
+                "labels": "曾銘宗:我們是三千六百六十三億",
+                "asr_recognition_time": 0.7597208023071289,
+                "google_recognition_time": 0.38355565071105957,
+                "speaker_recognition_time": 0.14710116386413574
+        },
+        {
+                "start_time": 71.283896,
+                "end_time": 74.054045,
+                "MASR_results": "曾銘宗:是我們的十五點八倍啊",
+                "google_asr_results": "是我們的疏點8倍",
+                "labels": "曾銘宗:是我們的十五點八倍",
+                "asr_recognition_time": 0.6276659965515137,
+                "google_recognition_time": 0.4876217842102051,
+                "speaker_recognition_time": 0.11105108261108398
+        },
+        {
+                "start_time": 76.065248,
+                "end_time": 76.539589,
+                "MASR_results": "曾銘宗:部長",
+                "google_asr_results": "無法辨識",
+                "labels": "曾銘宗:部長",
+                "asr_recognition_time": 0.2598593235015869,
+                "google_recognition_time": 0.17912840843200684,
+                "speaker_recognition_time": 0.0235748291015625
+        },
+        {
+                "start_time": 77.421862,
+                "end_time": 79.717671,
+                "MASR_results": "曾銘宗:您認為我們現在國防經會",
+                "google_asr_results": "你認為我們現在國防經費",
+                "labels": "曾銘宗:你認為現在我們國防經費",
+                "asr_recognition_time": 0.6546046733856201,
+                "google_recognition_time": 0.663304328918457,
+                "speaker_recognition_time": 0.07847833633422852
+        },
+        {
+                "start_time": 80.324827,
+                "end_time": 83.815973,
+                "MASR_results": "曾銘宗:這樣的編列是機密批的二點四",
+                "google_asr_results": "將的冰類是GDP的2.4",
+                "labels": "曾銘宗:這樣的編列是GDP的二點四",
+                "asr_recognition_time": 0.7890334129333496,
+                "google_recognition_time": 0.77915358543396,
+                "speaker_recognition_time": 0.14635729789733887
+        },
+        {
+                "start_time": 83.986735,
+                "end_time": 85.533086,
+                "MASR_results": "曾銘宗:你認為各不夠",
+                "google_asr_results": "你認為夠不夠",
+                "labels": "曾銘宗:你認為夠不夠",
+                "asr_recognition_time": 0.2699856758117676,
+                "google_recognition_time": 0.32987189292907715,
+                "speaker_recognition_time": 0.08430051803588867
+        },
+        {
+                "start_time": 85.694361,
+                "end_time": 89.251915,
+                "MASR_results": "曾銘宗:那你理想中的國防單位大約是多少",
+                "google_asr_results": "那你理想中的光鏡位大約是多少",
+                "labels": "曾銘宗:那你理想中的國防經費大約是多少",
+                "asr_recognition_time": 0.7380034923553467,
+                "google_recognition_time": 0.833592414855957,
+                "speaker_recognition_time": 0.1269686222076416
+        },
+        {
+                "start_time": 89.754716,
+                "end_time": 91.11133,
+                "MASR_results": "邱國正:我跟委員報告喔",
+                "google_asr_results": "博偉報告",
+                "labels": "邱國正:我跟委員報告喔",
+                "asr_recognition_time": 0.46895766258239746,
+                "google_recognition_time": 0.5363123416900635,
+                "speaker_recognition_time": 0.07657527923583984
+        },
+        {
+                "start_time": 91.652079,
+                "end_time": 92.676654,
+                "MASR_results": "邱國正:這個",
+                "google_asr_results": "輸了",
+                "labels": "邱國正:這個",
+                "asr_recognition_time": 0.29275083541870117,
+                "google_recognition_time": 1.084897518157959,
+                "speaker_recognition_time": 0.049704551696777344
+        },
+        {
+                "start_time": 93.653796,
+                "end_time": 94.991436,
+                "MASR_results": "邱國正:含信用兵啊",
+                "google_asr_results": "韓玄彬",
+                "labels": "邱國正:韓信用兵啊",
+                "asr_recognition_time": 0.22992587089538574,
+                "google_recognition_time": 0.7217226028442383,
+                "speaker_recognition_time": 0.05377793312072754
+        },
+        {
+                "start_time": 95.152712,
+                "end_time": 96.528299,
+                "MASR_results": "邱國正:我不多多預算",
+                "google_asr_results": "我多多益善",
+                "labels": "邱國正:多多多益善",
+                "asr_recognition_time": 0.4041862487792969,
+                "google_recognition_time": 0.6757252216339111,
+                "speaker_recognition_time": 0.07658505439758301
+        },
+        {
+                "start_time": 97.024,
+                "end_time": 98.881028,
+                "MASR_results": "邱國正:但現在我們也希望多",
+                "google_asr_results": "但現在會面向多",
+                "labels": "邱國正:但現在我們也希望多",
+                "asr_recognition_time": 0.5496265888214111,
+                "google_recognition_time": 0.567296028137207,
+                "speaker_recognition_time": 0.09119534492492676
+        },
+        {
+                "start_time": 99.004357,
+                "end_time": 101.651177,
+                "MASR_results": "邱國正:但我們要考量的是我們的能耐",
+                "google_asr_results": "但我要考量的事我們忍耐",
+                "labels": "邱國正:但我們要考量的是我們的能耐",
+                "asr_recognition_time": 0.7629539966583252,
+                "google_recognition_time": 0.6671652793884277,
+                "speaker_recognition_time": 0.11694502830505371
+        },
+        {
+                "start_time": 102.410122,
+                "end_time": 104.848232,
+                "MASR_results": "邱國正:這個是大家共同期望但是",
+                "google_asr_results": "這是大家共同祈禱但是",
+                "labels": "邱國正:這個是大家共同期望但是",
+                "asr_recognition_time": 0.7013487815856934,
+                "google_recognition_time": 0.9773774147033691,
+                "speaker_recognition_time": 0.11726689338684082
+        },
+        {
+                "start_time": 104.96,
+                "end_time": 107.163014,
+                "MASR_results": "邱國正:你現實的狀況如何",
+                "google_asr_results": "5限時的狀況如何",
+                "labels": "邱國正:你現實的狀況如何",
+                "asr_recognition_time": 0.36370038986206055,
+                "google_recognition_time": 0.37468576431274414,
+                "speaker_recognition_time": 0.0751180648803711
+        },
+        {
+                "start_time": 107.264,
+                "end_time": 110.929278,
+                "MASR_results": "邱國正:這我在編列預算當中我們國防部一定要考量的",
+                "google_asr_results": "我在冰綠凡當中我們光不一定要考兩段",
+                "labels": "邱國正:這我在編列預算當中我們國防部一定要考量的",
+                "asr_recognition_time": 1.1948471069335938,
+                "google_recognition_time": 1.0907459259033203,
+                "speaker_recognition_time": 0.11896705627441406
+        },
+        {
+                "start_time": 111.052606,
+                "end_time": 112.504089,
+                "MASR_results": "邱國正:否則的話主席",
+                "google_asr_results": "火車的話注音",
+                "labels": "邱國正:否則的話這一",
+                "asr_recognition_time": 0.2655167579650879,
+                "google_recognition_time": 0.5088908672332764,
+                "speaker_recognition_time": 0.06265902519226074
+        },
+        {
+                "start_time": 112.896,
+                "end_time": 115.397566,
+                "MASR_results": "邱國正:把這個啊中共來來當",
+                "google_asr_results": "把這個鐘都沒來",
+                "labels": "邱國正:把這個呃中共來來當",
+                "asr_recognition_time": 0.6439990997314453,
+                "google_recognition_time": 0.7266249656677246,
+                "speaker_recognition_time": 0.10968518257141113
+        },
+        {
+                "start_time": 115.758065,
+                "end_time": 117.323388,
+                "MASR_results": "邱國正:把他做一個好比較的話",
+                "google_asr_results": "打錯一個比小華",
+                "labels": "邱國正:把他做一個嗯比較話",
+                "asr_recognition_time": 0.5330936908721924,
+                "google_recognition_time": 1.0749778747558594,
+                "speaker_recognition_time": 0.08718657493591309
+        },
+        {
+                "start_time": 117.427743,
+                "end_time": 121.554506,
+                "MASR_results": "邱國正:好我們要跟他做一個軍備的點我們沒有辦法比啦",
+                "google_asr_results": "好我沒有跟他做的軍備劉表文沒辦法比的",
+                "labels": "邱國正:好我們要跟他做一個軍備的一個比我們沒有辦法比的",
+                "asr_recognition_time": 1.2767114639282227,
+                "google_recognition_time": 0.9663701057434082,
+                "speaker_recognition_time": 0.15209102630615234
+        },
+        {
+                "start_time": 121.772703,
+                "end_time": 124.928,
+                "MASR_results": "邱國正:但我們現在有自我防衛能力夠不夠",
+                "google_asr_results": "那我們現在有所以我防衛能力夠不夠",
+                "labels": "邱國正:但我們現在有自我防衛能力夠不夠",
+                "asr_recognition_time": 0.6887545585632324,
+                "google_recognition_time": 0.8011095523834229,
+                "speaker_recognition_time": 0.10145401954650879
+        },
+        {
+                "start_time": 125.064626,
+                "end_time": 126.335859,
+                "MASR_results": "邱國正:這是我們的著眼",
+                "google_asr_results": "這個我沒有左眼",
+                "labels": "邱國正:這是我們的著眼",
+                "asr_recognition_time": 0.4287447929382324,
+                "google_recognition_time": 0.4151031970977783,
+                "speaker_recognition_time": 0.04806876182556152
+        },
+        {
+                "start_time": 126.440213,
+                "end_time": 128.02451100000002,
+                "MASR_results": "邱國正:才能夠做法的能力",
+                "google_asr_results": "佳能夠做反應能力",
+                "labels": "邱國正:只要能夠自我防衛能力",
+                "asr_recognition_time": 0.5256738662719727,
+                "google_recognition_time": 1.5223779678344727,
+                "speaker_recognition_time": 0.08278274536132812
+        },
+        {
+                "start_time": 128.128866,
+                "end_time": 128.768,
+                "MASR_results": "邱國正:齁夠",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:呃夠",
+                "asr_recognition_time": 0.27590131759643555,
+                "google_recognition_time": 0.21344757080078125,
+                "speaker_recognition_time": 0.03093719482421875
+        },
+        {
+                "start_time": 129.024,
+                "end_time": 130.054688,
+                "MASR_results": "邱國正:或者強化",
+                "google_asr_results": "褲子強化",
+                "labels": "邱國正:或者強化",
+                "asr_recognition_time": 0.33501529693603516,
+                "google_recognition_time": 0.44530487060546875,
+                "speaker_recognition_time": 0.04800844192504883
+        },
+        {
+                "start_time": 130.092636,
+                "end_time": 132.464338,
+                "MASR_results": "邱國正:我們就以這個欸逐年的編列預算",
+                "google_asr_results": "竹聯的編列預算",
+                "labels": "邱國正:我們就以這個來逐年的編列預算",
+                "asr_recognition_time": 0.7855870723724365,
+                "google_recognition_time": 0.8743047714233398,
+                "speaker_recognition_time": 0.09692573547363281
+        },
+        {
+                "start_time": 132.505044,
+                "end_time": 134.736427,
+                "MASR_results": "邱國正:來強化我們自我防衛的戰力",
+                "google_asr_results": "強化自我防衛的在哪裡",
+                "labels": "邱國正:來強化我們自我防衛的戰力",
+                "asr_recognition_time": 0.7193522453308105,
+                "google_recognition_time": 1.515207290649414,
+                "speaker_recognition_time": 0.1085813045501709
+        },
+        {
+                "start_time": 134.912,
+                "end_time": 135.523132,
+                "MASR_results": "曾銘宗:很好",
+                "google_asr_results": "很好",
+                "labels": "曾銘宗:很好",
+                "asr_recognition_time": 0.28006577491760254,
+                "google_recognition_time": 0.2732970714569092,
+                "speaker_recognition_time": 0.041483163833618164
+        },
+        {
+                "start_time": 135.771064,
+                "end_time": 138.240842,
+                "MASR_results": "曾銘宗:那一百一十年度",
+                "google_asr_results": "那110年度",
+                "labels": "邱國正,曾銘宗:是那一百一十年度",
+                "asr_recognition_time": 0.5346829891204834,
+                "google_recognition_time": 0.59678053855896,
+                "speaker_recognition_time": 0.1267406940460205
+        },
+        {
+                "start_time": 138.293289,
+                "end_time": 140.62003,
+                "MASR_results": "曾銘宗:編了三千六百六十三億",
+                "google_asr_results": "Tina3663",
+                "labels": "曾銘宗:編了三千六百六十三億",
+                "asr_recognition_time": 0.6138389110565186,
+                "google_recognition_time": 0.5232853889465332,
+                "speaker_recognition_time": 0.0767204761505127
+        },
+        {
+                "start_time": 141.056,
+                "end_time": 142.765591,
+                "MASR_results": "曾銘宗:以這樣的規模",
+                "google_asr_results": "這樣子規模",
+                "labels": "邱國正,曾銘宗:是以這樣的規模",
+                "asr_recognition_time": 0.43917322158813477,
+                "google_recognition_time": 0.7037816047668457,
+                "speaker_recognition_time": 0.06270146369934082
+        },
+        {
+                "start_time": 143.616,
+                "end_time": 145.035117,
+                "MASR_results": "曾銘宗:來做我們的防衛",
+                "google_asr_results": "來做個皇位",
+                "labels": "曾銘宗:來做我們的防衛",
+                "asr_recognition_time": 0.4448091983795166,
+                "google_recognition_time": 0.4518256187438965,
+                "speaker_recognition_time": 0.05764460563659668
+        },
+        {
+                "start_time": 145.230601,
+                "end_time": 146.708654,
+                "MASR_results": "曾銘宗:你認為夠嗎",
+                "google_asr_results": "你認為夠嗎",
+                "labels": "曾銘宗:你認為夠嗎",
+                "asr_recognition_time": 0.4068632125854492,
+                "google_recognition_time": 0.2389075756072998,
+                "speaker_recognition_time": 0.08448553085327148
+        },
+        {
+                "start_time": 147.557342,
+                "end_time": 150.289356,
+                "MASR_results": "邱國正:呃不管夠不夠喔就是",
+                "google_asr_results": "不管夠不夠我出了",
+                "labels": "邱國正:呃不管夠不夠啊就是",
+                "asr_recognition_time": 0.6161901950836182,
+                "google_recognition_time": 0.6773607730865479,
+                "speaker_recognition_time": 0.10163354873657227
+        },
+        {
+                "start_time": 150.980703,
+                "end_time": 151.643443,
+                "MASR_results": "邱國正:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:呃",
+                "asr_recognition_time": 0.25708532333374023,
+                "google_recognition_time": 0.22216367721557617,
+                "speaker_recognition_time": 0.03598284721374512
+        },
+        {
+                "start_time": 151.762641,
+                "end_time": 153.183478,
+                "MASR_results": "邱國正:時間要過嘛",
+                "google_asr_results": "時間有過嗎",
+                "labels": "邱國正:時間要過嘛",
+                "asr_recognition_time": 0.4324488639831543,
+                "google_recognition_time": 0.42343997955322266,
+                "speaker_recognition_time": 0.06926250457763672
+        },
+        {
+                "start_time": 153.22638999999998,
+                "end_time": 154.580477,
+                "MASR_results": "邱國正:任務要承擔",
+                "google_asr_results": "任務要承擔",
+                "labels": "邱國正:任務要承擔",
+                "asr_recognition_time": 0.40829992294311523,
+                "google_recognition_time": 0.34316563606262207,
+                "speaker_recognition_time": 0.056871652603149414
+        },
+        {
+                "start_time": 154.857016,
+                "end_time": 156.16819099999998,
+                "MASR_results": "邱國正:但要有方法",
+                "google_asr_results": "但要有方法",
+                "labels": "邱國正:但要有方法",
+                "asr_recognition_time": 0.3897724151611328,
+                "google_recognition_time": 0.6325573921203613,
+                "speaker_recognition_time": 0.07486414909362793
+        },
+        {
+                "start_time": 156.225406,
+                "end_time": 157.250507,
+                "MASR_results": "邱國正:怎麼會調整",
+                "google_asr_results": "怎麼調整",
+                "labels": "邱國正:怎麼調整",
+                "asr_recognition_time": 0.3743312358856201,
+                "google_recognition_time": 0.2560148239135742,
+                "speaker_recognition_time": 0.0660243034362793
+        },
+        {
+                "start_time": 157.641476,
+                "end_time": 159.934842,
+                "MASR_results": "邱國正:但剛才局委員也給我們做指導",
+                "google_asr_results": "蛋糕的仇人也給我做指導",
+                "labels": "邱國正:但剛才幾位委員也給我們做指導",
+                "asr_recognition_time": 0.7098493576049805,
+                "google_recognition_time": 1.707604169845581,
+                "speaker_recognition_time": 0.07740664482116699
+        },
+        {
+                "start_time": 160.0,
+                "end_time": 161.064837,
+                "MASR_results": "邱國正:不能夠一昧的",
+                "google_asr_results": "不能過已經累了",
+                "labels": "邱國正:不能夠一昧的",
+                "asr_recognition_time": 0.23957347869873047,
+                "google_recognition_time": 0.4028191566467285,
+                "speaker_recognition_time": 0.05165362358093262
+        },
+        {
+                "start_time": 161.327072,
+                "end_time": 164.645539,
+                "MASR_results": "邱國正:把這增壓在我們基層看沒有錯他不大耶",
+                "google_asr_results": "在我們七成幹沒有做不到",
+                "labels": "邱國正,曾銘宗:把這個責任壓在我們基層幹部沒有錯啊部長欸對",
+                "asr_recognition_time": 0.9750030040740967,
+                "google_recognition_time": 1.9891741275787354,
+                "speaker_recognition_time": 0.14098787307739258
+        },
+        {
+                "start_time": 164.736129,
+                "end_time": 165.82321299999998,
+                "MASR_results": "邱國正:這就我告的",
+                "google_asr_results": "dcard",
+                "labels": "邱國正,曾銘宗:這就我們做的夠",
+                "asr_recognition_time": 0.3850746154785156,
+                "google_recognition_time": 1.326808214187622,
+                "speaker_recognition_time": 0.04563331604003906
+        },
+        {
+                "start_time": 165.92334,
+                "end_time": 166.4,
+                "MASR_results": "曾銘宗:要講",
+                "google_asr_results": "無法辨識",
+                "labels": "曾銘宗:要講",
+                "asr_recognition_time": 0.27765369415283203,
+                "google_recognition_time": 0.2225959300994873,
+                "speaker_recognition_time": 0.029336929321289062
+        },
+        {
+                "start_time": 166.834011,
+                "end_time": 168.898517,
+                "MASR_results": "曾銘宗:我相信立法院的委員也支持",
+                "google_asr_results": "我相信立法院委員也支持",
+                "labels": "曾銘宗:我相信立法院的委員也支持",
+                "asr_recognition_time": 0.6809835433959961,
+                "google_recognition_time": 0.4248042106628418,
+                "speaker_recognition_time": 0.07278895378112793
+        },
+        {
+                "start_time": 168.993875,
+                "end_time": 170.424248,
+                "MASR_results": "曾銘宗:行政院我會支持啊",
+                "google_asr_results": "行政院",
+                "labels": "邱國正,曾銘宗:是行政院也會支持啊",
+                "asr_recognition_time": 0.4815559387207031,
+                "google_recognition_time": 0.36122894287109375,
+                "speaker_recognition_time": 0.054036617279052734
+        },
+        {
+                "start_time": 170.529143,
+                "end_time": 172.116857,
+                "MASR_results": "曾銘宗:你的聲音沒有發出來啊",
+                "google_asr_results": "你的聲音沒有畫出來啊",
+                "labels": "曾銘宗:你的聲音要發出來啊",
+                "asr_recognition_time": 0.5276162624359131,
+                "google_recognition_time": 0.5056319236755371,
+                "speaker_recognition_time": 0.05820870399475098
+        },
+        {
+                "start_time": 172.155001,
+                "end_time": 174.248114,
+                "MASR_results": "邱國正:是對那我再問你的問題",
+                "google_asr_results": "一定要問你問題",
+                "labels": "邱國正,曾銘宗:是一定要講那我再問你一個問題",
+                "asr_recognition_time": 0.6755318641662598,
+                "google_recognition_time": 0.8287341594696045,
+                "speaker_recognition_time": 0.09701013565063477
+        },
+        {
+                "start_time": 174.410223,
+                "end_time": 175.78338200000002,
+                "MASR_results": "曾銘宗:到底各不夠",
+                "google_asr_results": "到底夠不夠",
+                "labels": "曾銘宗:到底夠不夠",
+                "asr_recognition_time": 0.3941042423248291,
+                "google_recognition_time": 0.3157691955566406,
+                "speaker_recognition_time": 0.06103324890136719
+        },
+        {
+                "start_time": 176.64,
+                "end_time": 178.176,
+                "MASR_results": "曾銘宗:你總要你的立場啊",
+                "google_asr_results": "立場吧",
+                "labels": "曾銘宗:你總要你的立場吧",
+                "asr_recognition_time": 0.4960658550262451,
+                "google_recognition_time": 0.3799417018890381,
+                "speaker_recognition_time": 0.08351731300354004
+        },
+        {
+                "start_time": 178.501092,
+                "end_time": 179.38315500000002,
+                "MASR_results": "曾銘宗:不要怕",
+                "google_asr_results": "不要怕",
+                "labels": "曾銘宗:不要怕",
+                "asr_recognition_time": 0.32329630851745605,
+                "google_recognition_time": 0.3631863594055176,
+                "speaker_recognition_time": 0.03844165802001953
+        },
+        {
+                "start_time": 179.468978,
+                "end_time": 181.562091,
+                "MASR_results": "邱國正:我我沒有派你要不管你講",
+                "google_asr_results": "我沒有怕因為我怕你講",
+                "labels": "邱國正,曾銘宗:我我沒有怕欸因為因為因為啊不然你講",
+                "asr_recognition_time": 0.643207311630249,
+                "google_recognition_time": 0.5943653583526611,
+                "speaker_recognition_time": 0.0954136848449707
+        },
+        {
+                "start_time": 181.719432,
+                "end_time": 183.383433,
+                "MASR_results": "曾銘宗:所以誤你會還是說",
+                "google_asr_results": "4月12是說",
+                "labels": "邱國正,曾銘宗:是因為我了解你認為是說",
+                "asr_recognition_time": 0.5237522125244141,
+                "google_recognition_time": 1.0934391021728516,
+                "speaker_recognition_time": 0.058058977127075195
+        },
+        {
+                "start_time": 183.593222,
+                "end_time": 184.928237,
+                "MASR_results": "曾銘宗:初步要四千億",
+                "google_asr_results": "Super4100",
+                "labels": "曾銘宗:初步要四千億",
+                "asr_recognition_time": 0.2601795196533203,
+                "google_recognition_time": 1.2546372413635254,
+                "speaker_recognition_time": 0.04859638214111328
+        },
+        {
+                "start_time": 185.161865,
+                "end_time": 186.396754,
+                "MASR_results": "曾銘宗:我時間百億",
+                "google_asr_results": "4510",
+                "labels": "曾銘宗:或四千五百億",
+                "asr_recognition_time": 0.38727545738220215,
+                "google_recognition_time": 0.2619748115539551,
+                "speaker_recognition_time": 0.046417236328125
+        },
+        {
+                "start_time": 186.568399,
+                "end_time": 193.75841,
+                "MASR_results": "邱國正:你怎樣表達國防部的立場吧因為當初編的這預算我知道長年在國軍服務的喔狀況下",
+                "google_asr_results": "你總要表達國父的立場吧個月都是編的是預算我校長年在國軍服務的售價",
+                "labels": "曾銘宗,邱國正:你總要表達國防部的立場吧對因為當初編的這預算我知道長年在國軍服務的喔狀況下",
+                "asr_recognition_time": 2.6402063369750977,
+                "google_recognition_time": 2.57251238822937,
+                "speaker_recognition_time": 0.37388181686401367
+        },
+        {
+                "start_time": 193.891912,
+                "end_time": 198.693199,
+                "MASR_results": "邱國正:我想編列預算因為是按照建軍構想暫被準備這個著眼",
+                "google_asr_results": "我想編列預算一直按照建軍構想戰備準備這個左眼",
+                "labels": "邱國正:我想編列預算一直按照建軍構想戰備整備這個著眼",
+                "asr_recognition_time": 1.4555468559265137,
+                "google_recognition_time": 1.748466968536377,
+                "speaker_recognition_time": 0.17025494575500488
+        },
+        {
+                "start_time": 198.769486,
+                "end_time": 199.62771,
+                "MASR_results": "邱國正:來編列的",
+                "google_asr_results": "戀戀",
+                "labels": "邱國正:來編列的",
+                "asr_recognition_time": 0.31705713272094727,
+                "google_recognition_time": 0.26748180389404297,
+                "speaker_recognition_time": 0.03730440139770508
+        },
+        {
+                "start_time": 199.875641,
+                "end_time": 202.752,
+                "MASR_results": "邱國正:還有武器能夠籌獲的這個啊代估",
+                "google_asr_results": "還有武器能夠籌獲得這個好帶骨",
+                "labels": "邱國正:還有武器能夠籌獲得這個喔待估",
+                "asr_recognition_time": 0.6174838542938232,
+                "google_recognition_time": 0.8031294345855713,
+                "speaker_recognition_time": 0.13087964057922363
+        },
+        {
+                "start_time": 203.237019,
+                "end_time": 204.748447,
+                "MASR_results": "邱國正:這樣來編列預算呢",
+                "google_asr_results": "將來編列預算的",
+                "labels": "邱國正:這樣來編列預算的",
+                "asr_recognition_time": 0.49068665504455566,
+                "google_recognition_time": 0.7867341041564941,
+                "speaker_recognition_time": 0.0546872615814209
+        },
+        {
+                "start_time": 204.786591,
+                "end_time": 205.482706,
+                "MASR_results": "邱國正:不能講說",
+                "google_asr_results": "人小說",
+                "labels": "邱國正:不能講說",
+                "asr_recognition_time": 0.2999298572540283,
+                "google_recognition_time": 0.4337160587310791,
+                "speaker_recognition_time": 0.05648016929626465
+        },
+        {
+                "start_time": 205.649583,
+                "end_time": 207.442318,
+                "MASR_results": "邱國正:我所以講一個數字就",
+                "google_asr_results": "我說講一個數字就",
+                "labels": "邱國正:我隨便講一個數字就",
+                "asr_recognition_time": 0.5888805389404297,
+                "google_recognition_time": 0.5371077060699463,
+                "speaker_recognition_time": 0.06287336349487305
+        },
+        {
+                "start_time": 207.872,
+                "end_time": 211.771582,
+                "MASR_results": "邱國正:他就算人員維持費也是有多少兵人要編這個預算",
+                "google_asr_results": "他就算人員維持費也是有多少病人要編制預算",
+                "labels": "邱國正:他就算人員維持費也是有多少兵員要編這個預算",
+                "asr_recognition_time": 0.9533698558807373,
+                "google_recognition_time": 1.0569820404052734,
+                "speaker_recognition_time": 0.1532142162322998
+        },
+        {
+                "start_time": 211.943227,
+                "end_time": 212.93972,
+                "MASR_results": "邱國正:要動源多少人",
+                "google_asr_results": "有動員多少人",
+                "labels": "邱國正:要動員多少人",
+                "asr_recognition_time": 0.3825690746307373,
+                "google_recognition_time": 0.8475174903869629,
+                "speaker_recognition_time": 0.04031825065612793
+        },
+        {
+                "start_time": 212.992167,
+                "end_time": 215.118656,
+                "MASR_results": "邱國正:編列預算這一定有依據的",
+                "google_asr_results": "先做一份正一路演義去的",
+                "labels": "邱國正:編這個預算這一定有個依據的",
+                "asr_recognition_time": 0.6227755546569824,
+                "google_recognition_time": 1.7310187816619873,
+                "speaker_recognition_time": 0.10207009315490723
+        },
+        {
+                "start_time": 215.333212,
+                "end_time": 218.198727,
+                "MASR_results": "邱國正:我不能夠訊口開合你種心中",
+                "google_asr_results": "我不能跟你說我開合併總心中",
+                "labels": "邱國正,曾銘宗:我不能夠信口開河您總心中",
+                "asr_recognition_time": 0.5240945816040039,
+                "google_recognition_time": 1.3616690635681152,
+                "speaker_recognition_time": 0.1417539119720459
+        },
+        {
+                "start_time": 218.360836,
+                "end_time": 219.343026,
+                "MASR_results": "曾銘宗:也跟答案吧",
+                "google_asr_results": "一個答案吧",
+                "labels": "曾銘宗:有一個答案吧",
+                "asr_recognition_time": 0.21192407608032227,
+                "google_recognition_time": 0.2864260673522949,
+                "speaker_recognition_time": 0.07211780548095703
+        },
+        {
+                "start_time": 219.457456,
+                "end_time": 220.37289500000003,
+                "MASR_results": "曾銘宗:比如說外界",
+                "google_asr_results": "萬歲",
+                "labels": "曾銘宗:比如說外界",
+                "asr_recognition_time": 0.3333439826965332,
+                "google_recognition_time": 0.4036707878112793,
+                "speaker_recognition_time": 0.03604865074157715
+        },
+        {
+                "start_time": 220.458718,
+                "end_time": 221.18344,
+                "MASR_results": "曾銘宗:希望",
+                "google_asr_results": "希望",
+                "labels": "曾銘宗:希望",
+                "asr_recognition_time": 0.25283288955688477,
+                "google_recognition_time": 0.27493906021118164,
+                "speaker_recognition_time": 0.02969670295715332
+        },
+        {
+                "start_time": 221.221584,
+                "end_time": 222.91896,
+                "MASR_results": "曾銘宗:戰機一批的三趴",
+                "google_asr_results": "ip138",
+                "labels": "曾銘宗:佔GDP的三趴",
+                "asr_recognition_time": 0.4445018768310547,
+                "google_recognition_time": 0.8359842300415039,
+                "speaker_recognition_time": 0.09307742118835449
+        },
+        {
+                "start_time": 223.185963,
+                "end_time": 224.63064100000005,
+                "MASR_results": "曾銘宗:那你現在還有北市啊",
+                "google_asr_results": "斷線的而已是啊",
+                "labels": "曾銘宗:那你現在而底事啊",
+                "asr_recognition_time": 0.47461795806884766,
+                "google_recognition_time": 0.8775668144226074,
+                "speaker_recognition_time": 0.05337953567504883
+        },
+        {
+                "start_time": 224.768,
+                "end_time": 225.28,
+                "MASR_results": "曾銘宗:那你種",
+                "google_asr_results": "無法辨識",
+                "labels": "曾銘宗:那你總",
+                "asr_recognition_time": 0.28298187255859375,
+                "google_recognition_time": 0.26157689094543457,
+                "speaker_recognition_time": 0.026170969009399414
+        },
+        {
+                "start_time": 225.488865,
+                "end_time": 226.816,
+                "MASR_results": "曾銘宗:希望逐步",
+                "google_asr_results": "希望逐步",
+                "labels": "曾銘宗:希望逐步",
+                "asr_recognition_time": 0.3558354377746582,
+                "google_recognition_time": 0.3170351982116699,
+                "speaker_recognition_time": 0.07717180252075195
+        },
+        {
+                "start_time": 226.995525,
+                "end_time": 227.667801,
+                "MASR_results": "廖婉汝:查",
+                "google_asr_results": "無法辨識",
+                "labels": "曾銘宗:朝",
+                "asr_recognition_time": 0.2291426658630371,
+                "google_recognition_time": 0.22642970085144043,
+                "speaker_recognition_time": 0.04990577697753906
+        },
+        {
+                "start_time": 228.068305,
+                "end_time": 230.275849,
+                "MASR_results": "曾銘宗:機率一批三趴的",
+                "google_asr_results": "三八的",
+                "labels": "曾銘宗:GDP三趴的",
+                "asr_recognition_time": 0.47057509422302246,
+                "google_recognition_time": 0.9339771270751953,
+                "speaker_recognition_time": 0.10872745513916016
+        },
+        {
+                "start_time": 230.704961,
+                "end_time": 231.758669,
+                "MASR_results": "曾銘宗:這個目標",
+                "google_asr_results": "這個目標",
+                "labels": "曾銘宗:這個目標",
+                "asr_recognition_time": 0.34539246559143066,
+                "google_recognition_time": 0.24206042289733887,
+                "speaker_recognition_time": 0.03965115547180176
+        },
+        {
+                "start_time": 231.82542,
+                "end_time": 236.288186,
+                "MASR_results": "邱國正:是你是不是希望盡量達到的目標這個是必然啦再",
+                "google_asr_results": "你是不是希望盡量達到了目標",
+                "labels": "邱國正,曾銘宗:是是是這個你是不是希望盡量達到那個目標這個是必然的欸",
+                "asr_recognition_time": 1.3125345706939697,
+                "google_recognition_time": 1.137681245803833,
+                "speaker_recognition_time": 0.18720388412475586
+        },
+        {
+                "start_time": 236.89371,
+                "end_time": 237.632737,
+                "MASR_results": "邱國正:呃這個",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:這個",
+                "asr_recognition_time": 0.27364039421081543,
+                "google_recognition_time": 0.2244105339050293,
+                "speaker_recognition_time": 0.03115367889404297
+        },
+        {
+                "start_time": 237.704255,
+                "end_time": 239.024967,
+                "MASR_results": "邱國正:我們一定要努力",
+                "google_asr_results": "我明天要努力",
+                "labels": "邱國正:我們一定要努力",
+                "asr_recognition_time": 0.439206600189209,
+                "google_recognition_time": 0.2876143455505371,
+                "speaker_recognition_time": 0.0510711669921875
+        },
+        {
+                "start_time": 239.104,
+                "end_time": 240.441037,
+                "MASR_results": "邱國正:但仍然達到",
+                "google_asr_results": "但人們打到",
+                "labels": "邱國正:但是能不能達到",
+                "asr_recognition_time": 0.3863852024078369,
+                "google_recognition_time": 0.5599021911621094,
+                "speaker_recognition_time": 0.052045583724975586
+        },
+        {
+                "start_time": 240.779559,
+                "end_time": 243.492501,
+                "MASR_results": "邱國正:我沒有辦法跟任何人打個包票",
+                "google_asr_results": "我沒有辦法跟任何人打個包票",
+                "labels": "邱國正:我沒有辦法跟任何人打個包票",
+                "asr_recognition_time": 0.5471992492675781,
+                "google_recognition_time": 0.5861446857452393,
+                "speaker_recognition_time": 0.09071493148803711
+        },
+        {
+                "start_time": 243.749968,
+                "end_time": 245.781099,
+                "MASR_results": "邱國正:但這就我們要努力的目標",
+                "google_asr_results": "但是就我們要努力的目標",
+                "labels": "邱國正:但是就我們要努力的目標",
+                "asr_recognition_time": 0.5776002407073975,
+                "google_recognition_time": 0.5419254302978516,
+                "speaker_recognition_time": 0.09939432144165039
+        },
+        {
+                "start_time": 246.162531,
+                "end_time": 247.707335,
+                "MASR_results": "邱國正:欺達跟可達",
+                "google_asr_results": "鉅達跟可達",
+                "labels": "邱國正:棄達跟可達",
+                "asr_recognition_time": 0.23209404945373535,
+                "google_recognition_time": 0.3622169494628906,
+                "speaker_recognition_time": 0.052269935607910156
+        },
+        {
+                "start_time": 247.808,
+                "end_time": 248.565559,
+                "MASR_results": "邱國正:是不一樣的",
+                "google_asr_results": "不用啦",
+                "labels": "邱國正:是不一樣的",
+                "asr_recognition_time": 0.343472957611084,
+                "google_recognition_time": 0.30546069145202637,
+                "speaker_recognition_time": 0.06729912757873535
+        },
+        {
+                "start_time": 248.641846,
+                "end_time": 253.81503,
+                "MASR_results": "曾銘宗:部長呃沒有人要你打包票喔但是國防部的立場要出來他的事",
+                "google_asr_results": "不然沒有人要你打包票說不能立場要出來",
+                "labels": "曾銘宗,邱國正:部長欸沒有人要你打包票喔是但是國防部的立場要出來啊那那是",
+                "asr_recognition_time": 1.7905919551849365,
+                "google_recognition_time": 1.2630114555358887,
+                "speaker_recognition_time": 0.3480510711669922
+        },
+        {
+                "start_time": 254.086801,
+                "end_time": 255.417049,
+                "MASR_results": "邱國正:你所以你們也希望",
+                "google_asr_results": "希望",
+                "labels": "邱國正,曾銘宗:一定我們欸所以你也希望",
+                "asr_recognition_time": 0.4624459743499756,
+                "google_recognition_time": 0.2993957996368408,
+                "speaker_recognition_time": 0.047374725341796875
+        },
+        {
+                "start_time": 255.744,
+                "end_time": 256.933245,
+                "MASR_results": "曾銘宗:逐年漸近",
+                "google_asr_results": "竹聯監禁",
+                "labels": "曾銘宗:逐年漸進",
+                "asr_recognition_time": 0.36102890968322754,
+                "google_recognition_time": 0.4279489517211914,
+                "speaker_recognition_time": 0.04669308662414551
+        },
+        {
+                "start_time": 257.205016,
+                "end_time": 259.636651,
+                "MASR_results": "曾銘宗:達到基率低的三趴對不對",
+                "google_asr_results": "達到GDP的38隊",
+                "labels": "曾銘宗:達到GDP的三趴對不對",
+                "asr_recognition_time": 0.4529097080230713,
+                "google_recognition_time": 0.8808586597442627,
+                "speaker_recognition_time": 0.11243557929992676
+        },
+        {
+                "start_time": 259.67002599999995,
+                "end_time": 261.53428,
+                "MASR_results": "邱國正:對我們要要朝這一個好",
+                "google_asr_results": "對我們又要出去玩",
+                "labels": "邱國正,曾銘宗:對我們要要朝這個方向去定好",
+                "asr_recognition_time": 0.5651514530181885,
+                "google_recognition_time": 0.8164966106414795,
+                "speaker_recognition_time": 0.07707619667053223
+        },
+        {
+                "start_time": 261.653478,
+                "end_time": 262.83592000000004,
+                "MASR_results": "曾銘宗:尤其是",
+                "google_asr_results": "水牛騎士",
+                "labels": "邱國正,曾銘宗:是尤其是",
+                "asr_recognition_time": 0.29439878463745117,
+                "google_recognition_time": 0.6538782119750977,
+                "speaker_recognition_time": 0.04394364356994629
+        },
+        {
+                "start_time": 264.06604100000004,
+                "end_time": 266.888645,
+                "MASR_results": "曾銘宗:其實現在國外的很多智庫",
+                "google_asr_results": "其實現在國外的很多字庫",
+                "labels": "曾銘宗:其實現在國外的很多智庫",
+                "asr_recognition_time": 0.48790812492370605,
+                "google_recognition_time": 0.4319436550140381,
+                "speaker_recognition_time": 0.10478377342224121
+        },
+        {
+                "start_time": 267.274846,
+                "end_time": 270.35783100000003,
+                "MASR_results": "曾銘宗:都認為臺海是最危險的地方啊",
+                "google_asr_results": "對台還是最危險的地方啊",
+                "labels": "曾銘宗:都認為台海是最危險的地方啊",
+                "asr_recognition_time": 0.7815089225769043,
+                "google_recognition_time": 1.4319908618927002,
+                "speaker_recognition_time": 0.1612861156463623
+        },
+        {
+                "start_time": 270.488419,
+                "end_time": 272.538621,
+                "MASR_results": "曾銘宗:你再不贊成他們的看嘛算說",
+                "google_asr_results": "你贊成的幹嘛賺錢",
+                "labels": "曾銘宗,邱國正:你贊不贊成他們的看法我贊成",
+                "asr_recognition_time": 0.6448326110839844,
+                "google_recognition_time": 1.4108214378356934,
+                "speaker_recognition_time": 0.06777167320251465
+        },
+        {
+                "start_time": 272.79132000000004,
+                "end_time": 273.353934,
+                "MASR_results": "邱國正:對啊的",
+                "google_asr_results": "對啊",
+                "labels": "曾銘宗:對啊",
+                "asr_recognition_time": 0.29050350189208984,
+                "google_recognition_time": 0.22119379043579102,
+                "speaker_recognition_time": 0.022513151168823242
+        },
+        {
+                "start_time": 273.463596,
+                "end_time": 277.247,
+                "MASR_results": "曾銘宗:你只要贊成你的經費不大量增加你怎麼因應",
+                "google_asr_results": "贊成你的經費不大量增加的怎麼樣",
+                "labels": "曾銘宗:你假如贊成你的經費不大量增加你怎麼因應",
+                "asr_recognition_time": 1.1628658771514893,
+                "google_recognition_time": 0.8396060466766357,
+                "speaker_recognition_time": 0.15316367149353027
+        },
+        {
+                "start_time": 277.397123,
+                "end_time": 279.914581,
+                "MASR_results": "曾銘宗:你怎麼達到說你要做的願景",
+                "google_asr_results": "達到說你要坐的願景",
+                "labels": "曾銘宗:你怎麼要達到說你要做的願景",
+                "asr_recognition_time": 0.4968414306640625,
+                "google_recognition_time": 0.534656286239624,
+                "speaker_recognition_time": 0.08208918571472168
+        },
+        {
+                "start_time": 280.405676,
+                "end_time": 281.831282,
+                "MASR_results": "曾銘宗:那你既然",
+                "google_asr_results": "那你既然",
+                "labels": "曾銘宗:那你既然",
+                "asr_recognition_time": 0.3354959487915039,
+                "google_recognition_time": 0.39191579818725586,
+                "speaker_recognition_time": 0.08374691009521484
+        },
+        {
+                "start_time": 282.036302,
+                "end_time": 283.271191,
+                "MASR_results": "曾銘宗:同意讓看法",
+                "google_asr_results": "統一種看法",
+                "labels": "曾銘宗:同意這種看法",
+                "asr_recognition_time": 0.3775026798248291,
+                "google_recognition_time": 0.29789161682128906,
+                "speaker_recognition_time": 0.04846000671386719
+        },
+        {
+                "start_time": 283.743214,
+                "end_time": 284.73494,
+                "MASR_results": "曾銘宗:那你怎麼因應",
+                "google_asr_results": "那你怎麼因應",
+                "labels": "曾銘宗:那你怎麼因應",
+                "asr_recognition_time": 0.36753273010253906,
+                "google_recognition_time": 0.29900264739990234,
+                "speaker_recognition_time": 0.04575300216674805
+        },
+        {
+                "start_time": 286.947251,
+                "end_time": 287.557544,
+                "MASR_results": "曾銘宗:委部長",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正,曾銘宗:我們部長",
+                "asr_recognition_time": 0.2692990303039551,
+                "google_recognition_time": 0.20278692245483398,
+                "speaker_recognition_time": 0.05030560493469238
+        },
+        {
+                "start_time": 287.743,
+                "end_time": 288.346333,
+                "MASR_results": "邱國正:我們",
+                "google_asr_results": "我們",
+                "labels": "邱國正:我們",
+                "asr_recognition_time": 0.26976704597473145,
+                "google_recognition_time": 0.22167325019836426,
+                "speaker_recognition_time": 0.03540658950805664
+        },
+        {
+                "start_time": 288.563573,
+                "end_time": 292.68304900000004,
+                "MASR_results": "邱國正:現今跟備戰是兩文色建軍把握來帳",
+                "google_asr_results": "勸君更備戰士2回水箭龜打為了上",
+                "labels": "邱國正:建軍跟備戰是兩回事建軍打未來的仗",
+                "asr_recognition_time": 0.7365028858184814,
+                "google_recognition_time": 0.6603658199310303,
+                "speaker_recognition_time": 0.16343212127685547
+        },
+        {
+                "start_time": 293.174144,
+                "end_time": 294.830009,
+                "MASR_results": "邱國正:但我們備戰這一塊",
+                "google_asr_results": "藏王被單市議會",
+                "labels": "邱國正:但我們備戰這一塊",
+                "asr_recognition_time": 0.5150337219238281,
+                "google_recognition_time": 0.5792927742004395,
+                "speaker_recognition_time": 0.08795905113220215
+        },
+        {
+                "start_time": 294.861985,
+                "end_time": 297.493873,
+                "MASR_results": "邱國正:就眼前有多大兵力多大能力",
+                "google_asr_results": "去眼球有多大兵力多少能力",
+                "labels": "邱國正:就眼前有多大兵力多大能力",
+                "asr_recognition_time": 0.7161784172058105,
+                "google_recognition_time": 1.1709933280944824,
+                "speaker_recognition_time": 0.11269259452819824
+        },
+        {
+                "start_time": 297.870538,
+                "end_time": 299.04821200000004,
+                "MASR_results": "邱國正:我們要用他",
+                "google_asr_results": "我們要用塔",
+                "labels": "邱國正:我們要用他",
+                "asr_recognition_time": 0.3774528503417969,
+                "google_recognition_time": 0.5154604911804199,
+                "speaker_recognition_time": 0.06801271438598633
+        },
+        {
+                "start_time": 299.186481,
+                "end_time": 300.273565,
+                "MASR_results": "邱國正:然後來去",
+                "google_asr_results": "雜貨來去",
+                "labels": "邱國正:然後來去",
+                "asr_recognition_time": 0.3194572925567627,
+                "google_recognition_time": 0.4936251640319824,
+                "speaker_recognition_time": 0.04378247261047363
+        },
+        {
+                "start_time": 300.473818,
+                "end_time": 302.919757,
+                "MASR_results": "邱國正:針對眼前的狀況來做應處",
+                "google_asr_results": "陳銳眼前的狀況來說運處",
+                "labels": "邱國正:針對眼前的狀況來做應處",
+                "asr_recognition_time": 0.458575963973999,
+                "google_recognition_time": 0.7066285610198975,
+                "speaker_recognition_time": 0.11592674255371094
+        },
+        {
+                "start_time": 303.248743,
+                "end_time": 304.674348,
+                "MASR_results": "邱國正:我們這是並進的",
+                "google_asr_results": "我們做的病菌的",
+                "labels": "邱國正:我們這是並進的",
+                "asr_recognition_time": 0.28896117210388184,
+                "google_recognition_time": 0.5294733047485352,
+                "speaker_recognition_time": 0.0581357479095459
+        },
+        {
+                "start_time": 304.941351,
+                "end_time": 307.516024,
+                "MASR_results": "邱國正:呃我們不能光含建軍但是未來",
+                "google_asr_results": "好我們不能裝騰訊息哪時會來",
+                "labels": "邱國正:齁我們不能光談建軍那是未來",
+                "asr_recognition_time": 0.5369625091552734,
+                "google_recognition_time": 1.3287954330444336,
+                "speaker_recognition_time": 0.11883878707885742
+        },
+        {
+                "start_time": 307.997583,
+                "end_time": 308.98454100000004,
+                "MASR_results": "邱國正:但現在要",
+                "google_asr_results": "趁現在1",
+                "labels": "邱國正:但現在要",
+                "asr_recognition_time": 0.3140408992767334,
+                "google_recognition_time": 0.3959352970123291,
+                "speaker_recognition_time": 0.04651904106140137
+        },
+        {
+                "start_time": 309.04652400000003,
+                "end_time": 312.374526,
+                "MASR_results": "邱國正:將來要採購哪一些武器裝備人員怎麼樣增長",
+                "google_asr_results": "嘉南藥材購買武器裝備人員怎樣增長",
+                "labels": "邱國正:將來要採購買哪些武器裝備人員怎樣增長",
+                "asr_recognition_time": 0.994720458984375,
+                "google_recognition_time": 1.028569221496582,
+                "speaker_recognition_time": 0.13145971298217773
+        },
+        {
+                "start_time": 312.589082,
+                "end_time": 313.375788,
+                "MASR_results": "邱國正:就是一個",
+                "google_asr_results": "Julia",
+                "labels": "邱國正:就是一個",
+                "asr_recognition_time": 0.3333120346069336,
+                "google_recognition_time": 0.8068602085113525,
+                "speaker_recognition_time": 0.032775163650512695
+        },
+        {
+                "start_time": 313.599,
+                "end_time": 314.973038,
+                "MASR_results": "邱國正:建軍的一個概念",
+                "google_asr_results": "建軍的概念",
+                "labels": "邱國正:建軍的一個概念",
+                "asr_recognition_time": 0.41582322120666504,
+                "google_recognition_time": 0.45742082595825195,
+                "speaker_recognition_time": 0.05813860893249512
+        },
+        {
+                "start_time": 315.344935,
+                "end_time": 317.695,
+                "MASR_results": "邱國正:這我們要同步來做通步做",
+                "google_asr_results": "我們要同步來做同步錯",
+                "labels": "邱國正:這我們要同步來做同步做",
+                "asr_recognition_time": 0.6506083011627197,
+                "google_recognition_time": 0.8775639533996582,
+                "speaker_recognition_time": 0.10789942741394043
+        },
+        {
+                "start_time": 317.962519,
+                "end_time": 318.787368,
+                "MASR_results": "邱國正:好的",
+                "google_asr_results": "好",
+                "labels": "曾銘宗,邱國正:好是",
+                "asr_recognition_time": 0.3385131359100342,
+                "google_recognition_time": 0.29772114753723145,
+                "speaker_recognition_time": 0.03424263000488281
+        },
+        {
+                "start_time": 319.030531,
+                "end_time": 321.62427599999995,
+                "MASR_results": "曾銘宗:另外金融相信今天又委員問到了",
+                "google_asr_results": "另外今我相信今天有會員問道",
+                "labels": "曾銘宗:另外今天我相信今天有委員問到了",
+                "asr_recognition_time": 0.7682473659515381,
+                "google_recognition_time": 0.9609637260437012,
+                "speaker_recognition_time": 0.08400917053222656
+        },
+        {
+                "start_time": 322.577858,
+                "end_time": 325.018315,
+                "MASR_results": "曾銘宗:美國印太的司令",
+                "google_asr_results": "美國印太的司令",
+                "labels": "曾銘宗:美國印太的司令",
+                "asr_recognition_time": 0.32848644256591797,
+                "google_recognition_time": 0.5468323230743408,
+                "speaker_recognition_time": 0.08347511291503906
+        },
+        {
+                "start_time": 325.08578,
+                "end_time": 326.320669,
+                "MASR_results": "曾銘宗:呃愛為生認為",
+                "google_asr_results": "LINE沒聲對位",
+                "labels": "邱國正,曾銘宗:欸是戴維森認為Davidson",
+                "asr_recognition_time": 0.4041006565093994,
+                "google_recognition_time": 0.6956794261932373,
+                "speaker_recognition_time": 0.04214978218078613
+        },
+        {
+                "start_time": 326.62104700000003,
+                "end_time": 327.57463,
+                "MASR_results": "曾銘宗:中國大陸",
+                "google_asr_results": "中國大陸",
+                "labels": "曾銘宗:中國大陸",
+                "asr_recognition_time": 0.3113284111022949,
+                "google_recognition_time": 0.41870927810668945,
+                "speaker_recognition_time": 0.05938363075256348
+        },
+        {
+                "start_time": 327.736739,
+                "end_time": 328.642642,
+                "MASR_results": "曾銘宗:六年內",
+                "google_asr_results": "6點那",
+                "labels": "曾銘宗:六年內",
+                "asr_recognition_time": 0.313107967376709,
+                "google_recognition_time": 0.3478736877441406,
+                "speaker_recognition_time": 0.053813934326171875
+        },
+        {
+                "start_time": 329.034677,
+                "end_time": 330.751,
+                "MASR_results": "曾銘宗:會攻打臺灣",
+                "google_asr_results": "會攻打台灣",
+                "labels": "曾銘宗:會攻打台灣",
+                "asr_recognition_time": 0.23262619972229004,
+                "google_recognition_time": 0.3356056213378906,
+                "speaker_recognition_time": 0.08876657485961914
+        },
+        {
+                "start_time": 331.007,
+                "end_time": 332.080307,
+                "MASR_results": "曾銘宗:這樣的看法",
+                "google_asr_results": "相看吧",
+                "labels": "曾銘宗:這樣的看法",
+                "asr_recognition_time": 0.3690629005432129,
+                "google_recognition_time": 0.6032259464263916,
+                "speaker_recognition_time": 0.05593085289001465
+        },
+        {
+                "start_time": 332.228112,
+                "end_time": 334.365638,
+                "MASR_results": "曾銘宗:您認不在農他的看法",
+                "google_asr_results": "你認同他的看法",
+                "labels": "曾銘宗:你認不認同他的看法",
+                "asr_recognition_time": 0.5651645660400391,
+                "google_recognition_time": 1.3277051448822021,
+                "speaker_recognition_time": 0.09344959259033203
+        },
+        {
+                "start_time": 334.47379900000004,
+                "end_time": 336.895898,
+                "MASR_results": "邱國正:呃因為美國他是按照他的",
+                "google_asr_results": "樂美國桃園按照他的",
+                "labels": "邱國正:呃因為美國他是按照他的",
+                "asr_recognition_time": 0.6540365219116211,
+                "google_recognition_time": 0.6329307556152344,
+                "speaker_recognition_time": 0.08307576179504395
+        },
+        {
+                "start_time": 337.067543,
+                "end_time": 341.082125,
+                "MASR_results": "邱國正:這個估算而且他會完全以正規作戰的這種著眼",
+                "google_asr_results": "坐骨算而且它是完全正規作戰的中左眼",
+                "labels": "邱國正:這個估算而且他是完全以正規作戰的這種著眼",
+                "asr_recognition_time": 1.168506383895874,
+                "google_recognition_time": 0.8124334812164307,
+                "speaker_recognition_time": 0.1609480381011963
+        },
+        {
+                "start_time": 341.503,
+                "end_time": 342.722286,
+                "MASR_results": "邱國正:就我們來講的話",
+                "google_asr_results": "作文來講的話",
+                "labels": "邱國正:就我們來講的話",
+                "asr_recognition_time": 0.40132808685302734,
+                "google_recognition_time": 0.4815700054168701,
+                "speaker_recognition_time": 0.07366347312927246
+        },
+        {
+                "start_time": 342.94161,
+                "end_time": 344.26232200000004,
+                "MASR_results": "邱國正:任何一個可能",
+                "google_asr_results": "任何一個可能",
+                "labels": "邱國正:任何一個可能",
+                "asr_recognition_time": 0.41353821754455566,
+                "google_recognition_time": 0.30008792877197266,
+                "speaker_recognition_time": 0.06347393989562988
+        },
+        {
+                "start_time": 344.319,
+                "end_time": 346.367,
+                "MASR_results": "邱國正:喔都可以列列進去",
+                "google_asr_results": "都可以列別進去",
+                "labels": "邱國正:喔都可以列列進去",
+                "asr_recognition_time": 0.4061908721923828,
+                "google_recognition_time": 0.45244693756103516,
+                "speaker_recognition_time": 0.08204317092895508
+        },
+        {
+                "start_time": 346.623,
+                "end_time": 349.695,
+                "MASR_results": "邱國正:但我們國軍的準備不以六年為期限",
+                "google_asr_results": "在我們國軍的準備不以6年為期限",
+                "labels": "邱國正:但我們國軍的準備不以六年為期限",
+                "asr_recognition_time": 0.8506488800048828,
+                "google_recognition_time": 0.682396650314331,
+                "speaker_recognition_time": 0.10216069221496582
+        },
+        {
+                "start_time": 349.81217200000003,
+                "end_time": 353.791,
+                "MASR_results": "邱國正:喔聽說六人有才大我這五年就可以怎麼樣沒有",
+                "google_asr_results": "偶爾聽我說5年就可以省了沒有",
+                "labels": "邱國正:喔聽說六年以後才打我這五年就可以省掉了沒有",
+                "asr_recognition_time": 1.157461404800415,
+                "google_recognition_time": 2.884305953979492,
+                "speaker_recognition_time": 0.16266226768493652
+        },
+        {
+                "start_time": 354.184347,
+                "end_time": 355.276199,
+                "MASR_results": "邱國正:我的認知就",
+                "google_asr_results": "火車站19",
+                "labels": "邱國正:我的認知就",
+                "asr_recognition_time": 0.36702990531921387,
+                "google_recognition_time": 0.34995412826538086,
+                "speaker_recognition_time": 0.05105280876159668
+        },
+        {
+                "start_time": 355.438308,
+                "end_time": 357.887,
+                "MASR_results": "邱國正:未來六總統他如果打握怎麼辦",
+                "google_asr_results": "未來6個鐘頭他就會打我怎麼辦",
+                "labels": "邱國正:未來六個鐘頭他如果打我怎麼辦",
+                "asr_recognition_time": 0.5302376747131348,
+                "google_recognition_time": 1.0227093696594238,
+                "speaker_recognition_time": 0.07772541046142578
+        },
+        {
+                "start_time": 358.15121,
+                "end_time": 359.667446,
+                "MASR_results": "邱國正:我們永遠以這個",
+                "google_asr_results": "朋友約你出來",
+                "labels": "邱國正:我們永遠以這個",
+                "asr_recognition_time": 0.4496035575866699,
+                "google_recognition_time": 1.1470263004302979,
+                "speaker_recognition_time": 0.0544896125793457
+        },
+        {
+                "start_time": 359.796179,
+                "end_time": 362.394692,
+                "MASR_results": "邱國正:喔能夠立即作戰的這種著眼喔",
+                "google_asr_results": "立即作戰的中左眼啊",
+                "labels": "邱國正:喔能夠立即作戰的這種著眼哪",
+                "asr_recognition_time": 0.5319175720214844,
+                "google_recognition_time": 1.1336801052093506,
+                "speaker_recognition_time": 0.1254439353942871
+        },
+        {
+                "start_time": 362.528193,
+                "end_time": 364.397215,
+                "MASR_results": "邱國正:來做好這個印片準備",
+                "google_asr_results": "的做好就有應變準備",
+                "labels": "邱國正:來做好這個應變準備",
+                "asr_recognition_time": 0.5357041358947754,
+                "google_recognition_time": 0.6247291564941406,
+                "speaker_recognition_time": 0.06604480743408203
+        },
+        {
+                "start_time": 364.945524,
+                "end_time": 365.52721,
+                "MASR_results": "曾銘宗:部長",
+                "google_asr_results": "無法辨識",
+                "labels": "曾銘宗:部長",
+                "asr_recognition_time": 0.2682044506072998,
+                "google_recognition_time": 0.2209630012512207,
+                "speaker_recognition_time": 0.029278993606567383
+        },
+        {
+                "start_time": 365.660711,
+                "end_time": 368.888588,
+                "MASR_results": "曾銘宗:時間不在我們這邊的所以我們你有還清楚了",
+                "google_asr_results": "時間不在我們這一邊的所有來清楚啦",
+                "labels": "曾銘宗,邱國正:時間不在我們這一邊啦呃是的沒有錯你比我還清楚啦",
+                "asr_recognition_time": 1.012634515762329,
+                "google_recognition_time": 1.301361083984375,
+                "speaker_recognition_time": 0.22095179557800293
+        },
+        {
+                "start_time": 369.050697,
+                "end_time": 372.388235,
+                "MASR_results": "曾銘宗:你辦法我的想法就是你還沒有達問題其實部長",
+                "google_asr_results": "我的想法就是你還沒回答問題記得不辣",
+                "labels": "邱國正,曾銘宗:沒有錯那我的想法就是你還沒回答我問題其實部長",
+                "asr_recognition_time": 1.065284013748169,
+                "google_recognition_time": 0.8939123153686523,
+                "speaker_recognition_time": 0.10709929466247559
+        },
+        {
+                "start_time": 372.488981,
+                "end_time": 374.047469,
+                "MASR_results": "廖婉汝:你從",
+                "google_asr_results": "WeChat",
+                "labels": "曾銘宗:你從",
+                "asr_recognition_time": 0.2844078540802002,
+                "google_recognition_time": 0.5350334644317627,
+                "speaker_recognition_time": 0.0818178653717041
+        },
+        {
+                "start_time": 374.104684,
+                "end_time": 378.10973,
+                "MASR_results": "曾銘宗:退輔會到國安局到現在國防部長你達詢的技巧",
+                "google_asr_results": "退伍會到國安里到消防部長你答詢的技巧",
+                "labels": "曾銘宗:退輔會到國安局到現在國防部長你答詢的技巧",
+                "asr_recognition_time": 0.9287924766540527,
+                "google_recognition_time": 1.5021231174468994,
+                "speaker_recognition_time": 0.13956117630004883
+        },
+        {
+                "start_time": 378.515002,
+                "end_time": 379.391,
+                "MASR_results": "曾銘宗:還有進度",
+                "google_asr_results": "還有進步",
+                "labels": "曾銘宗:很有進步",
+                "asr_recognition_time": 0.3290996551513672,
+                "google_recognition_time": 0.282426118850708,
+                "speaker_recognition_time": 0.046114444732666016
+        },
+        {
+                "start_time": 380.14086,
+                "end_time": 382.214902,
+                "MASR_results": "曾銘宗:還有進部因為這問了半天哪",
+                "google_asr_results": "還有進步又多了半天了",
+                "labels": "曾銘宗:很有進步因為我問了半天哪",
+                "asr_recognition_time": 0.6213557720184326,
+                "google_recognition_time": 1.097435712814331,
+                "speaker_recognition_time": 0.0986166000366211
+        },
+        {
+                "start_time": 382.243509,
+                "end_time": 383.936118,
+                "MASR_results": "曾銘宗:你都沒有針對問題打了",
+                "google_asr_results": "你都沒有針對問題答啦",
+                "labels": "曾銘宗:你都沒有針對我問題答啦",
+                "asr_recognition_time": 0.5486440658569336,
+                "google_recognition_time": 0.575178861618042,
+                "speaker_recognition_time": 0.059642791748046875
+        },
+        {
+                "start_time": 383.999,
+                "end_time": 386.753954,
+                "MASR_results": "邱國正:不過算了為不管危害喔下次喔",
+                "google_asr_results": "word轉換為還沒下次喔",
+                "labels": "曾銘宗,邱國正:不過算了我也不想為難你呃呵呵抱歉抱歉下次喔",
+                "asr_recognition_time": 0.7541499137878418,
+                "google_recognition_time": 0.5829808712005615,
+                "speaker_recognition_time": 0.14035344123840332
+        },
+        {
+                "start_time": 386.87792,
+                "end_time": 388.389348,
+                "MASR_results": "曾銘宗:我就不允許每這個",
+                "google_asr_results": "允許沒智慧",
+                "labels": "曾銘宗:我就不會允許每次我",
+                "asr_recognition_time": 0.5353565216064453,
+                "google_recognition_time": 0.591123104095459,
+                "speaker_recognition_time": 0.05623364448547363
+        },
+        {
+                "start_time": 388.441795,
+                "end_time": 390.14394,
+                "MASR_results": "曾銘宗:你從賭中國到現在",
+                "google_asr_results": "從頭到現在",
+                "labels": "曾銘宗:你從從頭到現在",
+                "asr_recognition_time": 0.5390739440917969,
+                "google_recognition_time": 0.5494723320007324,
+                "speaker_recognition_time": 0.0893867015838623
+        },
+        {
+                "start_time": 390.244066,
+                "end_time": 391.846084,
+                "MASR_results": "曾銘宗:你可不可以真的有問題打捏",
+                "google_asr_results": "你對真的有問題打呢",
+                "labels": "曾銘宗:你都沒針對我的問題答捏",
+                "asr_recognition_time": 0.6421916484832764,
+                "google_recognition_time": 0.8015146255493164,
+                "speaker_recognition_time": 0.08202481269836426
+        },
+        {
+                "start_time": 392.027265,
+                "end_time": 397.319647,
+                "MASR_results": "邱國正:我這很抱歉我我不是刻意的喔因為有些問但是你搭你打一個技巧",
+                "google_asr_results": "我說很抱歉我我不刻意的啊因為有些問題是你打你打給俊翔",
+                "labels": "邱國正,曾銘宗:我真的很抱歉我我不是刻意的啊因為有些問題但是你答你答詢的技巧",
+                "asr_recognition_time": 1.4533250331878662,
+                "google_recognition_time": 1.130298376083374,
+                "speaker_recognition_time": 0.2790060043334961
+        },
+        {
+                "start_time": 398.13496,
+                "end_time": 399.055167,
+                "MASR_results": "曾銘宗:刮目上看",
+                "google_asr_results": "刮目相看",
+                "labels": "曾銘宗:刮目相看",
+                "asr_recognition_time": 0.17960882186889648,
+                "google_recognition_time": 0.23715734481811523,
+                "speaker_recognition_time": 0.05093264579772949
+        },
+        {
+                "start_time": 399.493815,
+                "end_time": 399.918159,
+                "MASR_results": "曾銘宗:好不好",
+                "google_asr_results": "好不好",
+                "labels": "曾銘宗:好不好",
+                "asr_recognition_time": 0.30312681198120117,
+                "google_recognition_time": 0.19582700729370117,
+                "speaker_recognition_time": 0.04729175567626953
+        },
+        {
+                "start_time": 400.003982,
+                "end_time": 401.100602,
+                "MASR_results": "曾銘宗:我就問你嘛",
+                "google_asr_results": "我就問你嗎",
+                "labels": "曾銘宗:我就問你嘛",
+                "asr_recognition_time": 0.37068676948547363,
+                "google_recognition_time": 0.27490997314453125,
+                "speaker_recognition_time": 0.04304027557373047
+        },
+        {
+                "start_time": 401.372373,
+                "end_time": 402.488064,
+                "MASR_results": "曾銘宗:你到底",
+                "google_asr_results": "到底",
+                "labels": "曾銘宗:你到底",
+                "asr_recognition_time": 0.31890058517456055,
+                "google_recognition_time": 0.3344898223876953,
+                "speaker_recognition_time": 0.07349181175231934
+        },
+        {
+                "start_time": 403.199,
+                "end_time": 405.096112,
+                "MASR_results": "曾銘宗:有沒有暫同帶衛生",
+                "google_asr_results": "你們贊同帶回聲",
+                "labels": "曾銘宗:有沒有贊同戴維森",
+                "asr_recognition_time": 0.39101743698120117,
+                "google_recognition_time": 0.637204647064209,
+                "speaker_recognition_time": 0.09833312034606934
+        },
+        {
+                "start_time": 405.820835,
+                "end_time": 406.869775,
+                "MASR_results": "曾銘宗:試驗的看法",
+                "google_asr_results": "看看吧",
+                "labels": "曾銘宗:適應的看法",
+                "asr_recognition_time": 0.36789822578430176,
+                "google_recognition_time": 0.6605207920074463,
+                "speaker_recognition_time": 0.03680419921875
+        },
+        {
+                "start_time": 407.039,
+                "end_time": 408.409811,
+                "MASR_results": "邱國正:我沒有什麼暫同那種",
+                "google_asr_results": "我沒有在忙人喔",
+                "labels": "邱國正:我沒辦法贊同那種",
+                "asr_recognition_time": 0.4932377338409424,
+                "google_recognition_time": 0.5628974437713623,
+                "speaker_recognition_time": 0.06012845039367676
+        },
+        {
+                "start_time": 408.524241,
+                "end_time": 410.927715,
+                "MASR_results": "邱國正:這種版本很多那你不同意",
+                "google_asr_results": "最版本很多",
+                "labels": "邱國正,曾銘宗:這種版本很多那你不同意",
+                "asr_recognition_time": 0.655709981918335,
+                "google_recognition_time": 1.1415250301361084,
+                "speaker_recognition_time": 0.11633038520812988
+        },
+        {
+                "start_time": 411.203807,
+                "end_time": 412.895426,
+                "MASR_results": "邱國正:不過我什麼能不同意呢",
+                "google_asr_results": "高雄牛不同意了",
+                "labels": "邱國正:不我怎麼能不同意咧",
+                "asr_recognition_time": 0.527015209197998,
+                "google_recognition_time": 0.8056025505065918,
+                "speaker_recognition_time": 0.06815767288208008
+        },
+        {
+                "start_time": 413.072829,
+                "end_time": 414.879867,
+                "MASR_results": "邱國正:六年到四年在兩年在",
+                "google_asr_results": "6元的4年再講",
+                "labels": "邱國正:六年到四年再兩年內",
+                "asr_recognition_time": 0.3634190559387207,
+                "google_recognition_time": 1.0019071102142334,
+                "speaker_recognition_time": 0.09787511825561523
+        },
+        {
+                "start_time": 414.975,
+                "end_time": 416.255,
+                "MASR_results": "邱國正:幾個月的都有",
+                "google_asr_results": "幾個月的都有",
+                "labels": "邱國正:幾個月的都有",
+                "asr_recognition_time": 0.4045712947845459,
+                "google_recognition_time": 0.7322249412536621,
+                "speaker_recognition_time": 0.05700993537902832
+        },
+        {
+                "start_time": 416.767,
+                "end_time": 417.378253,
+                "MASR_results": "邱國正:你要我欸",
+                "google_asr_results": "腰圍",
+                "labels": "邱國正:要我欸",
+                "asr_recognition_time": 0.2916717529296875,
+                "google_recognition_time": 0.35567235946655273,
+                "speaker_recognition_time": 0.03373217582702637
+        },
+        {
+                "start_time": 417.449772,
+                "end_time": 419.218667,
+                "MASR_results": "邱國正:就土地哪個相信我不認",
+                "google_asr_results": "古晉哪一個小姐我不是",
+                "labels": "邱國正:就篤定哪一個相信我不是",
+                "asr_recognition_time": 0.3823103904724121,
+                "google_recognition_time": 1.3179903030395508,
+                "speaker_recognition_time": 0.07046914100646973
+        },
+        {
+                "start_time": 419.327,
+                "end_time": 420.334359,
+                "MASR_results": "邱國正:因為國軍",
+                "google_asr_results": "樂鍋居",
+                "labels": "邱國正:因為國軍",
+                "asr_recognition_time": 0.36417555809020996,
+                "google_recognition_time": 0.31926870346069336,
+                "speaker_recognition_time": 0.06875491142272949
+        },
+        {
+                "start_time": 420.382038,
+                "end_time": 423.719576,
+                "MASR_results": "邱國正:研判敵情白說各種可能我都要列進去",
+                "google_asr_results": "嚴珮的裙襬有什麼可能我都要列警訊",
+                "labels": "邱國正:研判敵情本來就有各種可能我都要列進去",
+                "asr_recognition_time": 0.6997599601745605,
+                "google_recognition_time": 1.2807443141937256,
+                "speaker_recognition_time": 0.10418462753295898
+        },
+        {
+                "start_time": 423.905525,
+                "end_time": 426.4039110000001,
+                "MASR_results": "邱國正:我不能講相信哪我只相信我自己",
+                "google_asr_results": "我跟你講消去哪裡我只相信我自己",
+                "labels": "邱國正:我不能講相信哪個我只相信我自己",
+                "asr_recognition_time": 0.563873291015625,
+                "google_recognition_time": 1.1090223789215088,
+                "speaker_recognition_time": 0.1151275634765625
+        },
+        {
+                "start_time": 427.619728,
+                "end_time": 430.6187450000001,
+                "MASR_results": "邱國正:我覺得我相信你探僑欸假如說這個答案啦",
+                "google_asr_results": "為你做的",
+                "labels": "邱國正,曾銘宗:我這你只相信你自己喔欸假如說這個答案部長",
+                "asr_recognition_time": 0.9480750560760498,
+                "google_recognition_time": 1.3515191078186035,
+                "speaker_recognition_time": 0.10973882675170898
+        },
+        {
+                "start_time": 431.219502,
+                "end_time": 436.950532,
+                "MASR_results": "曾銘宗:您這樣我會不相信您是相信你自己那太危險啦不會我不好是一個國家",
+                "google_asr_results": "你藏我也不相信我是相信你自己那太危險了會一個家",
+                "labels": "曾銘宗,邱國正:你這樣我也不相信你只相信你自己那太危險了呃不不不是一個國家",
+                "asr_recognition_time": 1.8465564250946045,
+                "google_recognition_time": 1.2812118530273438,
+                "speaker_recognition_time": 0.23859143257141113
+        },
+        {
+                "start_time": 437.27475,
+                "end_time": 438.495336,
+                "MASR_results": "曾銘宗:國防部這個團隊",
+                "google_asr_results": "團隊",
+                "labels": "曾銘宗:國防部這個團隊",
+                "asr_recognition_time": 0.4408743381500244,
+                "google_recognition_time": 0.5876924991607666,
+                "speaker_recognition_time": 0.04664969444274902
+        },
+        {
+                "start_time": 438.60023,
+                "end_time": 446.548339,
+                "MASR_results": "邱國正:你自己相信自己然後講你的話我不同因為委員剛剛已經把我建議人欸好像沒有一個好問題答覆到這個你要的這個答案",
+                "google_asr_results": "去相信你自己老講你的話我也不同因為我人都已經幫我建議了好像沒有一個好問答覆到這個你要整個答案",
+                "labels": "曾銘宗,邱國正:你只相信你自己老實講你的話我也不同意因為委員剛剛已經把我剛剛建議講說啊好像沒有一個好像問題答覆到這個你要的這個答案",
+                "asr_recognition_time": 3.547788143157959,
+                "google_recognition_time": 2.4677741527557373,
+                "speaker_recognition_time": 0.46874213218688965
+        },
+        {
+                "start_time": 446.9011650000001,
+                "end_time": 449.938325,
+                "MASR_results": "邱國正:但我覺得講很多問題不講說試飛對錯",
+                "google_asr_results": "帶我去很多你不想說是非對錯",
+                "labels": "邱國正:但我覺得講說很多問題不是講說是非對錯",
+                "asr_recognition_time": 0.889768123626709,
+                "google_recognition_time": 1.4589533805847168,
+                "speaker_recognition_time": 0.1066737174987793
+        },
+        {
+                "start_time": 450.357901,
+                "end_time": 453.075611,
+                "MASR_results": "邱國正:你好他有時候選擇而且是問達",
+                "google_asr_results": "你好的選擇問答",
+                "labels": "邱國正:你好歹也有一個選擇而且是問答",
+                "asr_recognition_time": 0.7773599624633789,
+                "google_recognition_time": 1.88832688331604,
+                "speaker_recognition_time": 0.12622809410095215
+        },
+        {
+                "start_time": 453.433204,
+                "end_time": 455.61214,
+                "MASR_results": "邱國正:我都達我待會要做一個說明的",
+                "google_asr_results": "我都找我在我要做個說明啦",
+                "labels": "邱國正:我都答我但我要做個說明哪",
+                "asr_recognition_time": 0.6875097751617432,
+                "google_recognition_time": 0.6164336204528809,
+                "speaker_recognition_time": 0.08221220970153809
+        },
+        {
+                "start_time": 455.935,
+                "end_time": 459.192842,
+                "MASR_results": "邱國正:但我覺得我不是想刻意要跟委員做一個辯解幹嘛",
+                "google_asr_results": "對我就我不忍可以要跟我聯絡一個變血代碼",
+                "labels": "邱國正:對我覺得我不能刻意要跟委員做一個辯解幹什麼",
+                "asr_recognition_time": 0.8840837478637695,
+                "google_recognition_time": 0.6331088542938232,
+                "speaker_recognition_time": 0.1324787139892578
+        },
+        {
+                "start_time": 459.316808,
+                "end_time": 461.133382,
+                "MASR_results": "邱國正:但因為委員剛剛講喔好好就",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:但因為委員剛一講啊好像很就",
+                "asr_recognition_time": 0.6810159683227539,
+                "google_recognition_time": 0.6410887241363525,
+                "speaker_recognition_time": 0.06817030906677246
+        },
+        {
+                "start_time": 461.352706,
+                "end_time": 464.003665,
+                "MASR_results": "邱國正:這對我來講我覺得很這是很大的個挖苦",
+                "google_asr_results": "這對我來講我覺得這是很大的有八苦",
+                "labels": "邱國正:這對我來講我覺得這是很大的挖苦",
+                "asr_recognition_time": 0.8992955684661865,
+                "google_recognition_time": 1.5219712257385254,
+                "speaker_recognition_time": 0.11017823219299316
+        },
+        {
+                "start_time": 464.265901,
+                "end_time": 466.158762,
+                "MASR_results": "邱國正:我沒有辦法這個承擔",
+                "google_asr_results": "我沒有辦法就要承擔",
+                "labels": "邱國正:我沒有辦法這個承擔",
+                "asr_recognition_time": 0.5411622524261475,
+                "google_recognition_time": 0.7941875457763672,
+                "speaker_recognition_time": 0.09539246559143066
+        },
+        {
+                "start_time": 466.297031,
+                "end_time": 467.64635,
+                "MASR_results": "曾銘宗:我沒有花特別對吧",
+                "google_asr_results": "也不",
+                "labels": "邱國正:我沒有挖苦你欸部長我",
+                "asr_recognition_time": 0.49144935607910156,
+                "google_recognition_time": 0.6628680229187012,
+                "speaker_recognition_time": 0.048401594161987305
+        },
+        {
+                "start_time": 467.7321730000001,
+                "end_time": 470.015,
+                "MASR_results": "曾銘宗:我那時候哪一句話花過禮你可以澄清",
+                "google_asr_results": "我那時候來就劃不理你可以承接",
+                "labels": "曾銘宗:我那時候哪一句話挖苦你你可以澄清",
+                "asr_recognition_time": 0.6129772663116455,
+                "google_recognition_time": 1.826427698135376,
+                "speaker_recognition_time": 0.07925057411193848
+        },
+        {
+                "start_time": 470.271,
+                "end_time": 474.343813,
+                "MASR_results": "邱國正:那對因為我並沒有講在這個言語對話當取巧",
+                "google_asr_results": "因為我並沒有想在這個言語對話中取予求",
+                "labels": "邱國正:欸對因為我並沒有想在這個言語對話當中取巧",
+                "asr_recognition_time": 1.1337993144989014,
+                "google_recognition_time": 1.6870675086975098,
+                "speaker_recognition_time": 0.16380834579467773
+        },
+        {
+                "start_time": 474.569358,
+                "end_time": 475.647,
+                "MASR_results": "邱國正:這不是進步",
+                "google_asr_results": "進步",
+                "labels": "邱國正:這不是進步",
+                "asr_recognition_time": 0.3702714443206787,
+                "google_recognition_time": 0.6295609474182129,
+                "speaker_recognition_time": 0.04060029983520508
+        },
+        {
+                "start_time": 475.842391,
+                "end_time": 477.883057,
+                "MASR_results": "邱國正:這邊一老案好像邊很滑頭",
+                "google_asr_results": "華陀",
+                "labels": "邱國正:這被你搞得欸好像變的很滑頭",
+                "asr_recognition_time": 0.6140625476837158,
+                "google_recognition_time": 0.3267498016357422,
+                "speaker_recognition_time": 0.0771477222442627
+        },
+        {
+                "start_time": 478.026095,
+                "end_time": 481.258739,
+                "MASR_results": "曾銘宗:呃我長我聽到我很我沒有意思喔",
+                "google_asr_results": "但我覺得我很沒有意思喔",
+                "labels": "曾銘宗,邱國正:欸部長我我我聽到我很難過我沒有意思喔",
+                "asr_recognition_time": 0.6235272884368896,
+                "google_recognition_time": 1.1170222759246826,
+                "speaker_recognition_time": 0.10773706436157227
+        },
+        {
+                "start_time": 481.559118,
+                "end_time": 483.7905,
+                "MASR_results": "曾銘宗:我也當過政務官我覺得在立海",
+                "google_asr_results": "當過主管我覺得太厲害",
+                "labels": "曾銘宗:我也當過政務官我覺得在立法院",
+                "asr_recognition_time": 0.6920351982116699,
+                "google_recognition_time": 1.3385968208312988,
+                "speaker_recognition_time": 0.0721127986907959
+        },
+        {
+                "start_time": 483.981217,
+                "end_time": 485.71196900000007,
+                "MASR_results": "曾銘宗:達提的技巧",
+                "google_asr_results": "答題的技巧",
+                "labels": "曾銘宗:答題的技巧",
+                "asr_recognition_time": 0.23643755912780762,
+                "google_recognition_time": 0.3653578758239746,
+                "speaker_recognition_time": 0.062447547912597656
+        },
+        {
+                "start_time": 486.406855,
+                "end_time": 489.230688,
+                "MASR_results": "曾銘宗:進步欸這個我沒有挖苦理給部長",
+                "google_asr_results": "進步",
+                "labels": "曾銘宗,廖婉汝:進步肯定欸這個我沒有挖苦你欸部長",
+                "asr_recognition_time": 0.7913315296173096,
+                "google_recognition_time": 0.969057559967041,
+                "speaker_recognition_time": 0.1205599308013916
+        },
+        {
+                "start_time": 489.349886,
+                "end_time": 492.143882,
+                "MASR_results": "邱國正:呃那好那這樣子喔我就跟委員報告",
+                "google_asr_results": "向左就跟委員報告",
+                "labels": "邱國正:欸這樣好那這樣講的話我就跟委員報告",
+                "asr_recognition_time": 0.8847441673278809,
+                "google_recognition_time": 1.4941613674163818,
+                "speaker_recognition_time": 0.11810827255249023
+        },
+        {
+                "start_time": 492.272616,
+                "end_time": 495.772263,
+                "MASR_results": "邱國正:我並沒要刻意來做一個研語方面的一個應對啊",
+                "google_asr_results": "我並沒有刻意來做言語方面的應對啊",
+                "labels": "邱國正:我並沒有刻意來做一個言語方面的一個應對啊",
+                "asr_recognition_time": 1.1311700344085693,
+                "google_recognition_time": 1.3175899982452393,
+                "speaker_recognition_time": 0.1252119541168213
+        },
+        {
+                "start_time": 495.896229,
+                "end_time": 498.308793,
+                "MASR_results": "邱國正:欸當前我這些案很能夠呃原順",
+                "google_asr_results": "中原可能過原色",
+                "labels": "邱國正:來彰顯我自己欸很能夠圓順",
+                "asr_recognition_time": 0.5236504077911377,
+                "google_recognition_time": 1.189737319946289,
+                "speaker_recognition_time": 0.12152910232543945
+        },
+        {
+                "start_time": 498.366008,
+                "end_time": 498.761744,
+                "MASR_results": "邱國正:沒有",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:沒有",
+                "asr_recognition_time": 0.25479936599731445,
+                "google_recognition_time": 0.2116539478302002,
+                "speaker_recognition_time": 0.025768756866455078
+        },
+        {
+                "start_time": 498.890478,
+                "end_time": 501.28397,
+                "MASR_results": "邱國正:好我就就問題來打問他",
+                "google_asr_results": "好我就就問題在打問號",
+                "labels": "曾銘宗,邱國正:好我就就問題來答問好",
+                "asr_recognition_time": 0.6470239162445068,
+                "google_recognition_time": 0.4920938014984131,
+                "speaker_recognition_time": 0.0979609489440918
+        },
+        {
+                "start_time": 501.503,
+                "end_time": 503.014722,
+                "MASR_results": "曾銘宗:我我還是曾經哪",
+                "google_asr_results": "我還在澄清啦",
+                "labels": "邱國正,曾銘宗:是我還是要澄清啊",
+                "asr_recognition_time": 0.42578816413879395,
+                "google_recognition_time": 0.7443327903747559,
+                "speaker_recognition_time": 0.055655479431152344
+        },
+        {
+                "start_time": 504.449863,
+                "end_time": 506.719389,
+                "MASR_results": "曾銘宗:政務官在立法院達詢",
+                "google_asr_results": "不關在立法院答詢",
+                "labels": "曾銘宗:政務官在立法院答詢",
+                "asr_recognition_time": 0.38814854621887207,
+                "google_recognition_time": 0.46504688262939453,
+                "speaker_recognition_time": 0.07600879669189453
+        },
+        {
+                "start_time": 506.879,
+                "end_time": 508.345247,
+                "MASR_results": "曾銘宗:你廢子你的立場",
+                "google_asr_results": "這是你的立場",
+                "labels": "曾銘宗:Defense你的立場",
+                "asr_recognition_time": 0.28705501556396484,
+                "google_recognition_time": 0.5554115772247314,
+                "speaker_recognition_time": 0.05439305305480957
+        },
+        {
+                "start_time": 509.632584,
+                "end_time": 510.557559,
+                "MASR_results": "曾銘宗:非常正當",
+                "google_asr_results": "非常正當",
+                "labels": "曾銘宗:非常正當",
+                "asr_recognition_time": 0.18905854225158691,
+                "google_recognition_time": 0.4070930480957031,
+                "speaker_recognition_time": 0.04567122459411621
+        },
+        {
+                "start_time": 510.705364,
+                "end_time": 512.511,
+                "MASR_results": "曾銘宗:但是我覺得還是要針對",
+                "google_asr_results": "但是我覺得還是要針對",
+                "labels": "曾銘宗:但是我覺得還是要針對",
+                "asr_recognition_time": 0.5834226608276367,
+                "google_recognition_time": 0.47750282287597656,
+                "speaker_recognition_time": 0.06354117393493652
+        },
+        {
+                "start_time": 512.684047,
+                "end_time": 513.63763,
+                "MASR_results": "曾銘宗:委員的",
+                "google_asr_results": "胃癌的",
+                "labels": "曾銘宗:委員的",
+                "asr_recognition_time": 0.28509950637817383,
+                "google_recognition_time": 0.3285863399505615,
+                "speaker_recognition_time": 0.03631234169006348
+        },
+        {
+                "start_time": 514.500622,
+                "end_time": 515.46374,
+                "MASR_results": "曾銘宗:題目來打",
+                "google_asr_results": "題目來打",
+                "labels": "曾銘宗:題目來答",
+                "asr_recognition_time": 0.19068241119384766,
+                "google_recognition_time": 0.4481172561645508,
+                "speaker_recognition_time": 0.04278373718261719
+        },
+        {
+                "start_time": 515.7355110000001,
+                "end_time": 517.1086700000001,
+                "MASR_results": "曾銘宗:這樣才不會浪費時間",
+                "google_asr_results": "這樣才不會浪費時間",
+                "labels": "曾銘宗:這樣才不會浪費時間",
+                "asr_recognition_time": 0.5061876773834229,
+                "google_recognition_time": 0.5098254680633545,
+                "speaker_recognition_time": 0.07644414901733398
+        },
+        {
+                "start_time": 517.151581,
+                "end_time": 518.534276,
+                "MASR_results": "曾銘宗:我覺得我在是曾經",
+                "google_asr_results": "不再是曾經",
+                "labels": "曾銘宗:我覺我要再次澄清",
+                "asr_recognition_time": 0.47205281257629395,
+                "google_recognition_time": 1.0260179042816162,
+                "speaker_recognition_time": 0.05240678787231445
+        },
+        {
+                "start_time": 518.70592,
+                "end_time": 520.079079,
+                "MASR_results": "曾銘宗:我沒有要挖苦你",
+                "google_asr_results": "我也沒有要挖苦你",
+                "labels": "曾銘宗:我也沒有要挖苦你",
+                "asr_recognition_time": 0.4482417106628418,
+                "google_recognition_time": 0.7157347202301025,
+                "speaker_recognition_time": 0.07236194610595703
+        },
+        {
+                "start_time": 520.255492,
+                "end_time": 521.215,
+                "MASR_results": "曾銘宗:我們也說",
+                "google_asr_results": "我沒有說",
+                "labels": "曾銘宗:我沒有說",
+                "asr_recognition_time": 0.3390200138092041,
+                "google_recognition_time": 0.4564793109893799,
+                "speaker_recognition_time": 0.0628664493560791
+        },
+        {
+                "start_time": 521.437934,
+                "end_time": 523.55332,
+                "MASR_results": "曾銘宗:因為你你",
+                "google_asr_results": "玉米粒",
+                "labels": "曾銘宗,廖婉汝:因為你你你哈哈",
+                "asr_recognition_time": 0.445223331451416,
+                "google_recognition_time": 0.5840063095092773,
+                "speaker_recognition_time": 0.07754826545715332
+        },
+        {
+                "start_time": 524.179483,
+                "end_time": 524.732561,
+                "MASR_results": "邱國正:好",
+                "google_asr_results": "好啦",
+                "labels": "曾銘宗:好啦",
+                "asr_recognition_time": 0.2687506675720215,
+                "google_recognition_time": 0.22457194328308105,
+                "speaker_recognition_time": 0.028856515884399414
+        },
+        {
+                "start_time": 524.842223,
+                "end_time": 526.42517,
+                "MASR_results": "曾銘宗:想盡再點請教啊",
+                "google_asr_results": "下次再跟你請教",
+                "labels": "曾銘宗,廖婉汝:下次再跟你請教好啦哈哈",
+                "asr_recognition_time": 0.5146212577819824,
+                "google_recognition_time": 0.6335089206695557,
+                "speaker_recognition_time": 0.08954262733459473
+        },
+        {
+                "start_time": 527.278626,
+                "end_time": 531.583254,
+                "MASR_results": "廖婉汝:謝謝張委員他不當然有外口人哪呃",
+                "google_asr_results": "謝謝這位也差不多",
+                "labels": "廖婉汝,邱國正:謝謝曾委員是是他不太會挖苦人啦哈哈哈哈是是是是",
+                "asr_recognition_time": 1.083505630493164,
+                "google_recognition_time": 2.1532232761383057,
+                "speaker_recognition_time": 0.16997933387756348
+        }
+]

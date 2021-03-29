@@ -1,0 +1,1876 @@
+[
+        {
+                "speech_accuracy": 83,
+                "speaker_accuracy": 88
+        },
+        {
+                "start_time": 0.76725,
+                "end_time": 3.384608,
+                "MASR_results": "蔡適應:呃感謝主席齁能不能請部長就備詢臺",
+                "google_asr_results": "感謝主席好能不能選部長就備詢台",
+                "labels": "蔡適應:來感謝主席齁能不能請部長就備詢台",
+                "asr_recognition_time": 0.8395392894744873,
+                "google_recognition_time": 1.1586315631866455,
+                "speaker_recognition_time": 0.11334514617919922
+        },
+        {
+                "start_time": 3.634916,
+                "end_time": 4.3804,
+                "MASR_results": "廖婉汝:我部長請",
+                "google_asr_results": "無法辨識",
+                "labels": "廖婉汝:部長請",
+                "asr_recognition_time": 0.33302855491638184,
+                "google_recognition_time": 0.2129688262939453,
+                "speaker_recognition_time": 0.0318140983581543
+        },
+        {
+                "start_time": 10.376924,
+                "end_time": 11.078876,
+                "MASR_results": "邱國正:趙委員好",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:蔡委員好",
+                "asr_recognition_time": 0.1902477741241455,
+                "google_recognition_time": 0.36275386810302734,
+                "speaker_recognition_time": 0.04155850410461426
+        },
+        {
+                "start_time": 11.111525,
+                "end_time": 14.659377,
+                "MASR_results": "蔡適應:欸部長好齁我想這是我們這個會席第一時間到面齁是",
+                "google_asr_results": "講好和講就是我們這個會期第一次見到面",
+                "labels": "蔡適應,邱國正:欸部長好齁我想這是這個會期我們第一次見到面齁是",
+                "asr_recognition_time": 1.2879137992858887,
+                "google_recognition_time": 1.0563163757324219,
+                "speaker_recognition_time": 0.14640307426452637
+        },
+        {
+                "start_time": 14.735558,
+                "end_time": 16.49316,
+                "MASR_results": "蔡適應:那首先在這邊呃",
+                "google_asr_results": "大葉首先在這邊哦",
+                "labels": "蔡適應:那也首先在這邊呃",
+                "asr_recognition_time": 0.5440716743469238,
+                "google_recognition_time": 0.4064185619354248,
+                "speaker_recognition_time": 0.06784844398498535
+        },
+        {
+                "start_time": 16.558458,
+                "end_time": 17.211437,
+                "MASR_results": "蔡適應:恭喜",
+                "google_asr_results": "恭喜",
+                "labels": "蔡適應:恭喜",
+                "asr_recognition_time": 0.1290910243988037,
+                "google_recognition_time": 0.2570304870605469,
+                "speaker_recognition_time": 0.03735923767089844
+        },
+        {
+                "start_time": 17.652198,
+                "end_time": 19.257438,
+                "MASR_results": "蔡適應:我們部長齁從這個",
+                "google_asr_results": "人不長厚重這個",
+                "labels": "蔡適應:我們部長齁從這個",
+                "asr_recognition_time": 0.4864161014556885,
+                "google_recognition_time": 0.5031569004058838,
+                "speaker_recognition_time": 0.08916592597961426
+        },
+        {
+                "start_time": 19.295528,
+                "end_time": 20.764731,
+                "MASR_results": "蔡適應:局長來接任部長",
+                "google_asr_results": "局長來接任部長",
+                "labels": "蔡適應:局長來接任部長",
+                "asr_recognition_time": 0.2821207046508789,
+                "google_recognition_time": 0.35004615783691406,
+                "speaker_recognition_time": 0.061554670333862305
+        },
+        {
+                "start_time": 20.992,
+                "end_time": 21.504,
+                "MASR_results": "蔡適應:我想",
+                "google_asr_results": "無法辨識",
+                "labels": "蔡適應:我想",
+                "asr_recognition_time": 0.2621188163757324,
+                "google_recognition_time": 0.2410879135131836,
+                "speaker_recognition_time": 0.023919343948364258
+        },
+        {
+                "start_time": 23.077364,
+                "end_time": 31.299458,
+                "MASR_results": "蔡適應:外交國防委員會的幾個單位齁你算力量滿多例是兩個國外交委員會兩個單位沒待過外交部跟僑會沒臺過會議啦齁剩下真的單位都來過啦好",
+                "google_asr_results": "外交國防委員會的幾個單位後你算力量蠻多那兩個官委員會兩個單位沒帶國外交部跟著會沒帶過而已然後剩下這個單位都來過了",
+                "labels": "蔡適應:外交國防委員會的幾個單位齁你算歷練滿多你只剩下兩個國防外交委員會兩個單位沒待過外交部跟僑委會沒待過而已啦齁剩下三個單位你都來過了好",
+                "asr_recognition_time": 4.197893857955933,
+                "google_recognition_time": 3.070725917816162,
+                "speaker_recognition_time": 0.28385138511657715
+        },
+        {
+                "start_time": 31.898022,
+                "end_time": 33.356342,
+                "MASR_results": "蔡適應:那代表當然呃",
+                "google_asr_results": "代表當然爾",
+                "labels": "蔡適應:那代表當然呃",
+                "asr_recognition_time": 0.4377434253692627,
+                "google_recognition_time": 0.5908498764038086,
+                "speaker_recognition_time": 0.05290555953979492
+        },
+        {
+                "start_time": 34.048,
+                "end_time": 38.689003,
+                "MASR_results": "蔡適應:總統的肯定啦齁當然這是一個艱巨的一個任務齁因為我知道你上了沒多久之後",
+                "google_asr_results": "總統的肯定好當然這是一個艱鉅的任務因為我知道你上次沒多久之後",
+                "labels": "蔡適應:總統的肯定啦齁當然這是一個艱鉅的一個任務齁因為我知道你上任沒多久之後",
+                "asr_recognition_time": 1.8479342460632324,
+                "google_recognition_time": 1.203613519668579,
+                "speaker_recognition_time": 0.17795467376708984
+        },
+        {
+                "start_time": 39.168,
+                "end_time": 39.842599,
+                "MASR_results": "蔡適應:這個",
+                "google_asr_results": "這個",
+                "labels": "蔡適應:這個",
+                "asr_recognition_time": 0.273212194442749,
+                "google_recognition_time": 0.2232506275177002,
+                "speaker_recognition_time": 0.029862403869628906
+        },
+        {
+                "start_time": 40.022168,
+                "end_time": 42.944249,
+                "MASR_results": "蔡適應:美軍太平洋視應就曾經有做一個",
+                "google_asr_results": "美軍太平洋司令就有曾經有做一個",
+                "labels": "蔡適應:美軍太平洋司令就有曾經有做一個",
+                "asr_recognition_time": 0.6183884143829346,
+                "google_recognition_time": 0.5059893131256104,
+                "speaker_recognition_time": 0.09942269325256348
+        },
+        {
+                "start_time": 43.008,
+                "end_time": 46.089431,
+                "MASR_results": "蔡適應:呃在國會早上訪問臺等等之內說到說",
+                "google_asr_results": "我在國會長訪問還等等之類收到說",
+                "labels": "蔡適應:呃在國會的好像訪問還等等之類說到說",
+                "asr_recognition_time": 0.7198514938354492,
+                "google_recognition_time": 0.6423215866088867,
+                "speaker_recognition_time": 0.13446664810180664
+        },
+        {
+                "start_time": 46.410479,
+                "end_time": 53.56604,
+                "MASR_results": "蔡適應:中國在最近這幾年內有下六年內有可能完成大規模軍事公臺的準備等等那你也接受媒體的訪問啦齁好",
+                "google_asr_results": "中國在最近這幾年內酒駕6年內有可能完成大規模軍事攻台的準備等等那你也接受美麗的訪問好",
+                "labels": "蔡適應:中國在最近這幾年內尤其在六年內有可能完成大規模軍事攻台的準備等等那你也接受媒體的訪問啦齁好",
+                "asr_recognition_time": 2.9763436317443848,
+                "google_recognition_time": 1.7575347423553467,
+                "speaker_recognition_time": 0.2571706771850586
+        },
+        {
+                "start_time": 53.848998,
+                "end_time": 57.856,
+                "MASR_results": "蔡適應:那我想這個部分你都說也非常清楚了我要問的第一個問題是這樣子就說",
+                "google_asr_results": "那我想這個不跟你多說這樣清楚了我要問的第一個問題是這樣子就說",
+                "labels": "蔡適應:那我想這個部分你都說的非常清楚了我要問的第一個問題是這樣子齁就是說",
+                "asr_recognition_time": 1.6164209842681885,
+                "google_recognition_time": 1.1938986778259277,
+                "speaker_recognition_time": 0.13264679908752441
+        },
+        {
+                "start_time": 58.604861,
+                "end_time": 59.187101,
+                "MASR_results": "邱國正:我為什麼",
+                "google_asr_results": "我怎麼",
+                "labels": "蔡適應:我怎麼",
+                "asr_recognition_time": 0.3299739360809326,
+                "google_recognition_time": 0.339672327041626,
+                "speaker_recognition_time": 0.03043651580810547
+        },
+        {
+                "start_time": 59.829197,
+                "end_time": 62.169038,
+                "MASR_results": "蔡適應:對對國防部來講最重一個是部長",
+                "google_asr_results": "王不來講最後一個字部長",
+                "labels": "蔡適應:對對國防部來講最重要一個是部長",
+                "asr_recognition_time": 0.7759418487548828,
+                "google_recognition_time": 0.7939209938049316,
+                "speaker_recognition_time": 0.11458945274353027
+        },
+        {
+                "start_time": 62.976,
+                "end_time": 65.580853,
+                "MASR_results": "蔡適應:第二個當然就是軍運系統的總長沒錯吧",
+                "google_asr_results": "六大資訊系統的總長沒錯吧",
+                "labels": "蔡適應:第二個當然就是軍令系統的總長沒錯吧",
+                "asr_recognition_time": 0.9374589920043945,
+                "google_recognition_time": 2.077415943145752,
+                "speaker_recognition_time": 0.11039900779724121
+        },
+        {
+                "start_time": 65.847486,
+                "end_time": 70.690413,
+                "MASR_results": "蔡適應:是沒錯啦齁啊當然你還有另外就是我們這個軍備的部分那是另外一件事情好",
+                "google_asr_results": "沒錯的話當然你還有另外就是我們這個準備的部分那是另外一件事情好好",
+                "labels": "邱國正,蔡適應:是沒錯啦齁啊當然你還有另外就是我們這個軍備的部分那是另外一件事情好是是是",
+                "asr_recognition_time": 1.8674826622009277,
+                "google_recognition_time": 1.0428807735443115,
+                "speaker_recognition_time": 0.18944215774536133
+        },
+        {
+                "start_time": 71.093083,
+                "end_time": 73.792063,
+                "MASR_results": "蔡適應:那為什麼要問這件事情的原因是因為我們都知道說",
+                "google_asr_results": "無所謂的事情的原因是因為我們都知道說",
+                "labels": "蔡適應:那為什麼要問這件事情的原因是因為我們都知道說",
+                "asr_recognition_time": 1.0326344966888428,
+                "google_recognition_time": 1.5736963748931885,
+                "speaker_recognition_time": 0.12107515335083008
+        },
+        {
+                "start_time": 74.004281,
+                "end_time": 75.087138,
+                "MASR_results": "蔡適應:呃黃曙光",
+                "google_asr_results": "黃曙光",
+                "labels": "蔡適應:呃黃曙光",
+                "asr_recognition_time": 0.18232393264770508,
+                "google_recognition_time": 0.2797713279724121,
+                "speaker_recognition_time": 0.043851375579833984
+        },
+        {
+                "start_time": 75.223175,
+                "end_time": 77.133139,
+                "MASR_results": "蔡適應:原來是不是六月就要接屆退了",
+                "google_asr_results": "原來是不是六月就要姐姐退",
+                "labels": "蔡適應:原來是不是六月就要屆屆退了",
+                "asr_recognition_time": 0.6256098747253418,
+                "google_recognition_time": 0.6941232681274414,
+                "speaker_recognition_time": 0.09149551391601562
+        },
+        {
+                "start_time": 78.210554,
+                "end_time": 78.96148,
+                "MASR_results": "蔡適應:部長是不是",
+                "google_asr_results": "布朗是誰",
+                "labels": "蔡適應:部長是不是",
+                "asr_recognition_time": 0.3434319496154785,
+                "google_recognition_time": 0.47365593910217285,
+                "speaker_recognition_time": 0.03306174278259277
+        },
+        {
+                "start_time": 79.424007,
+                "end_time": 84.740344,
+                "MASR_results": "蔡適應:是有程序上是六月二月退嘛齁那因為之前有媒體報導啦我不確定",
+                "google_asr_results": "可連續上次6月退嗎好啦因為之前有媒體報導啦我不確定",
+                "labels": "邱國正,蔡適應:是六月對程序上是六月要屆退嘛好那因為之前有媒體報導啦我不確定",
+                "asr_recognition_time": 1.8374061584472656,
+                "google_recognition_time": 1.8800246715545654,
+                "speaker_recognition_time": 0.1988694667816162
+        },
+        {
+                "start_time": 85.045067,
+                "end_time": 87.934499,
+                "MASR_results": "蔡適應:說可能會由近任一級上降",
+                "google_asr_results": "說可能會由晉任一級上將",
+                "labels": "蔡適應:說可能會由晉任一級上將",
+                "asr_recognition_time": 0.7290561199188232,
+                "google_recognition_time": 0.7695870399475098,
+                "speaker_recognition_time": 0.11210918426513672
+        },
+        {
+                "start_time": 88.152159,
+                "end_time": 91.281016,
+                "MASR_results": "蔡適應:來繼續來擔任參謀總長這個重要的位置齁",
+                "google_asr_results": "來繼續來登任參謀總長這個中華的位置",
+                "labels": "蔡適應:來繼續來擔任參謀總長這個重要的位置齁",
+                "asr_recognition_time": 0.987128734588623,
+                "google_recognition_time": 0.5768282413482666,
+                "speaker_recognition_time": 0.14060544967651367
+        },
+        {
+                "start_time": 91.444261,
+                "end_time": 93.626299,
+                "MASR_results": "蔡適應:那我我覺得很奇怪因為這個涉及到",
+                "google_asr_results": "那我覺蠻奇怪因為這個涉及到",
+                "labels": "蔡適應:那我我覺得滿奇怪因為這涉及到",
+                "asr_recognition_time": 0.7443897724151611,
+                "google_recognition_time": 1.0367121696472168,
+                "speaker_recognition_time": 0.08388876914978027
+        },
+        {
+                "start_time": 93.707921,
+                "end_time": 95.509055,
+                "MASR_results": "蔡適應:相關的組織法等等嘛齁",
+                "google_asr_results": "相關的組織法等等候",
+                "labels": "蔡適應:相關的組織法等等嘛齁",
+                "asr_recognition_time": 0.5686802864074707,
+                "google_recognition_time": 0.34337401390075684,
+                "speaker_recognition_time": 0.056992292404174805
+        },
+        {
+                "start_time": 95.590677,
+                "end_time": 97.185034,
+                "MASR_results": "蔡適應:我們好在沒看到相關的修法",
+                "google_asr_results": "好像沒看到相關的修法",
+                "labels": "蔡適應:我們好像也沒看到相關的修法",
+                "asr_recognition_time": 0.6170182228088379,
+                "google_recognition_time": 0.5406665802001953,
+                "speaker_recognition_time": 0.06228780746459961
+        },
+        {
+                "start_time": 97.429901,
+                "end_time": 99.753418,
+                "MASR_results": "蔡適應:我想問一下部長這件事情是有還沒有啊",
+                "google_asr_results": "我想不想不長這件事情是有還沒有",
+                "labels": "蔡適應:我想問下部長這件事情是有還沒有啊",
+                "asr_recognition_time": 0.8663289546966553,
+                "google_recognition_time": 0.5317792892456055,
+                "speaker_recognition_time": 0.08047199249267578
+        },
+        {
+                "start_time": 100.352,
+                "end_time": 107.110314,
+                "MASR_results": "邱國正:呃到目前為止我說不知道這件事就應該是那我們黃總長要怎麼要六月份",
+                "google_asr_results": "的動物行為是我都不知道誰的事情應該要聞黃總長要準備要六月份",
+                "labels": "邱國正,蔡適應:呃到目前為止我是不知道這件事情所以應該就是沒有我知道欸我知道我們黃總長要準備要六月份",
+                "asr_recognition_time": 2.26755952835083,
+                "google_recognition_time": 2.457941770553589,
+                "speaker_recognition_time": 0.23963022232055664
+        },
+        {
+                "start_time": 107.464011,
+                "end_time": 108.873357,
+                "MASR_results": "邱國正:決議要會屆退",
+                "google_asr_results": "瀉藥會解退",
+                "labels": "邱國正:七月一號會屆退",
+                "asr_recognition_time": 0.3885796070098877,
+                "google_recognition_time": 0.4250798225402832,
+                "speaker_recognition_time": 0.056781768798828125
+        },
+        {
+                "start_time": 108.927772,
+                "end_time": 110.935683,
+                "MASR_results": "邱國正:要屆退啊但並沒有也",
+                "google_asr_results": "調解對而斷並留言",
+                "labels": "蔡適應,邱國正:要屆退欸但並沒有也",
+                "asr_recognition_time": 0.5634803771972656,
+                "google_recognition_time": 0.7318346500396729,
+                "speaker_recognition_time": 0.06783461570739746
+        },
+        {
+                "start_time": 111.011863,
+                "end_time": 113.231992,
+                "MASR_results": "邱國正:也沒有預劃講哪個要揭喔",
+                "google_asr_results": "也沒有雨壞長廊17號",
+                "labels": "邱國正:也沒有預劃講哪一個要接啊",
+                "asr_recognition_time": 0.5916976928710938,
+                "google_recognition_time": 0.7786703109741211,
+                "speaker_recognition_time": 0.10084843635559082
+        },
+        {
+                "start_time": 113.264641,
+                "end_time": 116.790727,
+                "MASR_results": "邱國正:那麼你要給他升級上降我倒並沒有兩個這",
+                "google_asr_results": "放假我到定了",
+                "labels": "蔡適應,邱國正:嗯或者要給他升級上將我倒並沒有這個好所以",
+                "asr_recognition_time": 1.138859748840332,
+                "google_recognition_time": 1.1670515537261963,
+                "speaker_recognition_time": 0.13914918899536133
+        },
+        {
+                "start_time": 116.87235,
+                "end_time": 119.984883,
+                "MASR_results": "蔡適應:您應該是沒有這個消息才對啦齁就是按照我們",
+                "google_asr_results": "應該是沒有這個消息才對啦好就是按照我們",
+                "labels": "蔡適應:應該是沒有這個消息才對啦齁就是按照我們",
+                "asr_recognition_time": 1.031264305114746,
+                "google_recognition_time": 0.4670088291168213,
+                "speaker_recognition_time": 0.11781597137451172
+        },
+        {
+                "start_time": 120.186218,
+                "end_time": 124.343517,
+                "MASR_results": "蔡適應:呃軍人的樂觀的時間按照時間法定的退伍時間退伍就對了嘛齁",
+                "google_asr_results": "軍人的任官的時間按照時間法定地圖時間退伍就對了嘛好了",
+                "labels": "蔡適應,邱國正:呃軍人的任官的時間按照時間法定的退伍時間退伍就對了嘛齁是",
+                "asr_recognition_time": 1.4632437229156494,
+                "google_recognition_time": 0.9473695755004883,
+                "speaker_recognition_time": 0.16100668907165527
+        },
+        {
+                "start_time": 124.416,
+                "end_time": 127.337866,
+                "MASR_results": "蔡適應:那當然我也非常感謝洪水光呃參謀總長",
+                "google_asr_results": "感謝黃曙光參謀總長",
+                "labels": "蔡適應:那當然我也非常感謝黃曙光司呃參謀總長",
+                "asr_recognition_time": 0.9027309417724609,
+                "google_recognition_time": 0.7066032886505127,
+                "speaker_recognition_time": 0.11085009574890137
+        },
+        {
+                "start_time": 127.706359,
+                "end_time": 129.792,
+                "MASR_results": "蔡適應:在這段時間為國家的付出啦齁好",
+                "google_asr_results": "在這段時間為國家的付出落後",
+                "labels": "蔡適應:在這段時間為國家的付出啦齁好",
+                "asr_recognition_time": 0.7018783092498779,
+                "google_recognition_time": 0.5503988265991211,
+                "speaker_recognition_time": 0.09234452247619629
+        },
+        {
+                "start_time": 130.08429,
+                "end_time": 133.196823,
+                "MASR_results": "蔡適應:那為什麼要特別問這件事情因為黃屬光參謀總長",
+                "google_asr_results": "為什麼要這個文件事情越黃曙光參謀總長",
+                "labels": "蔡適應:那為什麼要特別問這件事情因為黃曙光參謀總長",
+                "asr_recognition_time": 0.8629963397979736,
+                "google_recognition_time": 1.3910839557647705,
+                "speaker_recognition_time": 0.11313509941101074
+        },
+        {
+                "start_time": 133.572286,
+                "end_time": 136.766442,
+                "MASR_results": "蔡適應:除了負責軍命系統之外另外一個重要的案子",
+                "google_asr_results": "除了負責軍令系統自來另外一個重要的案子",
+                "labels": "蔡適應:除了負責軍令系統之外另外一個重要的案子",
+                "asr_recognition_time": 0.7999627590179443,
+                "google_recognition_time": 0.6771824359893799,
+                "speaker_recognition_time": 0.1078946590423584
+        },
+        {
+                "start_time": 137.005867,
+                "end_time": 139.786469,
+                "MASR_results": "蔡適應:就是我剛剛講的潛艦國造的召集人這個會怎麼",
+                "google_asr_results": "這是我跟他講的潛艦國造的召集人在位置",
+                "labels": "蔡適應,邱國正:就是我剛剛講的潛艦國造的召集人這個位子是是是",
+                "asr_recognition_time": 0.9888863563537598,
+                "google_recognition_time": 1.1164765357971191,
+                "speaker_recognition_time": 0.09733176231384277
+        },
+        {
+                "start_time": 139.835443,
+                "end_time": 140.907417,
+                "MASR_results": "蔡適應:現在還是他沒錯吧",
+                "google_asr_results": "雖然他沒錯吧",
+                "labels": "蔡適應:現在還是他沒錯吧",
+                "asr_recognition_time": 0.4165365695953369,
+                "google_recognition_time": 0.4550018310546875,
+                "speaker_recognition_time": 0.04689812660217285
+        },
+        {
+                "start_time": 141.277438,
+                "end_time": 142.848,
+                "MASR_results": "邱國正:呃還有齁還是怕齁好",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正,蔡適應:呃還是他還是他齁好",
+                "asr_recognition_time": 0.4791834354400635,
+                "google_recognition_time": 0.3296236991882324,
+                "speaker_recognition_time": 0.06416916847229004
+        },
+        {
+                "start_time": 143.149311,
+                "end_time": 147.921499,
+                "MASR_results": "蔡適應:那我想知道一下齁這個潛艦國造招檢這應該是一個任務編組的組織嘛是不是",
+                "google_asr_results": "我想知道好像我這個潛艦國造招簡介這個任務編組的組織嗎是不是",
+                "labels": "蔡適應:那我想知道一下齁這個潛艦國造召集人這應該是一個任務編組的組織嘛是不是",
+                "asr_recognition_time": 1.8180956840515137,
+                "google_recognition_time": 1.458371877670288,
+                "speaker_recognition_time": 0.1471879482269287
+        },
+        {
+                "start_time": 148.356818,
+                "end_time": 151.170069,
+                "MASR_results": "邱國正:欸沒錯吧好那因為",
+                "google_asr_results": "沒錯吧因為",
+                "labels": "邱國正,蔡適應:對沒錯吧好任務編組織那因為",
+                "asr_recognition_time": 0.3776249885559082,
+                "google_recognition_time": 0.49472808837890625,
+                "speaker_recognition_time": 0.12581133842468262
+        },
+        {
+                "start_time": 151.491117,
+                "end_time": 152.552208,
+                "MASR_results": "蔡適應:這個組織",
+                "google_asr_results": "這個組織",
+                "labels": "蔡適應:這個組織",
+                "asr_recognition_time": 0.31748247146606445,
+                "google_recognition_time": 0.3028137683868408,
+                "speaker_recognition_time": 0.04293346405029297
+        },
+        {
+                "start_time": 152.601181,
+                "end_time": 158.619471,
+                "MASR_results": "蔡適應:剛開始黃主攻參不這種接任的時候是大家擔任海軍司令的時候接任的所以沒錯吧",
+                "google_asr_results": "剛開始皇組光差不多少接任的時候是當他擔任海軍司令的時候接任的沒錯吧",
+                "labels": "蔡適應:剛開始黃曙光參謀總長接任的時候是在他擔任海軍司令的時候接任的是沒錯吧",
+                "asr_recognition_time": 2.177802801132202,
+                "google_recognition_time": 1.4083962440490723,
+                "speaker_recognition_time": 0.18404412269592285
+        },
+        {
+                "start_time": 158.72,
+                "end_time": 160.050583,
+                "MASR_results": "邱國正:是沒錯好意思",
+                "google_asr_results": "無法辨識",
+                "labels": "蔡適應:是沒錯吧報告委員是",
+                "asr_recognition_time": 0.41042041778564453,
+                "google_recognition_time": 0.35906481742858887,
+                "speaker_recognition_time": 0.05935549736022949
+        },
+        {
+                "start_time": 160.099556,
+                "end_time": 162.651616,
+                "MASR_results": "蔡適應:齁這個我可能還比出或者部長還知道齁來",
+                "google_asr_results": "這個我可能還不錯我都不知道孩子到來",
+                "labels": "蔡適應,邱國正:齁這個我可能還比邱國正部長還知道齁是來",
+                "asr_recognition_time": 0.6973671913146973,
+                "google_recognition_time": 0.6999142169952393,
+                "speaker_recognition_time": 0.09514760971069336
+        },
+        {
+                "start_time": 162.901924,
+                "end_time": 167.424,
+                "MASR_results": "蔡適應:那因為他現在是參謀總統堅任那我就好奇的一個問題想請教一下",
+                "google_asr_results": "因為他現在是參謀總長接任那我就好奇了一個問題想請教一下",
+                "labels": "蔡適應:那因為他現在是參謀總長兼任那我就好奇了一個問題想請教一下",
+                "asr_recognition_time": 1.3151795864105225,
+                "google_recognition_time": 1.4447925090789795,
+                "speaker_recognition_time": 0.18162155151367188
+        },
+        {
+                "start_time": 167.761176,
+                "end_time": 170.824736,
+                "MASR_results": "蔡適應:如果六月黃曙光總長退伍後",
+                "google_asr_results": "如果6月黃曙光總長退伍後",
+                "labels": "蔡適應:如果六月黃曙光總長退伍後",
+                "asr_recognition_time": 0.5340602397918701,
+                "google_recognition_time": 0.43050193786621094,
+                "speaker_recognition_time": 0.101287841796875
+        },
+        {
+                "start_time": 171.341677,
+                "end_time": 173.910061,
+                "MASR_results": "蔡適應:那我們這個潛艦國造的召集人",
+                "google_asr_results": "那我們這個潛艦國造的召集人",
+                "labels": "蔡適應:那我們這個潛艦國造的召集人",
+                "asr_recognition_time": 0.7303507328033447,
+                "google_recognition_time": 0.4353487491607666,
+                "speaker_recognition_time": 0.11773347854614258
+        },
+        {
+                "start_time": 174.361705,
+                "end_time": 175.727519,
+                "MASR_results": "蔡適應:國防部的想法是怎麼樣",
+                "google_asr_results": "網路的想法是怎麼樣",
+                "labels": "蔡適應:國防部的想法是怎麼樣",
+                "asr_recognition_time": 0.49397706985473633,
+                "google_recognition_time": 0.5791161060333252,
+                "speaker_recognition_time": 0.05897355079650879
+        },
+        {
+                "start_time": 175.890764,
+                "end_time": 179.667159,
+                "MASR_results": "邱國正:呃我我跟委員首先報告喔很感謝委員這個沒有關切喔",
+                "google_asr_results": "我問說你報告應該去問一下有沒有關係喔",
+                "labels": "邱國正:呃我我跟委員首先報告喔很感激委員這麼關切喔",
+                "asr_recognition_time": 1.2086141109466553,
+                "google_recognition_time": 2.718478202819824,
+                "speaker_recognition_time": 0.15723180770874023
+        },
+        {
+                "start_time": 179.879377,
+                "end_time": 183.133389,
+                "MASR_results": "邱國正:但任何一個工作推動他都有延續性",
+                "google_asr_results": "在任何一個工作推動才具有延續性",
+                "labels": "邱國正:但任何一個工作推動他一定有延續性",
+                "asr_recognition_time": 0.8738903999328613,
+                "google_recognition_time": 1.2895302772521973,
+                "speaker_recognition_time": 0.13658738136291504
+        },
+        {
+                "start_time": 183.351048,
+                "end_time": 185.222921,
+                "MASR_results": "邱國正:人選方面我們沒有安排",
+                "google_asr_results": "任選方便我們又安排",
+                "labels": "邱國正:人選方面我們也有安排",
+                "asr_recognition_time": 0.5663087368011475,
+                "google_recognition_time": 0.5542154312133789,
+                "speaker_recognition_time": 0.07077193260192871
+        },
+        {
+                "start_time": 185.309985,
+                "end_time": 188.330013,
+                "MASR_results": "邱國正:喔但目前講說也不便就告知大家",
+                "google_asr_results": "好的目前小狗也不便就告訴大家",
+                "labels": "邱國正:呃但目前想說也不便就告訴於大家",
+                "asr_recognition_time": 0.8078265190124512,
+                "google_recognition_time": 0.7314226627349854,
+                "speaker_recognition_time": 0.12919878959655762
+        },
+        {
+                "start_time": 188.525907,
+                "end_time": 190.501168,
+                "MASR_results": "邱國正:但我們都在這個預劃因為這是",
+                "google_asr_results": "帶我們坐下的玉華夜市",
+                "labels": "邱國正:但我們都在這個預劃因為這是",
+                "asr_recognition_time": 0.6936261653900146,
+                "google_recognition_time": 1.0341122150421143,
+                "speaker_recognition_time": 0.06852602958679199
+        },
+        {
+                "start_time": 190.599115,
+                "end_time": 191.970371,
+                "MASR_results": "邱國正:他要退是癌的嘛",
+                "google_asr_results": "還有特色吧",
+                "labels": "邱國正:他要退是捱的嘛",
+                "asr_recognition_time": 0.43669676780700684,
+                "google_recognition_time": 0.5366454124450684,
+                "speaker_recognition_time": 0.07416272163391113
+        },
+        {
+                "start_time": 192.04111,
+                "end_time": 195.964425,
+                "MASR_results": "邱國正:是一定的嘛預呃但所以後面後續接啊",
+                "google_asr_results": "石碇怎麼處理後面後續接r",
+                "labels": "邱國正,蔡適應:是一定的嘛嗯欸但所以後面後續接喔",
+                "asr_recognition_time": 0.9935719966888428,
+                "google_recognition_time": 1.0695879459381104,
+                "speaker_recognition_time": 0.12989425659179688
+        },
+        {
+                "start_time": 196.040606,
+                "end_time": 197.22141,
+                "MASR_results": "邱國正:拿線來接",
+                "google_asr_results": "哪一間來接",
+                "labels": "邱國正:哪一些人來接",
+                "asr_recognition_time": 0.34848856925964355,
+                "google_recognition_time": 0.9469375610351562,
+                "speaker_recognition_time": 0.06069493293762207
+        },
+        {
+                "start_time": 197.376,
+                "end_time": 199.762586,
+                "MASR_results": "邱國正:或者如何處理這我們有預劃",
+                "google_asr_results": "落枕如何處理這我們有一句話",
+                "labels": "邱國正:或者如何處理這我們有預劃",
+                "asr_recognition_time": 0.4864027500152588,
+                "google_recognition_time": 0.7990775108337402,
+                "speaker_recognition_time": 0.11020469665527344
+        },
+        {
+                "start_time": 199.95848,
+                "end_time": 201.106635,
+                "MASR_results": "邱國正:但還沒有定案",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:但還沒有定案",
+                "asr_recognition_time": 0.3954427242279053,
+                "google_recognition_time": 0.2897465229034424,
+                "speaker_recognition_time": 0.045134544372558594
+        },
+        {
+                "start_time": 201.216,
+                "end_time": 203.446476,
+                "MASR_results": "蔡適應:我好我想請教一下我先我讓我就",
+                "google_asr_results": "我想請教一下晚上我就",
+                "labels": "邱國正,蔡適應:特別跟委員報告好我想請教一下我先那我就",
+                "asr_recognition_time": 0.752190351486206,
+                "google_recognition_time": 1.004180669784546,
+                "speaker_recognition_time": 0.07505297660827637
+        },
+        {
+                "start_time": 203.647811,
+                "end_time": 205.682929,
+                "MASR_results": "蔡適應:請國防部長說明一下喔就說",
+                "google_asr_results": "警光不長說明一下",
+                "labels": "蔡適應:請國防部長說明一下喔就是說",
+                "asr_recognition_time": 0.6769809722900391,
+                "google_recognition_time": 0.6853723526000977,
+                "speaker_recognition_time": 0.06568312644958496
+        },
+        {
+                "start_time": 205.824,
+                "end_time": 208.637658,
+                "MASR_results": "蔡適應:一般來講我們的國軍軍事的採購案啦",
+                "google_asr_results": "一般來講我們的國軍軍士的採購案",
+                "labels": "蔡適應:一般來講我們的國軍軍士的採購案哪",
+                "asr_recognition_time": 0.8140149116516113,
+                "google_recognition_time": 0.5125467777252197,
+                "speaker_recognition_time": 0.10682368278503418
+        },
+        {
+                "start_time": 208.741047,
+                "end_time": 209.187249,
+                "MASR_results": "邱國正:齁",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正,蔡適應:是齁",
+                "asr_recognition_time": 0.23481082916259766,
+                "google_recognition_time": 0.21228861808776855,
+                "speaker_recognition_time": 0.024760961532592773
+        },
+        {
+                "start_time": 209.693308,
+                "end_time": 213.415288,
+                "MASR_results": "蔡適應:到底是軍運系統負責是軍政系統或者軍備系統負責",
+                "google_asr_results": "到底是軍令系統負責是軍證據統會的軍備系統負責",
+                "labels": "蔡適應:到底是軍令系統負責還是軍政系統負責或者軍備系統負責",
+                "asr_recognition_time": 1.1879518032073975,
+                "google_recognition_time": 0.858151912689209,
+                "speaker_recognition_time": 0.12023615837097168
+        },
+        {
+                "start_time": 213.551325,
+                "end_time": 219.814482,
+                "MASR_results": "邱國正:是這樣的我們任何一個採官他第一要靠喔要報作需對做訊其實我都知道欸是裡",
+                "google_asr_results": "我們任由採怪他的有泡泡做的需要做一些事情我都知道",
+                "labels": "邱國正,蔡適應:是這樣的我們任何一個採購案他第一個要報呃要報作息對作息是軍政軍令的這個我都知道欸是的",
+                "asr_recognition_time": 2.192525863647461,
+                "google_recognition_time": 2.7560477256774902,
+                "speaker_recognition_time": 0.22151446342468262
+        },
+        {
+                "start_time": 219.961402,
+                "end_time": 221.44,
+                "MASR_results": "邱國正:那接著後面",
+                "google_asr_results": "西螺後面",
+                "labels": "邱國正:那接著後面",
+                "asr_recognition_time": 0.39074015617370605,
+                "google_recognition_time": 0.8896846771240234,
+                "speaker_recognition_time": 0.05677366256713867
+        },
+        {
+                "start_time": 221.610174,
+                "end_time": 224.162233,
+                "MASR_results": "邱國正:不管細分問題他有各業管的",
+                "google_asr_results": "文序分為什麼他有個業管的",
+                "labels": "邱國正:不管細分或什麼他有各業管的",
+                "asr_recognition_time": 0.6569621562957764,
+                "google_recognition_time": 0.8115324974060059,
+                "speaker_recognition_time": 0.11699104309082031
+        },
+        {
+                "start_time": 224.211206,
+                "end_time": 234.860205,
+                "MASR_results": "蔡適應:就要在這個程序知道啊但我討論上應該是水軍備系統管理嘛對不對啊所以我們還沒有說我們就可以用這個問題啊所以為什麼要問這個問題裡論上去其他的相關的單位的武器採購啦",
+                "google_asr_results": "嘉仁線上聽力系統管理對不對還沒有交到所以我為什麼要問這個問題裡面上就其他的相關的單位的武器採購啦",
+                "labels": "邱國正,蔡適應:就按照這個程序來欸我知道啊但我理論上應該是屬於軍備系統管理嘛對不對因為他還沒有交到對部隊去使用嘛這個都應該欸是裝備所以我為什麼要問這個問題理論上就其他的相關的單位的武器採購啦",
+                "asr_recognition_time": 5.819872856140137,
+                "google_recognition_time": 3.5511748790740967,
+                "speaker_recognition_time": 0.32507777214050293
+        },
+        {
+                "start_time": 235.039774,
+                "end_time": 235.264,
+                "MASR_results": "邱國正:齁",
+                "google_asr_results": "無法辨識",
+                "labels": "蔡適應:齁",
+                "asr_recognition_time": 0.18351221084594727,
+                "google_recognition_time": 0.19635844230651855,
+                "speaker_recognition_time": 0.017006635665893555
+        },
+        {
+                "start_time": 235.469652,
+                "end_time": 237.015035,
+                "MASR_results": "蔡適應:我們很多時候可能的國防部",
+                "google_asr_results": "我們很多時候肯得廣播",
+                "labels": "蔡適應:我們很多時候可能都國防部",
+                "asr_recognition_time": 0.5858654975891113,
+                "google_recognition_time": 0.4935798645019531,
+                "speaker_recognition_time": 0.053008317947387695
+        },
+        {
+                "start_time": 237.3252,
+                "end_time": 243.022442,
+                "MASR_results": "蔡適應:處一個軍備的不管小組在督察這件事情啦齁那因為這件事情是參謀總長來兼任",
+                "google_asr_results": "煮一個龜背的不管小組在都把這件事情嗎後來因為這件事情是參謀總長來兼任",
+                "labels": "蔡適應:組一個軍備的督察小組在督管這件事情嘛齁那因為這件事情是參謀總長來兼任",
+                "asr_recognition_time": 2.0101637840270996,
+                "google_recognition_time": 1.796288013458252,
+                "speaker_recognition_time": 0.18322181701660156
+        },
+        {
+                "start_time": 243.240101,
+                "end_time": 246.439698,
+                "MASR_results": "蔡適應:中國本身不這樣本身是軍令的就高負責人",
+                "google_asr_results": "根本不知道本身是軍令的最高負責人",
+                "labels": "蔡適應:參謀本參謀總長本身是軍令的最高負責人",
+                "asr_recognition_time": 0.7593564987182617,
+                "google_recognition_time": 1.1616897583007812,
+                "speaker_recognition_time": 0.12695813179016113
+        },
+        {
+                "start_time": 246.494113,
+                "end_time": 248.638061,
+                "MASR_results": "蔡適應:所以我我才會問部長就說",
+                "google_asr_results": "叫我我才問不長說",
+                "labels": "邱國正,蔡適應:是所以我我才問部長是說",
+                "asr_recognition_time": 0.6503314971923828,
+                "google_recognition_time": 0.592566967010498,
+                "speaker_recognition_time": 0.07445192337036133
+        },
+        {
+                "start_time": 248.915577,
+                "end_time": 254.395159,
+                "MASR_results": "蔡適應:那你會來的接任人選是考慮從軍備那邊來找人來當潛艦小組的召集人",
+                "google_asr_results": "但你會來的接任人選是考慮從軍被那邊來找人來當前進小組的召集人",
+                "labels": "蔡適應:那你未來的接任人選是考慮從軍備那邊來找人來當潛艦小組的召集人",
+                "asr_recognition_time": 1.626777172088623,
+                "google_recognition_time": 1.2126874923706055,
+                "speaker_recognition_time": 0.20054054260253906
+        },
+        {
+                "start_time": 254.607377,
+                "end_time": 256.386744,
+                "MASR_results": "蔡適應:還是另外還是長期還是",
+                "google_asr_results": "還是另外還是傳奇還是",
+                "labels": "蔡適應:還是另外還是床奇還是",
+                "asr_recognition_time": 0.3858206272125244,
+                "google_recognition_time": 0.48471736907958984,
+                "speaker_recognition_time": 0.0913839340209961
+        },
+        {
+                "start_time": 256.555431,
+                "end_time": 257.480484,
+                "MASR_results": "邱國正:援引過去",
+                "google_asr_results": "眼影過去",
+                "labels": "蔡適應:沿引過去",
+                "asr_recognition_time": 0.1903669834136963,
+                "google_recognition_time": 0.3431375026702881,
+                "speaker_recognition_time": 0.03321719169616699
+        },
+        {
+                "start_time": 257.714468,
+                "end_time": 260.135932,
+                "MASR_results": "蔡適應:比如說可能就是由海軍士內來接或者幹嘛",
+                "google_asr_results": "以後可能就是有海君思念來借過這幹嘛",
+                "labels": "蔡適應:比如說可能就是由海軍司令來接或者幹嘛",
+                "asr_recognition_time": 0.6910824775695801,
+                "google_recognition_time": 0.5359225273132324,
+                "speaker_recognition_time": 0.1103661060333252
+        },
+        {
+                "start_time": 260.238851,
+                "end_time": 261.256593,
+                "MASR_results": "邱國正:呃我們這",
+                "google_asr_results": "王瑞",
+                "labels": "邱國正:呃我們這",
+                "asr_recognition_time": 0.3657205104827881,
+                "google_recognition_time": 0.2919902801513672,
+                "speaker_recognition_time": 0.040903329849243164
+        },
+        {
+                "start_time": 261.483961,
+                "end_time": 265.132675,
+                "MASR_results": "邱國正:跟委員報告還是在規劃當中喔我們這這都離案",
+                "google_asr_results": "根尾巴還在規劃當中我們就睡著你啊",
+                "labels": "邱國正:跟委員報告還在規劃當中喔我們這都擬案",
+                "asr_recognition_time": 1.112926959991455,
+                "google_recognition_time": 1.3198199272155762,
+                "speaker_recognition_time": 0.14226603507995605
+        },
+        {
+                "start_time": 265.414178,
+                "end_time": 268.218383,
+                "MASR_results": "邱國正:呃打印來接或者他怎麼取代",
+                "google_asr_results": "未達170或者他什麼取代",
+                "labels": "邱國正:對哪個來接或者他怎麼取代",
+                "asr_recognition_time": 0.680778980255127,
+                "google_recognition_time": 1.459120512008667,
+                "speaker_recognition_time": 0.11109757423400879
+        },
+        {
+                "start_time": 268.359135,
+                "end_time": 276.663478,
+                "MASR_results": "蔡適應:但這個工作會延續所下去好這個我先跟我想這是非常做一件事情齁因為我想大家都非常的關心我想問這中後面有一個問題就是這樣子來",
+                "google_asr_results": "但是工作會延續說下去了我先跟你說一件事情好因為我想大量的關心為什麼問的時候後面有一個問題就這樣子啦",
+                "labels": "邱國正,蔡適應:但這工作會延續做下去好這個我先跟欸委員我想這是非常重要一件事情齁因為我想大家都非常的關心我為什麼問這個最後面有一個問題就是這樣子來",
+                "asr_recognition_time": 4.228774785995483,
+                "google_recognition_time": 5.754659414291382,
+                "speaker_recognition_time": 0.25591611862182617
+        },
+        {
+                "start_time": 277.464679,
+                "end_time": 282.894442,
+                "MASR_results": "蔡適應:部長知不知道我們的潛艦案子有一個實億的經費還卡在立法院外交國防委會喔",
+                "google_asr_results": "不長知不知道我們的潛艦案子也各11的經費還卡在立法院外交國防委員會",
+                "labels": "蔡適應:部長知不知道我們的潛艦案子有一個十億的經費還卡在立法院外交國防委員會",
+                "asr_recognition_time": 2.122492790222168,
+                "google_recognition_time": 1.8177530765533447,
+                "speaker_recognition_time": 0.1727137565612793
+        },
+        {
+                "start_time": 282.997299,
+                "end_time": 285.097746,
+                "MASR_results": "邱國正:呃對在一百零九年的時候",
+                "google_asr_results": "我在109年後",
+                "labels": "邱國正:欸對在一百零九年的時候",
+                "asr_recognition_time": 0.6539485454559326,
+                "google_recognition_time": 0.6410171985626221,
+                "speaker_recognition_time": 0.1016838550567627
+        },
+        {
+                "start_time": 285.200603,
+                "end_time": 287.111576,
+                "MASR_results": "蔡適應:午我這看這是什麼多案子你知道嗎",
+                "google_asr_results": "不然是什麼段子你知道嗎",
+                "labels": "邱國正,蔡適應:這個有有這個案子是什麼時候案子你知道嗎",
+                "asr_recognition_time": 0.7399787902832031,
+                "google_recognition_time": 0.7808363437652588,
+                "speaker_recognition_time": 0.0636606216430664
+        },
+        {
+                "start_time": 287.809921,
+                "end_time": 289.450218,
+                "MASR_results": "邱國正:喔這個是有許可",
+                "google_asr_results": "衛署許可",
+                "labels": "邱國正:欸這個輸出許可",
+                "asr_recognition_time": 0.5367364883422852,
+                "google_recognition_time": 0.8608074188232422,
+                "speaker_recognition_time": 0.06369280815124512
+        },
+        {
+                "start_time": 290.798185,
+                "end_time": 299.297415,
+                "MASR_results": "蔡適應:報告委員就是一百零九呃機敏專報的時候因為書書記個然後委員會決定說一百零八年審一百零九年二月三的時候說要說清楚不是",
+                "google_asr_results": "肉圓就是109對2季13號的時候音樂輸入許可能委員會決定壽108年審109年度預算的時候要說清楚不是",
+                "labels": "蔡適應:報告委員就是一百零九呃機密瞻貿的時候因為輸入許可然後委員會決定說一百零八年審一百零九年的預算的時候對是是是所以我要說清楚不是",
+                "asr_recognition_time": 4.23304557800293,
+                "google_recognition_time": 4.595282554626465,
+                "speaker_recognition_time": 0.2885093688964844
+        },
+        {
+                "start_time": 299.416513,
+                "end_time": 300.861923,
+                "MASR_results": "蔡適應:不是去年審計年預算",
+                "google_asr_results": "不是去年審今年預算",
+                "labels": "蔡適應:不是去年審今年預算",
+                "asr_recognition_time": 0.5081150531768799,
+                "google_recognition_time": 0.454986572265625,
+                "speaker_recognition_time": 0.055211544036865234
+        },
+        {
+                "start_time": 300.905232,
+                "end_time": 304.494397,
+                "MASR_results": "蔡適應:是其實他已經被延宕你一百零九年的預算對啊一百零九以上好",
+                "google_asr_results": "元旦109年的預算109年",
+                "labels": "蔡適應:是其實他已經被延宕一年了嘛一百零九年的預算對好一百零九年的預算好",
+                "asr_recognition_time": 1.3929944038391113,
+                "google_recognition_time": 1.214834213256836,
+                "speaker_recognition_time": 0.14727020263671875
+        },
+        {
+                "start_time": 304.895,
+                "end_time": 310.178595,
+                "MASR_results": "蔡適應:當時有考到一件事情就是說紅區裝備因為沒有取得所以有委員有不同的意見嘛齁",
+                "google_asr_results": "當時有考到一件事情就是說紅區裝備因為沒有取得所有委員不同的意見嗎",
+                "labels": "蔡適應:當時有卡到一件事情就是說紅區裝備因為沒有取得所以有委員有不同的意見嘛齁是",
+                "asr_recognition_time": 2.130009889602661,
+                "google_recognition_time": 1.3908195495605469,
+                "speaker_recognition_time": 0.2038278579711914
+        },
+        {
+                "start_time": 310.281452,
+                "end_time": 311.499495,
+                "MASR_results": "蔡適應:是沒錯吧對不對",
+                "google_asr_results": "沒錯吧對不對",
+                "labels": "蔡適應:是沒錯吧對不對",
+                "asr_recognition_time": 0.4334418773651123,
+                "google_recognition_time": 0.7438232898712158,
+                "speaker_recognition_time": 0.04864764213562012
+        },
+        {
+                "start_time": 311.607765,
+                "end_time": 317.329859,
+                "MASR_results": "蔡適應:自有移送中沒有留學那當時海軍也認為這就還有道理嘛所以我們就是等到紅區裝備我想問一下部長齁",
+                "google_asr_results": "是有一項裝備沒有解那當時還確認為這句話有道理嗎所以我們就是等到紅區裝備我想問一下不長後",
+                "labels": "蔡適應:是有一項裝備沒有取得對那當時海軍也認為這句話有道理嘛所以我們就是等到紅區裝備我想問一下部長齁",
+                "asr_recognition_time": 2.6483781337738037,
+                "google_recognition_time": 2.5790390968322754,
+                "speaker_recognition_time": 0.2077937126159668
+        },
+        {
+                "start_time": 317.695,
+                "end_time": 321.860977,
+                "MASR_results": "蔡適應:我在您請你在這邊大成宣佈一下紅軍裝備是不是全部都取得輸出許可了以上",
+                "google_asr_results": "請你在這邊大聲宣布下紅區裝備是不是全部都取得輸出許可能",
+                "labels": "邱國正,蔡適應:是在你的請你在這邊大聲宣布一下紅區裝備是不是全部都取得輸出許可了",
+                "asr_recognition_time": 1.500641107559204,
+                "google_recognition_time": 2.255431652069092,
+                "speaker_recognition_time": 0.1408390998840332
+        },
+        {
+                "start_time": 322.14248,
+                "end_time": 324.946685,
+                "MASR_results": "邱國正:這一百零七項組織這個裝備喔",
+                "google_asr_results": "107巷主車的裝備",
+                "labels": "邱國正:這一百零七項組織的裝備啊",
+                "asr_recognition_time": 0.7782509326934814,
+                "google_recognition_time": 1.3831264972686768,
+                "speaker_recognition_time": 0.08840560913085938
+        },
+        {
+                "start_time": 325.00082,
+                "end_time": 331.843512,
+                "MASR_results": "邱國正:都已經呃可以全數或者月取得這個輸出全部都取得說出去紅色裝備的問題的時候也就是說",
+                "google_asr_results": "愛心卡可以全數或者説取得那個叔叔全部都取得輸出酒紅色裝備的分的學校是說",
+                "labels": "邱國正,蔡適應:都已經呃可以全數獲得因為取得那個輸出許可全部都取得了輸出許可紅色裝備的部分都取得輸出許可也就是說對對包包含",
+                "asr_recognition_time": 2.8578696250915527,
+                "google_recognition_time": 5.650393962860107,
+                "speaker_recognition_time": 0.20679068565368652
+        },
+        {
+                "start_time": 332.125015,
+                "end_time": 336.932223,
+                "MASR_results": "蔡適應:沒有有些人在唱追說有美國故意不合發輸出許可這個問題沒有吧",
+                "google_asr_results": "沒有有現在唱雖說有美國故意不核發輸出許可這個問題沒有啦",
+                "labels": "蔡適應:沒有有心人唱衰說有美國故意不核發輸出許可這個問題沒有嘛",
+                "asr_recognition_time": 1.3906137943267822,
+                "google_recognition_time": 0.7310822010040283,
+                "speaker_recognition_time": 0.17903470993041992
+        },
+        {
+                "start_time": 337.008013,
+                "end_time": 342.508152,
+                "MASR_results": "蔡適應:呃有沒有我想部長大成說出來齁這個四官國軍進軍備戰中一件事情喔",
+                "google_asr_results": "我要大聲說出來這個是灣國軍建軍備正中間事情啊",
+                "labels": "邱國正,蔡適應:欸沒有啦沒有我講部長要大聲說出來齁這個是關國軍建軍備戰重要一件事情啊",
+                "asr_recognition_time": 1.939751386642456,
+                "google_recognition_time": 1.6665866374969482,
+                "speaker_recognition_time": 0.17351031303405762
+        },
+        {
+                "start_time": 342.713865,
+                "end_time": 344.592358,
+                "MASR_results": "蔡適應:局長很多就在唱說啊就覺得說",
+                "google_asr_results": "就在唱衰啊就覺得說",
+                "labels": "蔡適應:因為很多人都在唱衰啊就覺得說",
+                "asr_recognition_time": 0.6790099143981934,
+                "google_recognition_time": 1.351546049118042,
+                "speaker_recognition_time": 0.10411882400512695
+        },
+        {
+                "start_time": 344.689801,
+                "end_time": 347.959569,
+                "MASR_results": "蔡適應:拿不到嗎所以不給我們國防部後續的執行預算嗎",
+                "google_asr_results": "找不到嗎所以不給我們光布後續的執行預算啊",
+                "labels": "蔡適應:拿不到嘛所以不給我們國防部後續的執行預算哪",
+                "asr_recognition_time": 1.1222407817840576,
+                "google_recognition_time": 0.882469654083252,
+                "speaker_recognition_time": 0.13068723678588867
+        },
+        {
+                "start_time": 348.159,
+                "end_time": 350.790841,
+                "MASR_results": "蔡適應:那這個部分我是報持一個反對的態度我認為",
+                "google_asr_results": "父母抱持一個反對的還是我認為",
+                "labels": "蔡適應:那這個部分我是抱持一個反對的態度我認為",
+                "asr_recognition_time": 0.9555172920227051,
+                "google_recognition_time": 1.6990418434143066,
+                "speaker_recognition_time": 0.11065053939819336
+        },
+        {
+                "start_time": 351.14272,
+                "end_time": 356.242258,
+                "MASR_results": "蔡適應:潛艦國造案子非常重要一件事情啦齁所以為什麼剛才剛說好那你近期會法這樣子送過來",
+                "google_asr_results": "潛艦國造案子表中和監視器2號作為什麼剛才跟他說好那你進去會把這樣子送過來",
+                "labels": "蔡適應,邱國正:潛艦國造案子是非常重要的一件事情啦齁是很重要所以我為什麼剛才跟他說好那你近期會把這案子送過來",
+                "asr_recognition_time": 2.441446304321289,
+                "google_recognition_time": 2.8721179962158203,
+                "speaker_recognition_time": 0.18352723121643066
+        },
+        {
+                "start_time": 356.673429,
+                "end_time": 358.409264,
+                "MASR_results": "邱國正:呃他已經送到委員會啊",
+                "google_asr_results": "阿姨送到委員會",
+                "labels": "Unknown:他已經送到委員會了",
+                "asr_recognition_time": 0.5689029693603516,
+                "google_recognition_time": 0.663395881652832,
+                "speaker_recognition_time": 0.070343017578125
+        },
+        {
+                "start_time": 358.655,
+                "end_time": 364.775809,
+                "MASR_results": "蔡適應:我我以這個海軍人數已經送過來了好那我想我要呼籲我們的召委齁或者相關人士盡速來排審齁",
+                "google_asr_results": "海軍運送過來嗎我想我要哭我們的召委相關人士進出來排什麼",
+                "labels": "邱國正,蔡適應:已經送了他們已經送了呃對海軍已經送了已經送過來了嘛好那我想我要呼籲我們的召委齁或者相關的人士盡速來排審齁",
+                "asr_recognition_time": 2.649078369140625,
+                "google_recognition_time": 1.4448988437652588,
+                "speaker_recognition_time": 0.37911367416381836
+        },
+        {
+                "start_time": 364.906405,
+                "end_time": 366.473554,
+                "MASR_results": "蔡適應:不要再推薦這個案子好",
+                "google_asr_results": "不要再拖延著一個案子好",
+                "labels": "蔡適應:不要再拖延這一個案子好",
+                "asr_recognition_time": 0.48996472358703613,
+                "google_recognition_time": 0.5316381454467773,
+                "speaker_recognition_time": 0.05486440658569336
+        },
+        {
+                "start_time": 366.67489,
+                "end_time": 369.977875,
+                "MASR_results": "蔡適應:那最後我來問的是去年十一月很情件已經正式開工了沒錯吧",
+                "google_asr_results": "我要問的是去年11月型艦正式開工了沒錯吧",
+                "labels": "蔡適應:那最後我要問的是去年十一月原型艦已經正式開工了沒錯吧",
+                "asr_recognition_time": 1.3730990886688232,
+                "google_recognition_time": 1.445831537246704,
+                "speaker_recognition_time": 0.1432509422302246
+        },
+        {
+                "start_time": 370.451284,
+                "end_time": 372.431987,
+                "MASR_results": "蔡適應:是我部長有去看過嗎",
+                "google_asr_results": "什麼上有去看過嗎",
+                "labels": "邱國正,蔡適應:是什麼意思部長有去看過嗎",
+                "asr_recognition_time": 0.581162691116333,
+                "google_recognition_time": 1.3241925239562988,
+                "speaker_recognition_time": 0.07596182823181152
+        },
+        {
+                "start_time": 372.747594,
+                "end_time": 374.01002,
+                "MASR_results": "蔡適應:呃潛艦的延信件",
+                "google_asr_results": "潛艦的原型艦",
+                "labels": "邱國正,蔡適應:呃潛艦的原型艦",
+                "asr_recognition_time": 0.2810237407684326,
+                "google_recognition_time": 0.7772996425628662,
+                "speaker_recognition_time": 0.05674028396606445
+        },
+        {
+                "start_time": 374.097084,
+                "end_time": 377.614619,
+                "MASR_results": "蔡適應:沒有呃部長找我時間去看一下好不好因為這件事情",
+                "google_asr_results": "沒有啦要不然我先去看一下好不好因為這件事情",
+                "labels": "邱國正,蔡適應:沒有欸因為欸呃部長找個時間去看一下好不好因為這件事情好好我知道",
+                "asr_recognition_time": 1.2665660381317139,
+                "google_recognition_time": 1.634765863418579,
+                "speaker_recognition_time": 0.15773320198059082
+        },
+        {
+                "start_time": 377.808181,
+                "end_time": 380.779235,
+                "MASR_results": "蔡適應:居然在現階段是由參謀總長來賓",
+                "google_asr_results": "居然在現階段是由參謀總長來接",
+                "labels": "蔡適應:居然在現階段是由參謀總長來兼",
+                "asr_recognition_time": 0.6164615154266357,
+                "google_recognition_time": 0.6905038356781006,
+                "speaker_recognition_time": 0.11170077323913574
+        },
+        {
+                "start_time": 380.87174,
+                "end_time": 385.64937,
+                "MASR_results": "蔡適應:潛艦照片代表這是國家重要性政策啦齁那我相信剛我會問上了安排部長",
+                "google_asr_results": "潛艦召見代表是國家重要建政策讓我相信任何安排",
+                "labels": "蔡適應,邱國正:潛艦召集人代表這是國家重要一件政策啦齁是這那我相信當了部長這我一定會安排去部長",
+                "asr_recognition_time": 1.928499460220337,
+                "google_recognition_time": 2.291809558868408,
+                "speaker_recognition_time": 0.19438838958740234
+        },
+        {
+                "start_time": 385.752758,
+                "end_time": 391.754723,
+                "MASR_results": "蔡適應:全部都要管理嘛齁我希望部長趕快盡速去了解一下齁好這件事情就是這樣那我希望部長能夠盡速來加油好",
+                "google_asr_results": "全部照管理嗎好像不能趕快進出去了解一下好這就是你就是這樣跟我胸部長那個進出來加油好",
+                "labels": "蔡適應,邱國正:全部都要管理嘛齁是是我希望部長趕快盡速去了解一下齁好這件事情就是這樣子那我希望部長能夠盡速來加油好",
+                "asr_recognition_time": 2.7891006469726562,
+                "google_recognition_time": 2.290989637374878,
+                "speaker_recognition_time": 0.3047478199005127
+        },
+        {
+                "start_time": 392.130186,
+                "end_time": 394.214277,
+                "MASR_results": "蔡適應:接著我問一下是後備戰力的部分齁",
+                "google_asr_results": "一下之後備戰力的部分後",
+                "labels": "蔡適應:接下來我問一下是後備戰力的部分齁",
+                "asr_recognition_time": 0.7974741458892822,
+                "google_recognition_time": 0.806359052658081,
+                "speaker_recognition_time": 0.10225701332092285
+        },
+        {
+                "start_time": 395.449495,
+                "end_time": 398.24098,
+                "MASR_results": "蔡適應:部長小的會不會戰略這件事情嘛呃我說夠好",
+                "google_asr_results": "不然小的會不會在你這件事情嗎",
+                "labels": "蔡適應,邱國正:部長曉得後備戰力這件事情嘛呃我知道好",
+                "asr_recognition_time": 0.9747297763824463,
+                "google_recognition_time": 0.826416015625,
+                "speaker_recognition_time": 0.08992671966552734
+        },
+        {
+                "start_time": 398.393342,
+                "end_time": 401.739859,
+                "MASR_results": "蔡適應:我想請部長說明一下齁現在會不會戰略最大的問題出在哪裡",
+                "google_asr_results": "回家前部長說明一下好現在會不會在你最大的問題出在哪裡",
+                "labels": "蔡適應:我想請部長說明一下齁現在後備戰力最大的問題出在哪裡",
+                "asr_recognition_time": 1.3176159858703613,
+                "google_recognition_time": 1.2039086818695068,
+                "speaker_recognition_time": 0.13137173652648926
+        },
+        {
+                "start_time": 402.115322,
+                "end_time": 407.437101,
+                "MASR_results": "邱國正:呃我們人員就講說因為動員不管時間的問題還有訓練的問題",
+                "google_asr_results": "我們人員去想說因為動員不然時間的問題還有訓練問題",
+                "labels": "邱國正:呃我們人員去講說因為動員不管時間的問題還有訓練的問題",
+                "asr_recognition_time": 1.7585504055023193,
+                "google_recognition_time": 1.360074758529663,
+                "speaker_recognition_time": 0.17303729057312012
+        },
+        {
+                "start_time": 407.714617,
+                "end_time": 409.053224,
+                "MASR_results": "蔡適應:欸席你有一隻有問題嗎",
+                "google_asr_results": "去郵局問題嗎",
+                "labels": "邱國正,蔡適應:那現在又軍藤嗯這是個問題嗎",
+                "asr_recognition_time": 0.5323452949523926,
+                "google_recognition_time": 1.3151073455810547,
+                "speaker_recognition_time": 0.07458209991455078
+        },
+        {
+                "start_time": 409.325298,
+                "end_time": 410.653022,
+                "MASR_results": "蔡適應:來我們的這個",
+                "google_asr_results": "在我們的這個",
+                "labels": "蔡適應:來我們的這個",
+                "asr_recognition_time": 0.38273167610168457,
+                "google_recognition_time": 0.48970508575439453,
+                "speaker_recognition_time": 0.07584428787231445
+        },
+        {
+                "start_time": 411.697788,
+                "end_time": 415.022539,
+                "MASR_results": "蔡適應:我認為是主任衡主任來你如果現在就大問題是什麼",
+                "google_asr_results": "無論是主任行主任來你如果下次他問題是什麼",
+                "labels": "蔡適應:謀衛動員室主任韓主任來你認為現在最大的問題是什麼",
+                "asr_recognition_time": 1.1783795356750488,
+                "google_recognition_time": 1.1554369926452637,
+                "speaker_recognition_time": 0.14510798454284668
+        },
+        {
+                "start_time": 415.78979,
+                "end_time": 419.081892,
+                "MASR_results": "蔡適應:呃委員好我是全民防衛動搖是主任韓光明",
+                "google_asr_results": "各位好我是全民防衛動員4主任韓岡明",
+                "labels": "韓岡明:呃委員好我是全民防衛動員室主任韓岡明",
+                "asr_recognition_time": 0.84708571434021,
+                "google_recognition_time": 1.0428035259246826,
+                "speaker_recognition_time": 0.12966156005859375
+        },
+        {
+                "start_time": 419.141748,
+                "end_time": 420.1321,
+                "MASR_results": "蔡適應:感謝委員對",
+                "google_asr_results": "感謝委員對",
+                "labels": "韓岡明:感謝委員對",
+                "asr_recognition_time": 0.34248828887939453,
+                "google_recognition_time": 0.3360452651977539,
+                "speaker_recognition_time": 0.06001400947570801
+        },
+        {
+                "start_time": 420.42594,
+                "end_time": 423.881287,
+                "MASR_results": "廖婉汝:會不會戰力的支持目前我們推會不會動員的心制",
+                "google_asr_results": "後備戰力的支持目前我們推後備動員的心智",
+                "labels": "韓岡明:後備戰力的支持目前我們推後備動員的新制",
+                "asr_recognition_time": 0.9188835620880127,
+                "google_recognition_time": 0.8824269771575928,
+                "speaker_recognition_time": 0.14769887924194336
+        },
+        {
+                "start_time": 424.071739,
+                "end_time": 425.198128,
+                "MASR_results": "廖婉汝:到目前為止",
+                "google_asr_results": "到目前為止",
+                "labels": "韓岡明:到目前為止",
+                "asr_recognition_time": 0.35645055770874023,
+                "google_recognition_time": 0.300628662109375,
+                "speaker_recognition_time": 0.046527862548828125
+        },
+        {
+                "start_time": 425.426671,
+                "end_time": 427.663124,
+                "MASR_results": "蔡適應:呃原來的問題我們的訓練不夠",
+                "google_asr_results": "海軍來的問題我們的信用不夠",
+                "labels": "韓岡明:呃原來的問題我們的訓量不夠",
+                "asr_recognition_time": 0.5200302600860596,
+                "google_recognition_time": 0.5400407314300537,
+                "speaker_recognition_time": 0.07692742347717285
+        },
+        {
+                "start_time": 427.820927,
+                "end_time": 432.114264,
+                "MASR_results": "蔡適應:但因為我覺得到五個興趣的來啦我知道你講那是技術執行聞是",
+                "google_asr_results": "因為我知道你講那是技術執行問題是",
+                "labels": "韓岡明,蔡適應:但因為我們增加了五個新訓再來我覺得都應該不是這個來來來我知道你講那是技術執行問題是",
+                "asr_recognition_time": 1.542842149734497,
+                "google_recognition_time": 2.635298728942871,
+                "speaker_recognition_time": 0.1764664649963379
+        },
+        {
+                "start_time": 432.304716,
+                "end_time": 434.175,
+                "MASR_results": "蔡適應:所以大家問題是你們的法還沒過吧",
+                "google_asr_results": "最大問題是你的法還沒過吧",
+                "labels": "蔡適應:最大的問題是你們的法還沒過吧",
+                "asr_recognition_time": 0.7407314777374268,
+                "google_recognition_time": 1.3451659679412842,
+                "speaker_recognition_time": 0.06635141372680664
+        },
+        {
+                "start_time": 434.780594,
+                "end_time": 436.924542,
+                "MASR_results": "蔡適應:是所以我說過吧我要問一下部長",
+                "google_asr_results": "說為什麼嗎我要問一下不漲",
+                "labels": "韓岡明,蔡適應:是所以我沒錯吧所以我要問一下部長",
+                "asr_recognition_time": 0.7346389293670654,
+                "google_recognition_time": 0.9106490612030029,
+                "speaker_recognition_time": 0.08613729476928711
+        },
+        {
+                "start_time": 437.310888,
+                "end_time": 438.562431,
+                "MASR_results": "蔡適應:欸部長我請教你啊",
+                "google_asr_results": "還不找我請教你啊",
+                "labels": "蔡適應:來部長我請教你啊",
+                "asr_recognition_time": 0.4787604808807373,
+                "google_recognition_time": 0.4030795097351074,
+                "speaker_recognition_time": 0.06876945495605469
+        },
+        {
+                "start_time": 438.747441,
+                "end_time": 441.234203,
+                "MASR_results": "蔡適應:反美過我們做了一些事情依法有沒有去啦",
+                "google_asr_results": "還沒過我們就有一些事情100有沒有去啊",
+                "labels": "蔡適應:法沒過我們做了一些事情依法有沒有據啊",
+                "asr_recognition_time": 0.8873748779296875,
+                "google_recognition_time": 1.2169151306152344,
+                "speaker_recognition_time": 0.07895350456237793
+        },
+        {
+                "start_time": 441.538926,
+                "end_time": 442.006895,
+                "MASR_results": "廖婉汝:呃",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正:呃",
+                "asr_recognition_time": 0.22179651260375977,
+                "google_recognition_time": 0.20885539054870605,
+                "speaker_recognition_time": 0.04910683631896973
+        },
+        {
+                "start_time": 442.665315,
+                "end_time": 449.668514,
+                "MASR_results": "邱國正:的我們之前做一個準備工作吧所以所以最後是法要通過嘛的法沒通過就是依法無據嘛對不對",
+                "google_asr_results": "在王識賢所有的準備工作所以嗎要通過嗎沒通過就是一把無懼嗎對不對",
+                "labels": "邱國正,蔡適應:但我們之前做一個準備工作吧對嘛所以最後還是法要通過嘛是是法沒通過就是依法無據嘛對不對",
+                "asr_recognition_time": 2.7637135982513428,
+                "google_recognition_time": 2.0674421787261963,
+                "speaker_recognition_time": 0.34749388694763184
+        },
+        {
+                "start_time": 449.853525,
+                "end_time": 451.056095,
+                "MASR_results": "蔡適應:那法現在在哪裡",
+                "google_asr_results": "把現在在哪裡",
+                "labels": "蔡適應:那法現在在哪裡",
+                "asr_recognition_time": 0.39430999755859375,
+                "google_recognition_time": 0.40389442443847656,
+                "speaker_recognition_time": 0.07822370529174805
+        },
+        {
+                "start_time": 451.306403,
+                "end_time": 454.865139,
+                "MASR_results": "邱國正:這新呃行政院已經是少學生什麼時候送去了二月二十二齁",
+                "google_asr_results": "行政院應受行政訴訟續的",
+                "labels": "邱國正,蔡適應:在行政院在行政院已經送到行政院了什麼時候送去的二月二十二號",
+                "asr_recognition_time": 1.26961088180542,
+                "google_recognition_time": 1.1091868877410889,
+                "speaker_recognition_time": 0.14966654777526855
+        },
+        {
+                "start_time": 455.142655,
+                "end_time": 463.092673,
+                "MASR_results": "蔡適應:今年的呃委員二月二十二號送來那我想請教一下我按照國防部目前的瞭解跟行政院詢問大概什麼時候行政院會議",
+                "google_asr_results": "今年的2月22號從來那我想請教下按照光的了解更新詢問大概什麼時候行政院會議",
+                "labels": "韓岡明,邱國正,蔡適應:今年的二月二十二二月報告委員二月二十二號送到來那我想要請教一下我按照國防部目前的了解跟行政院詢問大概什麼行政院會議",
+                "asr_recognition_time": 3.58231782913208,
+                "google_recognition_time": 3.0200538635253906,
+                "speaker_recognition_time": 0.26041221618652344
+        },
+        {
+                "start_time": 463.223269,
+                "end_time": 465.214855,
+                "MASR_results": "蔡適應:會通過這個敢講這一兩個事情",
+                "google_asr_results": "這一兩個星期",
+                "labels": "蔡適應:會通過這個案子啊這一兩個星期",
+                "asr_recognition_time": 0.6686868667602539,
+                "google_recognition_time": 0.4278299808502197,
+                "speaker_recognition_time": 0.10785841941833496
+        },
+        {
+                "start_time": 465.628408,
+                "end_time": 470.242793,
+                "MASR_results": "蔡適應:報委員這兩個星期會通過也就是說現在是三個月底日會通過嗎",
+                "google_asr_results": "黃偉垣這一兩個星期會通過也就是說現在是30日通過嗎",
+                "labels": "蔡適應:報告委員這一兩個星期會通過也就是說現在是三月三月底之前會通過嗎",
+                "asr_recognition_time": 1.5871903896331787,
+                "google_recognition_time": 2.210104465484619,
+                "speaker_recognition_time": 0.19022440910339355
+        },
+        {
+                "start_time": 470.476777,
+                "end_time": 470.917538,
+                "MASR_results": "邱國正:是",
+                "google_asr_results": "無法辨識",
+                "labels": "Unknown:是",
+                "asr_recognition_time": 0.23382186889648438,
+                "google_recognition_time": 0.208479642868042,
+                "speaker_recognition_time": 0.026192426681518555
+        },
+        {
+                "start_time": 471.053575,
+                "end_time": 473.997422,
+                "MASR_results": "蔡適應:三月底之前會通過所以現在即政院送過行政院",
+                "google_asr_results": "月底之前會通過時間送過行政院",
+                "labels": "蔡適應:三月底之前會通過所以三月底之前送過行政院",
+                "asr_recognition_time": 0.9869887828826904,
+                "google_recognition_time": 2.998215436935425,
+                "speaker_recognition_time": 0.09449434280395508
+        },
+        {
+                "start_time": 474.236848,
+                "end_time": 475.135,
+                "MASR_results": "邱國正:要不要再公告",
+                "google_asr_results": "下載公告",
+                "labels": "蔡適應:要不要再公告",
+                "asr_recognition_time": 0.23239827156066895,
+                "google_recognition_time": 0.5550844669342041,
+                "speaker_recognition_time": 0.03929400444030762
+        },
+        {
+                "start_time": 475.608103,
+                "end_time": 481.935089,
+                "MASR_results": "蔡適應:不用沒有送來法立法院就直接行政院通過之後就可以函送立法院審議了會喔",
+                "google_asr_results": "沒有送來法直接行政院通過就可以函送立法院審議的不同",
+                "labels": "蔡適應:不用沒有送來行法立法院之後就就直接行政院通過之後就可以函送立法院審議了嘛齁是",
+                "asr_recognition_time": 2.2127206325531006,
+                "google_recognition_time": 1.4479880332946777,
+                "speaker_recognition_time": 0.2932925224304199
+        },
+        {
+                "start_time": 482.039946,
+                "end_time": 484.90217,
+                "MASR_results": "蔡適應:好那我想請教一下部長齁不長這個重要你自己要知道來",
+                "google_asr_results": "Hello想請教下部長我不吵著你說你自己要知道來",
+                "labels": "蔡適應:好那我想請教一下部長喔部長這很重要你自己要知道來",
+                "asr_recognition_time": 1.161846399307251,
+                "google_recognition_time": 2.1490986347198486,
+                "speaker_recognition_time": 0.09338831901550293
+        },
+        {
+                "start_time": 485.174245,
+                "end_time": 486.948171,
+                "MASR_results": "蔡適應:我送行政院審議及好法案啦",
+                "google_asr_results": "送行政院審議幾號法案",
+                "labels": "邱國正,蔡適應:是送行政院審議幾條法案哪",
+                "asr_recognition_time": 0.43828701972961426,
+                "google_recognition_time": 0.8282680511474609,
+                "speaker_recognition_time": 0.07418155670166016
+        },
+        {
+                "start_time": 487.998379,
+                "end_time": 490.430726,
+                "MASR_results": "邱國正:三三三三條拿三個你知不知道",
+                "google_asr_results": "3條33條3個你知不知道",
+                "labels": "邱國正,蔡適應:三條欸三三條法案哪三個你知不知道",
+                "asr_recognition_time": 0.6810503005981445,
+                "google_recognition_time": 1.2912898063659668,
+                "speaker_recognition_time": 0.07992243766784668
+        },
+        {
+                "start_time": 490.544997,
+                "end_time": 501.765352,
+                "MASR_results": "蔡適應:是我欸部長呢國防衛後備動員所的組織法一個組織法國防部組織法嗎還有參會的組織法嘛對不了這個上我都比你還清楚拜託你要改進的因為這是你今天",
+                "google_asr_results": "做我才不長了皇位後備動員數的主持法媽祖直播比你還清楚拜託你要改進的樂這是你今天",
+                "labels": "邱國正,蔡適應:這我來部長報告防衛後備動員署的組織法一個組織法國防部組織法國防部還有參謀本部的組織法嘛對不對是部長我都比你還清楚拜託你要趕快記得是是是因為這是你今天",
+                "asr_recognition_time": 5.247215509414673,
+                "google_recognition_time": 4.059392690658569,
+                "speaker_recognition_time": 0.6829581260681152
+        },
+        {
+                "start_time": 501.93948,
+                "end_time": 502.527,
+                "MASR_results": "邱國正:報告",
+                "google_asr_results": "報告",
+                "labels": "蔡適應:報告",
+                "asr_recognition_time": 0.24305939674377441,
+                "google_recognition_time": 0.2814955711364746,
+                "speaker_recognition_time": 0.028553009033203125
+        },
+        {
+                "start_time": 502.690405,
+                "end_time": 506.140311,
+                "MASR_results": "蔡適應:第二個重要的事情啊我現在欸我看看一起來剛剛二的地方齁",
+                "google_asr_results": "第二個重要的事情啊如果現在我看你再幫他做的地方齁",
+                "labels": "蔡適應:第二個重要的事情啊我寫在看我看你寫在方案二的地方齁",
+                "asr_recognition_time": 1.2571074962615967,
+                "google_recognition_time": 1.5997350215911865,
+                "speaker_recognition_time": 0.11081743240356445
+        },
+        {
+                "start_time": 506.189284,
+                "end_time": 506.738875,
+                "MASR_results": "邱國正:好",
+                "google_asr_results": "無法辨識",
+                "labels": "邱國正,蔡適應:是好",
+                "asr_recognition_time": 0.2423875331878662,
+                "google_recognition_time": 0.20233416557312012,
+                "speaker_recognition_time": 0.02558302879333496
+        },
+        {
+                "start_time": 506.804173,
+                "end_time": 507.919679,
+                "MASR_results": "蔡適應:所以我要講就你的",
+                "google_asr_results": "做完就是你的",
+                "labels": "蔡適應:所以我要講的就是你的",
+                "asr_recognition_time": 0.47796154022216797,
+                "google_recognition_time": 1.1322777271270752,
+                "speaker_recognition_time": 0.05516529083251953
+        },
+        {
+                "start_time": 508.055716,
+                "end_time": 508.671,
+                "MASR_results": "蔡適應:組織法",
+                "google_asr_results": "組織法",
+                "labels": "蔡適應:組織法",
+                "asr_recognition_time": 0.26972103118896484,
+                "google_recognition_time": 0.283794641494751,
+                "speaker_recognition_time": 0.03628063201904297
+        },
+        {
+                "start_time": 508.877381,
+                "end_time": 510.580568,
+                "MASR_results": "蔡適應:一定要送過來因為如果今年",
+                "google_asr_results": "你要送過來因為如果今年",
+                "labels": "蔡適應:一定要送過來因為如果今年",
+                "asr_recognition_time": 0.44689178466796875,
+                "google_recognition_time": 0.7438802719116211,
+                "speaker_recognition_time": 0.059642791748046875
+        },
+        {
+                "start_time": 511.255313,
+                "end_time": 514.950085,
+                "MASR_results": "蔡適應:上個會期組織法沒有通過的話我想問下部長你預算可以編嗎",
+                "google_asr_results": "上個會期主機板沒有通過的話我想問下部長你預算可以編嗎",
+                "labels": "蔡適應:上個會期組織法沒有通過的話我想問下部長你預算可以編嗎",
+                "asr_recognition_time": 1.3379452228546143,
+                "google_recognition_time": 1.4160430431365967,
+                "speaker_recognition_time": 0.13909363746643066
+        },
+        {
+                "start_time": 515.080681,
+                "end_time": 518.960464,
+                "MASR_results": "邱國正:就是我跟沒辦法就沒有辦法按你的預算內審什麼時候要審查",
+                "google_asr_results": "沒辦法就沒辦法看你的預算內審什麼時候要審查",
+                "labels": "邱國正,蔡適應:不行呃這樣沒辦法就沒辦法啊你的預算內審什麼時候要審查",
+                "asr_recognition_time": 1.3812816143035889,
+                "google_recognition_time": 0.9075155258178711,
+                "speaker_recognition_time": 0.12240839004516602
+        },
+        {
+                "start_time": 519.069294,
+                "end_time": 519.96714,
+                "MASR_results": "邱國正:月三十一號",
+                "google_asr_results": "月31號",
+                "labels": "Unknown:五月三十一號以前",
+                "asr_recognition_time": 0.37393999099731445,
+                "google_recognition_time": 0.33275699615478516,
+                "speaker_recognition_time": 0.06332874298095703
+        },
+        {
+                "start_time": 520.250098,
+                "end_time": 526.801653,
+                "MASR_results": "邱國正:在通常都是上半年啦五月份或六月份的時候嘛也就是說如果我們四月或者我最晚立法院",
+                "google_asr_results": "在了通常對不對上半年啦不要這樣會6月份的時候買也就是說如果我們四月五號最晚100元",
+                "labels": "邱國正,蔡適應:在通常都在上半年哪欸五月份或六月份的時候嘛也就是說如果我們四月五或或者最晚立法院",
+                "asr_recognition_time": 2.624168634414673,
+                "google_recognition_time": 2.3186147212982178,
+                "speaker_recognition_time": 0.33841395378112793
+        },
+        {
+                "start_time": 527.149909,
+                "end_time": 529.919,
+                "MASR_results": "蔡適應:本會期沒有完成三讀通過的話",
+                "google_asr_results": "本會期沒有完成三讀通過的話",
+                "labels": "蔡適應:本會期沒有完成三讀通過的話",
+                "asr_recognition_time": 0.7549588680267334,
+                "google_recognition_time": 0.4431154727935791,
+                "speaker_recognition_time": 0.13283061981201172
+        },
+        {
+                "start_time": 530.137287,
+                "end_time": 535.453624,
+                "MASR_results": "蔡適應:你編預算就變成依法無缺了沒有辦法這就是我剛剛問了很他們還主要說你們做了很多事情",
+                "google_asr_results": "編預算就變成150去了沒有辦法就是我剛才問他們說你們做人做事情",
+                "labels": "邱國正,蔡適應:是你編預算就變成依法無據了欸沒有沒有辦法這就是我剛剛問的韓岡明韓主任說你們做了很多事情",
+                "asr_recognition_time": 1.9439985752105713,
+                "google_recognition_time": 2.6557905673980713,
+                "speaker_recognition_time": 0.1566023826599121
+        },
+        {
+                "start_time": 535.573337,
+                "end_time": 538.462769,
+                "MASR_results": "蔡適應:有沒有依法有趣這件事情齁那這非常重要的好",
+                "google_asr_results": "有沒有一把有趣的事情那這邊很重要的好",
+                "labels": "蔡適應:有沒有依法有據這件事情齁那這非常重要的好",
+                "asr_recognition_time": 0.8013796806335449,
+                "google_recognition_time": 1.0297608375549316,
+                "speaker_recognition_time": 0.12340855598449707
+        },
+        {
+                "start_time": 538.623,
+                "end_time": 540.008153,
+                "MASR_results": "蔡適應:那裡面有幾個重要性是",
+                "google_asr_results": "這裡面有幾個作者是",
+                "labels": "蔡適應:那裡面有幾個重要事情是",
+                "asr_recognition_time": 0.5484981536865234,
+                "google_recognition_time": 0.7492685317993164,
+                "speaker_recognition_time": 0.05048537254333496
+        },
+        {
+                "start_time": 540.209488,
+                "end_time": 543.507031,
+                "MASR_results": "蔡適應:這幾天媒體報很大大都非常關心的這幾件事情齁",
+                "google_asr_results": "這幾天媒體報很大大陸兩岸關心的這幾件事情",
+                "labels": "蔡適應:這幾天媒體報很大大家都非常關心的這幾件事情齁",
+                "asr_recognition_time": 1.1657218933105469,
+                "google_recognition_time": 1.0956940650939941,
+                "speaker_recognition_time": 0.14212274551391602
+        },
+        {
+                "start_time": 543.751899,
+                "end_time": 545.40067,
+                "MASR_results": "蔡適應:我我還是要拜託一下部長齁",
+                "google_asr_results": "我還在拜託他不長後",
+                "labels": "蔡適應:我我還是要拜託一下部長齁",
+                "asr_recognition_time": 0.6045646667480469,
+                "google_recognition_time": 1.3356351852416992,
+                "speaker_recognition_time": 0.062363386154174805
+        },
+        {
+                "start_time": 545.694511,
+                "end_time": 549.830044,
+                "MASR_results": "蔡適應:跟我們的主任還有未來會不會動給相關單位去了解一下因為這時間包括",
+                "google_asr_results": "跟我們的主任還有未來會不會動的相關單位去了解向右使用包括",
+                "labels": "蔡適應:跟我們的主任還有我們未來後備動員的相關單位去了解一下因為這其中包括",
+                "asr_recognition_time": 1.6447968482971191,
+                "google_recognition_time": 1.600050926208496,
+                "speaker_recognition_time": 0.13028740882873535
+        },
+        {
+                "start_time": 550.042262,
+                "end_time": 551.576763,
+                "MASR_results": "蔡適應:交到時間增長的事情",
+                "google_asr_results": "教召時間正常的事情",
+                "labels": "蔡適應:教召時間增長的事情",
+                "asr_recognition_time": 0.3511664867401123,
+                "google_recognition_time": 0.44084882736206055,
+                "speaker_recognition_time": 0.054660797119140625
+        },
+        {
+                "start_time": 551.935,
+                "end_time": 553.002434,
+                "MASR_results": "蔡適應:以及呃",
+                "google_asr_results": "以及",
+                "labels": "蔡適應:以及呃",
+                "asr_recognition_time": 0.2941558361053467,
+                "google_recognition_time": 0.7648754119873047,
+                "speaker_recognition_time": 0.03527688980102539
+        },
+        {
+                "start_time": 553.122147,
+                "end_time": 556.735297,
+                "MASR_results": "蔡適應:八年賓館這個這個這個這個事情改是十二年的事情",
+                "google_asr_results": "8年賓館這個這個這個這個事情該是12年的事情",
+                "labels": "蔡適應:八年編管這個這個這個事情改成十二年的事情",
+                "asr_recognition_time": 1.1343622207641602,
+                "google_recognition_time": 0.7436213493347168,
+                "speaker_recognition_time": 0.1512303352355957
+        },
+        {
+                "start_time": 557.007371,
+                "end_time": 559.205734,
+                "MASR_results": "蔡適應:還有薪資要調整的這個問題好",
+                "google_asr_results": "還有薪資要調整的這個問題",
+                "labels": "蔡適應:還有薪資要調整的這個問題好",
+                "asr_recognition_time": 0.7605428695678711,
+                "google_recognition_time": 0.3563883304595947,
+                "speaker_recognition_time": 0.08346271514892578
+        },
+        {
+                "start_time": 559.41251,
+                "end_time": 562.416214,
+                "MASR_results": "蔡適應:那這幾件事情我想因為都只有新的一個",
+                "google_asr_results": "事情我想因為都一直有新的一個",
+                "labels": "蔡適應:那這幾件事情我想因為都一直有新的一個",
+                "asr_recognition_time": 0.9241747856140137,
+                "google_recognition_time": 0.71303391456604,
+                "speaker_recognition_time": 0.1279151439666748
+        },
+        {
+                "start_time": 562.617549,
+                "end_time": 563.450097,
+                "MASR_results": "蔡適應:版本出來",
+                "google_asr_results": "版本出來",
+                "labels": "蔡適應:版本出來",
+                "asr_recognition_time": 0.32970690727233887,
+                "google_recognition_time": 0.3371150493621826,
+                "speaker_recognition_time": 0.03398561477661133
+        },
+        {
+                "start_time": 563.852767,
+                "end_time": 565.055337,
+                "MASR_results": "邱國正:齁我也希望",
+                "google_asr_results": "我也希望",
+                "labels": "蔡適應:齁我也希望",
+                "asr_recognition_time": 0.38279247283935547,
+                "google_recognition_time": 0.5203952789306641,
+                "speaker_recognition_time": 0.04280734062194824
+        },
+        {
+                "start_time": 565.147842,
+                "end_time": 566.350412,
+                "MASR_results": "邱國正:如果可以的話",
+                "google_asr_results": "如果可以的話",
+                "labels": "蔡適應:如果可以的話",
+                "asr_recognition_time": 0.37810635566711426,
+                "google_recognition_time": 0.26752686500549316,
+                "speaker_recognition_time": 0.0453341007232666
+        },
+        {
+                "start_time": 566.527,
+                "end_time": 570.894057,
+                "MASR_results": "蔡適應:在行政院通過相關的組織法通過之後送來立法院的時候",
+                "google_asr_results": "在行政院通過相關的組織法通過之後送來立法院的時候",
+                "labels": "蔡適應:在行政院通過相關的組織法通過之後送來立法院的時候",
+                "asr_recognition_time": 1.1375060081481934,
+                "google_recognition_time": 0.6029613018035889,
+                "speaker_recognition_time": 0.16860532760620117
+        },
+        {
+                "start_time": 571.193339,
+                "end_time": 574.294989,
+                "MASR_results": "蔡適應:國防部能夠給一個定案的版本做了讓做不到",
+                "google_asr_results": "國防部能夠給一個定案的版本做得到做不到",
+                "labels": "蔡適應:國防部能夠給一個定案的版本做得到做不到",
+                "asr_recognition_time": 0.7902264595031738,
+                "google_recognition_time": 1.1133813858032227,
+                "speaker_recognition_time": 0.10534977912902832
+        },
+        {
+                "start_time": 574.387494,
+                "end_time": 575.154745,
+                "MASR_results": "邱國正:他也可以",
+                "google_asr_results": "可以可以",
+                "labels": "邱國正:可以可以",
+                "asr_recognition_time": 0.3515472412109375,
+                "google_recognition_time": 0.3362560272216797,
+                "speaker_recognition_time": 0.036229610443115234
+        },
+        {
+                "start_time": 575.231,
+                "end_time": 577.037501,
+                "MASR_results": "蔡適應:還有做的到也就是說",
+                "google_asr_results": "加油做得到的說",
+                "labels": "蔡適應,邱國正:可以喔做得到喔這一定要這麼做也就是說",
+                "asr_recognition_time": 0.5035238265991211,
+                "google_recognition_time": 0.9757542610168457,
+                "speaker_recognition_time": 0.08285808563232422
+        },
+        {
+                "start_time": 577.211628,
+                "end_time": 582.07088,
+                "MASR_results": "蔡適應:國防部到最後送法案來之後我希望把這幾件事情也並說明清楚不要覺可以嗎",
+                "google_asr_results": "國防部到週送法院來找我希望把自己件事情也並說明清楚了解可以嗎",
+                "labels": "蔡適應,邱國正:國防部到時候送法案來之後我希望把這幾件事情也一併說明清楚了解可以嗎",
+                "asr_recognition_time": 1.8840830326080322,
+                "google_recognition_time": 1.8146421909332275,
+                "speaker_recognition_time": 0.2940385341644287
+        },
+        {
+                "start_time": 582.147061,
+                "end_time": 588.622436,
+                "MASR_results": "邱國正:可以所以他所於的就然後因為這樣的一個說明清楚也作為我們未來預算因為這涉及到預算嘛對不對",
+                "google_asr_results": "可以說好說應該是因為這樣的一個說明清楚也作為我們未來預算樂這是你知道預算嗎對不對",
+                "labels": "邱國正,蔡適應:可以這然後欸這應該這個然後因為這樣的一個說明清楚也作為我們未來預算因為這涉及到預算嘛對不對",
+                "asr_recognition_time": 2.6985361576080322,
+                "google_recognition_time": 2.1143062114715576,
+                "speaker_recognition_time": 0.2589995861053467
+        },
+        {
+                "start_time": 588.834654,
+                "end_time": 591.288766,
+                "MASR_results": "蔡適應:預算跟我們編裝後續的東西",
+                "google_asr_results": "黑蒜跟我們邊妝後續的東西",
+                "labels": "蔡適應:預算跟我們編裝後續的東西",
+                "asr_recognition_time": 0.5001749992370605,
+                "google_recognition_time": 0.6862902641296387,
+                "speaker_recognition_time": 0.08140206336975098
+        },
+        {
+                "start_time": 591.332298,
+                "end_time": 593.231379,
+                "MASR_results": "蔡適應:齁我覺得這非常重要的原因是因為",
+                "google_asr_results": "我覺得兩個重要的原因是因為",
+                "labels": "蔡適應:齁我覺得這非常重要的原因是因為",
+                "asr_recognition_time": 0.7269070148468018,
+                "google_recognition_time": 0.6742017269134521,
+                "speaker_recognition_time": 0.06562018394470215
+        },
+        {
+                "start_time": 593.487129,
+                "end_time": 596.605103,
+                "MASR_results": "蔡適應:我們可以看到所有的媒體或者所有的在網路上的討論",
+                "google_asr_results": "我們可以看到說的媒體或者所有的在網路上的討論",
+                "labels": "蔡適應:我們可以看到所有的媒體或者所有的在網路上的討論",
+                "asr_recognition_time": 1.0939655303955078,
+                "google_recognition_time": 0.7976181507110596,
+                "speaker_recognition_time": 0.1260514259338379
+        },
+        {
+                "start_time": 596.713933,
+                "end_time": 600.49577,
+                "MASR_results": "蔡適應:其實很多很多的版本那當然還有什麼國防部留出來的小道消息齁",
+                "google_asr_results": "都很多很多的版本那張那有什麼光不留錯的小道消息",
+                "labels": "蔡適應:其實有很多很多的版本那常常還有什麼國防部流出來的小道消息齁",
+                "asr_recognition_time": 1.3879072666168213,
+                "google_recognition_time": 1.543205738067627,
+                "speaker_recognition_time": 0.15291523933410645
+        },
+        {
+                "start_time": 600.68078,
+                "end_time": 602.705015,
+                "MASR_results": "蔡適應:我認為其實這樣會造成很多人的困擾",
+                "google_asr_results": "我認為其實這樣會造成很多人的困擾",
+                "labels": "蔡適應:我認為其實這樣會造成很多人的困擾",
+                "asr_recognition_time": 0.7557997703552246,
+                "google_recognition_time": 1.085390567779541,
+                "speaker_recognition_time": 0.07425141334533691
+        },
+        {
+                "start_time": 602.846494,
+                "end_time": 603.189308,
+                "MASR_results": "蔡適應:好不好",
+                "google_asr_results": "無法辨識",
+                "labels": "蔡適應:好不好",
+                "asr_recognition_time": 0.2762298583984375,
+                "google_recognition_time": 0.18882346153259277,
+                "speaker_recognition_time": 0.027132034301757812
+        },
+        {
+                "start_time": 603.298138,
+                "end_time": 606.236543,
+                "MASR_results": "邱國正:好以上就我接呃簡報沒有好謝謝委員謝謝",
+                "google_asr_results": "以上是我的簡報內容謝謝",
+                "labels": "蔡適應,邱國正:好以上就我簡的簡報內容謝謝好謝謝委員謝謝",
+                "asr_recognition_time": 0.9740827083587646,
+                "google_recognition_time": 2.3256194591522217,
+                "speaker_recognition_time": 0.11142706871032715
+        }
+]
