@@ -1,6 +1,8 @@
 {
-    "subtitles_with_ASR_speaker1.mp4" : "測試1號",
-    "subtitles_with_ASR_speaker2.mp4" : "測試2號",
-    "subtitles_with_ASR_speaker3.mp4" : "測試3號",
-    "subtitles_with_ASR_speaker4.mp4" : "測試4號"
+    "video1.mp4" : "20210318_林昶佐",
+    "video2.mp4" : "20210318_陳柏惟",
+    "video3.mp4" : "20210317_曾銘宗",
+    "video4.mp4" : "20210317_吳斯懷",
+    "video5.mp4" : "20210317_蔡適應",
+    "video6.mp4" : "20210317_呂玉玲"
 }

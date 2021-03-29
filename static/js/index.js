@@ -1,5 +1,6 @@
 $(document).ready(function(){
-    var masr_url="http://172.16.120.124:1111/"; 
+    // var masr_url="http://127.0.0.1:1111/"; 
+    var masr_url="http://172.16.120.124:1111/";
     var subtitle_json={}; 
     var time;
     var flag = false;  
@@ -8,22 +9,25 @@ $(document).ready(function(){
         $("#ncsist").text("語者身分：語音逐字稿");
         $("#google").text("語者身分：語音逐字稿");
         $("#answer").text("語者身分：語音逐字稿");
-        Get_Subtitle($(this).find("td")[1].id);
         $("#_video")[0].src="";        
         $("#_video")[0].src="static\\video\\"+$(this).find("td")[1].id+".mp4";        
-        $("#_video")[0].load();        
+        // $("#_video")[0].load();        
         var v = document.getElementsByTagName("video")[0];
+        var name = $(this).find("td")[1].id;
         v.addEventListener("playing", function() 
         { 
             if(flag == false){
-                time = setInterval(subtitle_method,500,subtitle_json);
+                time = setInterval(Get_Subtitle,500,name);
                 flag = true;
             }   
             else{
                 clearInterval(time);
-                time = setInterval(subtitle_method,500,subtitle_json);
+                time = setInterval(Get_Subtitle,500,name);
             }         
         }, true);
+        // var name = $(this).find("td")[1].id;
+        // clearInterval(time);
+        // setInterval(Get_Subtitle,500,name);
     });
     
     $(".word_check").change(function(data){
@@ -63,12 +67,27 @@ $(document).ready(function(){
         $.ajax({ 
             type:'POST',  
             url:masr_url+"video_json", 
-            async : false,
             data:JSON.stringify(dataJSON),   
             contentType: "application/json; charset=utf-8",         
             dataType:'json', 
             success:function(data){ 
-                subtitle_json = data;
+                $.each(data,function(key,val){
+                    var currentTime = $("#_video")[0].currentTime;
+                    if(key == 0){
+                        $(".accuracy").text("");
+                        $(".accuracy").append(function(){
+                            var str = "語音辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.speech_accuracy+"%"+"<br>"+"語者辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.speaker_accuracy+"%";
+                            return str;
+                        });
+                    }
+                    else{
+                        if(currentTime >= val.start_time && currentTime <= val.end_time && val.MASR_results != "null"){
+                            $("#ncsist").text(val.MASR_results);
+                            $("#google").text(val.google_asr_results);
+                            $("#answer").text(val.labels);
+                        }
+                    }
+                });
             } 
         });                        
     }
@@ -79,7 +98,7 @@ $(document).ready(function(){
             if(key == 0){
                 $(".accuracy").text("");
                 $(".accuracy").append(function(){
-                    var str = "語音辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.ASR_wer+"%"+"<br>"+"語者辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.speaker_wer+"%";
+                    var str = "語音辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.speech_accuracy+"%"+"<br>"+"語者辨識&nbsp;&nbsp;:&nbsp;&nbsp;"+val.speaker_accuracy+"%";
                     return str;
                 });
             }
