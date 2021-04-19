@@ -10,14 +10,12 @@ import numpy as np
 from flask import Flask, request, jsonify, render_template
 import json
 import glob
-from flask_cors import cross_origin
-from flask_cors import CORS
 import librosa
-
+from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-app.config['debug'] = True
+# app.config['debug'] = True
 
 '''
     POST data format:
@@ -27,20 +25,12 @@ app.config['debug'] = True
 '''
 
 
-@app.route("/")
-def index():
-    """html server
-
-    Returns:
-        html: [description]
-    """
-    return render_template(web_index_path)
-
 @app.route('/video_json', methods=['GET', 'POST'])
 def video_json():
     post_data = request.json
     try:
         name = post_data['video_name']
+        print("name", name)
         if name in json_info.keys():
             return jsonify(json_info[name])
     
@@ -112,6 +102,7 @@ if __name__ == "__main__":
         name = json.load(f)
     json_info = read_json_to_dict(json_path)
     video_info = read_video_info(video_path, name)
+    # app.run('172.16.120.247', '1111', threaded = False)
     app.run('172.16.120.124', '1111', threaded = False)
     # app.run('127.0.0.1', '1111', threaded = False)
     
