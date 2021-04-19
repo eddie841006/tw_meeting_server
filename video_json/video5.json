@@ -1,7 +1,9 @@
 [
         {
-                "speech_accuracy": 83,
-                "speaker_accuracy": 88
+                "speech_accuracy": 82,
+                "speaker_accuracy": 88,
+                "google_speech_accuracy": 52,
+                "predict_time": 1.0
         },
         {
                 "start_time": 0.76725,

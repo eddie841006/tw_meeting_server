@@ -1,0 +1,1954 @@
+[
+     {
+          "speech_accuracy": 90,
+          "speaker_accuracy": 96,
+          "google_speech_accuracy": 78,
+          "predict_time": 0.56
+     },
+     {
+          "start_time": 0.66279,
+          "end_time": 3.394959,
+          "MASR_results": "馬文君:謝謝主席麻煩請部長",
+          "google_asr_results": "解救星班請不長",
+          "labels": "馬文君:謝謝主席麻煩請部長"
+     },
+     {
+          "start_time": 7.739917,
+          "end_time": 8.638366,
+          "MASR_results": "廖婉汝:邱部長請",
+          "google_asr_results": "無法辨識",
+          "labels": "廖婉汝:邱部長請"
+     },
+     {
+          "start_time": 11.628287,
+          "end_time": 12.394178,
+          "MASR_results": "邱國正:馬委員好",
+          "google_asr_results": "寶雅",
+          "labels": "邱國正:馬委員好"
+     },
+     {
+          "start_time": 12.909681,
+          "end_time": 13.616658,
+          "MASR_results": "馬文君:部長好",
+          "google_asr_results": "不講好",
+          "labels": "馬文君:部長好"
+     },
+     {
+          "start_time": 13.955417,
+          "end_time": 14.905417000000002,
+          "MASR_results": "馬文君:呃",
+          "google_asr_results": "無法辨識",
+          "labels": "馬文君:呃"
+     },
+     {
+          "start_time": 15.848052,
+          "end_time": 19.6996,
+          "MASR_results": "馬文君:部長在我們今天呃資訊剛開始因為",
+          "google_asr_results": "不長在我們今天資訊剛開始因為",
+          "labels": "馬文君:部長在我們今天呃質詢剛開始因為"
+     },
+     {
+          "start_time": 19.787972,
+          "end_time": 22.836807,
+          "MASR_results": "馬文君:呃最近齁連續呃光是",
+          "google_asr_results": "最近好連續耳光式",
+          "labels": "馬文君:呃最近齁連續呃光是"
+     },
+     {
+          "start_time": 23.04,
+          "end_time": 27.932927000000003,
+          "MASR_results": "馬文君:質詢之前齁我想要先提醒因為最近以來天氣非常炎熱",
+          "google_asr_results": "資訊之前我想要先提醒因為最近來天氣放炎熱",
+          "labels": "馬文君:質詢之前齁我想要先提醒因為最近以來天氣非常炎熱"
+     },
+     {
+          "start_time": 28.058121000000003,
+          "end_time": 30.363158,
+          "MASR_results": "馬文君:而且全臺都嚴重缺水",
+          "google_asr_results": "而且全台都嚴重缺水",
+          "labels": "馬文君:而且全台都嚴重缺水"
+     },
+     {
+          "start_time": 31.070135,
+          "end_time": 36.571294,
+          "MASR_results": "馬文君:昨天國軍就發生受山營區跟成功領營區都有呃火災情勢的發生",
+          "google_asr_results": "昨天國軍就發生壽山營區跟成功嶺營區都有火災情事的發生",
+          "labels": "馬文君:昨天國軍就發生壽山園區跟成功嶺營區都有呃火災情勢的發生"
+     },
+     {
+          "start_time": 36.821681,
+          "end_time": 41.372841,
+          "MASR_results": "馬文君:所以尤其是成功領營區一度還危及我們的單要庫",
+          "google_asr_results": "所以有騎士成功嶺營區一度還維持我們的彈藥庫",
+          "labels": "馬文君:所以尤其是成功嶺營區一度還危及我們的彈藥庫"
+     },
+     {
+          "start_time": 41.472,
+          "end_time": 45.084467,
+          "MASR_results": "馬文君:算成功領營區是從大陸三延燒過來的可是在",
+          "google_asr_results": "鄭成功嶺營區是從大肚山岩超過來的可是在",
+          "labels": "馬文君:雖然成功嶺營區是從大肚山延燒過來的可是在"
+     },
+     {
+          "start_time": 45.180203000000006,
+          "end_time": 48.737177,
+          "MASR_results": "馬文君:這樣氣候異常還有全臺都在看看的",
+          "google_asr_results": "這樣氣候異常還有全台都在抗旱地",
+          "labels": "馬文君:這樣氣候異常還有全台都在抗旱的"
+     },
+     {
+          "start_time": 48.869735,
+          "end_time": 49.967022,
+          "MASR_results": "馬文君:這個情況之下",
+          "google_asr_results": "這個情況之下",
+          "labels": "馬文君:這個情況之下"
+     },
+     {
+          "start_time": 50.077487,
+          "end_time": 53.096864,
+          "MASR_results": "馬文君:我們不管超科訓練或者裝備保養",
+          "google_asr_results": "我們不管操課訓練或者裝備保養",
+          "labels": "馬文君:我們不管操課訓練或者裝備保養"
+     },
+     {
+          "start_time": 53.248,
+          "end_time": 56.138335,
+          "MASR_results": "馬文君:要怎麼樣去注意還有營區環境",
+          "google_asr_results": "要怎麼樣去注意還有營區環境",
+          "labels": "馬文君:要怎麼樣去注意還有營區環境"
+     },
+     {
+          "start_time": 56.234072,
+          "end_time": 58.973605000000006,
+          "MASR_results": "馬文君:庫存的設施一定要加強的檢查",
+          "google_asr_results": "庫存的攝氏一定要加強的檢查",
+          "labels": "馬文君:庫存的設置一定要加強的檢查"
+     },
+     {
+          "start_time": 59.07670600000001,
+          "end_time": 65.086004,
+          "MASR_results": "馬文君:在防範火災的這部分我們還是希望可以呃審慎的去因應齁",
+          "google_asr_results": "災防範火災的這部分我們還是希望可以審慎的因應",
+          "labels": "馬文君,邱國正:在防範火災的這一部分我們還是希望可以是是呃審慎的去因應好的"
+     },
+     {
+          "start_time": 65.44685600000001,
+          "end_time": 67.582514,
+          "MASR_results": "馬文君:不要造成很大的危害齁",
+          "google_asr_results": "不要造成很大的危害",
+          "labels": "馬文君:不要造成很大的危害齁"
+     },
+     {
+          "start_time": 67.928638,
+          "end_time": 70.439876,
+          "MASR_results": "馬文君:接下來呃部長因為",
+          "google_asr_results": "接下來不長因為",
+          "labels": "馬文君:接下來呃部長因為"
+     },
+     {
+          "start_time": 70.550341,
+          "end_time": 72.192588,
+          "MASR_results": "馬文君:其實您接任以來",
+          "google_asr_results": "林姐這裡來",
+          "labels": "馬文君:其實您接任以來"
+     },
+     {
+          "start_time": 73.186774,
+          "end_time": 74.320882,
+          "MASR_results": "馬文君:過去在",
+          "google_asr_results": "過去載",
+          "labels": "馬文君:過去在"
+     },
+     {
+          "start_time": 74.46080400000001,
+          "end_time": 76.758477,
+          "MASR_results": "馬文君:呃蔡政府那個團隊",
+          "google_asr_results": "蔡政府內閣團隊",
+          "labels": "馬文君:呃蔡政府內閣團隊"
+     },
+     {
+          "start_time": 76.979407,
+          "end_time": 78.710026,
+          "MASR_results": "馬文君:從退輔會主委",
+          "google_asr_results": "重退輔會主委",
+          "labels": "馬文君:從退輔會主委"
+     },
+     {
+          "start_time": 78.93831999999999,
+          "end_time": 82.016613,
+          "MASR_results": "馬文君:面臨到了年金改革然後國安局長",
+          "google_asr_results": "過年到了年金改革然後管局長",
+          "labels": "馬文君:面臨到了年金改革然後國安局長"
+     },
+     {
+          "start_time": 82.127078,
+          "end_time": 84.48,
+          "MASR_results": "馬文君:有碰到試驗案到現在",
+          "google_asr_results": "又碰到私菸案到現在",
+          "labels": "馬文君:又有碰到私菸案到現在"
+     },
+     {
+          "start_time": 84.736,
+          "end_time": 89.358856,
+          "MASR_results": "馬文君:我們兩岸情勢這麼緊張的情況之下你接了國防部長",
+          "google_asr_results": "澳門兩岸情勢這麼緊張的情況之下你接的國防部長",
+          "labels": "馬文君:喔我們兩岸情勢這麼緊張的情況之下你接了國防部長"
+     },
+     {
+          "start_time": 89.48405,
+          "end_time": 92.068932,
+          "MASR_results": "馬文君:其實真的是名副其實的救火對",
+          "google_asr_results": "其實真的是名副其實的救火隊",
+          "labels": "馬文君:其實真的是名副其實的救火隊"
+     },
+     {
+          "start_time": 92.194126,
+          "end_time": 97.069316,
+          "MASR_results": "馬文君:而且邱部長過去以來一直都是呃以至軍嚴謹",
+          "google_asr_results": "而且就不能過去了一直都是以治軍嚴謹",
+          "labels": "邱國正,馬文君:不敢不敢而且邱部長過去以來一直都是呃以治軍嚴謹"
+     },
+     {
+          "start_time": 97.14296,
+          "end_time": 98.777842,
+          "MASR_results": "馬文君:呃是為人稱道",
+          "google_asr_results": "海思為人稱道",
+          "labels": "馬文君:呃是為人稱道"
+     },
+     {
+          "start_time": 98.9104,
+          "end_time": 102.85032,
+          "MASR_results": "馬文君:所以我們呃在這一個過程當中我們當然還是希望",
+          "google_asr_results": "那我們在這個過程當中我們當然還是希望",
+          "labels": "馬文君:所以我們呃在這一個過程當中我們當然還是希望"
+     },
+     {
+          "start_time": 102.923964,
+          "end_time": 104.919699,
+          "MASR_results": "馬文君:呃部長可以就這個部分",
+          "google_asr_results": "戶長可以就這個部分",
+          "labels": "馬文君:呃部長可以就這個部分"
+     },
+     {
+          "start_time": 105.015435,
+          "end_time": 107.033263,
+          "MASR_results": "馬文君:呃可以去呃",
+          "google_asr_results": "我可以去",
+          "labels": "馬文君:呃可以去呃"
+     },
+     {
+          "start_time": 109.588688,
+          "end_time": 114.088297,
+          "MASR_results": "馬文君:因為你邱紛講的成號啦齁希望還是可以呃在",
+          "google_asr_results": "因為你邱班長的成好啦好希望還是可以在",
+          "labels": "馬文君:因為你邱班長的稱號啦希望還是可以呃在"
+     },
+     {
+          "start_time": 114.176,
+          "end_time": 116.636358,
+          "MASR_results": "馬文君:秉持過去的風格去執行",
+          "google_asr_results": "變成過去的風格去執行",
+          "labels": "馬文君:秉持過去的風格去執行"
+     },
+     {
+          "start_time": 116.710001,
+          "end_time": 120.281704,
+          "MASR_results": "馬文君:齁我們國防部很多很多的工作還有需要改革的部分",
+          "google_asr_results": "國防部很多很多的工作還有需要改革的部分",
+          "labels": "馬文君:我們國防部很多很多的工作還有需要改革的部分"
+     },
+     {
+          "start_time": 120.436355,
+          "end_time": 123.912322,
+          "MASR_results": "馬文君:首先我想請教一下這個也是大家一直以來",
+          "google_asr_results": "首先想請教一下這個也是大家一直以來",
+          "labels": "馬文君:首先我想請教一下這個也是大家一直以來"
+     },
+     {
+          "start_time": 124.015423,
+          "end_time": 127.498754,
+          "MASR_results": "馬文君:呃尤其在我們的預算上面大家爭議非常多的齁",
+          "google_asr_results": "尤其在我們的預算上面大家正義非常多的齁",
+          "labels": "馬文君:齁尤其在我們的預算上面大家爭議非常多的齁"
+     },
+     {
+          "start_time": 127.587126,
+          "end_time": 128.758055,
+          "MASR_results": "馬文君:我想要請教部長",
+          "google_asr_results": "我想要請教部長",
+          "labels": "馬文君:我想要請教部長"
+     },
+     {
+          "start_time": 128.831699,
+          "end_time": 132.970456,
+          "MASR_results": "馬文君:潛見到目前花掉多少錢了你知道嗎有我我我",
+          "google_asr_results": "淺見到目前花掉多少錢呢你知道嗎",
+          "labels": "馬文君,邱國正:潛艦到目前花掉多少錢了你知道嗎呃我我我"
+     },
+     {
+          "start_time": 133.12,
+          "end_time": 139.362699,
+          "MASR_results": "邱國正:只要有時候欸但是詳細部分我就其實海軍呃先天大目前已經花掉都要預算了",
+          "google_asr_results": "哪有在按讚的詳細部分我這群海軍同人",
+          "labels": "邱國正,馬文君:知道有這個案但詳細部分我是請海軍同仁來做潛艦到目前已經花掉多少預算了"
+     },
+     {
+          "start_time": 140.032,
+          "end_time": 142.220062,
+          "MASR_results": "敖以智:呃報告委員大概一百多億",
+          "google_asr_results": "到元大100多益",
+          "labels": "敖以智:呃報告委員大概一百多億"
+     },
+     {
+          "start_time": 142.809209,
+          "end_time": 150.585159,
+          "MASR_results": "敖以智:一百零一百零八年到一百零八年到一百零九年的要稍微合約合約設計的話合約設計是二十九億多",
+          "google_asr_results": "108年到108年到109年的預設計師29一朵",
+          "labels": "敖以智,馬文君:一百多億就是一百零八年到一百零八年到一百零九年的預算有包括合約合約設計的部分嗎呃合約設計是二十九億多"
+     },
+     {
+          "start_time": 150.689049,
+          "end_time": 151.12354399999998,
+          "MASR_results": "邱國正:有",
+          "google_asr_results": "無法辨識",
+          "labels": "馬文君:嗯"
+     },
+     {
+          "start_time": 151.631684,
+          "end_time": 157.736718,
+          "MASR_results": "馬文君:幫你算了一下啦齁合約設計從一百零五年到一百零九年照理說現在已經一百一十年",
+          "google_asr_results": "幫你算了一下啦好合約設計從105年到109年照理說現在已經110年",
+          "labels": "馬文君:幫你算了一下啦齁合約設計從一百零五年到一百零九年照理說現在已經一百一十年"
+     },
+     {
+          "start_time": 157.82509,
+          "end_time": 159.135942,
+          "MASR_results": "馬文君:合約設計",
+          "google_asr_results": "合約設計",
+          "labels": "馬文君:合約設計"
+     },
+     {
+          "start_time": 159.232,
+          "end_time": 163.613459,
+          "MASR_results": "馬文君:我們的設計圖應該要已經完工了因為他前三十億已經拿掉了",
+          "google_asr_results": "我們的設計圖應該要已經完工了因為他前30已經拿掉了",
+          "labels": "馬文君:我們的設計圖應該要已經完工了因為他錢三十億已經拿掉了"
+     },
+     {
+          "start_time": 164.394078,
+          "end_time": 171.30919,
+          "MASR_results": "馬文君:另外在原型艦籌建的部分從一百零八年一百零九年到現在一百零八年到一百零九年",
+          "google_asr_results": "另外在圓形建重建的部分從108年109年到現在108年到109年",
+          "labels": "馬文君:另外在原型艦籌建的部分從一百零八年一百零九年到現在一百零八年到一百零九年"
+     },
+     {
+          "start_time": 171.41229099999998,
+          "end_time": 175.24911,
+          "MASR_results": "馬文君:呃一個編的七十五億一個編了大概將近九十八億",
+          "google_asr_results": "好一個邊的75e一個邊了大概將近98億",
+          "labels": "馬文君:喔一個編了七十五億一個編了大概將近九十八億"
+     },
+     {
+          "start_time": 175.484769,
+          "end_time": 176.773528,
+          "MASR_results": "馬文君:兩個家起來",
+          "google_asr_results": "兩個加起來",
+          "labels": "馬文君:兩個加起來"
+     },
+     {
+          "start_time": 176.896,
+          "end_time": 179.77081299999998,
+          "MASR_results": "馬文君:還有我們的設計設計費",
+          "google_asr_results": "還有我們的設計設計費",
+          "labels": "馬文君:還有我們的設計設計費"
+     },
+     {
+          "start_time": 179.999107,
+          "end_time": 186.101071,
+          "MASR_results": "馬文君:全部加起來到現在已經換用調差不多兩百多億的預算了",
+          "google_asr_results": "全部加起來到現在已經用掉差不多200多1的預算了",
+          "labels": "馬文君:全部加起來到現在已經花用掉差不多兩百多億的預算了"
+     },
+     {
+          "start_time": 186.273521,
+          "end_time": 187.878947,
+          "MASR_results": "馬文君:因為你還有顧問約",
+          "google_asr_results": "因為你還有顧問約",
+          "labels": "馬文君:因為你還有顧問問約"
+     },
+     {
+          "start_time": 188.16,
+          "end_time": 189.499101,
+          "MASR_results": "馬文君:還有六億的預算",
+          "google_asr_results": "還有600000000的預算",
+          "labels": "馬文君:還有六億的預算"
+     },
+     {
+          "start_time": 189.830496,
+          "end_time": 190.773131,
+          "MASR_results": "馬文君:今年",
+          "google_asr_results": "今年",
+          "labels": "馬文君:今年"
+     },
+     {
+          "start_time": 190.868867,
+          "end_time": 195.584,
+          "MASR_results": "馬文君:又強行通過了一百零五預算凍結少部分的預算",
+          "google_asr_results": "有強行通過了105預算凍結少部分的預算",
+          "labels": "馬文君:又強行通過了一百零五億預算凍結少部分的預算"
+     },
+     {
+          "start_time": 196.009174,
+          "end_time": 200.133202,
+          "MASR_results": "馬文君:這些加起來總共三百一十億三百一十幾億",
+          "google_asr_results": "這些加起來總共311310幾億",
+          "labels": "馬文君:這些加起來總共三百一十億三百一十幾億"
+     },
+     {
+          "start_time": 200.339404,
+          "end_time": 201.745992,
+          "MASR_results": "馬文君:三百一十幾億",
+          "google_asr_results": "310幾億",
+          "labels": "馬文君:三百一十幾億"
+     },
+     {
+          "start_time": 201.834364,
+          "end_time": 204.419246,
+          "MASR_results": "馬文君:我想要請教我們到目前",
+          "google_asr_results": "我想要請教我們到目前",
+          "labels": "馬文君:我想要請教我們到目前"
+     },
+     {
+          "start_time": 204.93475,
+          "end_time": 207.468081,
+          "MASR_results": "馬文君:設計圖也還沒有完成",
+          "google_asr_results": "設計圖我也還沒有完成",
+          "labels": "馬文君:設計圖我也還沒有完成"
+     },
+     {
+          "start_time": 207.843662,
+          "end_time": 208.64,
+          "MASR_results": "廖婉汝:然後",
+          "google_asr_results": "然後",
+          "labels": "馬文君:然後"
+     },
+     {
+          "start_time": 208.727383,
+          "end_time": 211.157614,
+          "MASR_results": "馬文君:英國政府到底有沒有公告",
+          "google_asr_results": "英國政府到底有沒有公告",
+          "labels": "馬文君:英國政府到底有沒有公告"
+     },
+     {
+          "start_time": 211.356451,
+          "end_time": 213.072341,
+          "MASR_results": "馬文君:呃對臺灣技術輸出",
+          "google_asr_results": "對台灣技術輸出",
+          "labels": "馬文君:喔對台灣技術輸出"
+     },
+     {
+          "start_time": 213.322729,
+          "end_time": 216.02544,
+          "MASR_results": "馬文君:我想這個以後會有查證的機會",
+          "google_asr_results": "我想說以後會有查證的機會",
+          "labels": "馬文君:我想這個以後會有查證的機會"
+     },
+     {
+          "start_time": 217.586679,
+          "end_time": 222.115746,
+          "MASR_results": "馬文君:最近我們也接到呃包括對媒體的呃",
+          "google_asr_results": "最近我們也接到好包括對媒體的",
+          "labels": "馬文君:最近我們也接到呃包括對媒體的呃"
+     },
+     {
+          "start_time": 223.581249,
+          "end_time": 227.027758,
+          "MASR_results": "馬文君:公告等等其實都是我們拿到紅區裝備了對不對",
+          "google_asr_results": "公告等等其實都是我們拿到黃去裝備了對不對",
+          "labels": "馬文君:公告等等其實都說我們拿到紅區裝備了對不對"
+     },
+     {
+          "start_time": 227.278146,
+          "end_time": 227.609541,
+          "MASR_results": "敖以智:是",
+          "google_asr_results": "無法辨識",
+          "labels": "敖以智:是"
+     },
+     {
+          "start_time": 227.705277,
+          "end_time": 231.475113,
+          "MASR_results": "馬文君:所有的紅區裝備輸出許可都拿到了對不對",
+          "google_asr_results": "所有的紅旗裝備輸出許可都拿到了對不對",
+          "labels": "馬文君:所有的紅區裝備輸出許可都拿到了對不對"
+     },
+     {
+          "start_time": 231.542096,
+          "end_time": 232.830855,
+          "MASR_results": "敖以智:報告委員我們那個",
+          "google_asr_results": "肉圓我們那個",
+          "labels": "敖以智:報告委員我們那個"
+     },
+     {
+          "start_time": 232.96,
+          "end_time": 237.131628,
+          "MASR_results": "敖以智:主次要政府處裝備總共一百零七項數據是個全部取得",
+          "google_asr_results": "主次要兼輔助裝備總共107項輸入許可全部取得",
+          "labels": "敖以智:主次要兼輔助裝備總共一百零七項輸入許可全部取得"
+     },
+     {
+          "start_time": 237.212635,
+          "end_time": 239.93744,
+          "MASR_results": "馬文君:那最最重要的紅區裝備",
+          "google_asr_results": "最最重要的紅旗裝備",
+          "labels": "馬文君:啊最最重要的紅區裝備"
+     },
+     {
+          "start_time": 240.011083,
+          "end_time": 241.056819,
+          "MASR_results": "邱國正:喔抓完站裡面",
+          "google_asr_results": "關在裡面",
+          "labels": "敖以智,馬文君:喔包含在裡面輸出許可"
+     },
+     {
+          "start_time": 241.108369,
+          "end_time": 242.073097,
+          "MASR_results": "馬文君:也都拿到了",
+          "google_asr_results": "也都拿到了",
+          "labels": "馬文君:也都拿到了"
+     },
+     {
+          "start_time": 242.117283,
+          "end_time": 246.167668,
+          "MASR_results": "馬文君:所包括你的戰系數位生的系統還有輔助裝備系統",
+          "google_asr_results": "包括你地震系數位生態系統還有輔助裝備系統",
+          "labels": "敖以智,馬文君:是包括你的戰系數位聲納系統還有輔助裝備系統"
+     },
+     {
+          "start_time": 246.403327,
+          "end_time": 246.926195,
+          "MASR_results": "馬文君:對不對",
+          "google_asr_results": "對不對",
+          "labels": "馬文君:對不對"
+     },
+     {
+          "start_time": 246.970381,
+          "end_time": 251.668828,
+          "MASR_results": "敖以智:報告委員我們只取分為主次要裝備跟輔助上面文國所以還是模糊的",
+          "google_asr_results": "英文子句分為主次要裝那跟輔助裝沒有模糊的",
+          "labels": "敖以智,馬文君:報告委員我們只區分為主次要裝備跟輔助裝備我們不會所以還是模糊的"
+     },
+     {
+          "start_time": 251.7572,
+          "end_time": 255.100608,
+          "MASR_results": "馬文君:你沒有辦法確定他有拿到稅務許可委員也",
+          "google_asr_results": "你沒有辦法確定他有拿到輸出許可原因",
+          "labels": "馬文君,敖以智:你沒有辦法確定呃他有拿到輸出許可不是報告委員因為"
+     },
+     {
+          "start_time": 255.152159,
+          "end_time": 257.29518,
+          "MASR_results": "敖以智:那個當初這個委員會",
+          "google_asr_results": "這個當初這個委員會",
+          "labels": "敖以智:那個當初這個委員會"
+     },
+     {
+          "start_time": 257.435103,
+          "end_time": 259.158357,
+          "MASR_results": "敖以智:裡面有規定說這個",
+          "google_asr_results": "裡面有規定說這個",
+          "labels": "敖以智:裡面有規定說這個"
+     },
+     {
+          "start_time": 259.430838,
+          "end_time": 263.935,
+          "MASR_results": "馬文君:細節部分證照那個不是細節這個也沒有機密可研美國是",
+          "google_asr_results": "細節部分只能在什麼什麼也沒有機密可言美國是",
+          "labels": "敖以智,馬文君:細節部分只能在機密專報裡面那個不是細節這個也沒有機密可言美國是"
+     },
+     {
+          "start_time": 264.247114,
+          "end_time": 264.887811,
+          "MASR_results": "馬文君:一個",
+          "google_asr_results": "一個",
+          "labels": "馬文君:一個"
+     },
+     {
+          "start_time": 265.204478,
+          "end_time": 265.940911,
+          "MASR_results": "馬文君:不怕",
+          "google_asr_results": "怕",
+          "labels": "馬文君:不怕"
+     },
+     {
+          "start_time": 266.051376,
+          "end_time": 268.28277,
+          "MASR_results": "馬文君:北京壓力的一個國家",
+          "google_asr_results": "北京壓力的一個國家",
+          "labels": "馬文君:北京壓力的一個國家"
+     },
+     {
+          "start_time": 268.459514,
+          "end_time": 271.368427,
+          "MASR_results": "馬文君:他要賣給我們他要賣給我們二十六飛",
+          "google_asr_results": "他要賣給我們他要賣給我們f-16v",
+          "labels": "馬文君:他要賣給我們他要賣給我們F十六V"
+     },
+     {
+          "start_time": 271.508349,
+          "end_time": 273.04013100000003,
+          "MASR_results": "馬文君:他要賣給我們其他的",
+          "google_asr_results": "他賣給我們其他的",
+          "labels": "馬文君:他賣給我們其他的"
+     },
+     {
+          "start_time": 273.113775,
+          "end_time": 276.464548,
+          "MASR_results": "馬文君:無人機要帶給我們戰車要賣給我們所有的東西",
+          "google_asr_results": "無人機要帶給我們戰車要賣給我們所有東西",
+          "labels": "馬文君:無人機要賣給我們戰車要賣給我們所有東西"
+     },
+     {
+          "start_time": 276.53819100000004,
+          "end_time": 278.519198,
+          "MASR_results": "馬文君:他會擔心北京施壓嗎",
+          "google_asr_results": "他會擔心北京施壓嗎",
+          "labels": "馬文君:他會擔心北京施壓嗎"
+     },
+     {
+          "start_time": 278.909507,
+          "end_time": 282.775784,
+          "MASR_results": "馬文君:今天這麼重要的輸出許可你怎麼可以在這裡說",
+          "google_asr_results": "今天這麼重要的輸出許可你怎麼可以在這裡說",
+          "labels": "馬文君:今天這麼重要的輸出許可你怎麼可以在這裡說"
+     },
+     {
+          "start_time": 282.879,
+          "end_time": 284.071907,
+          "MASR_results": "馬文君:這個是細節",
+          "google_asr_results": "這個是細節",
+          "labels": "馬文君:這個是細節"
+     },
+     {
+          "start_time": 284.159,
+          "end_time": 286.59051,
+          "MASR_results": "馬文君:這怎麼會是細節他是潛艦",
+          "google_asr_results": "這怎麼會是細節他是潛艦",
+          "labels": "馬文君:這怎麼會是細節他是潛艦"
+     },
+     {
+          "start_time": 286.737797,
+          "end_time": 287.636246,
+          "MASR_results": "廖婉汝:能否",
+          "google_asr_results": "能否",
+          "labels": "馬文君:能否"
+     },
+     {
+          "start_time": 288.461051,
+          "end_time": 290.876554,
+          "MASR_results": "馬文君:成功一個非常重要的因素",
+          "google_asr_results": "成功一個非常重要的因素",
+          "labels": "馬文君:成功一個非常重要的因素"
+     },
+     {
+          "start_time": 292.095,
+          "end_time": 296.06104700000003,
+          "MASR_results": "馬文君:說出許可連拿到都還沒有我講一個權利",
+          "google_asr_results": "輸出許可連拿到都還沒有我講一個潛力",
+          "labels": "馬文君:輸出許可連拿到都還沒有我講一個前例"
+     },
+     {
+          "start_time": 296.127326,
+          "end_time": 297.195154,
+          "MASR_results": "馬文君:有全力可循",
+          "google_asr_results": "有前例可循",
+          "labels": "馬文君:有前例可循"
+     },
+     {
+          "start_time": 297.519185,
+          "end_time": 300.317633,
+          "MASR_results": "馬文君:大家都很熟悉慶付的列類件吧",
+          "google_asr_results": "他都很熟悉慶部的獵雷艦吧",
+          "labels": "馬文君:大家都很熟悉慶富的獵雷艦吧"
+     },
+     {
+          "start_time": 300.700578,
+          "end_time": 302.733135,
+          "MASR_results": "馬文君:清楚當初的列雷建案",
+          "google_asr_results": "聽不當初的獵雷艦案",
+          "labels": "馬文君:慶富當初的獵雷艦案"
+     },
+     {
+          "start_time": 302.92460800000003,
+          "end_time": 305.961724,
+          "MASR_results": "馬文君:臺船跟慶祝都有想要投標",
+          "google_asr_results": "台船跟慶富都有想要投標",
+          "labels": "馬文君:台船跟慶富都有想要投標"
+     },
+     {
+          "start_time": 306.525768,
+          "end_time": 309.11065,
+          "MASR_results": "馬文君:連臺船都拿到輸出許可",
+          "google_asr_results": "連台船都拿到輸出許可",
+          "labels": "馬文君:連台船都拿到輸出許可"
+     },
+     {
+          "start_time": 309.64088300000003,
+          "end_time": 312.328865,
+          "MASR_results": "馬文君:可是到最後為什麼美國公告的",
+          "google_asr_results": "可是到最後為什麼美國公告的",
+          "labels": "馬文君:可是到最後為什麼美國公告的"
+     },
+     {
+          "start_time": 312.431966,
+          "end_time": 315.075763,
+          "MASR_results": "馬文君:是信付的落馬公司",
+          "google_asr_results": "資訊部的洛馬公司",
+          "labels": "馬文君:是慶富的洛馬公司"
+     },
+     {
+          "start_time": 315.391,
+          "end_time": 316.927,
+          "MASR_results": "馬文君:因為他拿到合約",
+          "google_asr_results": "因為他拿到合約",
+          "labels": "馬文君:因為他拿到合約"
+     },
+     {
+          "start_time": 317.183,
+          "end_time": 317.83738900000003,
+          "MASR_results": "馬文君:今天",
+          "google_asr_results": "今天",
+          "labels": "馬文君:今天"
+     },
+     {
+          "start_time": 317.99204,
+          "end_time": 321.32072,
+          "MASR_results": "馬文君:連輸出許可你們都不敢在這裡說你有拿到",
+          "google_asr_results": "連輸出許可你們都不敢在這裡說你有拿到",
+          "labels": "馬文君:連輸出許可你們都不敢在這裡說你有拿到"
+     },
+     {
+          "start_time": 321.409092,
+          "end_time": 323.515292,
+          "MASR_results": "馬文君:尤其是這麼重要的紅區裝備",
+          "google_asr_results": "尤其是這麼重要的紅旗裝備",
+          "labels": "馬文君:尤其是這麼重要的紅區裝備"
+     },
+     {
+          "start_time": 323.839,
+          "end_time": 327.514127,
+          "MASR_results": "馬文君:你們勉強通過這麼大的預算到底為了什麼",
+          "google_asr_results": "你們勉強通過這麼大的預算到底為了什麼",
+          "labels": "馬文君:你們勉強通過這麼大的預算到底為了什麼"
+     },
+     {
+          "start_time": 327.679,
+          "end_time": 329.288932,
+          "MASR_results": "馬文君:今天剛剛講到了",
+          "google_asr_results": "今天剛剛講到了",
+          "labels": "馬文君:今天剛剛講到了"
+     },
+     {
+          "start_time": 329.605598,
+          "end_time": 334.171487,
+          "MASR_results": "馬文君:我們連傳場最簡單的就跟人家工業區的廠房一樣",
+          "google_asr_results": "我們連船廠最簡單的就跟人家工業區的廠房一樣",
+          "labels": "馬文君:我們連船廠最簡單的就跟人家工業區的廠房一樣"
+     },
+     {
+          "start_time": 334.495517,
+          "end_time": 335.938927,
+          "MASR_results": "馬文君:你要再適動廠房",
+          "google_asr_results": "你要蓋四棟廠房",
+          "labels": "馬文君:你要蓋四棟廠房"
+     },
+     {
+          "start_time": 336.28505099999995,
+          "end_time": 340.143963,
+          "MASR_results": "馬文君:拿了花了兩百多億到現在連廠房都還沒有蓋好",
+          "google_asr_results": "花了200多義到現在連廠房都還沒有蓋好",
+          "labels": "馬文君:拿了花了兩百多億到現在連廠房都還沒有蓋好"
+     },
+     {
+          "start_time": 340.674196,
+          "end_time": 345.704037,
+          "MASR_results": "馬文君:今年你們也證實了所以今年在潛艦上面要安放龍國",
+          "google_asr_results": "今年你們也正死了最近年在潛艦上面要安放龍骨",
+          "labels": "馬文君:今年你們也證實了說今年要在潛艦上面要安放龍骨"
+     },
+     {
+          "start_time": 345.855,
+          "end_time": 348.362563,
+          "MASR_results": "馬文君:安放龍古耶那是什麼概念",
+          "google_asr_results": "安放龍骨耶那是什麼概念",
+          "labels": "馬文君:安放龍骨欸那是什麼概念"
+     },
+     {
+          "start_time": 349.607135,
+          "end_time": 354.231939,
+          "MASR_results": "馬文君:有有做其他的大概都有這種想法安放龍股",
+          "google_asr_results": "有有做其他的大概都有這種想法安放龍骨",
+          "labels": "馬文君:有有做其他的大概都有這這種想法安放龍骨"
+     },
+     {
+          "start_time": 354.65907000000004,
+          "end_time": 358.32651,
+          "MASR_results": "馬文君:去年十一月才呃開工",
+          "google_asr_results": "去年11月才開工",
+          "labels": "馬文君:去年十一月才呃開工"
+     },
+     {
+          "start_time": 358.473796,
+          "end_time": 360.13077200000004,
+          "MASR_results": "馬文君:今年只要安放龍國",
+          "google_asr_results": "今年只要安放龍骨",
+          "labels": "馬文君:今年只要安放龍骨"
+     },
+     {
+          "start_time": 360.307516,
+          "end_time": 363.680382,
+          "MASR_results": "馬文君:你們知道如果連今年一百零五億家上去",
+          "google_asr_results": "你們知道如果連今年1051加上去",
+          "labels": "馬文君:你們知道如果連今年一百零五億加上去"
+     },
+     {
+          "start_time": 363.775,
+          "end_time": 367.156349,
+          "MASR_results": "馬文君:總共花了三百將近三百二十億",
+          "google_asr_results": "總共花了300將近321",
+          "labels": "馬文君:總共花了三百將近三百二十億"
+     },
+     {
+          "start_time": 367.340457,
+          "end_time": 369.159448,
+          "MASR_results": "馬文君:你到底花在哪裡",
+          "google_asr_results": "你到底花在哪裡",
+          "labels": "馬文君:你到底花在哪裡"
+     },
+     {
+          "start_time": 369.663,
+          "end_time": 372.871074,
+          "MASR_results": "馬文君:不要碰到潛艦就什麼都不一樣什麼都是祕密",
+          "google_asr_results": "不要碰到潛艦就什麼都不一樣什麼都是秘密",
+          "labels": "馬文君:不要碰到潛艦就什麼都不一樣什麼都是秘密"
+     },
+     {
+          "start_time": 373.150919,
+          "end_time": 377.665257,
+          "MASR_results": "馬文君:依據國際武器貿易條約所有的軍售都是公開透明的",
+          "google_asr_results": "依據國際武器貿易條約所有的軍售都是公開透明的",
+          "labels": "馬文君:依據國際武器貿易條約所有的軍售都是公開透明的"
+     },
+     {
+          "start_time": 377.760993,
+          "end_time": 379.391,
+          "MASR_results": "馬文君:我們都不是恐怖組織",
+          "google_asr_results": "我不是恐怖組織",
+          "labels": "馬文君:我們又不是恐怖組織"
+     },
+     {
+          "start_time": 379.425333,
+          "end_time": 380.331146,
+          "MASR_results": "馬文君:今天如果",
+          "google_asr_results": "今天如果",
+          "labels": "馬文君:今天如果"
+     },
+     {
+          "start_time": 380.448976,
+          "end_time": 384.418353,
+          "MASR_results": "馬文君:有哪一個國家趕賣給我們他就可以正式的公告",
+          "google_asr_results": "有哪一個國家敢賣給我們他就可以正式的公告",
+          "labels": "馬文君:有哪一個國家敢賣給我們他就可以正式的公告"
+     },
+     {
+          "start_time": 384.528818,
+          "end_time": 386.89277,
+          "MASR_results": "馬文君:因為這是在所有國際",
+          "google_asr_results": "因為這是在所有國際",
+          "labels": "馬文君:因為這是在所有國際"
+     },
+     {
+          "start_time": 387.076878,
+          "end_time": 389.359823,
+          "MASR_results": "馬文君:武器貿易的上面的規定",
+          "google_asr_results": "武器貿易的上面的規定",
+          "labels": "馬文君:武器貿易的上面的規定"
+     },
+     {
+          "start_time": 389.887,
+          "end_time": 392.379201,
+          "MASR_results": "馬文君:我們如果沒有拿到上面就完全看不到",
+          "google_asr_results": "我們如果沒有拿到上面就完全看不到",
+          "labels": "馬文君:我們如果沒有拿到上面就完全看不到"
+     },
+     {
+          "start_time": 392.430751,
+          "end_time": 394.176099,
+          "MASR_results": "馬文君:到目前為止顯然",
+          "google_asr_results": "目前為止現在",
+          "labels": "馬文君:到目前為止顯然"
+     },
+     {
+          "start_time": 394.323385,
+          "end_time": 396.179198,
+          "MASR_results": "馬文君:我們有很多東西都沒有拿到",
+          "google_asr_results": "我沒有很多東西都沒有拿到",
+          "labels": "馬文君:我們有很多東西都沒有拿到"
+     },
+     {
+          "start_time": 396.311756,
+          "end_time": 401.26059,
+          "MASR_results": "馬文君:可是你們卻已經花掉兩百多億的人在加上今年的一百零五億",
+          "google_asr_results": "可是你們卻已經花掉200多105e",
+          "labels": "馬文君,敖以智:可是你們卻已經花掉兩百多億報告委員剛剛跟委員報告過已經拿到再加上今年的一百零五億"
+     },
+     {
+          "start_time": 401.488884,
+          "end_time": 402.232682,
+          "MASR_results": "馬文君:已經",
+          "google_asr_results": "已經",
+          "labels": "馬文君:已經"
+     },
+     {
+          "start_time": 402.687,
+          "end_time": 404.250511,
+          "MASR_results": "馬文君:會花掉三百多億",
+          "google_asr_results": "會花掉300多益",
+          "labels": "馬文君:會花掉三百多億"
+     },
+     {
+          "start_time": 404.294697,
+          "end_time": 407.822214,
+          "MASR_results": "馬文君:你其實拿到輸出許可你不是已經拿你不是已經買到了",
+          "google_asr_results": "你就是拿到輸出許可你不是已經拿你不是已經買到了",
+          "labels": "馬文君:你即使拿到輸出許可你不是已經拿你不是已經買到咧"
+     },
+     {
+          "start_time": 407.9547720000001,
+          "end_time": 409.744305,
+          "MASR_results": "馬文君:可是你錢已經花掉了",
+          "google_asr_results": "可是你前已經花掉了",
+          "labels": "馬文君:可是你錢已經花掉咧"
+     },
+     {
+          "start_time": 410.156708,
+          "end_time": 411.997792,
+          "MASR_results": "廖婉汝:我現在要講的是這個部分",
+          "google_asr_results": "我現在要講的是這一個部分",
+          "labels": "馬文君:我現在要講的是這一個部分"
+     },
+     {
+          "start_time": 412.159,
+          "end_time": 415.378023,
+          "MASR_results": "馬文君:也不要常常顧目前需說這是聽到的祕密",
+          "google_asr_results": "也不要常常故弄玄虛說這是天大的秘密",
+          "labels": "馬文君:也不要常常故弄玄虛說這是天大的秘密"
+     },
+     {
+          "start_time": 415.694689,
+          "end_time": 419.61988,
+          "MASR_results": "馬文君:我想反情報總對保防組不知道有沒有掌握狀況",
+          "google_asr_results": "我想反情報總隊保防組不知道有沒有漲或狀況",
+          "labels": "馬文君:我想反情報總隊保防組不知道有沒有掌握狀況"
+     },
+     {
+          "start_time": 419.752438,
+          "end_time": 422.101662,
+          "MASR_results": "馬文君:經常在高雄美術館附近",
+          "google_asr_results": "經常在高雄美術館附近",
+          "labels": "馬文君:經常在高雄美術館附近"
+     },
+     {
+          "start_time": 422.226855,
+          "end_time": 425.150497,
+          "MASR_results": "馬文君:有一個有一些韓國考肉的參管",
+          "google_asr_results": "有一個有一些韓國烤肉的餐館",
+          "labels": "馬文君:有一個有一些韓國烤肉的餐館"
+     },
+     {
+          "start_time": 425.349334,
+          "end_time": 427.91212300000007,
+          "MASR_results": "馬文君:我們可以看到一群韓國人",
+          "google_asr_results": "我們可以看到一群韓國人",
+          "labels": "馬文君:我們可以看到一群韓國人"
+     },
+     {
+          "start_time": 428.11096,
+          "end_time": 429.9667730000001,
+          "MASR_results": "馬文君:常常在那裡高談闊論",
+          "google_asr_results": "常常在哪裡高談闊論",
+          "labels": "馬文君:常常在那裡高談闊論"
+     },
+     {
+          "start_time": 430.033052,
+          "end_time": 431.277625,
+          "MASR_results": "馬文君:他們在來談什麼",
+          "google_asr_results": "他們在談什麼",
+          "labels": "馬文君:他們在那裡談什麼"
+     },
+     {
+          "start_time": 431.542741,
+          "end_time": 433.472197,
+          "MASR_results": "馬文君:他們說來幫我們造潛艦",
+          "google_asr_results": "他們說來幫我們造潛艦",
+          "labels": "馬文君:他們說來幫我們造潛艦"
+     },
+     {
+          "start_time": 435.313281,
+          "end_time": 438.259015,
+          "MASR_results": "馬文君:他們不管是化圖灣鋼板銲接等等",
+          "google_asr_results": "他們不管是畫圖彎鋼板焊接等等",
+          "labels": "馬文君:他們不管是畫圖彎鋼板焊接等等"
+     },
+     {
+          "start_time": 438.855527,
+          "end_time": 441.491959,
+          "MASR_results": "馬文君:他們洩密到多嚴重的程度",
+          "google_asr_results": "他們解密道多嚴重的程度",
+          "labels": "馬文君:他們洩密到多嚴重的程度"
+     },
+     {
+          "start_time": 441.855,
+          "end_time": 446.207,
+          "MASR_results": "馬文君:今天你們要求我們前保密協定這是天大的笑話",
+          "google_asr_results": "今天你們要求我們簽保密協定這是天大的笑話",
+          "labels": "馬文君:今天你們要求我們簽保密協定這是天大的笑話"
+     },
+     {
+          "start_time": 446.330328,
+          "end_time": 448.03149,
+          "MASR_results": "馬文君:因為他根本沒有機密可言",
+          "google_asr_results": "因為他根本沒有經歷可以耶",
+          "labels": "馬文君:因為他根本沒有機密可言"
+     },
+     {
+          "start_time": 448.255,
+          "end_time": 451.102418,
+          "MASR_results": "馬文君:所有大家看到潛艦的資訊都從賣來的",
+          "google_asr_results": "所有大家看到潛艦的資訊都從哪裡來的",
+          "labels": "馬文君:所有大家看到潛艦的資訊都從哪裡來的"
+     },
+     {
+          "start_time": 451.24234,
+          "end_time": 452.288076,
+          "MASR_results": "馬文君:大張媒體",
+          "google_asr_results": "報章媒體",
+          "labels": "馬文君:報章媒體"
+     },
+     {
+          "start_time": 452.398541,
+          "end_time": 453.694664,
+          "MASR_results": "馬文君:還有其他的委員",
+          "google_asr_results": "還有其他的委員",
+          "labels": "馬文君:還有其他的委員"
+     },
+     {
+          "start_time": 453.775672,
+          "end_time": 454.9834230000001,
+          "MASR_results": "馬文君:你們有超過嗎",
+          "google_asr_results": "你們有查過嗎",
+          "labels": "馬文君:你們有查過嗎"
+     },
+     {
+          "start_time": 455.277997,
+          "end_time": 457.649313,
+          "MASR_results": "馬文君:這些韓國人到底來臺灣做什麼",
+          "google_asr_results": "這些韓國人到底來台灣做什麼",
+          "labels": "馬文君:這些韓國人到底來台灣做什麼"
+     },
+     {
+          "start_time": 457.727,
+          "end_time": 460.337296,
+          "MASR_results": "馬文君:臺灣有個呃韓國有給我們一些",
+          "google_asr_results": "台灣有個韓國有給我們一些",
+          "labels": "馬文君:台灣有給呃韓國有給我們一些"
+     },
+     {
+          "start_time": 460.440396,
+          "end_time": 461.972178,
+          "MASR_results": "馬文君:潛艦的輸出許可嗎",
+          "google_asr_results": "晨間的輸出許可嗎",
+          "labels": "馬文君:潛艦的輸出許可嗎"
+     },
+     {
+          "start_time": 462.591,
+          "end_time": 464.655416,
+          "MASR_results": "馬文君:為什麼他們在哪高談闊論",
+          "google_asr_results": "為什麼他們在哪裡高談闊論",
+          "labels": "馬文君:為什麼他們在那裡高談闊論"
+     },
+     {
+          "start_time": 464.733804,
+          "end_time": 465.565974,
+          "MASR_results": "馬文君:連我們",
+          "google_asr_results": "連我們",
+          "labels": "馬文君:連我們"
+     },
+     {
+          "start_time": 465.808997,
+          "end_time": 468.030272,
+          "MASR_results": "馬文君:在臺北都可以聽到這樣的訊息",
+          "google_asr_results": "在台北都可以聽到這樣的訊息",
+          "labels": "馬文君:在台北都可以聽到這樣的訊息"
+     },
+     {
+          "start_time": 468.136128,
+          "end_time": 469.395429,
+          "MASR_results": "馬文君:去查一個名字",
+          "google_asr_results": "去查一個名字",
+          "labels": "馬文君:去查一個名字"
+     },
+     {
+          "start_time": 469.638452,
+          "end_time": 470.713645,
+          "MASR_results": "馬文君:吹殉職",
+          "google_asr_results": "飛炫植",
+          "labels": "馬文君:崔炫植"
+     },
+     {
+          "start_time": 470.816746,
+          "end_time": 471.847753,
+          "MASR_results": "馬文君:這個人是誰",
+          "google_asr_results": "這個人是誰",
+          "labels": "馬文君:這個人是誰"
+     },
+     {
+          "start_time": 472.238063,
+          "end_time": 473.343,
+          "MASR_results": "廖婉汝:去查一下",
+          "google_asr_results": "去查一下",
+          "labels": "馬文君:去查一下"
+     },
+     {
+          "start_time": 473.585737,
+          "end_time": 474.918681,
+          "MASR_results": "馬文君:你們可以知道",
+          "google_asr_results": "你們可以知道",
+          "labels": "馬文君:你們可以知道"
+     },
+     {
+          "start_time": 475.080697,
+          "end_time": 476.159,
+          "MASR_results": "廖婉汝:可以去掌握",
+          "google_asr_results": "可以去掌握",
+          "labels": "馬文君:可以去掌握"
+     },
+     {
+          "start_time": 476.465192,
+          "end_time": 477.753951,
+          "MASR_results": "馬文君:我們的潛艦",
+          "google_asr_results": "我們的潛艦",
+          "labels": "馬文君:我們的潛艦"
+     },
+     {
+          "start_time": 477.996974,
+          "end_time": 478.836508,
+          "MASR_results": "廖婉汝:只有",
+          "google_asr_results": "沒有",
+          "labels": "馬文君:只有"
+     },
+     {
+          "start_time": 479.09426,
+          "end_time": 480.861701,
+          "MASR_results": "馬文君:我們國我們在",
+          "google_asr_results": "我們我們在",
+          "labels": "馬文君:我們國我們在"
+     },
+     {
+          "start_time": 481.163639,
+          "end_time": 485.219831,
+          "MASR_results": "馬文君:國會裡面的委員不可以監督不可以問",
+          "google_asr_results": "國會裡面的委員不可以兼都不可以問",
+          "labels": "馬文君:國會裡面的委員不可以監督不可以問"
+     },
+     {
+          "start_time": 485.3175240000001,
+          "end_time": 488.19658,
+          "MASR_results": "馬文君:其他人都可以在參觀高談闊論",
+          "google_asr_results": "其他人都可以在餐館高談闊論",
+          "labels": "馬文君:其他人都可以在餐館高談闊論"
+     },
+     {
+          "start_time": 488.307045,
+          "end_time": 490.199679,
+          "MASR_results": "馬文君:而且誰來做都知道",
+          "google_asr_results": "而且誰來做都知道",
+          "labels": "馬文君:而且誰來做都知道"
+     },
+     {
+          "start_time": 491.007,
+          "end_time": 493.064406,
+          "MASR_results": "馬文君:德國跟韓國的潛艦",
+          "google_asr_results": "德國跟韓國的潛艦",
+          "labels": "馬文君:德國跟韓國的潛艦"
+     },
+     {
+          "start_time": 493.138049,
+          "end_time": 496.127,
+          "MASR_results": "馬文君:是有保密協定的是有保密約的",
+          "google_asr_results": "是有保密協定的是有保密約的",
+          "labels": "馬文君:是有保密協定的是有保密約的"
+     },
+     {
+          "start_time": 496.827582,
+          "end_time": 499.854324,
+          "MASR_results": "馬文君:我們要考量的分事情非常多尤請大家",
+          "google_asr_results": "我們要考量的事情非常多也請大家",
+          "labels": "馬文君:我們要考量的非事情非常多也請大家"
+     },
+     {
+          "start_time": 499.994246,
+          "end_time": 500.991,
+          "MASR_results": "馬文君:去做一個這",
+          "google_asr_results": "去住一個字",
+          "labels": "馬文君:去注意一個這"
+     },
+     {
+          "start_time": 501.5113,
+          "end_time": 502.733779,
+          "MASR_results": "馬文君:這個部分的問題",
+          "google_asr_results": "這個部分的問題",
+          "labels": "馬文君:這個部分的問題"
+     },
+     {
+          "start_time": 502.962074,
+          "end_time": 503.646957,
+          "MASR_results": "馬文君:另外",
+          "google_asr_results": "另外",
+          "labels": "馬文君:另外"
+     },
+     {
+          "start_time": 503.934166,
+          "end_time": 507.837264,
+          "MASR_results": "馬文君:呃我想再請教齁所以潛艦國家不要常常用",
+          "google_asr_results": "我想再請教所以前建國家不要常常用",
+          "labels": "馬文君:呃我想再請教齁所以潛艦國造不要常常用"
+     },
+     {
+          "start_time": 507.933001,
+          "end_time": 509.10393,
+          "MASR_results": "馬文君:媒體放話",
+          "google_asr_results": "媒體放話",
+          "labels": "馬文君:媒體放話"
+     },
+     {
+          "start_time": 509.32486,
+          "end_time": 510.975,
+          "MASR_results": "馬文君:不要常常用網軍",
+          "google_asr_results": "不要常常用網軍",
+          "labels": "馬文君:不要常常用網軍"
+     },
+     {
+          "start_time": 511.519433,
+          "end_time": 512.778734,
+          "MASR_results": "馬文君:你們好好的做",
+          "google_asr_results": "你們好好地做",
+          "labels": "馬文君:你們好好的做"
+     },
+     {
+          "start_time": 512.827036,
+          "end_time": 517.440359,
+          "MASR_results": "馬文君:潛艦非常重要因為他優關很多海軍官兵尤其是",
+          "google_asr_results": "顯見非常重要因為他有關很多海軍官兵尤其是",
+          "labels": "馬文君:潛艦非常重要因為他攸關很多海軍官兵尤其是"
+     },
+     {
+          "start_time": 517.572917,
+          "end_time": 519.5171019999999,
+          "MASR_results": "馬文君:經過非常優異訓練的",
+          "google_asr_results": "經過非常優異訓練的",
+          "labels": "馬文君:經過非常優異訓練的"
+     },
+     {
+          "start_time": 519.7306679999999,
+          "end_time": 523.3097349999999,
+          "MASR_results": "馬文君:他們只要潛下去他們的安維全部在那個潛艦裡面",
+          "google_asr_results": "他們只要錢下去他們的安慰全部在那個淺見裡面",
+          "labels": "馬文君:他們只要潛下去他們安危全部在那個潛艦裡面"
+     },
+     {
+          "start_time": 523.442293,
+          "end_time": 525.131936,
+          "MASR_results": "馬文君:他們只要做近那個倉",
+          "google_asr_results": "他們只要坐進那個倉",
+          "labels": "馬文君:他們只要坐進那個艙"
+     },
+     {
+          "start_time": 525.276013,
+          "end_time": 528.310119,
+          "MASR_results": "馬文君:他們被打掉在臺底被打掉都不知道耶",
+          "google_asr_results": "他們被打掉在海底被打掉都不知道耶",
+          "labels": "馬文君:他們被打掉在海底被打掉都不知道欸"
+     },
+     {
+          "start_time": 528.567871,
+          "end_time": 530.5783349999999,
+          "MASR_results": "馬文君:他服務上來也沒有人知道耶",
+          "google_asr_results": "路上來有沒有人知道耶",
+          "labels": "馬文君:他浮不上來也沒有人知道欸"
+     },
+     {
+          "start_time": 530.666707,
+          "end_time": 532.18376,
+          "MASR_results": "馬文君:你們騙什麼花那麼多錢",
+          "google_asr_results": "憑什麼花那麼多錢",
+          "labels": "馬文君:你們憑什麼花那麼多錢"
+     },
+     {
+          "start_time": 532.345776,
+          "end_time": 533.929108,
+          "MASR_results": "馬文君:還對我們這監督",
+          "google_asr_results": "海怪我們在監督",
+          "labels": "馬文君:還怪我們在監督"
+     },
+     {
+          "start_time": 535.144223,
+          "end_time": 536.447711,
+          "MASR_results": "馬文君:韓國人都可以",
+          "google_asr_results": "韓國人都可以",
+          "labels": "馬文君:韓國人都可以"
+     },
+     {
+          "start_time": 536.6612769999999,
+          "end_time": 539.1725150000001,
+          "MASR_results": "馬文君:大批大批的在哪高談國人請部長",
+          "google_asr_results": "大批大批的大奶高談闊論請部長",
+          "labels": "馬文君:大批大批的在那裡高談闊論請部長"
+     },
+     {
+          "start_time": 539.444996,
+          "end_time": 543.61321,
+          "MASR_results": "馬文君:可以去好好的掌握一下如果連部長都不知道預算用了多少",
+          "google_asr_results": "可以去好好的掌握一下如果臉部長都不知道預算用了多少",
+          "labels": "馬文君,邱國正:可以去好好的掌握一下是是是如果連部長都不知道預算用了多少"
+     },
+     {
+          "start_time": 543.826776,
+          "end_time": 546.846154,
+          "MASR_results": "馬文君:如果我們國防部現在花掉這麼多的預算",
+          "google_asr_results": "如果美國防部現在花掉這麼多的預算",
+          "labels": "馬文君:如果我們國防部現在花掉這麼多的預算"
+     },
+     {
+          "start_time": 546.978712,
+          "end_time": 548.525222,
+          "MASR_results": "馬文君:你能不能照出潛艦",
+          "google_asr_results": "你能不能照出淺見",
+          "labels": "馬文君:你能不能造出潛艦"
+     },
+     {
+          "start_time": 548.7608809999999,
+          "end_time": 549.6740589999999,
+          "MASR_results": "馬文君:我們都不知道",
+          "google_asr_results": "我們都不知道",
+          "labels": "馬文君:我們都不知道"
+     },
+     {
+          "start_time": 549.836074,
+          "end_time": 550.93336,
+          "MASR_results": "馬文君:我們憑什麼",
+          "google_asr_results": "我們憑什麼",
+          "labels": "馬文君:我們憑什麼"
+     },
+     {
+          "start_time": 551.021732,
+          "end_time": 553.186847,
+          "MASR_results": "馬文君:做我們可以成功的照出來",
+          "google_asr_results": "我們可以成功的照出來",
+          "labels": "馬文君:說我們可以成功的造出來"
+     },
+     {
+          "start_time": 553.731808,
+          "end_time": 557.9663009999999,
+          "MASR_results": "馬文君:另外我想也接這個機會啦齁因為最近大家也非常關心的",
+          "google_asr_results": "另外我想也藉這個機會啦好因為最近他也非常關心的",
+          "labels": "馬文君:另外我想也藉這個機會啦齁因為最近大家也非常關心的"
+     },
+     {
+          "start_time": 558.0546730000001,
+          "end_time": 560.124052,
+          "MASR_results": "馬文君:就是我們的人員的問題",
+          "google_asr_results": "這是我們的人員的問題",
+          "labels": "馬文君:就是我們的人員的問題"
+     },
+     {
+          "start_time": 561.346532,
+          "end_time": 567.230636,
+          "MASR_results": "馬文君:因為我們希望我們所有都不要報喜不報有部長我們的業務報告裡面有提到齁",
+          "google_asr_results": "因為我們希望我們所有都不要報喜不報憂不長我們的業務報告裡面有提到齁",
+          "labels": "馬文君:因為我們希望我們所有都不要報喜不報憂部長我們的業務報告裡面有提到齁"
+     },
+     {
+          "start_time": 567.392652,
+          "end_time": 571.119006,
+          "MASR_results": "馬文君:就是我們國軍從志願意招募的成效",
+          "google_asr_results": "就是我們國軍從志願役招募的成效",
+          "labels": "馬文君:就是我們國軍從志願役招募的成效"
+     },
+     {
+          "start_time": 571.2073780000001,
+          "end_time": 574.734895,
+          "MASR_results": "馬文君:都非常好國軍編線比現在達到百分之九十",
+          "google_asr_results": "都非常好國軍編現比現在打到90%",
+          "labels": "馬文君:都非常好國軍編限比現在達到百分之九十"
+     },
+     {
+          "start_time": 575.412414,
+          "end_time": 578.262412,
+          "MASR_results": "馬文君:照看之下好像國人都可以鬆一口氣",
+          "google_asr_results": "乍看之下好像國人都可以鬆一口氣",
+          "labels": "馬文君:乍看之下好像國人都可以鬆一口氣"
+     },
+     {
+          "start_time": 578.5054349999999,
+          "end_time": 580.648457,
+          "MASR_results": "馬文君:可是我們看一下我們的數據",
+          "google_asr_results": "可是我們看一下我們的數據",
+          "labels": "馬文君:可是我們看一下我們的數據"
+     },
+     {
+          "start_time": 581.024038,
+          "end_time": 583.984501,
+          "MASR_results": "馬文君:軍官士官士兵的部分新進人員",
+          "google_asr_results": "軍官士官士兵的部分新進人員",
+          "labels": "馬文君:軍官士官士兵的部分新進人員"
+     },
+     {
+          "start_time": 584.0728730000001,
+          "end_time": 584.963958,
+          "MASR_results": "馬文君:還有退伍",
+          "google_asr_results": "還有退伍",
+          "labels": "馬文君:還有退伍"
+     },
+     {
+          "start_time": 585.1775240000001,
+          "end_time": 588.543,
+          "MASR_results": "馬文君:我們只報新進人員新進好像近了兩萬多",
+          "google_asr_results": "我們只報新進人員先進好像進了20000多",
+          "labels": "馬文君:我們只報新進人員新進好像進了兩萬多"
+     },
+     {
+          "start_time": 588.799,
+          "end_time": 591.952713,
+          "MASR_results": "馬文君:可是我們退伍的也高達一萬五千多",
+          "google_asr_results": "可是我們退伍的也高達15000多",
+          "labels": "馬文君:可是我們退伍的也高達一萬五千多"
+     },
+     {
+          "start_time": 592.04845,
+          "end_time": 594.257751,
+          "MASR_results": "馬文君:兩個相減以後",
+          "google_asr_results": "兩個相減以後",
+          "labels": "馬文君:兩個相減以後"
+     },
+     {
+          "start_time": 594.537595,
+          "end_time": 599.383195,
+          "MASR_results": "馬文君:其實我們一年只遭到不到五千人只有四千八百多人",
+          "google_asr_results": "其實我們一年只招到不到5000人就4800多人",
+          "labels": "馬文君:其實我們一年只招到不到五千人只有四千八百多人"
+     },
+     {
+          "start_time": 600.237592,
+          "end_time": 603.7061940000001,
+          "MASR_results": "馬文君:四千八百多人我們每年花這麼多的預算",
+          "google_asr_results": "4800多人我們每年花這麼多的預算",
+          "labels": "馬文君:四千八百多人我們每年花這麼多的預算"
+     },
+     {
+          "start_time": 603.868209,
+          "end_time": 606.463,
+          "MASR_results": "馬文君:高額的廣告預算啦招募預算",
+          "google_asr_results": "高爾的廣告預算阿招募預算",
+          "labels": "馬文君:高額的廣告預算哪招募預算"
+     },
+     {
+          "start_time": 606.68875,
+          "end_time": 608.493013,
+          "MASR_results": "馬文君:然後只招募到這些人",
+          "google_asr_results": "然後只上慕道這些人",
+          "labels": "馬文君:然後只招募到這些人"
+     },
+     {
+          "start_time": 608.655028,
+          "end_time": 609.347276,
+          "MASR_results": "馬文君:而且",
+          "google_asr_results": "而且",
+          "labels": "馬文君:而且"
+     },
+     {
+          "start_time": 609.5534769999999,
+          "end_time": 611.4755690000001,
+          "MASR_results": "馬文君:我們現在很大的問題",
+          "google_asr_results": "我們現在就很大的問題",
+          "labels": "馬文君:我們現在就很大的問題"
+     },
+     {
+          "start_time": 611.583,
+          "end_time": 616.115101,
+          "MASR_results": "馬文君:我們為什麼照顧到這些人這個數據背後隱藏了哪些問題我們",
+          "google_asr_results": "我們為什麼都夢到這些人這個數據背後隱藏的哪些問題我們",
+          "labels": "馬文君:我們為什麼招募到這些人這個數據背後隱藏了哪些問題我們"
+     },
+     {
+          "start_time": 616.23293,
+          "end_time": 617.816262,
+          "MASR_results": "馬文君:來看一下齁我們軍中",
+          "google_asr_results": "再看一下我們俊中",
+          "labels": "馬文君:可以看一下齁我們軍中"
+     },
+     {
+          "start_time": 617.983,
+          "end_time": 620.290679,
+          "MASR_results": "馬文君:充滿很多的新進人員",
+          "google_asr_results": "充滿很多的新進人員",
+          "labels": "馬文君:充滿很多的新進人員"
+     },
+     {
+          "start_time": 620.4821519999999,
+          "end_time": 621.4763370000001,
+          "MASR_results": "馬文君:一直都是心人",
+          "google_asr_results": "一直都是新人",
+          "labels": "馬文君:一直都是新人"
+     },
+     {
+          "start_time": 621.567,
+          "end_time": 624.407343,
+          "MASR_results": "馬文君:因為你張進來就有就舊的一直推出去",
+          "google_asr_results": "用你加進來就有就有就得一直退出去",
+          "labels": "馬文君:因為你招進來就有就有舊的一直退出去"
+     },
+     {
+          "start_time": 624.639,
+          "end_time": 625.8360240000001,
+          "MASR_results": "馬文君:而且這中間",
+          "google_asr_results": "而且這中間",
+          "labels": "馬文君:而且這中間"
+     },
+     {
+          "start_time": 626.012769,
+          "end_time": 628.722844,
+          "MASR_results": "馬文君:大部分都花在很多的訓練費",
+          "google_asr_results": "大部分都花在很多的訓練費",
+          "labels": "馬文君:大部分都花在很多的訓練費"
+     },
+     {
+          "start_time": 629.37827,
+          "end_time": 633.087,
+          "MASR_results": "馬文君:當官兵培養到比較成熟的階段的時候",
+          "google_asr_results": "當官兵培養到比較成熟的階段的時候",
+          "labels": "馬文君:當官兵培養到比較成熟的階段的時候"
+     },
+     {
+          "start_time": 633.343,
+          "end_time": 637.270387,
+          "MASR_results": "馬文君:每每年都有至少百分之十的原有選擇退伍",
+          "google_asr_results": "每每年都有至少10%的原而選擇退伍",
+          "labels": "馬文君:每每年都有至少百分之十的員額選擇退伍"
+     },
+     {
+          "start_time": 637.439,
+          "end_time": 640.461596,
+          "MASR_results": "馬文君:更不要說有專心階段的這些戰力",
+          "google_asr_results": "更不要說有專精戒斷的這些戰力",
+          "labels": "馬文君:更不要說有專精階段的這些戰力"
+     },
+     {
+          "start_time": 641.175937,
+          "end_time": 644.998027,
+          "MASR_results": "馬文君:第二就是我們的士官的人數依然嚴重的不足",
+          "google_asr_results": "第二就是我們的事關的人數依然嚴重的不足",
+          "labels": "馬文君:第二就是我們的士官的人數依然嚴重的不足"
+     },
+     {
+          "start_time": 645.174771,
+          "end_time": 647.796475,
+          "MASR_results": "馬文君:而且還是負副的副成長",
+          "google_asr_results": "而且還是負負得負成長",
+          "labels": "馬文君:而且還是負負的負成長"
+     },
+     {
+          "start_time": 648.8514700000001,
+          "end_time": 656.427132,
+          "MASR_results": "馬文君:他很重要的原因是因為呃我們長期以來其實事關的缺額都是靠呃兵轉世來支撐",
+          "google_asr_results": "他很重了原因是因為我們嚐起來其實是關的缺額都是靠兵轉士來支撐",
+          "labels": "馬文君:他很重要的原因是因為呃我們長期以來其實士官的缺額都是靠呃兵轉士來支撐"
+     },
+     {
+          "start_time": 656.582128,
+          "end_time": 660.382126,
+          "MASR_results": "馬文君:那這些賓轉式的人當初為什麼不不直接報考試官",
+          "google_asr_results": "那這些邊轉世的人當初為什麼不直接報考士官",
+          "labels": "馬文君:那這些兵轉士的人當初為什麼不不直接報考士官"
+     },
+     {
+          "start_time": 660.875536,
+          "end_time": 663.065828,
+          "MASR_results": "馬文君:因為他可能資格不符",
+          "google_asr_results": "因為他可能資格不符",
+          "labels": "馬文君:因為他可能資格不符"
+     },
+     {
+          "start_time": 663.295,
+          "end_time": 665.912742,
+          "MASR_results": "馬文君:或者他我們的要求標準太高",
+          "google_asr_results": "或者他我們的要求標準太高",
+          "labels": "馬文君:或者他我們的要求標準太高"
+     },
+     {
+          "start_time": 666.0379360000001,
+          "end_time": 668.0042139999999,
+          "MASR_results": "馬文君:可是為什麼他當了士兵",
+          "google_asr_results": "可是為什麼他當的士兵",
+          "labels": "馬文君:可是為什麼他當了士兵"
+     },
+     {
+          "start_time": 668.350338,
+          "end_time": 669.473613,
+          "MASR_results": "馬文君:一年以後",
+          "google_asr_results": "1年以後",
+          "labels": "馬文君:一年以後"
+     },
+     {
+          "start_time": 669.550725,
+          "end_time": 671.6642889999999,
+          "MASR_results": "馬文君:他就可以成功的轉戰士官",
+          "google_asr_results": "他就可以成功的轉任士官",
+          "labels": "馬文君:他就可以成功的轉任士官"
+     },
+     {
+          "start_time": 672.437544,
+          "end_time": 675.007698,
+          "MASR_results": "馬文君:我們實在不想用林覽誤缺來講",
+          "google_asr_results": "為何不想用靈濫勿缺來講",
+          "labels": "馬文君:我們實在不想用寧爛勿缺來講"
+     },
+     {
+          "start_time": 675.19917,
+          "end_time": 676.5321150000001,
+          "MASR_results": "馬文君:可是我們還是希望",
+          "google_asr_results": "可是我們還是希望",
+          "labels": "馬文君:可是我們還是希望"
+     },
+     {
+          "start_time": 676.664673,
+          "end_time": 680.36157,
+          "MASR_results": "馬文君:我們國軍的素質我們不要因為我們想要數據",
+          "google_asr_results": "國軍的素質我們不要因為我們想要數據",
+          "labels": "馬文君:我們國軍的素質我們不要因為我們想要數據"
+     },
+     {
+          "start_time": 680.53095,
+          "end_time": 681.296841,
+          "MASR_results": "馬文君:我們要",
+          "google_asr_results": "我們要",
+          "labels": "馬文君:我們要"
+     },
+     {
+          "start_time": 681.606143,
+          "end_time": 682.305755,
+          "MASR_results": "馬文君:交代",
+          "google_asr_results": "膠帶",
+          "labels": "馬文君:交代"
+     },
+     {
+          "start_time": 682.495,
+          "end_time": 686.503427,
+          "MASR_results": "馬文君:我們就所有的人都可以進來如果大家一直選擇出去",
+          "google_asr_results": "我們家所有的人都可以進來結果大家一直選擇出去",
+          "labels": "馬文君:我們就所有的人都可以進來結果大家一直選擇出去"
+     },
+     {
+          "start_time": 686.798,
+          "end_time": 691.319703,
+          "MASR_results": "馬文君:這個部分不要都只報喜不報憂我相信部長在這一方面",
+          "google_asr_results": "這個部分不要都只報喜不報憂我相信後長在這一方面",
+          "labels": "馬文君:這個部分不要都只報喜不報憂我相信部長在這一方面"
+     },
+     {
+          "start_time": 691.40071,
+          "end_time": 693.573189,
+          "MASR_results": "馬文君:你也可以呃在後續",
+          "google_asr_results": "你也可以在後續",
+          "labels": "馬文君:你也可以呃在後續"
+     },
+     {
+          "start_time": 693.6689259999999,
+          "end_time": 695.34063,
+          "MASR_results": "馬文君:可以加強這一部分的",
+          "google_asr_results": "可以加強這一部分的",
+          "labels": "馬文君:可以加強這一部分的"
+     },
+     {
+          "start_time": 695.458459,
+          "end_time": 700.291371,
+          "MASR_results": "馬文君:呃人力尤其現在已經到擴編了我們人到底從哪裡來我們要怎麼用",
+          "google_asr_results": "人力遊行現在已經到過邊了我們人到底從哪裡來我們要怎麼用",
+          "labels": "馬文君:呃人力尤其現在已經要擴編了我們人到底從哪裡來我們要怎麼用"
+     },
+     {
+          "start_time": 700.576673,
+          "end_time": 706.313491,
+          "MASR_results": "馬文君:再加上我們現在不斷不斷的買很多新型的武器你過去拿大刀",
+          "google_asr_results": "再加上我們現在不斷不斷的買很多新型的武器你過去拿大刀",
+          "labels": "馬文君:再加上我們現在不斷不斷的買很多新型的武器你過去拿大刀"
+     },
+     {
+          "start_time": 706.409228,
+          "end_time": 707.558064,
+          "MASR_results": "馬文君:然後就是的武器",
+          "google_asr_results": "那就是的武器",
+          "labels": "馬文君:拿舊式的武器"
+     },
+     {
+          "start_time": 707.668529,
+          "end_time": 713.493719,
+          "MASR_results": "馬文君:可能訓練一下就可以用了可以現在進來的人訓練完以後馬上出去未來你有二十六",
+          "google_asr_results": "重訓練一下就可以用了可以現在進來的人去唸完以後馬上出去會來你有F-16",
+          "labels": "馬文君,邱國正:可能訓練一下就可以用了可是你現在進來的人了解訓練完以後馬上出去未來你有F十六"
+     },
+     {
+          "start_time": 713.5747269999999,
+          "end_time": 718.118522,
+          "MASR_results": "馬文君:因為我們呢很多的呃跟美方軍售的很多的心事武器",
+          "google_asr_results": "沒有我們的想多的跟美容方軍售的很多的新式武器",
+          "labels": "馬文君:你有我們的很多的呃跟美方軍售的很多的新式武器"
+     },
+     {
+          "start_time": 718.3541809999999,
+          "end_time": 719.296816,
+          "MASR_results": "馬文君:誰來用",
+          "google_asr_results": "誰來用",
+          "labels": "馬文君:誰來用"
+     },
+     {
+          "start_time": 719.4956530000001,
+          "end_time": 720.283637,
+          "MASR_results": "馬文君:怎麼用",
+          "google_asr_results": "怎麼用",
+          "labels": "馬文君:怎麼用"
+     },
+     {
+          "start_time": 720.489838,
+          "end_time": 722.5813099999999,
+          "MASR_results": "馬文君:能不能安全能不能打仗",
+          "google_asr_results": "能不能安全能不能打仗",
+          "labels": "馬文君:能不能安全能不能打仗"
+     },
+     {
+          "start_time": 722.687,
+          "end_time": 725.74061,
+          "MASR_results": "馬文君:這個都是我們要重視跟注意的",
+          "google_asr_results": "這個都是我們要重視的跟注射的",
+          "labels": "馬文君,邱國正:這個都是我們要重視的跟注意的是"
+     },
+     {
+          "start_time": 726.204563,
+          "end_time": 729.855,
+          "MASR_results": "馬文君:在最後提醒部長齁就是說這個部分也請部長",
+          "google_asr_results": "在最後提醒不長好就是說這個部分也請不長",
+          "labels": "馬文君:在最後提醒部長齁就是說這個部分也請部長"
+     },
+     {
+          "start_time": 730.0192900000001,
+          "end_time": 731.499521,
+          "MASR_results": "馬文君:欸去重視",
+          "google_asr_results": "北區中式",
+          "labels": "馬文君:可以去重視"
+     },
+     {
+          "start_time": 731.647,
+          "end_time": 735.373162,
+          "MASR_results": "馬文君:因為之前我們有提到在審預算的時候我們平面的照片",
+          "google_asr_results": "因為之前我們有提到在水預算的時候我們拼命的造句",
+          "labels": "馬文君:因為之前我們有提到在審預算的時候我們拼命的造艦"
+     },
+     {
+          "start_time": 735.667735,
+          "end_time": 738.4440900000001,
+          "MASR_results": "馬文君:然後我們拼命的買飛機照飛機",
+          "google_asr_results": "然後我們拼命的買飛機造飛機",
+          "labels": "馬文君:然後我們拼命的買飛機造飛機"
+     },
+     {
+          "start_time": 738.6355629999999,
+          "end_time": 740.2115309999999,
+          "MASR_results": "馬文君:我們造出來的見",
+          "google_asr_results": "我們造出來的劍",
+          "labels": "馬文君:我們造出來的艦"
+     },
+     {
+          "start_time": 740.410368,
+          "end_time": 741.478197,
+          "MASR_results": "廖婉汝:要放哪裡",
+          "google_asr_results": "要放哪裡",
+          "labels": "馬文君:要放哪裡"
+     },
+     {
+          "start_time": 741.949514,
+          "end_time": 743.849513,
+          "MASR_results": "馬文君:我們買回來的飛機",
+          "google_asr_results": "我們買回來的飛機",
+          "labels": "馬文君:我們買回來的飛機"
+     },
+     {
+          "start_time": 743.935,
+          "end_time": 744.917342,
+          "MASR_results": "馬文君:要放哪裡",
+          "google_asr_results": "要放哪裡",
+          "labels": "馬文君:要放哪裡"
+     },
+     {
+          "start_time": 745.108815,
+          "end_time": 746.530131,
+          "MASR_results": "馬文君:這些都是非常貴",
+          "google_asr_results": "這些都是非常貴",
+          "labels": "馬文君:這些都是非常貴"
+     },
+     {
+          "start_time": 746.71424,
+          "end_time": 749.358037,
+          "MASR_results": "馬文君:然後我們任由他風吹魚達嗎",
+          "google_asr_results": "然後我們任由他風吹雨打嗎",
+          "labels": "馬文君:然後我們任由他風吹雨打嗎"
+     },
+     {
+          "start_time": 749.497959,
+          "end_time": 751.6483450000001,
+          "MASR_results": "馬文君:這有他找不到地方聽國嗎",
+          "google_asr_results": "就由他找不到地方停泊嗎",
+          "labels": "馬文君:任由他找不到地方停泊嗎"
+     },
+     {
+          "start_time": 751.965012,
+          "end_time": 756.2657839999999,
+          "MASR_results": "馬文君:這些後續齁我們可能還是會呃國防部請教",
+          "google_asr_results": "這些後續號我們可能還是會跟不請教",
+          "labels": "馬文君,邱國正:這些後續齁我們還是會呃是是是跟國防部請教"
+     },
+     {
+          "start_time": 756.36152,
+          "end_time": 767.334381,
+          "MASR_results": "邱國正:欸請就相關的部分先提供相關的書面資料所這個我特別跟委員報告喔那個國人剛剛指導是三個大工作喔我會持續請他們要注意到",
+          "google_asr_results": "研究相關的部分先提供相關的書面資料",
+          "labels": "馬文君,邱國正:那也請就相關的部分先提供相關的書面資料是是謝謝我跟我特別跟委員報告一下那個委員剛剛指導的這三件大工作喔我會持續請他們要注意到"
+     },
+     {
+          "start_time": 767.487,
+          "end_time": 769.727791,
+          "MASR_results": "邱國正:不管潛艦造艦他的進度",
+          "google_asr_results": "館前線少見他的進度",
+          "labels": "邱國正:不管潛艦造艦他的進度"
+     },
+     {
+          "start_time": 769.8971700000001,
+          "end_time": 771.281666,
+          "MASR_results": "邱國正:還有招募狀況",
+          "google_asr_results": "招募狀況",
+          "labels": "邱國正:還有招募狀況"
+     },
+     {
+          "start_time": 771.443681,
+          "end_time": 774.9564690000001,
+          "MASR_results": "邱國正:還有就後面喔裝備進來這個附帶設施",
+          "google_asr_results": "還有舊後面裝備進來這個負載設施",
+          "labels": "邱國正:還有就後面啊裝備進來這個附帶的設施"
+     },
+     {
+          "start_time": 775.265772,
+          "end_time": 777.548716,
+          "MASR_results": "邱國正:我會近期我先請同仁",
+          "google_asr_results": "我會繼續我先請桃園",
+          "labels": "邱國正:我會近期我先請同仁"
+     },
+     {
+          "start_time": 777.6518169999999,
+          "end_time": 779.382436,
+          "MASR_results": "邱國正:就跟委員做一個簡單的說明",
+          "google_asr_results": "孫文做的簡單說明",
+          "labels": "邱國正:去跟委員做個簡單的說明"
+     },
+     {
+          "start_time": 779.537087,
+          "end_time": 782.504914,
+          "MASR_results": "邱國正:但後面我們把他單位工作重點來注意到的掌握",
+          "google_asr_results": "後面我爸都會工作重點來處理倒轉我",
+          "labels": "邱國正:但後面我把單位工作重點來注意到掌握"
+     },
+     {
+          "start_time": 782.591,
+          "end_time": 788.801422,
+          "MASR_results": "馬文君:齁我相信部長我們可以掌控啦齁我我現在再次強調一次不要用網軍或媒體",
+          "google_asr_results": "我想聽不懂你可以掌控我現在再次強調一次不要用網軍慧媒體",
+          "labels": "馬文君,邱國正:嗯我相信謝謝部長你可以掌控啊齁是是是我我現在再次強調一次不要用網軍或媒體"
+     },
+     {
+          "start_time": 788.9266150000001,
+          "end_time": 790.347932,
+          "MASR_results": "馬文君:來做呃",
+          "google_asr_results": "來坐喔",
+          "labels": "馬文君,邱國正:來做呃我了解"
+     },
+     {
+          "start_time": 791.20956,
+          "end_time": 799.67198,
+          "MASR_results": "馬文君:居無就是呃非常扭曲的那個東西我在強調一次到目前為止連最簡單的傳長",
+          "google_asr_results": "虛無的就是非常扭曲的我再強調一次到目前為止連最簡單的船長",
+          "labels": "馬文君,邱國正:區無就是呃非常扭曲的攻擊這個欸這個這個這個不妥我再強調一次目前為止連最簡單的船廠"
+     },
+     {
+          "start_time": 799.8847480000001,
+          "end_time": 802.815,
+          "MASR_results": "馬文君:他們造出來的傳長就跟工業區的",
+          "google_asr_results": "他們造出來的船廠就跟工業區的",
+          "labels": "馬文君:他們造出來的船廠就跟工業區的"
+     },
+     {
+          "start_time": 802.9556759999999,
+          "end_time": 805.4300929999999,
+          "MASR_results": "馬文君:廠房是一樣的連內個",
+          "google_asr_results": "廠房是一樣的連那個",
+          "labels": "馬文君:廠房是一樣的連那個"
+     },
+     {
+          "start_time": 805.68048,
+          "end_time": 809.635129,
+          "MASR_results": "馬文君:都還概不還沒有蓋好你就已經花掉兩百多億",
+          "google_asr_results": "都還蓋不開沒有蓋好你就已經花掉200多益",
+          "labels": "馬文君:都還蓋不還沒有蓋好你就已經花掉兩百多億"
+     },
+     {
+          "start_time": 809.727,
+          "end_time": 811.358384,
+          "MASR_results": "馬文君:我們是要錢到底用在哪裡",
+          "google_asr_results": "不要錢到底用在哪裡",
+          "labels": "馬文君:我不知道錢到底用在哪裡"
+     },
+     {
+          "start_time": 811.439391,
+          "end_time": 813.324661,
+          "MASR_results": "馬文君:我不知道我們執政黨",
+          "google_asr_results": "我不知道我們執政黨",
+          "labels": "馬文君:我不知道我們執政黨"
+     },
+     {
+          "start_time": 813.552956,
+          "end_time": 814.679699,
+          "MASR_results": "馬文君:到底在及什麼",
+          "google_asr_results": "到底在吃什麼",
+          "labels": "馬文君:到底在急什麼"
+     },
+     {
+          "start_time": 814.745978,
+          "end_time": 816.6680700000001,
+          "MASR_results": "馬文君:強勢用表決通過",
+          "google_asr_results": "強適用表決通過",
+          "labels": "馬文君:強勢用表決通過"
+     },
+     {
+          "start_time": 817.151,
+          "end_time": 825.307559,
+          "MASR_results": "馬文君:到底我們的預算人民的血汗錢到底交用在哪裡必須交待清楚的時候我跟委員做說做會做說明就要說那",
+          "google_asr_results": "到底我們的預算人民的血汗錢到底都用在哪裡必須交代清楚謝謝",
+          "labels": "馬文君,邱國正,廖婉汝:到底我們的預算人民的血汗錢到底都用在哪裡必須交代清楚是是謝謝我跟委員這個做說做會做說明簡單說明好"
+     }
+]
