@@ -131,8 +131,13 @@ $(document).ready(function(){
             if(key == 0){
                 $(".accuracy").text("");
                 $(".accuracy").append(function(){
-                    var str = "中科院語音辨識&nbsp;:&nbsp;"+val.speech_accuracy+"%&nbsp;"+"語者辨識&nbsp;:&nbsp"+val.speaker_accuracy+"%"+
-                    "<br>"+"Google語音辨識&nbsp;:&nbsp;"+val.google_speech_accuracy+"%&nbsp;"+"辨識時間&nbsp;:&nbsp"+val.predict_time+"s";
+                    var str = "NCSIST語音辨識&nbsp;:&nbsp;"+val.speech_accuracy+"%&nbsp;"+
+                    "<br>NCSIST語者辨識&nbsp;:&nbsp"+val.speaker_accuracy+"%&nbsp;";
+                    return str;
+                });
+                $(".accuracy_").text("");
+                $(".accuracy_").append(function(){
+                    var str = "Google語音辨識&nbsp;:&nbsp;"+val.google_speech_accuracy+"%&nbsp;";
                     return str;
                 });
             }
