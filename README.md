@@ -4,6 +4,7 @@
    * [tw_meeting_server](#tw_meeting_server)
       * [Architecture](#architecture)
       * [UI Demo](#ui-demo)
+      * [Recognition Accuracy](#recognition-accuracy)
       * [server APIs](#server-apis)
          * [html (/)](#html-)
          * [video_json](#video_json)
@@ -24,7 +25,19 @@
 ## UI Demo
 ![](https://i.imgur.com/620qrse.jpg)
 
+## Recognition Accuracy
+- datasets
+    | Dataset | Sentences | Time  | Speaker |
+    |:-------:|:---------:|:-----:|:-------:|
+    |  train  |   55944   | 50.4h |   82    |
+    |  test   |   6949    | 6.2h  |   11    |
 
+- result
+    | Task      | Sentences | Time  | CER (%) |
+    | --------- | --------- |:-----:|:-------:|
+    | Mozilla   | 3785      | 3.96h |    6    |
+    | 立院測試A | 1350      | 0.79h |   86    |
+    | 立院測試B | 1814      | 1.45h |   85    |
 
 ## server APIs
 
