@@ -23,7 +23,7 @@
     - video_list
 
 ## UI Demo
-![](https://i.imgur.com/620qrse.jpg)
+![](https://i.imgur.com/R73wXGE.jpg)
 
 ## Recognition Accuracy
 - datasets
