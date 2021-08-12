@@ -7,7 +7,7 @@ Created on Wed Mar  4 09:41:57 2020
 """
 import os
 import numpy as np
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify
 import json
 import glob
 import librosa
@@ -27,28 +27,27 @@ CORS(app)
 '''
     
 class LoadVideoInformation():
-    def __init__(self, video_dir_path, json_dir_path, sleep_time=20):
+    def __init__(self, video_dir_path, json_dir_path, continue_update=False, sleep_time=20):
         self.video_dir_path = video_dir_path
         self.json_dir_path = json_dir_path
-        self.sleep_time = sleep_time
-
+        
+        # load folder info
         self.reload_video_info()
 
-        # # load the video information thread
-        # self.load_info_thread = threading.Thread(target=self.run)
-        # self.load_info_thread.setDaemon(False)
-        # self.load_info_thread.start()
+        # load the video information thread
+        if continue_update:
+            self.sleep_time = sleep_time
+            self.load_info_thread = threading.Thread(target=self.run)
+            self.load_info_thread.setDaemon(False)
+            self.load_info_thread.start()
 
 
     def read_json_to_dict(self):
-        """read video json file 
-
-        Arguments:
-            path {str} -- json path
+        """read video subtitle information (json file)
 
         Returns:
-            list -- 
-        """ 
+            dict: subtitle info
+        """
         json_paths = os.listdir(self.json_dir_path)
 
         json_info = {}
@@ -61,6 +60,11 @@ class LoadVideoInformation():
         return json_info
 
     def read_video_info(self):
+        """read video folder information
+
+        Returns:
+            list: video file information
+        """
         video_list = glob.glob(os.path.join(self.video_dir_path, "*.mp4"))
         video_list.sort()
 
@@ -81,6 +85,8 @@ class LoadVideoInformation():
         return video_info
         
     def reload_video_info(self):
+        """reload video_info and json_info
+        """
         try:
                 self.json_info = self.read_json_to_dict()
                 self.video_info = self.read_video_info()
@@ -92,10 +98,9 @@ class LoadVideoInformation():
             print("unsuccess reload info")
 
     def run(self):
-        # s = time.time()
-
+        """continue update video information thread
+        """
         while True:
-            # e = time.time()
             try:
                 self.json_info = self.read_json_to_dict()
                 self.video_info = self.read_video_info()
@@ -111,13 +116,23 @@ class LoadVideoInformation():
 
 @app.route('/video_list', methods=['GET', 'POST'])
 def video_list():
-    
+    """video file information api
+
+    Returns:
+        str: video folder info
+    """
     print(load_video_information.video_info)
 
     return jsonify(load_video_information.video_info)
 
 @app.route('/video_json', methods=['GET', 'POST'])
 def video_json():
+    """video subtitle information api
+
+    Returns:
+        str: video subtitle info
+    """
+
     post_data = request.json
     try:
         name = post_data['video_name']
@@ -135,6 +150,11 @@ def video_json():
 
 @app.route('/reload', methods=['GET', "POST"])
 def reload():
+    """reload info api
+
+    Returns:
+        dict: reload state
+    """
     load_video_information.reload_video_info()
 
     return {"state": "success"}
