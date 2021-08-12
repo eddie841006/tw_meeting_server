@@ -6,6 +6,25 @@ $(document).ready(function(){
     var flag = false;  
     var subtitle_json;
     load_video_list();    
+    $("#update_list_button").on("click",function(){
+        console.log("update_list_button")
+        $.ajax({ 
+            type:'POST',  
+            url:masr_url+"reload", 
+            data:"",   
+            contentType: "application/json; charset=utf-8",         
+            dataType:'json', 
+            success:function(data){ 
+                console.log(data)
+                load_video_list() 
+                $("#_video")[0].src="";
+                $("#ncsist").text("");
+                $("#google").text("");
+                $("#answer").text("");
+            } 
+        });
+    })
+
     $(".video_list_inner").on('click','tr',function(data){
         $("#ncsist").text("語者身分：語音逐字稿");
         $("#google").text("語者身分：語音逐字稿");
@@ -56,8 +75,8 @@ $(document).ready(function(){
             contentType: "application/json; charset=utf-8",         
             dataType:'json', 
             success:function(data){ 
+                $("#list_body").html("");
                 $.each(data,function(key,val){                    
-                    // $("#list_body").text("");
                     $("#list_body").append(function(){
                         var str = "<tr>"+
                         "<td><img src=\"static\\img\\video.png\" style=\"width:inherit\" /></td>"+
@@ -93,8 +112,8 @@ $(document).ready(function(){
                 //     }
                 //     else{
                 //         // console.log("subtitle");
-                //         if(currentTime >= val.start_time && currentTime <= val.end_time && val.MASR_results != "null"){
-                //             $("#ncsist").text(val.MASR_results);
+                //         if(currentTime >= val.start_time && currentTime <= val.end_time && val.asr_results != "null"){
+                //             $("#ncsist").text(val.asr_results);
                 //             $("#google").text(val.google_asr_results);
                 //             $("#answer").text(val.labels);
                 //         }
@@ -125,25 +144,60 @@ $(document).ready(function(){
         });                        
     }
 
-    function subtitle_method(data){        
+    function show_subtitle(val){
+        var str = ""
+        if(val.speech_accuracy == null){
+            str = "NCSIST語音辨識&nbsp;:&nbsp;"+
+                    "<br>NCSIST語者辨識&nbsp;:&nbsp";
+            $('.accuracy').hide();
+        }else{
+            str = "NCSIST語音辨識&nbsp;:&nbsp;"+val.speech_accuracy+"%&nbsp;"+
+                    "<br>NCSIST語者辨識&nbsp;:&nbsp"+val.speaker_accuracy+"%&nbsp;";
+            $('.accuracy').show();
+
+        }
+        return str;
+    }
+    function show_subtitle2(val){
+        var str = ""
+        if(val.google_speech_accuracy == null){
+            str = "Google語音辨識&nbsp;:&nbsp;";
+            $('.accuracy_').hide();
+
+        }else{
+            str = "Google語音辨識&nbsp;:&nbsp;"+val.google_speech_accuracy+"%&nbsp;";
+            $('.accuracy_').show();
+
+        }
+        return str;
+    }
+    function subtitle_method(data){   
         $.each(data,function(key,val){
             var currentTime = $("#_video")[0].currentTime;
             if(key == 0){
                 $(".accuracy").text("");
                 $(".accuracy").append(function(){
-                    var str = "NCSIST語音辨識&nbsp;:&nbsp;"+val.speech_accuracy+"%&nbsp;"+
-                    "<br>NCSIST語者辨識&nbsp;:&nbsp"+val.speaker_accuracy+"%&nbsp;";
-                    return str;
+                    return show_subtitle(val)
                 });
                 $(".accuracy_").text("");
                 $(".accuracy_").append(function(){
-                    var str = "Google語音辨識&nbsp;:&nbsp;"+val.google_speech_accuracy+"%&nbsp;";
-                    return str;
+                    return show_subtitle2(val)
                 });
             }
             else{
-                if(currentTime >= val.start_time && currentTime <= val.end_time && val.MASR_results != "null"){
-                    $("#ncsist").text(val.MASR_results);
+                if(currentTime >= val.start_time && currentTime <= val.end_time && val.asr_results != "null"){
+                    if(val.google_asr_results == null){
+                        $(".row_google").hide();
+                    }else{
+                        $(".row_google").show();
+                    }
+                    if(val.labels == null){
+                        $(".row_ans").hide();
+                    }else{
+                        $(".row_ans").show();
+                    }
+
+                    $("#ncsist").text(val.asr_results);
                     $("#google").text(val.google_asr_results);
                     $("#answer").text(val.labels);
                 }
