@@ -39,15 +39,19 @@
     | 立院測試A | 1350      | 0.79h |   14    |
     | 立院測試B | 1814      | 1.45h |   15    |
 
-## server APIs
 
-url = "http://172.16.120.124:1111/"
+## Server APIs
 
-### html (/)
-將DS小組寫的UI建立在server當中，這樣在同網域下就能開啟UI
-前端UI界面的html掛在/中，直接在網頁上輸入
-"http://172.16.120.124:1111/"
+主要分成兩個server，一個為TW_server_html.py，另一個為TW_server.py。
+
+### TW_server_html
+
+url = "[http://172.16.120.124:1112/](http://172.16.120.124:1111/)"
+
+此server主要是後端的html伺服器，提供前端UI的網頁使用，前端UI界面的html掛在/中，直接在網頁上輸入
+"[http://172.16.120.124:1112/](http://172.16.120.124:1111/)"
 就能進入UI界面
+
 ```python=
 @app.route("/")
 def index():
@@ -57,73 +61,96 @@ def index():
         html: [description]
     """
     return render_template(web_index_path)
-```
-### video_json
-url = "http://172.16.120.124:1111/video_json"
-type : post
 
-Input : {"video_name": name}
-> name = 影片檔名
-> 格式 = json
-
-Output : type(str)
 ```
-[
-    {
-        "ASR_wer": 95,
-        "speaker_wer": 75
-    },
-    {
-        "MASR_results": "首先肯定退不會",
-        "asr_wer": 0.1,
-        "end_time": 19.712,
-        "google_asr_results": "首先肯定退輔會",
-        "labels": "首先肯定退輔會",
-        "speaker": "吳斯懷",
-        "speaker_wer": 0.05,
-        "start_time": 16.896
-    },
-    {
-        "MASR_results": "針對剛才",
-        "asr_wer": 0.1,
-        "end_time": 21.248,
-        "google_asr_results": "針對剛才",
-        "labels": "針對剛才",
-        "speaker": "吳斯懷",
-        "speaker_wer": 0.05,
-        "start_time": 20.224
-    },
-    ...
-]
-```
-> 格式 = str
-> 回傳為此影片的辨識結果
 
-### video_list
-url = "http://172.16.120.124:1111/video_list"
-type : Get
+### TW_server
 
-Output : type(str)
-```
-[
-    {
-        "name": "立院影片0",
-        "video_name": "subtitles_with_ASR_speaker4.mp4",
-        "video_time": "2:14"
-    },
-    {
-        "name": "立院影片1",
-        "video_name": "outputVideo5.mp4",
-        "video_time": "2:18"
-    },
-    ...
-]
-```
-> 格式 = str
-> 回傳video資料夾中的影片list、影片時長與UI上要顯示的名子
+- video_json
 
+    post需要的影片檔名，會回傳該影片的辨識結果與詳細資訊
+
+    url = "[http://172.16.120.124:1111/video_json](http://172.16.120.124:1111/video_json)"
+    type : post
+
+    Input : {"video_name": name}
+
+    > name = 影片檔名
+    格式 = json
+
+    Output : type(str)
+
+    ```
+    [
+        {
+            "ASR_wer": 95,
+            "speaker_wer": 75
+        },
+        {
+            "MASR_results": "首先肯定退不會",
+            "asr_wer": 0.1,
+            "end_time": 19.712,
+            "google_asr_results": "首先肯定退輔會",
+            "labels": "首先肯定退輔會",
+            "speaker": "吳斯懷",
+            "speaker_wer": 0.05,
+            "start_time": 16.896
+        },
+        {
+            "MASR_results": "針對剛才",
+            "asr_wer": 0.1,
+            "end_time": 21.248,
+            "google_asr_results": "針對剛才",
+            "labels": "針對剛才",
+            "speaker": "吳斯懷",
+            "speaker_wer": 0.05,
+            "start_time": 20.224
+        },
+        ...
+    ]
+
+    ```
+
+    > 格式 = str
+    回傳為此影片的辨識結果
+
+- video_list
+
+    回傳目前有的影片與其相關資訊
+
+    url = "[http://172.16.120.124:1111/video_list](http://172.16.120.124:1111/video_list)"
+    type : Get
+
+    Output : type(str)
+
+    ```
+    [
+        {
+            "name": "立院影片0",
+            "video_name": "subtitles_with_ASR_speaker4.mp4",
+            "video_time": "2:14"
+        },
+        {
+            "name": "立院影片1",
+            "video_name": "outputVideo5.mp4",
+            "video_time": "2:18"
+        },
+        ...
+    ]
+
+    ```
+
+    > 格式 = str
+    回傳video資料夾中的影片list、影片時長與UI上要顯示的名子
+
+- reload
+
+    更新後端伺服器中的影片資訊，若有新的辨識影片會更新。
+
+    url = "[http://172.16.120.124:1111/](http://172.16.120.124:1111/video_list)reload"
 
 ## post sample code with python
+
 ```python=
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -143,4 +170,9 @@ data = {"video_name": name}
 resp = requests.post(url + "video_json", json=data)
 resp_data = json.loads(resp.text)
 print(resp_data)
+
+resp = requests.post(url + "reload", json={"reload": True})
+resp_data = json.loads(resp.text)
+print(resp_data)
+
 ```
